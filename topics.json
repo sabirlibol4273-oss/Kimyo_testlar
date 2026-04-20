@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Atom tuzilishi",
+      "description": "Atom, elektron, proton, neytron",
+      "unlocked": true
+    },
+    {
+      "id": 2,
+      "title": "Davriy jadval",
+      "description": "Mendeleev davriy qonuni",
+      "unlocked": false
+    },
+    {
+      "id": 3,
+      "title": "Kimyoviy bog'",
+      "description": "Kovalent, ion, metall bog'",
+      "unlocked": false
+    },
+    {
+      "id": 4,
+      "title": "Oksidlanish-qaytarilish",
+      "description": "OQR reaksiyalari",
+      "unlocked": false
+    },
+    {
+      "id": 5,
+      "title": "Organik kimyo",
+      "description": "Uglevodorodlar",
+      "unlocked": false
+    },
+    {
+      "id": 6,
+      "title": "BoburObidov",
+      "description": "Uglevodorodlar",
+      "unlocked": false
+    }
+  ]
+}
