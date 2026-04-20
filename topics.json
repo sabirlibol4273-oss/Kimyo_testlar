@@ -41,6 +41,12 @@
       "title": "Yangi tugma",
       "description": "BoburObidov",
       "unlocked": false
+    },
+    {
+      "id": 8,
+      "title": "IslombekObidov",
+      "description": "BoburObidov",
+      "unlocked": false
     }
   ]
 }
