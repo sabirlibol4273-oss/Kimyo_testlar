@@ -35,6 +35,12 @@
       "title": "BoburObidov",
       "description": "Uglevodorodlar",
       "unlocked": false
+    },
+    {
+      "id": 7,
+      "title": "Yangi tugma",
+      "description": "BoburObidov",
+      "unlocked": false
     }
   ]
 }
