@@ -1,0 +1,187 @@
+{
+  "topicId": 2,
+  "title": "Davriy jadval",
+  "description": "Mendeleev davriy qonuni",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Davriy jadval kimning nomi bilan ataladi?",
+      "options": ["Darvin", "Mendeleev", "Nyuton", "Eynshteyn"],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Davriy jadvalda nechta davr bor?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Birinchi davrda nechta element bor?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Nol guruh elementlari qanday nomlanadi?",
+      "options": ["Metallar", "Nometallar", "Inert gazlar", "Galogenlar"],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Davriy jadvalda nechta guruh bor?",
+      "options": ["8", "16", "18", "12"],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "VII A guruh elementlari qanday nomlanadi?",
+      "options": ["Inert gazlar", "Ishqoriy metallar", "Galogenlar", "Lantanoidlar"],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "I A guruh elementlari qanday nomlanadi?",
+      "options": ["Galogenlar", "Inert gazlar", "Ishqoriy metallar", "Ishqoriy-yer metallar"],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Davriy jadvalda jami nechta element bor?",
+      "options": ["108", "112", "118", "120"],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Mendeleev davriy qonunini qaysi yilda kashf etdi?",
+      "options": ["1859", "1869", "1879", "1889"],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Eng yengil element qaysi?",
+      "options": ["Geliy", "Litiy", "Vodorod", "Berilliy"],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Davrda chapdan o'ngga metalllik xossasi qanday o'zgaradi?",
+      "options": ["Ortadi", "O'zgarmaydi", "Kamayadi", "Avval ortadi keyin kamayadi"],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Guruhda yuqoridan pastga metalllik xossasi qanday o'zgaradi?",
+      "options": ["Kamayadi", "O'zgarmaydi", "Ortadi", "Avval kamayadi keyin ortadi"],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Eng og'ir tabiiy element qaysi?",
+      "options": ["Plutoniy", "Uran", "Torium", "Radiy"],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Qaysi element eng ko'p tarqalgan?",
+      "options": ["Azot", "Vodorod", "Kislorod", "Uglerod"],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Ikkinchi davrda nechta element bor?",
+      "options": ["2", "4", "8", "18"],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "To'rtinchi davrda nechta element bor?",
+      "options": ["8", "18", "32", "36"],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Metallar davriy jadvalda qayerda joylashgan?",
+      "options": ["O'ng tomonda", "Chap va markazda", "Faqat markazda", "Faqat pastda"],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Nometallar davriy jadvalda qayerda joylashgan?",
+      "options": ["Chap tomonda", "O'ng yuqori qismda", "Markazda", "Pastda"],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Xlor qaysi guruhda joylashgan?",
+      "options": ["V A", "VI A", "VII A", "VIII A"],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Natriy qaysi guruhda joylashgan?",
+      "options": ["I A", "II A", "III A", "IV A"],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Davriy jadvalda atom radiusi davrda chapdan o'ngga qanday o'zgaradi?",
+      "options": ["Ortadi", "O'zgarmaydi", "Kamayadi", "Dastlab ortadi"],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Elektromanfiylik davrda chapdan o'ngga qanday o'zgaradi?",
+      "options": ["Kamayadi", "O'zgarmaydi", "Ortadi", "Dastlab kamayadi"],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Qaysi element yarim o'tkazgich xususiyatiga ega?",
+      "options": ["Uglerod", "Azot", "Kremniy", "Fosfor"],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Lantanoidlar qaysi davrda joylashgan?",
+      "options": ["4-davr", "5-davr", "6-davr", "7-davr"],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Eng kichik atom raqamli inert gaz?",
+      "options": ["Argon", "Neon", "Geliy", "Kripton"],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Fosfor qaysi guruhda?",
+      "options": ["III A", "IV A", "V A", "VI A"],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Davriy qonunga ko'ra elementlar xossalari nimaga bog'liq?",
+      "options": ["Massa soniga", "Atom massasiga", "Atom raqamiga", "Neytronlar soniga"],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Mis (Cu) qaysi guruhga kiradi?",
+      "options": ["I A", "II A", "I B", "II B"],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Qaysi davr eng uzun davr hisoblanadi?",
+      "options": ["4-davr", "5-davr", "6-davr", "7-davr"],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Magniy qaysi guruhda joylashgan?",
+      "options": ["I A", "II A", "III A", "IV A"],
+      "correctIndex": 1
+    }
+  ]
+}
