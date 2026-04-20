@@ -1,0 +1,176 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Atom tuzilishi",
+      "description": "Atom, elektron, proton, neytron",
+      "unlocked": true
+    },
+    {
+      "id": 2,
+      "title": "Davriy jadval",
+      "description": "Mendeleev davriy qonuni",
+      "unlocked": false
+    },
+    {
+      "id": 3,
+      "title": "Kimyoviy bog'",
+      "description": "Kovalent, ion, metall bog'",
+      "unlocked": false
+    },
+    {
+      "id": 4,
+      "title": "Oksidlanish-qaytarilish",
+      "description": "OQR reaksiyalari",
+      "unlocked": false
+    },
+    {
+      "id": 5,
+      "title": "Organik kimyo",
+      "description": "Uglevodorodlar",
+      "unlocked": false
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "topicId": 1,
+      "question": "Atomning yadrosida nima joylashgan?",
+      "options": ["Elektron va proton", "Proton va neytron", "Faqat elektron", "Faqat proton"],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "topicId": 1,
+      "question": "Elektronning zaryadi qanday?",
+      "options": ["Musbat", "Nol", "Manfiy", "O'zgaruvchan"],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "topicId": 1,
+      "question": "Vodorod atomida nechta elektron bor?",
+      "options": ["2", "3", "0", "1"],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "topicId": 1,
+      "question": "Atom massasi asosan qaysi zarralardan tashkil topgan?",
+      "options": ["Elektronlardan", "Proton va neytronlardan", "Faqat protonlardan", "Faqat neytronlardan"],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "topicId": 2,
+      "question": "Davriy jadval kimning nomi bilan ataladi?",
+      "options": ["Darvin", "Mendeleev", "Nyuton", "Eynshteyn"],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "topicId": 2,
+      "question": "Davriy jadvalda nechta davr bor?",
+      "options": ["5", "6", "7", "8"],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "topicId": 2,
+      "question": "Birinchi davrda nechta element bor?",
+      "options": ["1", "2", "3", "4"],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "topicId": 2,
+      "question": "Nol guruh elementlari qanday nomlanadi?",
+      "options": ["Metallar", "Nometallar", "Inert gazlar", "Galogenlar"],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "topicId": 3,
+      "question": "Kovalent bog' qanday hosil bo'ladi?",
+      "options": ["Ionlar tortishuvidan", "Umumiy elektron juftidan", "Metallar orasida", "Vodorod orqali"],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "topicId": 3,
+      "question": "NaCl da qanday kimyoviy bog' bor?",
+      "options": ["Kovalent", "Metall", "Ion", "Vodorod"],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "topicId": 3,
+      "question": "Metall bog' qayerda uchraydi?",
+      "options": ["Suvda", "Metallarda", "Organik birikmalarda", "Gazlarda"],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "topicId": 3,
+      "question": "H₂O molekulasidagi bog' turi?",
+      "options": ["Ion", "Metall", "Kovalent qutbli", "Kovalent qutbsiz"],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "topicId": 4,
+      "question": "Oksidlanish jarayonida nima sodir bo'ladi?",
+      "options": ["Elektron qabul qilinadi", "Elektron beriladi", "Proton qabul qilinadi", "Neytron beriladi"],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "topicId": 4,
+      "question": "Qaytaruvchi modda nima qiladi?",
+      "options": ["Elektron oladi", "Elektron beradi", "Proton beradi", "Hech narsa qilmaydi"],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "topicId": 4,
+      "question": "Oksidlovchi modda nima qiladi?",
+      "options": ["Elektron beradi", "Proton oladi", "Elektron oladi", "Neytron beradi"],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "topicId": 4,
+      "question": "H₂ + O₂ → H₂O reaksiyasida H₂ roli?",
+      "options": ["Oksidlovchi", "Qaytaruvchi", "Katalizator", "Mahsulot"],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "topicId": 5,
+      "question": "Quyidagilardan qaysi biri alken?",
+      "options": ["CH₄", "C₂H₄", "C₂H₂", "C₆H₆"],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "topicId": 5,
+      "question": "Metan formulasi qaysi?",
+      "options": ["C₂H₆", "C₃H₈", "CH₄", "C₄H₁₀"],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "topicId": 5,
+      "question": "Alkinlar qanday bog' tutadi?",
+      "options": ["Bir bog'", "Ikki bog'", "Uch bog'", "To'rt bog'"],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "topicId": 5,
+      "question": "Benzol formulasi qaysi?",
+      "options": ["C₅H₅", "C₆H₆", "C₄H₄", "C₇H₇"],
+      "correctIndex": 1
+    }
+  ]
+}
