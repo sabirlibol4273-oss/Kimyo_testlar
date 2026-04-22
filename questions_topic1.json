@@ -1,1 +1,1653 @@
-{"topicId":1,"title":"Dastlabki kimyoviy tushunchalar","description":"Atom, molekula, modda, jism va kimyoviy tushunchalar","questions":[{"id":1,"question":"Atrofimizdagi shakl va hajmga ega bo'lgan barcha narsalar nima deyiladi?","options":["modda","jism","atom","molekula"],"correctIndex":1},{"id":2,"question":"Tinch holatda massaga ega bo'lgan materiyaning bo'lagiga nima deyiladi?","options":["atom","jism","modda","molekula"],"correctIndex":2},{"id":3,"question":"Moddaning kimyoviy xossalarini o'zida saqlaydigan eng kichik zarracha nima deyiladi?","options":["atom","modda","jism","molekula"],"correctIndex":3},{"id":4,"question":"Musbat zaryadlangan yadro va manfiy zaryadlangan elektrondan iborat zarrachaga nima deyiladi?","options":["molekula","jism","modda","atom"],"correctIndex":3},{"id":5,"question":"Qaysi javobda jism berilgan?","options":["temir","osh tuzi","suv","kolba"],"correctIndex":3},{"id":6,"question":"Qaysi javobda jism berilgan?","options":["mis","mix","bronza","oltin"],"correctIndex":1},{"id":7,"question":"Quyidagilardan qaysi biri kimyoviy sof modda?","options":["suv","qor","muz","qirov"],"correctIndex":0},{"id":8,"question":"Quyidagilardan qaysi biri kimyoviy sof modda?","options":["bronza","tuman","ozon","tutun"],"correctIndex":2},{"id":9,"question":"Qaysi javobda kimyoviy modda formulasi berilgan?","options":["H","Ne","Br","I"],"correctIndex":1},{"id":10,"question":"Qaysi javobda kimyoviy modda formulasi berilgan?","options":["N","Cl","F","Ar"],"correctIndex":3},{"id":11,"question":"Quyidagilardan qaysi biri geterogen aralashma?","options":["tuzli suv","shakarli suv","aroq","tuman"],"correctIndex":3},{"id":12,"question":"Quyidagilardan qaysi biri gomogen aralashma?","options":["sut","loyqa suv","temir va mis aralashmasi","havo"],"correctIndex":3},{"id":13,"question":"Quyidagilarning qaysi biri to'g'ri ma'noni anglatadi?","options":["suv molekulasi","chumoli atomi","sirka atomi","sut atomi"],"correctIndex":0},{"id":14,"question":"Quyidagilarning qaysi biri to'g'ri ma'noni anglatadi?","options":["havo molekulasi","sirka atomi","chumoli atomi","ozon molekulasi"],"correctIndex":3},{"id":15,"question":"Qaysi qatorda faqat kimyoviy elementlar berilgan?","options":["fosfor, uglerod, tantal","suv, osh tuzi, kislorod","bo'r, kaliy, qo'rg'oshin","oltin, kumush, bronza"],"correctIndex":0},{"id":16,"question":"Qaysi qatorda faqat kimyoviy elementlar berilgan?","options":["metan, tuz, kislorod","oltin, kumush, bronza","bor, kaliy, qo'rg'oshin","fosfor, uglerod, metan"],"correctIndex":2},{"id":17,"question":"Moddaga tegishli bo'lgan fizik xossalarni aniqlang. (1-zichlik; 2-yadro zaryadi; 3-elektron qavatlar; 4-qaynash va suyuqlanish temperaturalari; 5-izotoplar; 6-rang; 7-atom massa; 8-agregat holat)","options":["1, 4, 6, 8","2, 3, 5, 7","3, 5, 7","1, 4, 8"],"correctIndex":0},{"id":18,"question":"Qaysi javobdagi oddiy moddalarning formulasi to'g'ri yozilgan?","options":["F₂ Cl₂ Br₂, I, Ar","H₂ O₃ S₈ Cl₂","NaCl, KBr, O₂ N₂","H, O, N₂ S₈ P₄"],"correctIndex":1},{"id":19,"question":"Qaysi javobdagi oddiy moddalarning formulasi to'g'ri yozilgan?","options":["F₂ Cl₂, Br₂, I, Ar","NaCl, KBr, O₂ N₂","Y, O₃ S₈, Cl₂","H, Li, N₂ S₈ P₄"],"correctIndex":2},{"id":20,"question":"Jism va modda berilgan qatorni ko'rsating.","options":["probirka va spirt lampa","mis va aluminiy","kolba va temir","suv va tuman"],"correctIndex":2},{"id":21,"question":"Quyidagilardan qaysi biri sof modda?","options":["atir","sulfat kislota eritmasi","sut","distillangan suv"],"correctIndex":3},{"id":22,"question":"Yagona sof moddadan hosil bo'lgan jismni aniqlang.","options":["avtomobil","mis sim","yog'och qoshiq","televizor"],"correctIndex":1},{"id":23,"question":"Loyqa suvni qaysi usullar bilan ajratish mumkin? (1-filtr qog'ozdan o'tkazish; 2-distillash; 3-tindirish; 4-magnit yordamida)","options":["2 va 3","1 va 2","barchasi","1, 2, 3"],"correctIndex":3},{"id":24,"question":"Qaysi aralashmani filtr qog'oz bilan ajratish mumkin?","options":["sirka (uksus) va suv","shakar va suv","benzin va suv","ohak va suv"],"correctIndex":3},{"id":25,"question":"«To'rtinchisi ortiqcha» qoidasiga qaysi biri mos keladi?","options":["muz","aysberg","qor","tutun"],"correctIndex":3},{"id":26,"question":"Moddaning xossasini aniqlang. (1-valentlik; 2-magnitga tortilish; 3-yadro zaryad; 4-eruvchanlik)","options":["1, 3","3, 4","2, 4","1, 2"],"correctIndex":2},{"id":27,"question":"Qaysi aralashmani magnit bilan komponentlarga ajratish mumkin?","options":["osh tuzi va shakar","temir va yog'och qirindisi","qum va ichimlik suvi","oltingugurt kukuni va qizil fosfor"],"correctIndex":1},{"id":28,"question":"Qaysi metallmas suyuq agregat holatga ega?","options":["yod","oltingugurt","brom","simob"],"correctIndex":2},{"id":29,"question":"Qaysi metallmaslar gaz agregat holatiga ega?","options":["kislorod, xlor, vodorod","vodorod, kislorod, yod","uglerod, kremniy, yod","brom, xlor, kislorod"],"correctIndex":0},{"id":30,"question":"Qaysi metall suyuq agregat holatga ega?","options":["oltingugurt","yod","brom","simob"],"correctIndex":3},{"id":31,"question":"Quyidagi qaysi elementlarning gidridlari uchuvchan moddalar hisoblanadi?","options":["P, N, Na","Na, Ca, K","C, S, Ca","C, N, Si"],"correctIndex":3},{"id":32,"question":"Quyidagi qaysi elementlarning gidridlari uchuvchan moddalar hisoblanmaydi?","options":["Na, Ca, P","C, N, Si","C, S, Ca","Ca, K, Na"],"correctIndex":3},{"id":33,"question":"Quyidagi qaysi elementlarning gidroksidlari kislota hisoblanadi?","options":["C, S, Ca","P, N, Na","C, N, S","Na, Ca, K"],"correctIndex":2},{"id":34,"question":"Quyidagi qaysi elementlarning gidroksidlari kislota hisoblanmaydi?","options":["Na, S, K","C, N, Si","Ca, K, Na","C, S, Ca"],"correctIndex":2},{"id":35,"question":"Ftor oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?","options":["sarg'ish-yashil gaz","to'q-kulrang qattiq kristall","och-yashil gaz","qizg'ish qo'ng'ir suyuqlik"],"correctIndex":2},{"id":36,"question":"Xlor oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?","options":["och-yashil gaz","qizg'ish qo'ng'ir suyuqlik","to'q-kulrang qattiq kristall","sarg'ish-yashil gaz"],"correctIndex":3},{"id":37,"question":"Yod oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?","options":["qizg'ish qo'ng'ir suyuqlik","och-yashil gaz","to'q-kulrang qattiq kristall","sarg'ish-yashil gaz"],"correctIndex":2},{"id":38,"question":"Brom oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?","options":["qizg'ish qo'ng'ir suyuqlik","sarg'ish-yashil gaz","och-yashil gaz","to'q-kulrang qattiq kristall"],"correctIndex":0},{"id":39,"question":"Quyidagi qaysi oddiy modda uchun molekula va atom tushunchalari bir xil?","options":["xlor","argon","vodorod","azot"],"correctIndex":1},{"id":40,"question":"Quyidagi qaysi oddiy modda uchun molekula va atom tushunchalari bir xil?","options":["ftor","vodorod","geliy","brom"],"correctIndex":2},{"id":41,"question":"Quyidagilardan kimyoviy hodisalarni aniqlang.","options":["shishaning maydalanishi","oltingugurtning suyuqlanishi","benzinning yonishi","yodning sublimatlanishi"],"correctIndex":2},{"id":42,"question":"Quyidagilardan kimyoviy hodisalarni aniqlang.","options":["temirning magnitga tortilishi","kremniyning suyuqlanishi","shakarning ko'mirlanishi","yog'ning sovuqda qotishi"],"correctIndex":2},{"id":43,"question":"Quyidagilardan kimyoviy hodisalarni aniqlang.","options":["qo'rg'oshinning suyuqlanishi","shishani pishirish","shishani maydalanishi","suvning qaynashi"],"correctIndex":1},{"id":44,"question":"Quyidagilar ichidan fizikaviy hodisalarni aniqlang.","options":["qo'rg'oshinning suyuqlanishi","temirning xlorlanishi","benzinning yonishi","shishaning pishirilishi"],"correctIndex":0},{"id":45,"question":"Quyidagilar ichidan fizikaviy hodisalarni aniqlang.","options":["oltingugurtning yonishi","uzum sharbatining bijg'ishi","qatiqning ivishi","shishaning maydalanishi"],"correctIndex":3},{"id":46,"question":"Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.","options":["oltingugurt","azot","kislorod","uglerod"],"correctIndex":1},{"id":47,"question":"Allotropik shakl o'zgarishlarga ega bo'lgan elementni aniqlang.","options":["azot","fosfor","brom","ftor"],"correctIndex":1},{"id":48,"question":"Fosforning qanday allotropik shakllari mavjud? (1-oq; 2-yashil; 3-qizil; 4-sariq; 5-havorang; 6-qora)","options":["1,4,5","2,4,5","1,2,6","1,3,6"],"correctIndex":3},{"id":49,"question":"Fosforning qanday allotropik shakllari mavjud emas? (1-oq; 2-pushti; 3-qizil; 4-sariq; 5-ko'k; 6-qora)","options":["1,3,6","1,2,6","2,4,5","1,4,5"],"correctIndex":2},{"id":50,"question":"Karbin qaysi elementning allotropik shakli hisoblanadi?","options":["uglerod","fosfor","kislorod","oltingugurt"],"correctIndex":0},{"id":51,"question":"Olmos qaysi elementning allotropik shakli hisoblanadi?","options":["oltingugurt","kislorod","fosfor","uglerod"],"correctIndex":3},{"id":52,"question":"Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.","options":["fosfor","oltingugurt","vodorod","uglerod"],"correctIndex":2},{"id":53,"question":"Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.","options":["kislorod","oltingugurt","uglerod","azot"],"correctIndex":3},{"id":54,"question":"Qanday yo'l bilan osh tuzi eritmasidan tuzni ajratib olish mumkin?","options":["bug'latish yo'li bilan","filtrlash yo'li bilan","ajratish voronkasi bilan","magnit yordamida"],"correctIndex":0},{"id":55,"question":"Qaysi modda nomi noto'g'ri ko'rsatilgan?","options":["FeS - pirit","HgS - kinovar","ZnS - rux aldamasi","Cu₂S - mis yaltirog'i"],"correctIndex":0},{"id":56,"question":"Aralashmalarni ajratish usullari bilan moslang. (1-temir+oltingugurt; 2-osh tuzi+suv; 3-ohak+suv; 4-kislorod+azot / a-filtrlash; b-haydash; c-sovitib,qizdirish; d-magnit orqali)","options":["1-a, 2-d, 3-c, 4-b","1-c, 2-b, 3-a, 4-d","1-d, 2-b, 3-a, 4-c","1-d, 2-b, 3-c, 4-a"],"correctIndex":2},{"id":57,"question":"Quyidagilardan qaysilari birikma? (1-H₂; 2-H₂O; 3-KCl; 4-Cl₂)","options":["1 va 4","barchasi","2 va 3","hech qaysi"],"correctIndex":2},{"id":58,"question":"Qaysi javobda 2 ta murakkab va 1 ta oddiy modda formulasi berilgan?","options":["P₄, CO, O₃","Fe, Cu, S₆","KH, O₂, O₃","CO₂, CH₄, P₄"],"correctIndex":3},{"id":59,"question":"Quyidagilardan qaysi birini kimyoviy formula bilan ifodalash mumkin?","options":["havo","bronza","spirt","benzin"],"correctIndex":2},{"id":60,"question":"Atom-molekulyar ta'limot birinchi bo'lib, kim tomonidan ishlab chiqilgan?","options":["Lomonosov","Mendeleyev","Demokrit","Levkip"],"correctIndex":0},{"id":61,"question":"Aralashmalar necha xil bo'ladi?","options":["2","4","1","3"],"correctIndex":0},{"id":62,"question":"Odam organizmining qaysi qismida temir eng ko'p bo'ladi?","options":["miyada","terida","suyakda","qonda"],"correctIndex":3},{"id":63,"question":"Sb belgisi stibnum yoki stibnitni anglatadi. Ushbu elementning zamonaviy nomi nima?","options":["arsenik","samariy","surma","qalay"],"correctIndex":2},{"id":64,"question":"Qaysi moddaning normal sharoitdagi agregat holati gaz?","options":["ozon","olmos","brom","yod"],"correctIndex":0},{"id":65,"question":"Quyidagilardan qaysilari gomogen aralashma hosil qiladi? (1-etil spirt+suv; 2-osh tuzi+suv; 3-pista yog'i+suv)","options":["1 va 2","barchasi","faqat 2","faqat 1"],"correctIndex":0},{"id":66,"question":"To'g'ri javobni aniqlang.","options":["Molekulyar tuzilishli moddalarning barchasi suyuq.","Nomolekulyar tuzilishli moddalarning barchasida metall bo'ladi.","Elementlar soni atomlar sonidan kam.","Oddiy moddalar soni elementlarnikidan kam."],"correctIndex":2},{"id":67,"question":"To'g'ri javobni aniqlang.","options":["Barcha atomlar yadrosida neytron bo'ladi.","Molekulyar tuzilishli moddalarning barchasi gaz.","Elementlar soni atomlar sonidan ko'p.","Oddiy moddalar soni elementlarnikidan ko'p."],"correctIndex":3},{"id":68,"question":"Qaysi sababga ko'ra, atomlar soni elementlar sonidan ko'p?","options":["ko'p emas","kristall panjara","allotropiya","izotop"],"correctIndex":3},{"id":69,"question":"Quyidagilarni ajrating: a-oddiy modda; b-birikma; c-aralashma. (1-olmos; 2-aroq; 3-havo; 4-suv; 5-is gazi; 6-mis kuporos; 7-neft; 8-fulleren)","options":["a-1,8; b-4,5,6; c-2,3,7","a-1,8; b-4,5; c-2,3,6,7","a-1,3,8; b-4,5; c-2,6,7","a-1,3,8; b-4,5,6; c-2,7"],"correctIndex":0}]}
+{"topicId":1,"title":"Dastlabki kimyoviy tushunchalar","description":"Atom, molekula, modda, jism va kimyoviy tushunchalar","questions":[
+    {
+      "id": 1,
+      "question": "Atrofimizdagi shakl va hajmga ega bo'lgan barcha narsalar nima deyiladi?",
+      "options": [
+        "atom",
+        "molekula",
+        "modda",
+        "jism"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Tinch holatda massaga ega bo'lgan materiyaning bo'lagiga nima deyiladi?",
+      "options": [
+        "atom",
+        "molekula",
+        "modda",
+        "jism"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Moddaning kimyoviy xossalarini o'zida saqlaydigan eng kichik zarracha nima deyiladi?",
+      "options": [
+        "atom",
+        "molekula",
+        "modda",
+        "jism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Musbat zaryadlangan yadro va manfiy zaryadlangan elektrondan iborat zarrachaga nima deyiladi?",
+      "options": [
+        "atom",
+        "molekula",
+        "modda",
+        "jism"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Qaysi javobda jism berilgan?",
+      "options": [
+        "kolba",
+        "osh tuzi",
+        "suv",
+        "temir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Qaysi javobda jism berilgan?",
+      "options": [
+        "mis",
+        "mix",
+        "bronza",
+        "oltin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Quyidagilardan qaysi biri kimyoviy sof modda?",
+      "options": [
+        "qirov",
+        "qor",
+        "suv",
+        "muz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Quyidagilardan qaysi biri kimyoviy sof modda?",
+      "options": [
+        "tuman",
+        "ozon",
+        "bronza",
+        "tutun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Qaysi javobda kimyoviy modda formulasi berilgan?",
+      "options": [
+        "Br",
+        "H",
+        "I",
+        "Ne"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Qaysi javobda kimyoviy modda formulasi berilgan?",
+      "options": [
+        "F",
+        "Cl",
+        "Ar",
+        "N"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Quyidagilardan qaysi biri geterogen aralashma?",
+      "options": [
+        "aroq",
+        "tuman",
+        "tuzli suv",
+        "shakarli suv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Quyidagilardan qaysi biri gomogen aralashma?",
+      "options": [
+        "sut",
+        "havo",
+        "loyqa suv",
+        "temir va mis aralashmasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Quyidagilarning qaysi biri to'g'ri ma'noni anglatadi?",
+      "options": [
+        "chumoli atomi",
+        "suv molekulasi",
+        "sut atomi",
+        "sirka atomi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Quyidagilarning qaysi biri to'g'ri ma'noni anglatadi?",
+      "options": [
+        "chumoli atomi",
+        "ozon molekulasi",
+        "havo molekulasi",
+        "sirka atomi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Qaysi qatorda faqat kimyoviy elementlar berilgan?",
+      "options": [
+        "bo'r, kaliy, qo'rg'oshin",
+        "oltin, kumush, bronza",
+        "fosfor, uglerod, tantal",
+        "suv, osh tuzi, kislorod"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Qaysi qatorda faqat kimyoviy elementlar berilgan?",
+      "options": [
+        "oltin, kumush, bronza",
+        "fosfor, uglerod, metan",
+        "metan, tuz, kislorod",
+        "bor, kaliy, qo'rg'oshin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Moddaga tegishli bo'lgan fizik xossalarni aniqlang. (1-zichlik; 2-yadro zaryadi; 3-elektron qavatlar; 4-qaynash va suyuqlanish temperaturalari; 5-izotoplar; 6-rang; 7-atom massa; 8-agregat holat)",
+      "options": [
+        "1, 4, 6, 8",
+        "1, 4, 8",
+        "2, 3, 5, 7",
+        "3, 5, 7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Qaysi javobdagi oddiy moddalarning formulasi to'g'ri yozilgan?",
+      "options": [
+        "H, O, N₂ S₈ P₄",
+        "H₂ O₃ S₈ Cl₂",
+        "NaCl, KBr, O₂ N₂",
+        "F₂ Cl₂ Br₂, I, Ar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Qaysi javobdagi oddiy moddalarning formulasi to'g'ri yozilgan?",
+      "options": [
+        "Y, O₃ S₈, Cl₂",
+        "H, Li, N₂ S₈ P₄",
+        "F₂ Cl₂, Br₂, I, Ar",
+        "NaCl, KBr, O₂ N₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Jism va modda berilgan qatorni ko'rsating.",
+      "options": [
+        "kolba va temir",
+        "probirka va spirt lampa",
+        "suv va tuman",
+        "mis va aluminiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Quyidagilardan qaysi biri sof modda?",
+      "options": [
+        "sut",
+        "sulfat kislota eritmasi",
+        "atir",
+        "distillangan suv"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Yagona sof moddadan hosil bo'lgan jismni aniqlang.",
+      "options": [
+        "avtomobil",
+        "mis sim",
+        "televizor",
+        "yog'och qoshiq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Loyqa suvni qaysi usullar bilan ajratish mumkin? (1-filtr qog'ozdan o'tkazish; 2-distillash; 3-tindirish; 4-magnit yordamida)",
+      "options": [
+        "1 va 2",
+        "1, 2, 3",
+        "barchasi",
+        "2 va 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Qaysi aralashmani filtr qog'oz bilan ajratish mumkin?",
+      "options": [
+        "ohak va suv",
+        "sirka (uksus) va suv",
+        "shakar va suv",
+        "benzin va suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "«To'rtinchisi ortiqcha» qoidasiga qaysi biri mos keladi?",
+      "options": [
+        "muz",
+        "tutun",
+        "aysberg",
+        "qor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Moddaning xossasini aniqlang. (1-valentlik; 2-magnitga tortilish; 3-yadro zaryad; 4-eruvchanlik)",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "2, 4",
+        "3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Qaysi aralashmani magnit bilan komponentlarga ajratish mumkin?",
+      "options": [
+        "oltingugurt kukuni va qizil fosfor",
+        "temir va yog'och qirindisi",
+        "qum va ichimlik suvi",
+        "osh tuzi va shakar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Qaysi metallmas suyuq agregat holatga ega?",
+      "options": [
+        "oltingugurt",
+        "yod",
+        "brom",
+        "simob"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Qaysi metallmaslar gaz agregat holatiga ega?",
+      "options": [
+        "vodorod, kislorod, yod",
+        "uglerod, kremniy, yod",
+        "brom, xlor, kislorod",
+        "kislorod, xlor, vodorod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Qaysi metall suyuq agregat holatga ega?",
+      "options": [
+        "oltingugurt",
+        "yod",
+        "brom",
+        "simob"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Quyidagi qaysi elementlarning gidridlari uchuvchan moddalar hisoblanadi?",
+      "options": [
+        "P, N, Na",
+        "Na, Ca, K",
+        "C, N, Si",
+        "C, S, Ca"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Quyidagi qaysi elementlarning gidridlari uchuvchan moddalar hisoblanmaydi?",
+      "options": [
+        "Ca, K, Na",
+        "Na, Ca, P",
+        "C, N, Si",
+        "C, S, Ca"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Quyidagi qaysi elementlarning gidroksidlari kislota hisoblanadi?",
+      "options": [
+        "P, N, Na",
+        "Na, Ca, K",
+        "C, N, S",
+        "C, S, Ca"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Quyidagi qaysi elementlarning gidroksidlari kislota hisoblanmaydi?",
+      "options": [
+        "Ca, K, Na",
+        "Na, S, K",
+        "C, N, Si",
+        "C, S, Ca"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Ftor oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?",
+      "options": [
+        "och-yashil gaz",
+        "sarg'ish-yashil gaz",
+        "qizg'ish qo'ng'ir suyuqlik",
+        "to'q-kulrang qattiq kristall"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Xlor oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?",
+      "options": [
+        "och-yashil gaz",
+        "sarg'ish-yashil gaz",
+        "qizg'ish qo'ng'ir suyuqlik",
+        "to'q-kulrang qattiq kristall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Yod oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?",
+      "options": [
+        "och-yashil gaz",
+        "sarg'ish-yashil gaz",
+        "qizg'ish qo'ng'ir suyuqlik",
+        "to'q-kulrang qattiq kristall"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Brom oddiy sharoitda qanday rangda va qanday agregat holatda bo'ladi?",
+      "options": [
+        "och-yashil gaz",
+        "sarg'ish-yashil gaz",
+        "qizg'ish qo'ng'ir suyuqlik",
+        "to'q-kulrang qattiq kristall"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Quyidagi qaysi oddiy modda uchun molekula va atom tushunchalari bir xil?",
+      "options": [
+        "azot",
+        "xlor",
+        "vodorod",
+        "argon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Quyidagi qaysi oddiy modda uchun molekula va atom tushunchalari bir xil?",
+      "options": [
+        "brom",
+        "ftor",
+        "vodorod",
+        "geliy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Quyidagilardan kimyoviy hodisalarni aniqlang.",
+      "options": [
+        "yodning sublimatlanishi",
+        "oltingugurtning suyuqlanishi",
+        "benzinning yonishi",
+        "shishaning maydalanishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Quyidagilardan kimyoviy hodisalarni aniqlang.",
+      "options": [
+        "kremniyning suyuqlanishi",
+        "temirning magnitga tortilishi",
+        "shakarning ko'mirlanishi",
+        "yog'ning sovuqda qotishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Quyidagilardan kimyoviy hodisalarni aniqlang.",
+      "options": [
+        "qo'rg'oshinning suyuqlanishi",
+        "suvning qaynashi",
+        "shishani pishirish",
+        "shishani maydalanishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Quyidagilar ichidan fizikaviy hodisalarni aniqlang.",
+      "options": [
+        "temirning xlorlanishi",
+        "benzinning yonishi",
+        "qo'rg'oshinning suyuqlanishi",
+        "shishaning pishirilishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Quyidagilar ichidan fizikaviy hodisalarni aniqlang.",
+      "options": [
+        "uzum sharbatining bijg'ishi",
+        "qatiqning ivishi",
+        "oltingugurtning yonishi",
+        "shishaning maydalanishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.",
+      "options": [
+        "kislorod",
+        "uglerod",
+        "oltingugurt",
+        "azot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Allotropik shakl o'zgarishlarga ega bo'lgan elementni aniqlang.",
+      "options": [
+        "brom",
+        "ftor",
+        "fosfor",
+        "azot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Fosforning qanday allotropik shakllari mavjud? (1-oq; 2-yashil; 3-qizil; 4-sariq; 5-havorang; 6-qora)",
+      "options": [
+        "1,4,5",
+        "1,3,6",
+        "2,4,5",
+        "1,2,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Fosforning qanday allotropik shakllari mavjud emas? (1-oq; 2-pushti; 3-qizil; 4-sariq; 5-ko'k; 6-qora)",
+      "options": [
+        "1,4,5",
+        "1,3,6",
+        "2,4,5",
+        "1,2,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Karbin qaysi elementning allotropik shakli hisoblanadi?",
+      "options": [
+        "kislorod",
+        "uglerod",
+        "fosfor",
+        "oltingugurt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Olmos qaysi elementning allotropik shakli hisoblanadi?",
+      "options": [
+        "kislorod",
+        "uglerod",
+        "fosfor",
+        "oltingugurt"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.",
+      "options": [
+        "fosfor",
+        "uglerod",
+        "vodorod",
+        "oltingugurt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Allotropik shakl o'zgarishlarga ega bo'lmagan elementni aniqlang.",
+      "options": [
+        "kislorod",
+        "azot",
+        "oltingugurt",
+        "uglerod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Qanday yo'l bilan osh tuzi eritmasidan tuzni ajratib olish mumkin?",
+      "options": [
+        "filtrlash yo'li bilan",
+        "bug'latish yo'li bilan",
+        "magnit yordamida",
+        "ajratish voronkasi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Qaysi modda nomi noto'g'ri ko'rsatilgan?",
+      "options": [
+        "FeS - pirit",
+        "ZnS - rux aldamasi",
+        "HgS - kinovar",
+        "Cu₂S - mis yaltirog'i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Aralashmalarni ajratish usullari bilan moslang. (1-temir+oltingugurt; 2-osh tuzi+suv; 3-ohak+suv; 4-kislorod+azot / a-filtrlash; b-haydash; c-sovitib,qizdirish; d-magnit orqali)",
+      "options": [
+        "1-d, 2-b, 3-a, 4-c",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-a, 2-d, 3-c, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Quyidagilardan qaysilari birikma? (1-H₂; 2-H₂O; 3-KCl; 4-Cl₂)",
+      "options": [
+        "hech qaysi",
+        "barchasi",
+        "1 va 4",
+        "2 va 3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Qaysi javobda 2 ta murakkab va 1 ta oddiy modda formulasi berilgan?",
+      "options": [
+        "Fe, Cu, S₆",
+        "CO₂, CH₄, P₄",
+        "KH, O₂, O₃",
+        "P₄, CO, O₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Quyidagilardan qaysi birini kimyoviy formula bilan ifodalash mumkin?",
+      "options": [
+        "bronza",
+        "benzin",
+        "havo",
+        "spirt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Atom-molekulyar ta'limot birinchi bo'lib, kim tomonidan ishlab chiqilgan?",
+      "options": [
+        "Levkip",
+        "Mendeleyev",
+        "Demokrit",
+        "Lomonosov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Aralashmalar necha xil bo'ladi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Odam organizmining qaysi qismida temir eng ko'p bo'ladi?",
+      "options": [
+        "qonda",
+        "suyakda",
+        "miyada",
+        "terida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Sb belgisi stibnum yoki stibnitni anglatadi. Ushbu elementning zamonaviy nomi nima?",
+      "options": [
+        "qalay",
+        "arsenik",
+        "surma",
+        "samariy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Qaysi moddaning normal sharoitdagi agregat holati gaz?",
+      "options": [
+        "brom",
+        "ozon",
+        "yod",
+        "olmos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Quyidagilardan qaysilari gomogen aralashma hosil qiladi? (1-etil spirt+suv; 2-osh tuzi+suv; 3-pista yog'i+suv)",
+      "options": [
+        "faqat 1",
+        "1 va 2",
+        "barchasi",
+        "faqat 2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "To'g'ri javobni aniqlang.",
+      "options": [
+        "Elementlar soni atomlar sonidan kam.",
+        "Oddiy moddalar soni elementlarnikidan kam.",
+        "Molekulyar tuzilishli moddalarning barchasi suyuq.",
+        "Nomolekulyar tuzilishli moddalarning barchasida metall bo'ladi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "To'g'ri javobni aniqlang.",
+      "options": [
+        "Elementlar soni atomlar sonidan ko'p.",
+        "Barcha atomlar yadrosida neytron bo'ladi.",
+        "Oddiy moddalar soni elementlarnikidan ko'p.",
+        "Molekulyar tuzilishli moddalarning barchasi gaz."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "Qaysi sababga ko'ra, atomlar soni elementlar sonidan ko'p?",
+      "options": [
+        "izotop",
+        "allotropiya",
+        "kristall panjara",
+        "ko'p emas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Quyidagilarni ajrating: a-oddiy modda; b-birikma; c-aralashma. (1-olmos; 2-aroq; 3-havo; 4-suv; 5-is gazi; 6-mis kuporos; 7-neft; 8-fulleren)",
+      "options": [
+        "a-1,3,8; b-4,5; c-2,6,7",
+        "a-1,3,8; b-4,5,6; c-2,7",
+        "a-1,8; b-4,5; c-2,3,6,7",
+        "a-1,8; b-4,5,6; c-2,3,7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "2.1. Kaliy gidrid formulasini ko'rsating.",
+      "options": [
+        "KH",
+        "KH₂",
+        "CaH",
+        "CaH₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "2.2. Kalsiy gidrid formulasini ko'rsating.",
+      "options": [
+        "KH",
+        "KH₂",
+        "CaH",
+        "CaH₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "3.1. Fosfor (V) oksid formulasini ko'rsating.",
+      "options": [
+        "P₅O",
+        "P₂O₇",
+        "PO₅",
+        "P₂O₅"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "3.2. Yod (VII) oksid formulasini ko'rsating.",
+      "options": [
+        "I₅O",
+        "I₂O₇",
+        "IO₅",
+        "I₂O₅"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "4.1. Uglerod (IV) oksid formulasini ko'rsating.",
+      "options": [
+        "C₂O",
+        "C₄O",
+        "CO₂",
+        "CO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "4.2. Oltingugurt (VI) oksid formulasini ko'rsating.",
+      "options": [
+        "S₃O",
+        "S₆O",
+        "SO₃",
+        "SO₆"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "5.1. Kaliy oksid formulasini ko'rsating.",
+      "options": [
+        "KO",
+        "K₂O",
+        "KO₂",
+        "K₂O₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 77,
+      "question": "5.2. Kalsiy oksid formulasini ko'rsating.",
+      "options": [
+        "CaO",
+        "CaO₂",
+        "Ca₂O₂",
+        "Ca₂O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 78,
+      "question": "6.1. Mis (I) nitrid formulasini ko'rsating.",
+      "options": [
+        "CuN",
+        "Cu₂N",
+        "Cu₃N",
+        "Cu₄N"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "6.2. Temir (II) nitrid formulasini ko'rsating.",
+      "options": [
+        "Fe₃N",
+        "Fe₃N₂",
+        "Fe₂N₃",
+        "FeN₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "7.1. Natriy nitrid formulasini ko'rsating.",
+      "options": [
+        "NaN₂",
+        "NaN₃",
+        "Na₂N",
+        "Na₃N"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "7.2. Magniy nitrid formulasini ko'rsating.",
+      "options": [
+        "MgN₂",
+        "Mg₃N₂",
+        "Mg₂N₃",
+        "Mg₂N"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 82,
+      "question": "8.2. Xrom (II) sulfid formulasini ko'rsating.",
+      "options": [
+        "CrS",
+        "Cr₂S",
+        "CrS₂",
+        "Cr₂S₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "9.1. Rux sulfid formulasini ko'rsating.",
+      "options": [
+        "ZnS",
+        "Zn₂S",
+        "ZnS₂",
+        "Zn₂S₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "9.2. Aluminiy sulfid formulasini ko'rsating.",
+      "options": [
+        "Al₂S",
+        "Al₂S₃",
+        "Al₃S₂",
+        "AlS₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 85,
+      "question": "10.1. Mis (I) fosfid formulasini ko'rsating.",
+      "options": [
+        "CuP",
+        "Cu₂P",
+        "Cu₃P",
+        "Cu₄P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "10.2. Vanadiy (II) fosfid formulasini ko'rsating.",
+      "options": [
+        "V₂P₃",
+        "V₃P₂",
+        "V₃P₄",
+        "V₄P₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "11.1. Litiy fosfid formulasini ko'rsating.",
+      "options": [
+        "LiP",
+        "Li₂P",
+        "Li₃P",
+        "Li₄P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "11.2. Berilliy fosfid formulasini ko'rsating.",
+      "options": [
+        "Be₂P₃",
+        "Be₃P₂",
+        "Be₃P₄",
+        "Be₄P₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "12.1. Temir (II) ftorid formulasini ko'rsating.",
+      "options": [
+        "Fe₂F",
+        "FeF",
+        "FeF₂",
+        "Fe₂F₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 90,
+      "question": "12.2. Temir (III) yodid formulasini ko'rsating.",
+      "options": [
+        "Fe₃I",
+        "FeI₃",
+        "Fe₃I₂",
+        "Fe₂I₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "13.1. Berilliy ftorid formulasini ko'rsating.",
+      "options": [
+        "BeF",
+        "BeF₂",
+        "Be₂F",
+        "Be₂F₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 92,
+      "question": "13.2. Bor yodid formulasini ko'rsating.",
+      "options": [
+        "BI",
+        "BI₂",
+        "BI₃",
+        "BI₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 93,
+      "question": "14.1. Is gazi formulasini ko'rsating.",
+      "options": [
+        "CO",
+        "C₂O",
+        "CO₂",
+        "C₂O₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 94,
+      "question": "14.2. Karbonat angidrid formulasini ko'rsating.",
+      "options": [
+        "CO",
+        "C₂O",
+        "CO₂",
+        "C₂O₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "14.3. Sulfit angidrid formulasini ko'rsating.",
+      "options": [
+        "SO",
+        "SO₂",
+        "SO₃",
+        "SO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 96,
+      "question": "14.4. Sulfat angidrid formulasini ko'rsating.",
+      "options": [
+        "SO",
+        "SO₂",
+        "SO₃",
+        "SO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 97,
+      "question": "1. Qaysi javobda faqat valentligi o'zgaruvchan elementlar formulasi berilgan?",
+      "options": [
+        "K, C, S, N, P, Fe",
+        "Cu, Ba, N, Cl, Br, Cr",
+        "S, Cr, Cu, P, C",
+        "Ca, Cu, S, H, F, O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "2. Valentligi o'zgaruvchan elementlarni tanlang. (1-magniy, 2-xlor, 3-temir, 4-kaliy, 5-azot, 6-ftor)",
+      "options": [
+        "1, 2, 5",
+        "1, 3, 5",
+        "2, 3, 5",
+        "2, 4, 6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "3. Qaysi elementlar II valentli bo'la oladi? (1-temir, 2-aluminiy, 3-fosfor, 4-azot, 5-berilliy, 6-xlor)",
+      "options": [
+        "1, 2, 5",
+        "1, 3, 5",
+        "1, 4, 5",
+        "2, 4, 6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 100,
+      "question": "4. Qaysi element I valentli bo'la olMAydi?",
+      "options": [
+        "Fosfor",
+        "Ftor",
+        "Kumush",
+        "Mis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 101,
+      "question": "5. O'zgaruvchan valentli elementlardan qaysi biri II valentli bo'la olMAydi?",
+      "options": [
+        "Mis",
+        "Xrom",
+        "Oltin",
+        "Simob"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 102,
+      "question": "6. Oltingugurtning qaysi birikmasi noto'g'ri yozilgan?",
+      "options": [
+        "H₂S",
+        "CS₂",
+        "SO₃",
+        "NaS₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 103,
+      "question": "7. Vodorodning qaysi birikmasi mavjud emas?",
+      "options": [
+        "NH₃",
+        "CH₄",
+        "O₂H",
+        "SiH₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 104,
+      "question": "8. Quyidagilardan qaysi biri o'zgaruvchan valentli?",
+      "options": [
+        "Kaliy",
+        "Uglerod",
+        "Vodorod",
+        "Bor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 105,
+      "question": "9. Brom qanday valentlik namoyon qilMAydi?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "V"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 106,
+      "question": "10. Marganes qanday valentlik namoyon qiladi? (1-VII, 2-VI, 3-V, 4-IV, 5-III, 6-II, 7-I)",
+      "options": [
+        "1, 2, 4, 5, 6",
+        "1, 4, 7",
+        "2, 4, 6",
+        "3 va 7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "12. Quyidagilardan qaysilari III valentli bo'la oladi? (1-temir, 2-qalay, 3-oltin, 4-kalsiy, 5-fosfor)",
+      "options": [
+        "1, 2, 3, 5",
+        "1 va 3",
+        "1, 3, 5",
+        "2 va 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 108,
+      "question": "13. Valentligi doimiy bo'lgan elementlarni tanlang. (1-bor, 2-oltingugurt, 3-temir, 4-kalsiy, 5-marganes, 6-ftor)",
+      "options": [
+        "1, 2, 5",
+        "1, 3, 5",
+        "1, 4, 6",
+        "2, 4, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 109,
+      "question": "14. Qaysi elementlar I valentli bo'la oladi? (1-temir, 2-rubidiy, 3-fosfor, 4-uglerod, 5-oltin, 6-xlor)",
+      "options": [
+        "1, 2, 5",
+        "1, 3, 5",
+        "2, 4, 6",
+        "2, 5, 6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 110,
+      "question": "15. Valentligi doimiy bo'lgan elementni aniqlang.",
+      "options": [
+        "Oltin",
+        "Kadmiy",
+        "Nikel",
+        "Temir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 111,
+      "question": "16. Quyidagilardan qaysilari II valentli bo'la oladi? (1-temir, 2-qalay, 3-oltin, 4-kalsiy, 5-fosfor)",
+      "options": [
+        "1, 2, 4",
+        "1, 2, 3, 5",
+        "1 va 3",
+        "1, 3, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 112,
+      "question": "17. Qaysi birikmaning formulasi noto'g'ri yozilgan?",
+      "options": [
+        "NaS",
+        "Cs₂S",
+        "SO₃",
+        "SO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 113,
+      "question": "18. Qaysi javobda valentligi o'zgarmas bo'lgan elementlar formulasi berilgan?",
+      "options": [
+        "K, C, S, Fe",
+        "S, Cr, Cu, P",
+        "Cu, Ba, N, Cl",
+        "Ca, H, F, O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 114,
+      "question": "19. O'zgaruvchan valentlikka ega bo'lgan metallar formulasi qaysi qatorda berilgan?",
+      "options": [
+        "C, Cu, Cr",
+        "S, P, N",
+        "Ag, Se, Fe",
+        "Cu, Fe, Co"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 115,
+      "question": "20. Quyidagilarning qaysilarida fosfor III valentli? (1-PCl₅, 2-PCl₃, 3-AlP, 4-P₂O₅)",
+      "options": [
+        "Faqat 1",
+        "1 va 4",
+        "Faqat 2",
+        "2 va 3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 116,
+      "question": "21. Qaysi qatorda o'zgarmas valentli elementlar berilgan?",
+      "options": [
+        "Natriy va xlor",
+        "Mis va ftor",
+        "Kaliy va ftor",
+        "Kumush va xlor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 117,
+      "question": "22. Qaysi moddaning nomi noto'g'ri yozilgan?",
+      "options": [
+        "CuO - mis (II) oksid",
+        "K₂O - kaliy oksid",
+        "P₂O₅ - fosfat angidrid",
+        "SO₂ - sulfat angidrid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 118,
+      "question": "23. Valentligi doimiy bo'lgan elementni ko'rsating.",
+      "options": [
+        "Kadmiy",
+        "Simob",
+        "Mis",
+        "Temir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 119,
+      "question": "1. Allotropiya deb nimaga aytiladi?",
+      "options": [
+        "Ayni bir element bir necha oddiy modda hosil qiladigan hodisalarga",
+        "Tarkibi va miqdori bir xil, lekin tuzilishi bilan farq qiladigan moddalarga",
+        "Tarkibi va miqdori bir xil, lekin tuzilishi va xossalari bilan farq qiladigan moddalarga",
+        "Molekulasi bitta atomdan iborat bo'lgan moddalarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 120,
+      "question": "2. Allotropiya hodisasining sababi nima?",
+      "options": [
+        "Oddiy modda tarkibidagi molekulalar sonining turlichaligi",
+        "Suyuqlanish temperaturasining turlichaligi",
+        "Oddiy modda molekulasidagi atomlar sonining turlichaligi",
+        "Qaynash temperaturasining turlichaligi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 121,
+      "question": "3. Allotropiya hodisasining sababi (mohiyati) nima? (1-neytronlar soni, 2-atomlar soni, 3-kristall tuzilish, 4-kimyoviy bog'lar, 5-agregat holat)",
+      "options": [
+        "1, 2",
+        "2, 3",
+        "3, 4",
+        "4, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "4. Kislorodning allotropik modifikatsiyalarini ko'rsating. (1-O₂, 2-¹⁶O, 3-O₃, 4-O₂)",
+      "options": [
+        "1, 2, 3",
+        "Barchasi",
+        "1, 3",
+        "2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 123,
+      "question": "5. Oddiy moddalar berilgan qatorni aniqlang.",
+      "options": [
+        "Ozon, olmos, fosfin, grafit",
+        "Magniy, azot, vodorod, xlor",
+        "Fulleren, temir, fosgen, lantan",
+        "Berilliy, sulfat kislota, bo'r, oq fosfor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 124,
+      "question": "6. Oddiy moddalar berilgan qatorni aniqlang (2-variant).",
+      "options": [
+        "Ozon, olmos, fosfin, grafit",
+        "Malaxit, azot, vodorod, xlor",
+        "Fulleren, temir, qora fosfor, lantan",
+        "Berilliy, sulfat kislota, bo'r, oq fosfor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 125,
+      "question": "7. Allotropik shakl o'zgarishiga ega bo'lgan elementni aniqlang.",
+      "options": [
+        "Mis",
+        "Natriy",
+        "Vodorod",
+        "Oltingugurt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 126,
+      "question": "9. Allotropik shakl o'zgarishlarga ega bo'lMAgan elementni aniqlang.",
+      "options": [
+        "Kislorod",
+        "Uglerod",
+        "Azot",
+        "Oltingugurt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 127,
+      "question": "10. Allotropik shakl o'zgarishlarga ega bo'lMAgan elementni aniqlang (2-variant).",
+      "options": [
+        "Qalay",
+        "Uglerod",
+        "Aluminiy",
+        "Oltingugurt"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 128,
+      "question": "11. Allotropik shakl o'zgarishlarga ega bo'lMAgan elementni aniqlang (3-variant).",
+      "options": [
+        "Fosfor",
+        "Temir",
+        "Qalay",
+        "Azot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 129,
+      "question": "12. Allotropik shakl o'zgarishiga ega bo'lMAgan elementni aniqlang.",
+      "options": [
+        "Uglerod",
+        "Fosfor",
+        "Oltingugurt",
+        "Astat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 130,
+      "question": "13. Allotropik shakl o'zgarishi mavjud bo'lgan elementlar qatorini ko'rsating.",
+      "options": [
+        "Kislorod, azot, xlor",
+        "Kislorod, fosfor, oltingugurt",
+        "Xlor, azot, fosfor",
+        "Ftor, kaliy, kislorod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 131,
+      "question": "14. Qaysi qatordagi elementlarning allotropik shakllari bor?",
+      "options": [
+        "Xlor, azot, uglerod",
+        "Fosfor, kislorod, brom",
+        "Kislorod, fosfor, xlor",
+        "Kislorod, uglerod, fosfor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 132,
+      "question": "15. Allotropik shakl o'zgarishini namoyon qilMAydigan elementlar qatorini ko'rsating.",
+      "options": [
+        "Xlor, azot, brom, simob",
+        "Oltingugurt, ftor, rux, yod",
+        "Mishyak, kislorod, bariy, bor",
+        "Oltingugurt, uglerod, vismut, litiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 133,
+      "question": "16. Allotropik shaklga ega moddalar qatorini ko'rsating.",
+      "options": [
+        "Kislorod, ftor, fosfor",
+        "Fosfor, kislorod, vodorod",
+        "Uglerod, oltingugurt, natriy",
+        "Fosfor, oltingugurt, uglerod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 134,
+      "question": "17. Quyidagi moddalar to'plamidan qaysi biri allotropik shakllarga ega?",
+      "options": [
+        "Suv, bug', muz",
+        "Suv, tuman, shudring",
+        "Azot, xlor, kislorod",
+        "Uglerod, fulleren, karbin, grafit"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 135,
+      "question": "57. Qaysi javobdagi elementlarning allotropik shakli bor?",
+      "options": [
+        "Kremniy va ftor",
+        "Vodorod va kislorod",
+        "Temir va azot",
+        "Qalay va oltingugurt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 136,
+      "question": "58. Qaysi allotropik shakl ko'rinishini uglerod hosil qilMAgan?",
+      "options": [
+        "Fulleren",
+        "Monoklinik",
+        "Olmos",
+        "Lonsdeylit"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 137,
+      "question": "59. Qaysi qatorda oddiy moddalar berilgan?",
+      "options": [
+        "Grafit, suv, ozon",
+        "Karbin, quruq muz, temir",
+        "Olmos, oq fosfor, ohaktosh",
+        "Fulleren, brom, rombik oltingugurt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "60. Allotropik shakllari bo'lgan (a) va bo'lmagan (b) elementlarni ko'rsating.",
+      "options": [
+        "a-O,Si,N; b-S,P,C",
+        "a-S,P,Al; b-C,Si,Fe",
+        "a-S,O,C; b-Si,Sn,N",
+        "a-S,P,O; b-Al,N,Cr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 139,
+      "question": "61. Allotropik shakllari bo'lgan (a) va bo'lmagan (b) elementlarni ko'rsating (2-variant).",
+      "options": [
+        "a-O,Si,N; b-S,P,C",
+        "a-S,P,Fe; b-Al,N,Cr",
+        "a-S,O,C; b-S,Fe,N",
+        "a-O,Sn,N; b-Al,N,Cr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 140,
+      "question": "62. Qaysi javobda oddiy modda berilgan?",
+      "options": [
+        "Karbid",
+        "Karbin",
+        "Gidrid",
+        "Gidrin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 141,
+      "question": "63. Kislorodning nechta allotropik shakl o'zgarishi bor?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 142,
+      "question": "64. Allotropik modifikatsiyalar har doim ...",
+      "options": [
+        "Oddiy modda",
+        "Molekulyar tuzilishli",
+        "Murakkab modda",
+        "Nomolekulyar tuzilishli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 143,
+      "question": "65. Quyidagilardan qaysilari kimyoviy elementga tegishli? (1-kaliy%, 2-temir magnitga, 3-vodorod izotoplari, 4-kislorod allotropiyasi, 5-kumush)",
+      "options": [
+        "1 va 3",
+        "1, 3, 4",
+        "2, 4, 5",
+        "2 va 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 144,
+      "question": "5. Quyidagilardan fizikaviy hodisani aniqlang.",
+      "options": [
+        "Shamning yonishi",
+        "Temirning zanglashi",
+        "Havoning suyuqlanishi",
+        "Qizdirilgan shakarning qorayishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 145,
+      "question": "6. Quyidagilardan kimyoviy hodisani aniqlang.",
+      "options": [
+        "Qatiqning ivishi",
+        "Azotning suyuqlanishi",
+        "Havodan kislorod olish",
+        "Qalayning suyuqlanishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 146,
+      "question": "7. Quyidagilardan kimyoviy hodisani aniqlang (2-variant).",
+      "options": [
+        "Sutning achishi",
+        "Azotning suyuqlanishi",
+        "Havodan kislorod olish",
+        "Qalayning suyuqlanishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 147,
+      "question": "8. Fizikaviy hodisalarga kiradigan jarayonni ko'rsating.",
+      "options": [
+        "Sutning achishi",
+        "Shamning erishi",
+        "Uzumdan sirka olish",
+        "Natriyning suvda erishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 148,
+      "question": "9. Kimyoviy hodisalarga kiradigan jarayonni ko'rsating.",
+      "options": [
+        "Yodning sublimatlanishi",
+        "Yog'ning sovuqda qotishi",
+        "Uzum sharbatining bijg'ishi",
+        "Temirning magnitga tortilishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 149,
+      "question": "10. Kimyoviy hodisalarga kirMAydigan jarayonni ko'rsating.",
+      "options": [
+        "Benzinning yonishi",
+        "Ohakning so'ndirilishi",
+        "Yog'ning sovuqda qotishi",
+        "Uzum sharbatining bijg'ishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 150,
+      "question": "11. Fizik va kimyoviy jarayon berilgan qatorni aniqlang.",
+      "options": [
+        "Benzinning bug'lanishi va benzinning yonishi",
+        "Shakarning suvda erishi va simobning bug'lanishi",
+        "Sutning achishi va metallardan elektr tokining o'tishi",
+        "Natriyning suvda erishi va natriy xloridning elektrolizi"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
