@@ -1,1 +1,502 @@
-{"id":6,"title":"boburobidov","questions":[{"id":1780159692371,"text":"ffcfcfcfxdxdx","options":["vgvgvgv","gdxdxd","xcfcfc","ccfcc"],"answer":0}]}
+{
+  "topicId": 6,
+  "title": "Ekvivalent oddiy",
+  "description": "Moddalarning ekvivalent molyar massasini aniqlash va hisoblash",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Magniyning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Aluminiyning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Natriy oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "28",
+        "31",
+        "47"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Kaliy oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "28",
+        "31",
+        "47"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Magniy oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "28",
+        "31",
+        "47"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Kalsiy oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "28",
+        "31",
+        "47"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Aluminiy oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "17",
+        "24",
+        "28",
+        "31"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Titan (III) oksidning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "17",
+        "24",
+        "28",
+        "31"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Qaysi oksidning ekvivalent molyar massasi 72 g/mol?",
+      "options": [
+        "Cu₂O",
+        "Rb₂O",
+        "Ag₂O",
+        "Cs₂O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Qaysi oksidning ekvivalent molyar massasi 116 g/mol?",
+      "options": [
+        "Cu₂O",
+        "Rb₂O",
+        "Ag₂O",
+        "Cs₂O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Qaysi oksidning ekvivalent molyar massasi 36 g/mol?",
+      "options": [
+        "MgO",
+        "CaO",
+        "FeO",
+        "CuO"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Qaysi oksidning ekvivalent molyar massasi 40 g/mol?",
+      "options": [
+        "MgO",
+        "CaO",
+        "FeO",
+        "CuO"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Natriy karbonatning - Na₂CO₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "53",
+        "69",
+        "71",
+        "87"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Natriy sulfatning - Na₂SO₄ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "53",
+        "69",
+        "71",
+        "87"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Kaliy karbonatning - K₂CO₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "53",
+        "69",
+        "71",
+        "87"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Kaliy sulfatning - K₂SO₄ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "53",
+        "69",
+        "71",
+        "87"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Magniy karbonatning - MgCO₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "42",
+        "50",
+        "60",
+        "68"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Magniy sulfatning - MgSO₄ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "42",
+        "50",
+        "60",
+        "68"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Kalsiy karbonatning - CaCO₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "42",
+        "50",
+        "60",
+        "68"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Kalsiy sulfatning - CaSO₄ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "42",
+        "50",
+        "60",
+        "68"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Aluminiy sulfatning - Al₂(SO₄)₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "57",
+        "68,4",
+        "114",
+        "342"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Titan (III) sulfatning - Ti₂(SO₄)₃ ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "56",
+        "64",
+        "72",
+        "80"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Brom (V) oksidining ekvivalent molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "16",
+        "24",
+        "32",
+        "48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Mishyak (V) oksidining ekvivalent molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "23",
+        "32",
+        "46",
+        "64"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Mis (II) sulfatning ekvivalent molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "80",
+        "112",
+        "160",
+        "224"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Mis (I) sulfatning ekvivalent molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "80",
+        "112",
+        "160",
+        "224"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "I valentli element oksidining ekvivalent molyar massasi 72 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "mis",
+        "rubidiy",
+        "kumush",
+        "seziy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "I valentli element oksidining ekvivalent molyar massasi 93 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "mis",
+        "rubidiy",
+        "kumush",
+        "seziy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Noma'lum II valentli element oksidining ekvivalent molyar massasi 15 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "uglerod",
+        "azot",
+        "oltingugurt",
+        "kremniy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Noma'lum II valentli element oksidining ekvivalent molyar massasi 76,5 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "molibden",
+        "stronsiy",
+        "kadmiy",
+        "bariy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Noma'lum III valentli element oksidining ekvivalent molyar massasi 17 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "aluminiy",
+        "xrom"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Noma'lum III valentli element oksidining ekvivalent molyar massasi 18,(3) g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "aluminiy",
+        "xrom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "(FeOH)₃(XO₄)₂ ning ekvivalent molyar massasi 98,5 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "surma",
+        "mishyak",
+        "fosfor",
+        "xrom"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "(XOH)₃(SbO₄)₂ ning ekvivalent molyar massasi 84 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "aluminiy",
+        "temir",
+        "xrom",
+        "marganes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Fe₂(HXO₄)₃ ning ekvivalent molyar massasi 88,(6) g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "surma",
+        "mishyak",
+        "fosfor",
+        "xrom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "X₂(HAsO₄)₃ ning ekvivalent molyar massasi 79 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "aluminiy",
+        "temir",
+        "xrom",
+        "marganes"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "III valentli element oksidining ekvivalent molyar massasi 33 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "bor",
+        "fosfor",
+        "aluminiy",
+        "mishyak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "III valentli element oksidining ekvivalent molyar massasi 40 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "mishyak",
+        "molibden",
+        "aluminiy",
+        "titan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "X₂O₃ ning ekvivalent molyar massasi 33 g/mol bo'lsa, X₂O₅ niki qancha?",
+      "options": [
+        "23",
+        "25",
+        "27",
+        "29"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Ca(XO₃)₂ birikmadagi X ning ekvivalent molyar massasi 16 g/mol bo'lsa, birikmaning molyar massasi (g/mol) qancha?",
+      "options": [
+        "120",
+        "168",
+        "200",
+        "296"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "X(HSO₄)₂ ning ekvivalent molyar massasi 123 g/mol bo'lsa, (X(OH)₂)₂SO₄ niki (g/mol) qancha?",
+      "options": [
+        "134",
+        "138",
+        "142",
+        "146"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Cr₂Oᶻ²⁻ birikmadagi xromning ekvivalent molyar massasi 13 g/mol bo'lsa, z ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "X₂O₇⁴⁻ ioni tarkibidagi X ning ekvivalent molyar massasi 15 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xrom",
+        "mishyak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "HBrO₃ tarkibidagi bromning ekvivalent molyar massasini aniqlang.",
+      "options": [
+        "80",
+        "26,(6)",
+        "16",
+        "11,43"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Fe₂(XO₃)₃ tarkibidagi noma'lum elementning ekvivalent molyar massasi 32 g/mol bo'lsa, birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "630",
+        "640",
+        "688",
+        "582"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
