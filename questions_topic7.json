@@ -1,1 +1,887 @@
-{"id":7,"title":"Islombek","questions":[]}
+{
+  "topicId": 7,
+  "title": "Ekvivalent-2",
+  "description": "Moddalarning ekvivalent molyar massasini aniqlash va hisoblash (2-qism)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Br₂ molekulasi tarkibidagi Br ning ekvivalentini aniqlang.",
+      "options": [
+        "160",
+        "120",
+        "127",
+        "80"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "F₂ molekulasi tarkibidagi F ning ekvivalentini aniqlang.",
+      "options": [
+        "160",
+        "19",
+        "38",
+        "80"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "J₂ molekulasi tarkibidagi J ning ekvivalentini aniqlang.",
+      "options": [
+        "127",
+        "19",
+        "38",
+        "254"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "SO₂ tarkibidagi oltingugurtning ekvivalentini aniqlang.",
+      "options": [
+        "64",
+        "32",
+        "16",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "SiO₂ tarkibidagi kremniyning ekvivalentini aniqlang.",
+      "options": [
+        "60",
+        "28",
+        "17",
+        "7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Cl₂O₇ tarkibidagi xlorning ekvivalentini aniqlang.",
+      "options": [
+        "183",
+        "71",
+        "35,5",
+        "5,07"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "SO₃ tarkibidagi oltingugurtning ekvivalentini aniqlang.",
+      "options": [
+        "80",
+        "13,33",
+        "16",
+        "5,33"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "N₂O₃ tarkibidagi azotning ekvivalentini aniqlang.",
+      "options": [
+        "12,66",
+        "28",
+        "14",
+        "4,67"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "HClO tarkibidagi xlorning ekvivalentini aniqlang.",
+      "options": [
+        "183",
+        "71",
+        "35,5",
+        "5,07"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "HJO₃ tarkibidagi yodning ekvivalentini aniqlang.",
+      "options": [
+        "127",
+        "19",
+        "38",
+        "25,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "HMnO₄ tarkibidagi marganesning ekvivalentini aniqlang.",
+      "options": [
+        "55",
+        "120",
+        "7,85",
+        "11"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "HNO₂ tarkibidagi azotning ekvivalentini aniqlang.",
+      "options": [
+        "47",
+        "28",
+        "14",
+        "4,67"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Na₂SO₃ tarkibidagi oltingugurtning ekvivalentini aniqlang.",
+      "options": [
+        "126",
+        "63",
+        "16",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Ca₃(PO₄)₂ tarkibidagi fosforning ekvivalentini aniqlang.",
+      "options": [
+        "310",
+        "155",
+        "31",
+        "6,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Cr₂(CO₃)₃ tarkibidagi uglerodning ekvivalentini aniqlang.",
+      "options": [
+        "284",
+        "47,33",
+        "12",
+        "3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "SO₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "80",
+        "13,33",
+        "16",
+        "5,33"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "NO₂ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "46",
+        "11,5",
+        "14",
+        "4,67"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "P₂O₅ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "142",
+        "14,2",
+        "71",
+        "6,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Na₂O ning ekvivalent massasini aniqlang.",
+      "options": [
+        "62",
+        "155",
+        "31",
+        "6,2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "CaO ning ekvivalent massasini aniqlang.",
+      "options": [
+        "56",
+        "28",
+        "20",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Cl₂O₇ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "183",
+        "71",
+        "13,07",
+        "5,07"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "P₂O₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "110",
+        "14,2",
+        "62",
+        "18,33"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "NaOH ning ekvivalent massasini aniqlang.",
+      "options": [
+        "40",
+        "23",
+        "8",
+        "17"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Al(OH)₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "78",
+        "26",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Cr(OH)₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "103",
+        "34,33",
+        "51",
+        "17,33"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "H₂SO₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "82",
+        "41",
+        "8",
+        "16"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "H₂CO₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "62",
+        "12",
+        "8",
+        "31"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "HClO₄ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "35,5",
+        "8",
+        "71",
+        "100,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "HClO₂ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "35,5",
+        "68,5",
+        "71",
+        "100,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "H₃PO₄ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "32,67",
+        "31",
+        "98",
+        "24,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "H₄P₂O₇ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "44,5",
+        "31",
+        "178",
+        "24,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Na₂SO₄ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "71",
+        "32",
+        "8",
+        "142"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "LiNO₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "69",
+        "7",
+        "8",
+        "34,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Ba₃(PO₄)₂ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "601",
+        "137",
+        "200,33",
+        "100,167"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Ca(NO₃)₂ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "164",
+        "82",
+        "8",
+        "63"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "CdSO₄ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "208",
+        "104",
+        "96",
+        "56"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Cr₂(SiO₃)₃ ning ekvivalent massasini aniqlang.",
+      "options": [
+        "332",
+        "110,66",
+        "55,33",
+        "17,33"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Pirofosfat kislotaning ekvivalent massasini aniqlang.",
+      "options": [
+        "89",
+        "44,5",
+        "29,67",
+        "59,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Xrom(III) gidroksidning ekvivalent massasini aniqlang.",
+      "options": [
+        "25,75",
+        "51,5",
+        "17,17",
+        "34,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Fosfit kislotaning ekvivalent massasini aniqlang.",
+      "options": [
+        "41",
+        "27,3",
+        "13,67",
+        "20,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Alyuminiy sulfatning ekvivalent massasini aniqlang.",
+      "options": [
+        "171",
+        "114",
+        "57,0",
+        "85,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Ammoniy atsetatning ekvivalent massasini aniqlang.",
+      "options": [
+        "36,5",
+        "24,3",
+        "77,0",
+        "18,25"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Fosfor(V) oksidning ekvivalent massasini aniqlang.",
+      "options": [
+        "17,75",
+        "71,0",
+        "28,4",
+        "14,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Xlor(VII) oksidning ekvivalent massasini aniqlang.",
+      "options": [
+        "13,07",
+        "26,14",
+        "183,0",
+        "91,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Rux nitrat tarkibidagi azotning ekvivalent massasini aniqlang.",
+      "options": [
+        "3,5",
+        "2,8",
+        "14,0",
+        "4,67"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Azot molekulasidagi azotning ekvivalent massasini aniqlang.",
+      "options": [
+        "3,5",
+        "7,0",
+        "14,0",
+        "4,67"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Azot(V) oksid tarkibidagi azotning ekvivalent massasini aniqlang.",
+      "options": [
+        "3,5",
+        "2,8",
+        "14,0",
+        "4,67"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Agar 1,575 g kislotani to'liq neytrallash uchun 1 g natriy gidroksid sarflansa, kislotaning ekvivalent massasini aniqlang.",
+      "options": [
+        "64",
+        "1,5",
+        "63",
+        "49"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "20 g NaOH 24,5 g kislota bilan qoldiqsiz reaksiyaga kirishishi ma'lum bo'lsa, noma'lum kislotani aniqlang.",
+      "options": [
+        "H₂SO₄",
+        "HNO₃",
+        "H₃PO₄",
+        "HCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "54 g noma'lum metallni oksidlash uchun 48 g kislorod sarflangan bo'lsa noma'lum metallni toping.",
+      "options": [
+        "Ca",
+        "Fe",
+        "Na",
+        "Al"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "9,25 g Ca(OH)₂ 8,167 g noma'lum kislota bilan qoldiqsiz reaksiyaga kirishishi ma'lum bo'lsa noma'lum kislotani aniqlang.",
+      "options": [
+        "H₂SO₄",
+        "HNO₃",
+        "H₃PO₄",
+        "HCl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "10,4 g Al(OH)₃ 25,2 g noma'lum kislota bilan qoldiqsiz reaksiyaga kirishishi ma'lum bo'lsa noma'lum kislotani aniqlang.",
+      "options": [
+        "H₂SO₄",
+        "HNO₃",
+        "H₃PO₄",
+        "HCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "29,4 g H₂SO₄ 20,6 g noma'lum asos bilan qoldiqsiz reaksiyaga kirishishi ma'lum bo'lsa noma'lum asosni aniqlang.",
+      "options": [
+        "Al(OH)₃",
+        "Ca(OH)₂",
+        "Cr(OH)₃",
+        "NaOH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "9,8 g kislotani neytrallash uchun 8 g natriy gidroksidi sarflanadi. Kislotaning ekvivalent massasini (g/mol) toping.",
+      "options": [
+        "63",
+        "49",
+        "32,67",
+        "45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "42 g magniy karbonatda necha ekvivalent modda bo'ladi?",
+      "options": [
+        "0,25",
+        "0,5",
+        "1,0",
+        "0,75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "1 mol miqdordagi ishqoriy metall suv bilan ta'sirlashganda necha ekvivalent vodorod hosil bo'ladi?",
+      "options": [
+        "1,5",
+        "0,75",
+        "0,5",
+        "1,0"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "20,06 g metallni qizdirganda uning 22,4 g oksidi hosil bo'lgan. Metallning ekvivalent massasini toping.",
+      "options": [
+        "68,5",
+        "107,87",
+        "66",
+        "85,47"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Agar 18,5 g asosni to'liq neytrallash uchun 16,33 g fosfat kislota sarflansa, asosning ekvivalent massasini aniqlang.",
+      "options": [
+        "37",
+        "52,67",
+        "74",
+        "24,67"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Agar 89 g kislotani to'liq neytrallash uchun 173,3 g Bi(OH)₃ sarflansa, kislotaning ekvivalent massasini aniqlang.",
+      "options": [
+        "33,33",
+        "44,5",
+        "66,67",
+        "22,25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "6 g noma'lum elementni to'liq xlorlash uchun 17,75 g xlor sarflansa, noma'lum elementni aniqlang.",
+      "options": [
+        "Na",
+        "Be",
+        "Mg",
+        "Al"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "28 g noma'lum elementni to'liq xlorlash uchun 44,8 litr (n.sh.) xlor sarflansa, noma'lum elementni aniqlang.",
+      "options": [
+        "K",
+        "Ba",
+        "Ca",
+        "Li"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "2,25 g metalni to'liq oksidlash uchun 1,4 litr kislorod sarflansa, noma'lum metalni aniqlang.",
+      "options": [
+        "Mg",
+        "Be",
+        "Li",
+        "Al"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 63,
+      "question": "4 g noma'lum elementni to'liq xlorlash uchun 2,8 litr (n.sh) xlor sarflansa, noma'lum elementni aniqlang.",
+      "options": [
+        "S",
+        "O₂",
+        "Mg",
+        "Ca"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "10 g metalni to'liq oksidlash uchun 2,8 litr (n.sh) kislorod sarflandi. Hosil bo'lgan oksid ekvivalent massasini aniqlang.",
+      "options": [
+        "47",
+        "20",
+        "28",
+        "17"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "14 g noma'lum metal yetarli miqdordagi HCl bilan ta'sirlashganda 5,61 (n.sh) vodorod ajralib chiqsa, noma'lum metalni aniqlang.",
+      "options": [
+        "Mg",
+        "Be",
+        "Li",
+        "Fe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "20 g noma'lum metall suvga solinganda 11,21 (n.sh) vodorod hosil bo'lsa noma'lum metallni aniqlang.",
+      "options": [
+        "Ca",
+        "Be",
+        "Li",
+        "Fe"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "3,5 g noma'lum metall suvga solinganda 5,61 (n.sh) vodorod hosil bo'lsa noma'lum metallni aniqlang.",
+      "options": [
+        "Ca",
+        "Be",
+        "Li",
+        "Fe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "27 g noma'lum metalga yetarli miqdorda HCl bilan ta'sirlashganda 33,6 l (n.sh) vodorod ajralib chiqqan bo'lsa, noma'lum metallni aniqlang.",
+      "options": [
+        "Ca",
+        "Be",
+        "Li",
+        "Al"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "1 g fosfor yondirilganda uning 2,29 g oksidi hosil bo'ldi. Fosfor oksidining formulasini chiqaring.",
+      "options": [
+        "P₄O₆",
+        "P₂O₃",
+        "P₂O₅",
+        "PO"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 70,
+      "question": "1,92 g noma'lum metall 1,28 g kislorod va 12,8 g galogenni biriktirib oladi. Noma'lum metalni va galogenni aniqlang?",
+      "options": [
+        "Ca va Br",
+        "Na va I",
+        "Mg va Br",
+        "Mg va I"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Ekvimolyar nisbatli rubidiy va noma'lum ishqoriy metalldan iborat 4,6 g aralashma suv bilan ta'sirlashganda 1,12 litr (n.sh.) gaz ajralsa, noma'lum metallni toping.",
+      "options": [
+        "K",
+        "Na",
+        "Li",
+        "Cs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "Bir xil miqdordagi metall 0,4 g kislorodni yoki 0,95 g galogenni biriktirib olishi mumkin. Galogenning ekvivalenti nechaga teng?",
+      "options": [
+        "19",
+        "35,5",
+        "127",
+        "80"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 73,
+      "question": "Massasi 25,6 g bo'lgan ikki valentli metall oksidi vodorod oqimida qaytarilganda, 6,4 g suv bug'i hosil bo'lgan. Reaksiya uchun qaysi metall oksidi olingan?",
+      "options": [
+        "Cd",
+        "Zn",
+        "Cu",
+        "Fe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 74,
+      "question": "Sulfat kislotaning ekvivalent molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24,5",
+        "49",
+        "98",
+        "196"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Metall sulfati, nitrati va karbonatidan iborat ekvimolyar nisbatli aralashma parchalanganda massa 19% kamaydi, dastlabki aralashmadagi metallning massa ulushi 30% bo'lsa, metallni aniqlang.",
+      "options": [
+        "Ca",
+        "Ba",
+        "Mg",
+        "Sr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "(NH₄)₃HP₂O₇ ekvivalentini toping?",
+      "options": [
+        "229",
+        "229/3",
+        "114,5",
+        "229/6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 77,
+      "question": "Kalsiy gidropirofosfatning ekvivalent massasini toping.",
+      "options": [
+        "235/6",
+        "235/2",
+        "470",
+        "235/3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "Ammoniy gidropirofosfat tuzining ekvivalentini aniqlang.",
+      "options": [
+        "229/6",
+        "229/5",
+        "229/2",
+        "229/3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Ammoniy digidropirofosfat tuzining ekvivalentini aniqlang.",
+      "options": [
+        "212/2",
+        "212/3",
+        "212/5",
+        "212/4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 80,
+      "question": "Kaliy digidropirofosfat tuzining ekvivalentini aniqlang.",
+      "options": [
+        "254/3",
+        "254/4",
+        "254/2",
+        "254/5"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
