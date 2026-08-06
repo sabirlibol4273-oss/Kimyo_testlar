@@ -1,0 +1,1107 @@
+{
+  "topicId": 8,
+  "title": "Kristallogidratlar",
+  "description": "Kristallogidratlarning formulasi, molyar massasi va tarkibidagi elementlarning massa ulushini aniqlashga oid testlar",
+  "questions": [
+    {
+      "id": 1,
+      "question": "XSO₄·6H₂O ning molyar massasi 213 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "magniy",
+        "kalsiy",
+        "stronsiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "XSO₄·5H₂O ning molyar massasi 210 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "magniy",
+        "kalsiy",
+        "stronsiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "XSO₄·3H₂O ning molyar massasi 190 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "magniy",
+        "kalsiy",
+        "stronsiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "XSO₄·2H₂O ning molyar massasi 220 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "magniy",
+        "kalsiy",
+        "stronsiy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "X₂CO₃·8H₂O ning molyar massasi 250 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "kaliy",
+        "rubidiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "X₂CO₃·9H₂O ning molyar massasi 300 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "kaliy",
+        "rubidiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "X₂CO₃·3H₂O ning molyar massasi 160 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "kaliy",
+        "rubidiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "X₂CO₃·4H₂O ning molyar massasi 210 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "kaliy",
+        "rubidiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "MgXO₄·3H₂O ning molyar massasi 270 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "selen",
+        "tellur",
+        "poloniy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "BaXO₄·4H₂O ning molyar massasi 305 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "selen",
+        "tellur",
+        "poloniy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "BaXO₄·5H₂O ning molyar massasi 370 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "selen",
+        "tellur",
+        "poloniy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "MgXO₄·6H₂O ning molyar massasi 275 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "selen",
+        "tellur",
+        "poloniy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "K₂XO₃·4H₂O ning molyar massasi 277 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "selen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "K₂XO₃·4H₂O ning molyar massasi 230 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "selen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "K₂XO₃·4H₂O ning molyar massasi 210 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "selen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "K₂XO₃·4H₂O ning molyar massasi 226 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "selen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "CaSO₄·nH₂O ning molyar massasi 280 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "BaSO₄·nH₂O ning molyar massasi 287 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "CaSO₄·nH₂O ning molyar massasi 262 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "BaSO₄·nH₂O ning molyar massasi 323 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Na₂SO₃·nH₂O molyar massasi 270 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Na₂SO₄·nH₂O molyar massasi 250 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "K₂SO₃·nH₂O molyar massasi 284 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "K₂SO₄·nH₂O molyar massasi 264 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Na₂SO₄·nH₂O tarkibidagi oltingugurtning massa ulushi 20% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Li₂SO₄·nH₂O tarkibidagi oltingugurtning massa ulushi 16% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Cu(CH₃COO)₂·nH₂O tarkibidagi misning massa ulushi 32% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Ca(NO₃)₂·nH₂O tarkibidagi kalsiyning massa ulushi 20% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Li₂SiO₃·nH₂O tarkibidagi suvning massa ulushi 50% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Fe(NO₃)₂·nH₂O tarkibidagi suvning massa ulushi 50% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "CuSO₄·nH₂O tarkibidagi mis(II) sulfatning massa ulushi 64% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Li₂CO₃·nH₂O tarkibidagi litiy karbonatning massa ulushi 37% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Li₂CO₃·nH₂O tarkibidagi kislorodning massa ulushi 80% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Na₂SO₄·nH₂O tarkibidagi kislorodning massa ulushi 50% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Na₂CO₃·nH₂O tarkibidagi kislorodning massa ulushi 60% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Na₂HPO₄·nH₂O tarkibidagi kislorodning massa ulushi 50% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Na₂SO₄·nH₂O tarkibidagi vodorod va kislorodning massalari 1:10 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Na₂SO₄·nH₂O tarkibidagi vodorod va kislorodning massalari 1:12 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "MgSO₄·nH₂O tarkibidagi oltingugurt va kislorodning massalari 1:4 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "MgSO₄·nH₂O tarkibidagi oltingugurt va kislorodning massalari 1:5 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Natriy sulfat geksagidrat tarkibidagi kislorodning massa ulushini (%) aniqlang.",
+      "options": [
+        "60",
+        "64",
+        "70,4",
+        "72"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Natriy karbonat oktagidrat tarkibidagi kislorodning massa ulushini (%) aniqlang.",
+      "options": [
+        "60",
+        "64",
+        "70,4",
+        "72"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "MgSO₄·nH₂O ning molyar massasi magniy sulfatnikidan 1,75 marta ko'p bo'lsa, n ni aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "10",
+        "12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "MgSO₄·nH₂O ning molyar massasi magniy sulfatnikidan 2,5 marta ko'p bo'lsa, n ni aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "10",
+        "12"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Kaliy sulfid kristallogidratining molyar massasi 200 g/mol bo'lsa, undagi kislorodning massa ulushini (%) aniqlang.",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Litiy sulfid kristallogidratining molyar massasi 100 g/mol bo'lsa, undagi kislorodning massa ulushini (%) aniqlang.",
+      "options": [
+        "16",
+        "32",
+        "48",
+        "64"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "KCr(SO₄)₂·nH₂O ning molyar massasi 715 g/mol bo'lsa, n ni aniqlang.",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "KFe(SO₄)₂·nH₂O ning molyar massasi 719 g/mol bo'lsa, n ni aniqlang.",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Aluminiy sulfat kristallogidratidagi vodorod va kislorod atomlari soni teng bo'lsa, kristallogidrat molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "450",
+        "486",
+        "522",
+        "558"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 50,
+      "question": "Kalsiy fosfat kristallogidratidagi vodorod va kislorod atomlari soni teng bo'lsa, kristallogidrat molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "400",
+        "418",
+        "436",
+        "454"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "MgSO₄·nH₂O tarkibidagi kislorodning massasi oltingugurtnikidan 4 marta ko'p bo'lsa, n ni toping.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "MgSO₄·nH₂O tarkibidagi kislorodning massasi oltingugurtnikidan 5 marta ko'p bo'lsa, n ni toping.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "MgSO₄·nH₂O tarkibidagi magniy va oltingugurtning massalari yig'indisi kislorodnikidan 4 marta kichik bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "MgSO₄·nH₂O tarkibidagi magniy va oltingugurtning massalari yig'indisi kislorodnikidan 6 marta kichik bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "13",
+        "15",
+        "17",
+        "19"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Natriy asetat kristallogidrati tarkibidagi vodorod atomlari soni kislorod atomlari sonidan 1,75 marta ko'p bo'lsa, kristallogidratning molyar massasini (g/mol) toping.",
+      "options": [
+        "100",
+        "118",
+        "136",
+        "154"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 56,
+      "question": "Natriy asetat kristallogidrati tarkibidagi vodorod atomlari soni kislorod atomlari sonidan 1,80 marta ko'p bo'lsa, kristallogidratning molyar massasini (g/mol) toping.",
+      "options": [
+        "100",
+        "118",
+        "136",
+        "154"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Na₂S·nH₂O ning molyar massasi 150 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "SrSO₄·nH₂O ning molyar massasi 220 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "MgSO₄·nH₂O ning molyar massasi 300 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Li₂SO₄·nH₂O ning molyar massasi 200 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "CH₃COOLi·nH₂O ning molyar massasi 120 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 62,
+      "question": "Mg(CH₃COO)₂·nH₂O ning molyar massasi 250 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Fe(NO₃)₂·nH₂O ning molyar massasi 360 g/mol bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "K₂S·nH₂O tarkibidagi oltingugurtning massa ulushi 16% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Al₂O₃·nH₂O tarkibidagi aluminiyning massa ulushi 45% bo'lsa, n ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "FeSO₄·nH₂O tarkibidagi temirning massa ulushi 25% bo'lsa, n ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "Li₂CO₃·nH₂O tarkibidagi litiyning massa ulushi 7% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "K₂HPO₄·nH₂O tarkibidagi kaliyning massa ulushi 26% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "NaHCO₃·nH₂O tarkibidagi uglerodning massa ulushi 10% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Na₃PO₄·nH₂O tarkibidagi natriyning massa ulushi 34,5% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "KAl(SO₄)₂·nH₂O tarkibidagi aluminiyning massa ulushi 4,5% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Ca₃(PO₄)₂·nH₂O tarkibidagi kalsiyning massa ulushi 30% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Al(CH₃COO)₃·nH₂O tarkibidagi uglerodning massa ulushi 30% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Ca(NO₃)₂·nH₂O tarkibidagi azotning massa ulushi 14% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Kalsiy fosfat kristallogidratidagi kalsiyning massa ulushi 30% bo'lsa, vodorodniki (%) qancha?",
+      "options": [
+        "2,5",
+        "5",
+        "7,5",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Aluminiy sulfat kristallogidratidagi aluminiyning massa ulushi 12% bo'lsa, kislorodniki (%) qancha?",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 77,
+      "question": "AlF₃·nH₂O tarkibidagi suvning massa ulushi 30% bo'lsa, n ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "MgSO₄·nH₂O tarkibidagi suvning massa ulushi 60% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Li₂CO₃·nH₂O tarkibidagi suvning massa ulushi 63% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "Al₂(SO₄)₃·nH₂O tarkibidagi suvning massa ulushi 24% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Na₂CO₃·nH₂O tarkibidagi suvning massa ulushi 57,6% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 82,
+      "question": "Li₂CO₃·nH₂O tarkibidagi kislorodning massa ulushi 80% bo'lsa, uglerodniki (%) qancha?",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 83,
+      "question": "Na₂SO₄·nH₂O tarkibidagi kislorodning massa ulushi 64% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Al₂(SO₄)₃·nH₂O tarkibidagi kislorodning massa ulushi 64% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 85,
+      "question": "Mg(CH₃COO)₂·nH₂O tarkibidagi kislorodning massa ulushi 50% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 86,
+      "question": "LiHSO₃·nH₂O tarkibidagi kislorodning massa ulushi 70% bo'lsa, oltingugurtniki (%) qancha?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "Natriy sulfat kristallogidratidagi kislorodning massa ulushi 50% bo'lsa, oltingugurtniki (%) qancha?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 88,
+      "question": "Fe₂O₃·nH₂O tarkibidagi vodorodning massa ulushi 4% bo'lsa, n ni aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "K₂HPO₄·nH₂O tarkibidagi vodorodning massa ulushi 5% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "Cr₂(SO₄)₃·nH₂O tarkibidagi vodorodning massa ulushi 2,4% bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "K₂CO₃·nH₂O tarkibidagi vodorodning massa ulushi 6% bo'lsa, kislorodniki (%) qancha?",
+      "options": [
+        "40",
+        "48",
+        "64",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 92,
+      "question": "Na₃PO₄·nH₂O tarkibidagi vodorod va kislorod massasi 1:24 nisbatda bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 93,
+      "question": "KHCO₃·nH₂O ning molyar massasi kaliy gidrokarbonatnikidan 1,9 marta ko'p bo'lsa, n ni aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 94,
+      "question": "Na₂HPO₄·nH₂O tarkibidagi vodorod atomlari soni kisloroddan 1,5 marta ko'p bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 95,
+      "question": "MeCl₂·6H₂O birikmadagi metallning massa ulushi kislorodnikidan 4 marta kam bo'lsa, vodorodnikidan nuqtalar o'rniga mos keladigan javobni aniqlang.",
+      "options": [
+        "2 marta ko'p",
+        "2 marta kam",
+        "4 marta ko'p",
+        "4 marta kam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 96,
+      "question": "Na₂CO₃·nH₂O tarkibidagi kislorodning massasi vodorodnikidan 11 marta ko'p bo'lsa, n ni toping.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 97,
+      "question": "Al₂(SO₄)₃·nH₂O tarkibidagi oltingugurt va kislorodning massalari 1:5 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "12",
+        "16",
+        "18",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "Ca(HSO₄)₂·nH₂O tarkibidagi vodorod va kislorodning massalari 1:22 nisbatda bo'lsa, n ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "Kalsiy fosfat pentagidrati tarkibidagi kislorodning massa ulushini (%) aniqlang.",
+      "options": [
+        "48",
+        "50",
+        "52",
+        "54"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 100,
+      "question": "(NH₄)₂SO₄·Al₂(SO₄)₃·nH₂O tarkibidagi vodorod va oltingugurt massalari yig'indisi hamda kislorod massasi 23:80 nisbatda bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
