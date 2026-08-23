@@ -1,0 +1,1943 @@
+{
+  "topicId": 7,
+  "title": "Spirtlar",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Etil spirtining mol ulushi 60% bo'lgan suvli eritmasining 174 grammi 57,5 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "34",
+        "154,33",
+        "204",
+        "170"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Mahsulot unumi 90% bo'lgan reaksiyada 41,4 g etanol olish uchun hajmi qancha bo'lgan etilen zarur?",
+      "options": [
+        "5,6",
+        "11,2",
+        "22,4",
+        "33,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Glyukozaning spirtli bijgishi natijasida 69 g spirt hosil bo'ldi. Bunda yana qanday hajmdagi (l) gaz modda (n.sh.) hosil bo'ladi?",
+      "options": [
+        "33,6",
+        "3,36",
+        "30,6",
+        "31,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Butanol-2 ni qaysi uglevodorodlarga suv ta'sir ettirib olish mumkin? 1) butan; 2) buten-1; 3) buten-2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "2 va 3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Qaysi uglevodorodga suv ta'sir ettirib, 2-metilbutanol-2 olinadi?",
+      "options": [
+        "2-metilbutan",
+        "2-metilbuten-2",
+        "2-metilbuten-3",
+        "2-metilbutin-1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Uglerod (II)-oksiddan 320 g metil spirt sintez qilish uchun necha litr vodorod talab etiladi.",
+      "options": [
+        "448",
+        "224",
+        "67,2",
+        "44,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Qaysi moddalar gidrogenlanganda birlamchi spirtlar hosil bo'ladi? 1) 2-metilpropanal; 2) atseton; 3) 3-metilbutanal; 4) butanon; 5) nitrobenzol.",
+      "options": [
+        "1, 2",
+        "1, 4",
+        "1, 3",
+        "2, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Massasi 3 kg bo'lgan 12%li glukoza eritmasining spirtli bijg'ishi natijasida 33,6 l CO2 hosil bo'lgan. Etanolning hosil bo'lish unumini hisoblang.",
+      "options": [
+        "35,5",
+        "75",
+        "72",
+        "37,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Vodorod bog'lanish hosil qiladigan molekulalarni ko'rsating. 1) sirka aldegid; 2) benzol; 3) metanol; 4) suv; 5) etan; 6) etil spirt; 7) sirka kislota; 8) aseton.",
+      "options": [
+        "1, 3, 4, 6",
+        "1, 2, 3, 6",
+        "2, 3, 5, 7",
+        "3, 4, 6, 7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Qaysi spirt degidratlanganda oddiy efir hosil qiladi, alken hosil qilmaydi?",
+      "options": [
+        "2,3-dimetil-butanol-1",
+        "butanol-1",
+        "2,2-dimetilpropanol-1",
+        "2-metil-propanol-2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Quyidagi spirtlardan qaysi biri amalda mavjud emas?",
+      "options": [
+        "C6H5OH",
+        "CH2=CH-OH",
+        "CH3CH2OH",
+        "CH2=CH-CH2-OH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "To'yinmagan bir atomli spirt (alkenol) molekulasida 14 dona gibrid orbital bo'lsa, molekuladagi σ-bog'lar sonini hisoblang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "To'yinmagan bir atomli spirt (alkenol) molekulasida 18 dona gibrid orbital bo'lsa, molekuladagi σ-bog'lar sonini hisoblang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "To'yinmagan bir atomli spirt (alkenol) molekulasida 22 dona gibrid orbital bo'lsa, molekuladagi σ-bog'lar sonini hisoblang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "To'yinmagan bir atomli spirt (alkenol) molekulasida 26 dona gibrid orbital bo'lsa, molekuladagi σ-bog'lar sonini hisoblang.",
+      "options": [
+        "9",
+        "12",
+        "15",
+        "18"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Massasi 4,6 g bo'lgan etanol molekulalararo degidratlanganda hosil bo'lgan mahsulotning mol miqdori (reaksiya unumi 0,5 bo'lganda) qancha bo'ladi?",
+      "options": [
+        "0,01",
+        "0,02",
+        "0,025",
+        "0,03"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "184 g etanoldan n.sh.da 40 l butadiyen olindi. Reaksiya unumini (%) hisoblang.",
+      "options": [
+        "86",
+        "98,5",
+        "99",
+        "89,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Metil spirt bilan 20%li 120 g sirka kislota o'zaro reaksiyaga kirishib, 29,5 g murakkab efir hosil bo'ldi. Bunda necha gramm metanol reaksiyaga kirishgan?",
+      "options": [
+        "6,4",
+        "3,2",
+        "12,8",
+        "9,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Propanol-1 oksidlanishidan hosil bo'lgan modda qaysi sinfga mansub?",
+      "options": [
+        "aldegidlar",
+        "karbon kislotalar",
+        "oddiy efirlar",
+        "ketonlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Etil spirtni alkogolyatga aylantirish uchun qaysi moddadan foydalanish zarur?",
+      "options": [
+        "natriy gidroksid",
+        "sulfat kislota",
+        "ammiak",
+        "natriy metali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Noma'lum 40%li spirt eritmasi tarkibida 12% vodorod bo'lsa, spirtni aniqlang?",
+      "options": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "7,4 g modda natriy metali bilan reaksiyaga kirishganda, 1,12 l vodorod (n.sh.) ajralsa va mis (II) oksid bilan oksidlanganda 'kumush ko'zgu' reaksiyasida qatnashadigan modda hosil bo'lsa, boshlang'ich moddaning tuzilishini aniqlang.",
+      "options": [
+        "uchlamchi butil spirt",
+        "izobutil spirt",
+        "butanol-2",
+        "propanol-1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Molekulyar massasi 88 bo'lgan etilatsetatning 4,4 g miqdorini hosil qilishda 0,1 mol etanol qatnashgan bo'lsa, reaksiya unumini ko'rsating.",
+      "options": [
+        "50",
+        "60",
+        "75",
+        "80"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Izopropil spirt KMnO4 ishtirokida oksidlansa, qanday birikma hosil bo'ladi?",
+      "options": [
+        "etanal",
+        "propanal",
+        "propion kislota",
+        "atseton"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "CH3C(CH3)2C(OH)(CH3)CH2CH3 modda degidratlanishi natijasida qanday modda hosil bo'ladi?",
+      "options": [
+        "CH2C(CH3)CH(CH3)CH2CH3",
+        "CH3CH(CH3)C(CH3)=CHCH3",
+        "CH3C(CH3)2C=CHCH3",
+        "CH3C(CH3)2C(CH3)=CHCH3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "24 g alkanol konsentrlangan sulfat kislota ishtirokida qizdirilishidan hosil bo'lgan organik modda o'ziga 8,96 l (n.sh.) vodorodni katalizator ishtirokida biriktirib olishi mumkin. Reaksiya uchun olingan spirtni aniqlang.",
+      "options": [
+        "CH3CH(OH)CH3",
+        "CH3CH2CH2CH2CH2OH",
+        "CH3CH2CH(OH)CH3",
+        "CH3CH2OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Quyidagi moddalardan qaysilari bir atomli to'yingan spirtlar bilan reaksiyaga kirishmaydi? 1) aktiv metallar; 2) mis (I) oksid; 3) mis(II) gidroksid; 4) sirka kislota; 5) xlorid kislota.",
+      "options": [
+        "2, 3, 4",
+        "3, 4",
+        "1, 5",
+        "1, 2, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Etil spirtining mol ulushi 50% bo'lgan suvli eritmasining 128 grammi 69 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "204",
+        "68",
+        "94,6",
+        "136"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Ma'lum miqdordagi aromatik spirt natriy metali bilan reaksiyaga kirishganda 13,44 l (n.sh.) gaz ajralishi ma'lum bo'lsa, shuncha miqdordagi aromatik spirt oksidlanishidan hosil bo'lgan benzoy kislota massasini (g) hisoblang.",
+      "options": [
+        "112,8",
+        "75,6",
+        "85,4",
+        "146,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Spirtlardan alkenlar olishda qaysi modda katalizator sifatida ishlatiladi?",
+      "options": [
+        "KOH ning spirtli eritmasi",
+        "Ni",
+        "H2SO4",
+        "Cr2O3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Bir atomli spirtdan 16 ml olib, (ρ = 0,8 g/sm³) natriy bilan ishlanganda ajralib chiqqan vodorod 4,48 l etilenni gidrogenlashga yetgan bo'lsa, reaksiya uchun bir atomli qaysi spirt olingan?",
+      "options": [
+        "propanol-1",
+        "etanol",
+        "metanol",
+        "butanol-1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "15 g propanol-1 ga 9,2 g natriy bilan ta'sir ettirilganda, qancha (g) natriy propionat olish mumkin?",
+      "options": [
+        "20,5",
+        "22,5",
+        "25,0",
+        "23,0"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Propil spirtining mol ulushi 70% bo'lgan suvli eritmasining 331,8 grammi 69 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "401,8",
+        "246",
+        "73,8",
+        "317,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Noma'lum 40%li spirt eritmasi tarkibida 11,67% vodorod bo'lsa, spirtni aniqlang?",
+      "options": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Noma'lum 37%li spirt eritmasi tarkibida 64% kislorod bo'lsa, spirtni aniqlang?",
+      "options": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Noma'lum 10%li spirt eritmasi tarkibida 11,25% vodorod bo'lsa, spirtni aniqlang?",
+      "options": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Mo'l miqdordagi natriy metali butanol-1 ga ta'sir ettirilganda, 2,8 l (n.sh.) vodorod ajralgan. Butanol-1 dan qancha modda miqdori reaksiyaga kirishgan?",
+      "options": [
+        "0,5",
+        "0,25",
+        "0,40",
+        "0,74"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Pentadiyen-1,4 molekulasida nechta uglerod atomi sp² gibridlangan bo'ladi?",
+      "options": [
+        "5",
+        "3",
+        "2",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Propil spirtning benzoldagi eritmasiga ortiqcha miqdorda natriy ta'sir ettirilganda, 5,6 l vodorod (n.sh.da) ajralib chiqdi. Eritma tarkibida necha gramm spirt bo'lgan?",
+      "options": [
+        "0,3",
+        "3,0",
+        "15,0",
+        "30,0"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "46 g etil spirtdan 117 g etil yodid hosil qilindi. Reaksiya unumini hisoblang.",
+      "options": [
+        "50",
+        "75",
+        "50",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "4,6 g etil spirtga 5,75 g natriy ta'sir ettirish yo'li bilan olingan vodorodning normal sharoitda qancha hajm (ml) egallashini aniqlang.",
+      "options": [
+        "560",
+        "1120",
+        "280",
+        "2240"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "7,4 g bir atomli spirtga natriy metali ta'sir ettirilganda 1,12 l H2 ajralib chiqdi. Qaysi bir atomli spirt olinganligini aniqlang. 1) propanol-1; 2) butanol-1; 3) pentanol-1; 4) 2-metilpropanol; 5) etanol; 6) metanol.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "5, 6",
+        "3, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Bir atomli noma'lum spirtdan simmetrik tuzilishli to'yinmagan uglevodorod olingan. Bu uglevodorodning 14 g miqdori 40 g brom bilan reaksiyaga kirishadi. Dastlab qanday spirt olinganini aniqlang.",
+      "options": [
+        "propanol-2",
+        "2-metilpropanol-2",
+        "butanol-2",
+        "geksanol-3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Agar reaksiya unumi 75%ni tashkil etsa, 30 g sirka kislotasi bilan 11,5 g etil spirti reaksiyasidan necha gramm murakkab efir hosil bo'ladi?",
+      "options": [
+        "16,8",
+        "15,7",
+        "16,0",
+        "16,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "0,2 mol ikkilamchi spirtning vodorod bromid bilan reaksiyasi natijasida 24,6 g alkanning monobromli hosilasi olingan. Reaksiyada qaysi spirt qatnashgan?",
+      "options": [
+        "pentanol-2",
+        "geksanol-3",
+        "butanol-2",
+        "propanol-2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Metanol va propanoldan iborat 15,2 g aralashmaga natriy metali ta'sir etishidan 3,36 l (n.sh.) vodorod ajralib chiqdi. Dastlabki aralashmadagi spirtlarning massalarini hisoblab toping.",
+      "options": [
+        "3,2 metanol va 12,0 propanol",
+        "12,0 metanol va 3,2 propanol",
+        "6,4 metanol va 8,8 propanol",
+        "4,8 metanol va 10,4 propanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 47,
+      "question": "Massasi 90 g bo'lgan sirka kislota bilan 72,0 g etanolning to'la reaksiyaga kirishishida hosil bo'lgan organik modda massasini (g) toping.",
+      "options": [
+        "140",
+        "138",
+        "137",
+        "135"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 48,
+      "question": "Bir atomli spirt to'liq yonishi natijasida 6,72 l uglerod (IV) oksidi va 7,2 g suv hosil bo'lsa spirtning formulasini aniqlang.",
+      "options": [
+        "C3H7OH",
+        "CH3OH",
+        "C4H5OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "10,5 g alkenga KMnO4 suvli eritmasi ta'sir ettirilganda 15,2 g ikki atomli spirt hosil bo'ldi. Shu spirtni mo'l miqdordagi natriy bilan reaksiyasi natijasida 4,48 l (n.sh.) gaz ajraldi. Dastlabki alkenni va reaksiya unumini aniqlang.",
+      "options": [
+        "C3H6; 80",
+        "C4H8; 66,7",
+        "C2H4; 80",
+        "C2H4; 75"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Alkogolyat gidrolizlanganda kaliy gidroksid va 90 g propil spirt hosil bo'lgan bo'lsa, alkogolyat va ishqor massasini (g) aniqlang.",
+      "options": [
+        "147; 84",
+        "41; 28",
+        "246; 168",
+        "82; 56"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "259 g to'yingan bir atomli spirt degidratlanishi natijasida 196 g alken hosil bo'ldi. Shu spirtning molekulyar massasi qanday?",
+      "options": [
+        "32",
+        "74",
+        "60",
+        "86"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Biror bir atomli spirt to'liq yonishi natijasida 4,48 litr uglerod (IV) oksidi va 5,4 gramm suv hosil bo'lgan. Spirtning formulasi qanday?",
+      "options": [
+        "C2H5OH",
+        "C3H7OH",
+        "CH3OH",
+        "C4H9OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 53,
+      "question": "Massasi 60 g bo'lgan 20%li sirka kislota eritmasi metil spirt bilan ta'sirlashganda, 14,8 g murakkab efir hosil bo'ldi. Bunda necha gramm metanol reaksiya kirishgan edi?",
+      "options": [
+        "6,4",
+        "12,8",
+        "3,2",
+        "9,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Qaysi holatda eterifikatsiya tushunchasi to'g'ri talqin etilgan?",
+      "options": [
+        "spirtlar orasida ta'sirlashish",
+        "kislotalar orasidagi ta'sirlashish",
+        "yog'larning mineral kislotalar bilan ta'sirlashishi",
+        "spirtlarning kislotalar bilan ta'sirlashishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Natriy etilatning 400 g 8,5%-li spirtli eritmasini hosil qilish uchun qancha (g) natriy bilan etil spirti talab qilinadi.",
+      "options": [
+        "11,5; 389",
+        "10,5; 398",
+        "12,0; 370",
+        "11,0; 380"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "5 ta probirkalarda: 1) propanol-1; 2) propanol-2; 3) butanol-2; 4) butandiol-1,3; 5) butandiol-1,2. Barchasiga CuO, so'ng Ag2O ammiakli eritmasi ta'sir ettirildi. Qaysi probirkalarda 'kumush ko'zgu' sodir bo'ladi?",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 4, 5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "0,6 mol metanol va 0,2 mol etanol aralashmasiga natriy metali bilan ishlov berilganda, necha litr vodorod ajralib chiqadi?",
+      "options": [
+        "8,96",
+        "4,48",
+        "22,4",
+        "11,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Metanol va uning gomologi molekulalararo degidratlanganda 3,6 g suv va 12 g uchta oddiy efir aralashmasi hosil bo'ldi. Reaksiya uchun olingan ikkinchi spirtni aniqlang.",
+      "options": [
+        "metanol",
+        "propanol",
+        "butanol",
+        "etanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Teng miqdorda olingan metanol va etanol aralashmasiga H2SO4 ta'sir ettirilganda 54 g efirlar aralashmasi olindi. Dastlabki spirtlar qanday nisbatda olingan.",
+      "options": [
+        "0,6:0,6",
+        "0,9:0,9",
+        "0,75:0,75",
+        "1,2:1,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "60 g bir atomli to'yingan spirt molekulasida 12 mol atom bo'lsa, noma'lum spirtni toping.",
+      "options": [
+        "C5H11OH",
+        "C3H7OH",
+        "C6H13OH",
+        "C2H5OH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "115 g bir atomli to'yingan spirt molekulasida 22,5 mol atom bo'lsa, noma'lum spirtni toping.",
+      "options": [
+        "CH3OH",
+        "C2H5OH",
+        "C3H7OH",
+        "C5H11OH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Berilgan moddalarning qaysilari etanol bilan reaksiyaga kirishadi? 1) etanol (t<140°C, H2SO4); 2) Na2CO3; 3) Na metali; 4) etil spirt (t>140°C, H2SO4); 5) KMnO4 (H2SO4); 6) H2SO4.",
+      "options": [
+        "2, 4",
+        "1, 3, 5, 6",
+        "1, 3, 5",
+        "2, 4, 6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Berilgan moddalarning qaysilari fenol bilan reaksiyaga kirishadi? 1) propilen; 2) xlorid kislota; 3) bromli suv; 4) Na2CO3; 5) metanal; 6) NaOH.",
+      "options": [
+        "1, 2",
+        "1, 3, 4, 5, 6",
+        "3, 4, 5, 6",
+        "1, 2, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Etil spirtining mol ulushi 65% bo'lgan suvli eritmasining 144,8 grammi 46 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "136",
+        "176,8",
+        "139,1",
+        "40,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 65,
+      "question": "Propil spirtining mol ulushi 55% bo'lgan suvli eritmasining 246,6 grammi 69 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "270,6",
+        "24,6",
+        "246",
+        "185,36"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Metil spirtining mol ulushi 60% bo'lgan suvli eritmasining 132 grammi 57,5 g Na bo'lakchasi bilan ta'sirlashsa, necha gramm alkogolyat hosil bo'ladi?",
+      "options": [
+        "27",
+        "162",
+        "135",
+        "133,65"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Qaysi moddalar mis (II) oksid bilan reaksiyada qatnashib, aldegidlar hosil qiladi? 1) butanol-1; 2) butanol-2; 3) propanol-1; 4) propanol-2; 5) sirka kislota.",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "1, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "Propilen KMnO4 ning suvdagi eritmasi orqali o'tkazilganda, qanday mahsulotlar hosil bo'ladi?",
+      "options": [
+        "propanol, MnO2, KOH",
+        "propandiol-1,2, MnO2, KOH",
+        "propantriol-1,2,3, Mn(OH)2, KOH",
+        "glitserin, Mn3O4, KOH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Formaldegid va vodorod aralashmasining vodorodga nisbatan zichligi 4,5 bo'lib, o'zaro reaksiyaga kirishgandan so'ng aralashma 0°C gacha sovitilganda zichligi 3 ga teng bo'ldi. Reaksiya unumini aniqlang.",
+      "options": [
+        "70",
+        "60",
+        "50",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Mol nisbati 1:2 bo'lgan C2H2OH va C3H7OH dan iborat aralashmaga Na metali solinganda 3,36 l gaz ajraldi. Dastlabki aralashma degidratlanganda necha gramm asetilen hosil bo'ladi?",
+      "options": [
+        "1,4",
+        "2,8",
+        "2,6",
+        "3,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Spirtning suvdagi eritmalari lakmusga qanday ta'sir etadi?",
+      "options": [
+        "Qizil rang hosil qiladi",
+        "Ko'k rangga kiradi",
+        "Pushti-qizg'ish rangga kiradi",
+        "Spirtlar indikatorlarga ta'sir etmaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Metanol va etanol aralashmasiga natriy metali ta'sir ettirilganda 6,72 l (n.sh.) vodorod ajralib chiqdi. Shuncha miqdordagi spirt aralashmasi HBr bilan reaksiyaga kirishganda 62,6 g alkilbromidlar hosil bo'ldi. Boshlang'ich aralashmaning og'irligini (g) toping.",
+      "options": [
+        "9,6",
+        "28",
+        "18,4",
+        "24,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "Ekvivalent miqdorda olingan ikkita bir atomli spirt molekulalararo degidratlanishidan 18 g suv va umumiy massasi 60 g bo'lgan uchta oddiy efir teng mol nisbatda hosil bo'ldi. Reaksiyada qatnashgan spirtlarni aniqlang.",
+      "options": [
+        "metanol, etanol",
+        "metil spirt, izopropil spirt",
+        "metil spirt, butil spirt",
+        "metanol, propanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "C5H11OH tarkibli bir atomli spirtning qaysi izomerlari oksidlanganda aldegid hosil bo'ladi?",
+      "options": [
+        "1, 4, 6",
+        "3, 5",
+        "1, 6",
+        "2, 3, 5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "36 g bir atomli spirt degidratlanganda hosil bo'lgan oddiy efirda 4,2 mol vodorod atomi bo'lsa, spirtning tuzilishini aniqlang.",
+      "options": [
+        "etanol",
+        "metanol",
+        "propanol",
+        "pentanol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "142 g etil spirtning suvli eritmasiga 46 g Na metali qo'shilganda, hosil bo'lgan eritmadagi spirtning massasi alkogolyatning massasidan 58 g ga ortiq bo'lsa, dastlabki eritmadagi spirtning mol ulushini (%) aniqlang.",
+      "options": [
+        "62,5",
+        "37,5",
+        "45",
+        "55"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "156 g etil spirtning suvli eritmasiga 46 g Na metali qo'shilganda, hosil bo'lgan eritmadagi spirtning massasi alkogolyatning massasidan 24 g ga ortiq bo'lsa, dastlabki eritmadagi spirtning mol ulushini (%) aniqlang.",
+      "options": [
+        "62,5",
+        "37,5",
+        "25",
+        "75"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "188 g etil spirtning suvli eritmasiga 46 g Na metali qo'shilganda, hosil bo'lgan eritmadagi spirtning massasi alkogolyatning massasidan 104 g ga ortiq bo'lsa, dastlabki eritmadagi spirtning mol ulushini (%) aniqlang.",
+      "options": [
+        "65",
+        "35",
+        "30",
+        "70"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Bir atomli to'yingan spirt karbon kislotaga qadar oksidlandi. Bunda sp³ gibrid orbitallar soni 2 marta kamaydi. Spirt formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "metanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "Bir atomli to'yingan spirt karbon kislotaga qadar oksidlandi. Bunda sp³ gibrid orbitallar soni 1,5 marta kamaydi. Spirt formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "metanol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "Bir atomli to'yingan spirt karbon kislotaga qadar oksidlandi. Bunda sp³ gibrid orbitallar soni 1,33 marta kamaydi. Spirt formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "metanol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 82,
+      "question": "Bir atomli to'yingan spirt karbon kislotaga qadar oksidlandi. Bunda sp³ gibrid orbitallar soni 1,25 marta kamaydi. Spirt formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "metanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "Bir atomli to'yingan spirt karbon kislotaga qadar oksidlandi. Bunda sp³ gibrid orbitallar soni 1,2 marta kamaydi. Spirt formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "pentanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "18,5 g bir atomli spirtning ichki molekulyar degidratlanishidan 4,5 g suv hosil bo'ldi. Spirtning molekulyar formulasini aniqlang.",
+      "options": [
+        "butanol",
+        "etanol",
+        "propanol",
+        "pentanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Glitserin va nitrat kislota 1:1 mol nisbatda ta'sirlashganda hosil bo'lgan organik modda molar massasini (g/mol) hisoblang.",
+      "options": [
+        "138",
+        "154",
+        "137",
+        "153"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Etanol tarkibida qanday funksional guruhlar mavjud?",
+      "options": [
+        "X-karbonil; Y-amino",
+        "X-karbonil; Y-karboksil",
+        "X-karbonil; Y-gidroksil",
+        "X-gidroksil; Y-karboksil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "Quyidagi moddalardan 1 moldan olib to'liq yondirilganda, qaysi biridan eng kam suv hosil bo'ladi?",
+      "options": [
+        "glitserin",
+        "propan",
+        "propanol",
+        "propan kislota"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 88,
+      "question": "n-geksanga 1:2 molyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 1,6 marta ortgan bo'lsa, 1:1 molyar nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "1,75",
+        "1,6",
+        "1,45",
+        "1,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "n-geksanga 1:2 molyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 1,9 marta ortgan bo'lsa, 1:1 molyar nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "1,75",
+        "1,6",
+        "1,45",
+        "1,3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 90,
+      "question": "n-geksanga 1:2 molyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 2,2 marta ortgan bo'lsa, 1:1 molyar nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "1,75",
+        "1,6",
+        "1,45",
+        "1,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "n-geksanga 1:2 molyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 2,5 marta ortgan bo'lsa, 1:1 molyar nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "1,75",
+        "1,6",
+        "1,45",
+        "1,3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 92,
+      "question": "Glitseringa spirt (alkanol) qo'shilganda uglerod atomlari soni 3 marta, vodorod atomlari soni 4 marta ortgan bo'lsa, spirtning brutto formulasini aniqlang.",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 93,
+      "question": "Glitseringa spirt (alkanol) qo'shilganda uglerod atomlari soni 5 marta, vodorod atomlari soni 5,5 marta ortgan bo'lsa, spirtning brutto formulasini aniqlang.",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 94,
+      "question": "1 mol butanolning yonish tenglamasidagi koeffitsiyentlar yig'indisini toping.",
+      "options": [
+        "17",
+        "16",
+        "14",
+        "15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 95,
+      "question": "Glitseringa spirt (alkanol) qo'shilganda uglerod atomlari soni 2 marta, vodorod atomlari soni 2 marta ortgan bo'lsa, spirtning brutto formulasini aniqlang.",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 96,
+      "question": "Benzolga 1:2 molyar nisbatda alkanol qo'shilganda atomlar soni 3,5 marta ortgan bo'lsa, 1:1 nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "3,0",
+        "2,75",
+        "2,5",
+        "2,25"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 97,
+      "question": "Uglerod (II) oksiddan 320 g metil spirt sintez qilish uchun necha litr (n.sh.) vodorod talab etiladi?",
+      "options": [
+        "448",
+        "224",
+        "67,2",
+        "44,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 98,
+      "question": "Benzolga 1:2 molyar nisbatda alkanol qo'shilganda atomlar soni 3 marta ortgan bo'lsa, 1:1 nisbatda qo'shilganda atomlar soni necha marta ortadi?",
+      "options": [
+        "2,5",
+        "2,25",
+        "2,0",
+        "1,75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "n-geksanga ekvimolyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 1,3 marta ortgan bo'lsa, spirtning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "46",
+        "60",
+        "74"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 100,
+      "question": "n-geksanga ekvimolyar nisbatda spirt (alkanol) qo'shilganda atomlar soni 1,45 marta ortgan bo'lsa, spirtning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "46",
+        "60",
+        "74"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 101,
+      "question": "Benzolga qaysi spirt qo'shilganda uglerod atomlari soni 5 marta, vodorod atomlari soni 11 marta ortadi?",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 102,
+      "question": "Benzolga qaysi spirt qo'shilganda uglerod atomlari soni 4 marta, vodorod atomlari soni 9 marta ortadi?",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "Benzolga qaysi spirt qo'shilganda uglerod atomlari soni 3 marta, vodorod atomlari soni 7 marta ortadi?",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 104,
+      "question": "Benzolga qaysi spirt qo'shilganda uglerod atomlari soni 2 marta, vodorod atomlari soni 5 marta ortadi?",
+      "options": [
+        "C4H10O",
+        "C3H8O",
+        "C2H6O",
+        "CH4O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 105,
+      "question": "Etanolning mol ulushi 25%ga teng bo'lgan suvli eritmasi Na bilan to'liq reaksiyaga kirishdi. Olingan natriyli birikmalarning massa farqi 13 g ga teng bo'lsa, sarflangan eritma massasini (g) toping.",
+      "options": [
+        "40",
+        "25",
+        "75",
+        "50"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 106,
+      "question": "Butanol-2 ni qaysi uglevodorodlarga suv ta'sir ettirib olish mumkin? 1) butan; 2) buten-1; 3) buten-2.",
+      "options": [
+        "2 va 3",
+        "2",
+        "3",
+        "1 va 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "Massasi 360 g bo'lgan glukozaning spirtli bijg'ishi natijasida hosil bo'lgan mahsulotlarning to'la reaksiyaga kirishishi uchun talab etiladigan NaOH ning miqdorini (mol) hisoblang.",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 108,
+      "question": "RNH2 + KNO2 + HCl → ROH + N2 + KCl + H2O ushbu jarayonda organik moddalar massalari 0,2 g ga farq qilsa, ajralgan gaz miqdorini (mol) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 109,
+      "question": "RNH2 + KNO2 + HCl → ROH + N2 + KCl + H2O ushbu jarayonda organik moddalar massalari 0,4 g ga farq qilsa, ajralgan gaz miqdorini (mol) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 110,
+      "question": "RNH2 + KNO2 + HCl → ROH + N2 + KCl + H2O ushbu jarayonda organik moddalar massalari 0,6 g ga farq qilsa, ajralgan gaz miqdorini (mol) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 111,
+      "question": "Chumoli kislota murakkab efirining 13,875 g miqdorini gidroliz qilish uchun 10%li NaOH ning 91 ml eritmasi (d = 1,1 g/ml) olingan, lekin ishqorning 25% miqdori reaksiyada qatnashmagan. Gidroliz reaksiyasida hosil bo'lgan spirtni aniqlang.",
+      "options": [
+        "propanol",
+        "butanol",
+        "metanol",
+        "etanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 112,
+      "question": "8,96 litr (n.sh.) alken gidratlanganda 4,2 g birlamchi spirt va 19,8 g ikkilamchi spirt hosil bo'ldi. Alken formulasini aniqlang.",
+      "options": [
+        "C2H4",
+        "C3H6",
+        "C4H8",
+        "C5H10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 113,
+      "question": "8,96 litr (n.sh.) alken gidratlanganda 1,8 g birlamchi spirt va 22,2 g ikkilamchi spirt hosil bo'ldi. Alken formulasini aniqlang.",
+      "options": [
+        "C2H4",
+        "C3H6",
+        "C4H8",
+        "C5H10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 114,
+      "question": "8,96 litr (n.sh.) alken gidratlanganda 3,6 g birlamchi spirt va 20,4 g ikkilamchi spirt hosil bo'ldi. Alken formulasini aniqlang.",
+      "options": [
+        "C2H4",
+        "C3H6",
+        "C4H8",
+        "C5H10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 115,
+      "question": "8,96 litr (n.sh.) alken gidratlanganda 2,4 g birlamchi spirt va 21,6 g ikkilamchi spirt hosil bo'ldi. Alken formulasini aniqlang.",
+      "options": [
+        "C2H4",
+        "C3H6",
+        "C4H8",
+        "C5H10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 116,
+      "question": "RHal + KOH → ROH + KHal reaksiyasida dastlabki va hosil bo'lgan galogenli birikmalardagi galogenning massa ulushi 84,2% va 67,3% bo'lsa, spirtning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "32",
+        "46",
+        "60",
+        "74"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 117,
+      "question": "RHal + KOH → ROH + KHal reaksiyasida dastlabki va hosil bo'lgan galogenli birikmalardagi galogenning massa ulushi 55% va 47,6% bo'lsa, spirtning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "32",
+        "46",
+        "60",
+        "74"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 118,
+      "question": "Molyar massasi 12,4 g/mol bo'lgan is gazi va vodorod aralashmasidan metanol sintez qilindi. Olingan aralashmaning molyar massasi 15 g/mol bo'lsa, is gazining sarflanish unumini hisoblang.",
+      "options": [
+        "80%",
+        "75%",
+        "50%",
+        "40%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 119,
+      "question": "Molyar massasi 15 g/mol bo'lgan is gazi va vodorod aralashmasidan metanol sintez qilindi. Olingan aralashmaning molyar massasi 17,6 g/mol bo'lsa, vodorodning sarflanish unumini hisoblang.",
+      "options": [
+        "80%",
+        "75%",
+        "50%",
+        "40%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 120,
+      "question": "Molyar massasi 15 g/mol bo'lgan is gazi va vodorod aralashmasidan metanol sintez qilindi. Olingan aralashmaning molyar massasi 21,5 g/mol bo'lsa, vodorodning sarflanish unumini hisoblang.",
+      "options": [
+        "80%",
+        "75%",
+        "50%",
+        "40%"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 121,
+      "question": "680 g 5%li natriy etilatning etanoldagi eritmasiga 4,5 g suv qo'shildi. Oxirgi eritmadagi etanolning massasini (g) hisoblang.",
+      "options": [
+        "555,5",
+        "589,5",
+        "623,5",
+        "657,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 122,
+      "question": "680 g 10%li natriy etilatning etanoldagi eritmasiga 4,5 g suv qo'shildi. Oxirgi eritmadagi etanolning massasini (g) hisoblang.",
+      "options": [
+        "555,5",
+        "589,5",
+        "623,5",
+        "657,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 123,
+      "question": "680 g 15%li natriy etilatning etanoldagi eritmasiga 4,5 g suv qo'shildi. Oxirgi eritmadagi etanolning massasini (g) hisoblang.",
+      "options": [
+        "555,5",
+        "589,5",
+        "623,5",
+        "657,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 124,
+      "question": "Monobromalkanning 2/3 qismi KOH suvli eritmasi bilan ta'sirlashganda 32,2 g spirt olindi. Qolgan qismi KOH spirtli eritmasi bilan ta'sirlashganda 9,8 g alken olingan bo'lsa, monobromalkan molekulasidagi atomlar sonini hisoblang.",
+      "options": [
+        "8",
+        "11",
+        "13",
+        "14"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 125,
+      "question": "Monobromalkanning 1/3 qismi KOH suvli eritmasi bilan ta'sirlashganda 10,5 g spirt olindi. Qolgan qismi KOH spirtli eritmasi bilan ta'sirlashganda 14,7 g alken olingan bo'lsa, monobromalkan molekulasidagi atomlar sonini hisoblang.",
+      "options": [
+        "8",
+        "11",
+        "13",
+        "14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 126,
+      "question": "Monobromalkanning 3/4 qismi KOH suvli eritmasi bilan ta'sirlashganda 22,5 g spirt olindi. Qolgan qismi KOH spirtli eritmasi bilan ta'sirlashganda 5,25 g alken olingan bo'lsa, monobromalkan molekulasidagi atomlar sonini hisoblang.",
+      "options": [
+        "8",
+        "11",
+        "13",
+        "14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 127,
+      "question": "Molyar massasi 13,2 g/mol bo'lgan formaldegid va vodoroddan iborat 0,5 mol aralashmadan maksimal necha gramm metanol sintez qilish mumkin?",
+      "options": [
+        "3,2",
+        "6,4",
+        "9,6",
+        "12,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 128,
+      "question": "Molyar massasi 24,4 g/mol bo'lgan formaldegid va vodoroddan iborat 0,5 mol aralashmadan maksimal necha gramm metanol sintez qilish mumkin?",
+      "options": [
+        "3,2",
+        "6,4",
+        "9,6",
+        "12,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 129,
+      "question": "Massasi 4,6 g bo'lgan etanol molekulalararo degidratlanganda hosil bo'lgan mahsulotning mol miqdori (reaksiya unumi 0,5 bo'lganda) qancha bo'ladi?",
+      "options": [
+        "0,01",
+        "0,02",
+        "0,025",
+        "0,03"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 130,
+      "question": "30 g propanol degidratlanganda 0,35 mol suv ajralgan bo'lsa, spirtning necha foizi molekulalararo degidratlangan?",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 131,
+      "question": "30 g propanol degidratlanganda 0,3 mol suv ajralgan bo'lsa, spirtning necha foizi molekulalararo degidratlangan?",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 132,
+      "question": "30 g propanol degidratlanganda 0,45 mol suv ajralgan bo'lsa, spirtning necha foizi molekulalararo degidratlangan?",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 133,
+      "question": "23 g etanol degidratlanishi tugaguncha (H2SO4 ishtirokida) qizdirildi. Olingan aralashma KMnO4 suvli eritmasi orqali o'tkazilganda 17,4 g cho'kma hosil bo'ldi. Degidratlanish mahsulotlarining mol nisbatini aniqlang.",
+      "options": [
+        "1:3",
+        "3:5",
+        "2:1",
+        "2:3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 134,
+      "question": "36,8 g etanol degidratlanishi tugaguncha (H2SO4 ishtirokida) qizdirildi. Olingan aralashma KMnO4 suvli eritmasi orqali o'tkazilganda 17,4 g cho'kma hosil bo'ldi. Degidratlanish mahsulotlarining mol nisbatini aniqlang.",
+      "options": [
+        "1:6",
+        "3:5",
+        "6:5",
+        "4:3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 135,
+      "question": "13,8 g etanol degidratlanishi tugaguncha (H2SO4 ishtirokida) qizdirildi. Olingan aralashma KMnO4 suvli eritmasi orqali o'tkazilganda 8,7 g cho'kma hosil bo'ldi. Degidratlanish mahsulotlarining mol nisbatini aniqlang.",
+      "options": [
+        "1:3",
+        "3:5",
+        "2:1",
+        "4:3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 136,
+      "question": "41,4 g etanol degidratlanishi tugaguncha (H2SO4 ishtirokida) qizdirildi. Olingan aralashma KMnO4 suvli eritmasi orqali o'tkazilganda 17,4 g cho'kma hosil bo'ldi. Degidratlanish mahsulotlarining mol nisbatini aniqlang.",
+      "options": [
+        "1:6",
+        "3:5",
+        "1:1",
+        "4:3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 137,
+      "question": "Kaliyning qanday massadagi (g) metanolda eritilishi natijasida 70 g 5%li kaliy metilatning metanoldagi eritmasi hosil bo'ladi?",
+      "options": [
+        "62,4",
+        "64,3",
+        "66,2",
+        "68,1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "Kaliyning qanday massadagi (g) metanolda eritilishi natijasida 70 g 10%li kaliy metilatning metanoldagi eritmasi hosil bo'ladi?",
+      "options": [
+        "62,4",
+        "64,3",
+        "66,2",
+        "68,1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 139,
+      "question": "Kaliyning qanday massadagi (g) metanolda eritilishi natijasida 70 g 15%li kaliy metilatning metanoldagi eritmasi hosil bo'ladi?",
+      "options": [
+        "62,4",
+        "64,3",
+        "66,2",
+        "68,1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 140,
+      "question": "Kaliyning qanday massadagi (g) metanolda eritilishi natijasida 70 g 20%li kaliy metilatning metanoldagi eritmasi hosil bo'ladi?",
+      "options": [
+        "62,4",
+        "64,3",
+        "66,2",
+        "68,1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 141,
+      "question": "KMnO4 neytral eritmasi orqali eten va propen aralashmasi o'tkazilganda 1,74 g cho'kma olindi. Hosil bo'lgan spirtlar Na bilan ishlandi. Reaksiyada ajralgan vodorod hajmini (l, n.sh.) aniqlang.",
+      "options": [
+        "0,56",
+        "0,112",
+        "0,336",
+        "0,672"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 142,
+      "question": "42,8 g spirt va fenol aralashmasiga yetarli miqdordagi natriy ta'sir ettirilganda 6,72 litr (n.sh.) vodorod ajralib chiqdi. Shuncha miqdordagi aralashmani to'la neytrallash uchun 50 g 16%li NaOH eritmasi sarflandi. Spirtni aniqlang.",
+      "options": [
+        "propanol",
+        "butanol",
+        "metanol",
+        "etanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 143,
+      "question": "Molyar massasi 28,8 g/mol bo'lgan metan va metanol bug'laridan iborat aralashmani yondirish uchun 4,8 mol kislorod sarflangan bo'lsa, hosil bo'lgan CO2 miqdorini (mol) hisoblang.",
+      "options": [
+        "3,0",
+        "3,5",
+        "4,0",
+        "4,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 144,
+      "question": "Molyar massasi 25,6 g/mol bo'lgan metan va metanol bug'laridan iborat aralashmani yondirish uchun 6,8 mol kislorod sarflangan bo'lsa, hosil bo'lgan CO2 miqdorini (mol) hisoblang.",
+      "options": [
+        "3,0",
+        "3,5",
+        "4,0",
+        "4,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 145,
+      "question": "Molyar massasi 22,4 g/mol bo'lgan metan va metanol bug'laridan iborat aralashmani yondirish uchun 5,4 mol kislorod sarflangan bo'lsa, hosil bo'lgan CO2 miqdorini (mol) hisoblang.",
+      "options": [
+        "3,0",
+        "3,5",
+        "4,0",
+        "4,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 146,
+      "question": "Molyar massasi 19,2 g/mol bo'lgan metan va metanol bug'laridan iborat aralashmani yondirish uchun 7,6 mol kislorod sarflangan bo'lsa, hosil bo'lgan CO2 miqdorini (mol) hisoblang.",
+      "options": [
+        "3,0",
+        "3,5",
+        "4,0",
+        "4,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 147,
+      "question": "To'yingan bir atomli spirtning to'liq oksidlanishi natijasida atomlar soni 1,5 marta kamaydi. Olingan aldegidni to'liq yondirish uchun 0,25 mol kislorod sarflangan bo'lsa, oksidlangan spirt massasini (g) hisoblang.",
+      "options": [
+        "4,8",
+        "8",
+        "9",
+        "15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 148,
+      "question": "To'yingan bir atomli spirtning to'liq oksidlanishi natijasida atomlar soni 1,5 marta kamaydi. Olingan aldegidni to'liq yondirish uchun 0,15 mol kislorod sarflangan bo'lsa, oksidlangan spirt massasini (g) hisoblang.",
+      "options": [
+        "4,8",
+        "8",
+        "9",
+        "15"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 149,
+      "question": "To'yingan bir atomli spirtning to'liq oksidlanishi natijasida atomlar soni 1,2 marta kamaydi. Olingan aldegidni to'liq yondirish uchun 0,6 mol kislorod sarflangan bo'lsa, oksidlangan spirt massasini (g) hisoblang.",
+      "options": [
+        "4,8",
+        "8",
+        "9",
+        "15"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 150,
+      "question": "1,2 mol bir atomli spirtning ichki molekulyar degidratlanishi natijasida 1/7 molyar nisbatda izomer alkenlar aralashmasi hosil bo'ldi. Bunda 10,5 g qo'shimcha mahsulot (alken) bo'lsa, spirtning molyar massasini hisoblang.",
+      "options": [
+        "46",
+        "60",
+        "74",
+        "88"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 151,
+      "question": "0,9 mol bir atomli spirtning ichki molekulyar degidratlanishi natijasida 1/9 molyar nisbatda izomer alkenlar aralashmasi hosil bo'ldi. Bunda 6,3 g qo'shimcha mahsulot (alken) bo'lsa, spirtning molyar massasini hisoblang.",
+      "options": [
+        "46",
+        "60",
+        "74",
+        "88"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 152,
+      "question": "0,3 mol bir atomli spirtning ichki molekulyar degidratlanishi natijasida 1/9 molyar nisbatda izomer alkenlar aralashmasi hosil bo'ldi. Bunda 1,68 g qo'shimcha mahsulot (alken) bo'lsa, spirtning molyar massasini hisoblang.",
+      "options": [
+        "46",
+        "60",
+        "74",
+        "88"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 153,
+      "question": "0,2 mol bir atomli spirtning ichki molekulyar degidratlanishi natijasida 1/7 molyar nisbatda izomer alkenlar aralashmasi hosil bo'ldi. Bunda 1,4 g qo'shimcha mahsulot (alken) bo'lsa, spirtning molyar massasini hisoblang.",
+      "options": [
+        "46",
+        "60",
+        "74",
+        "88"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 154,
+      "question": "Propil spirtning benzoldagi eritmasiga ortiqcha miqdorda natriy ta'sir ettirilganda, 5,6 litr vodorod (n.sh.) ajralib chiqdi. Eritma tarkibida necha gramm spirt bo'lgan?",
+      "options": [
+        "3,0",
+        "30,0",
+        "15,0",
+        "25,0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "0,8 mol etanol KMnO4 ning kislotali eritmasida (V = 1600 sm³) etanalgacha to'liq oksidlangan bo'lsa, KMnO4 eritmasining konsentratsiyasini (mol/dm³) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 156,
+      "question": "0,8 mol etanol KMnO4 ning kislotali eritmasida (V = 800 sm³) etanalgacha to'liq oksidlangan bo'lsa, KMnO4 eritmasining konsentratsiyasini (mol/dm³) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 157,
+      "question": "0,2 mol etanol KMnO4 ning kislotali eritmasida (V = 400 sm³) etanalgacha to'liq oksidlangan bo'lsa, KMnO4 eritmasining konsentratsiyasini (mol/dm³) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 158,
+      "question": "0,2 mol etanol KMnO4 ning kislotali eritmasida (V = 200 sm³) etanalgacha to'liq oksidlangan bo'lsa, KMnO4 eritmasining konsentratsiyasini (mol/dm³) hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "0,4 mol bir atomli spirtning H2SO4 ishtirokida ichki-molekulyar degidratlanishi natijasida (η = 50%) olingan gaz KMnO4 (H2O) eritmasiga yuttirilganda eritma massasi 6 g ga kamaygan bo'lsa, dastlabki spirt massasini (g) hisoblang.",
+      "options": [
+        "18,4",
+        "24",
+        "29,6",
+        "35,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 160,
+      "question": "0,4 mol bir atomli spirtning H2SO4 ishtirokida ichki-molekulyar degidratlanishi natijasida (η = 75%) olingan gaz KMnO4 (H2O) eritmasiga yuttirilganda eritma massasi 9 g ga kamaygan bo'lsa, dastlabki spirt massasini (g) hisoblang.",
+      "options": [
+        "18,4",
+        "24",
+        "29,6",
+        "35,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 161,
+      "question": "0,4 mol bir atomli spirtning H2SO4 ishtirokida ichki-molekulyar degidratlanishi natijasida (η = 75%) olingan gaz KMnO4 (H2O) eritmasiga yuttirilganda eritma massasi 4,8 g ga kamaygan bo'lsa, dastlabki spirt massasini (g) hisoblang.",
+      "options": [
+        "18,4",
+        "24",
+        "29,6",
+        "35,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "84,6 g fenolga HNO3 ta'sir ettirilganda (H2SO4 ishtirokida) teng mol miqdordagi o-nitrofenol, p-nitrofenol va pikrin kislotalar hosil bo'lsa, reaksiyada qatnashgan HNO3 massasini (g) toping.",
+      "options": [
+        "157,5",
+        "94,5",
+        "126",
+        "63"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 163,
+      "question": "2,96 g alkanolning natriy metali bilan ta'sirlashuvidan 448 ml (n.sh.) etenni to'liq gidrogenlash uchun yetarli bo'lgan vodorod ajralib chiqdi. Reaksiya uchun qaysi alkanol olingan?",
+      "options": [
+        "pentanol",
+        "metanol",
+        "propanol",
+        "butanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 164,
+      "question": "18,8 g metanol va etanol aralashmasi mis (II)-oksid ustidan o'tkazilganda 32 g mis olindi. Aralashmadagi spirtlarning mol nisbatini toping.",
+      "options": [
+        "1:3",
+        "1,5:1",
+        "1:1",
+        "2:1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 165,
+      "question": "0,5 mol glitserinning HNO3 bilan ta'sirlashishi natijasida di- va trinitroglitserin aralashmasi hosil bo'ldi. Aralashmadagi kislorod atomlari dastlabki glitserindagiga nisbatan 2,6 marta ko'p bo'lsa, sarflangan HNO3 miqdorini (mol) toping.",
+      "options": [
+        "1,4",
+        "0,9",
+        "1,2",
+        "1,0"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 166,
+      "question": "259 g to'yingan bir atomli spirt degidratlanishi natijasida 196 g alken hosil bo'ldi. Shu spirtning molyar massasi qanday?",
+      "options": [
+        "32",
+        "74",
+        "60",
+        "86"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 167,
+      "question": "15,5 g ikki atomli spirtdan natriy normal sharoitda 5,6 litr vodorodni siqib chiqarsa, spirtning molyar massasi nechaga teng?",
+      "options": [
+        "88",
+        "75",
+        "62",
+        "114"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 168,
+      "question": "Massasi 60 g bo'lgan 20%li sirka kislota eritmasi metil spirt bilan ta'sirlashganda, 14,8 g murakkab efir hosil bo'ldi. Bunda necha gramm metanol reaksiya kirishgan edi?",
+      "options": [
+        "6,4",
+        "12,8",
+        "3,2",
+        "9,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 169,
+      "question": "Natriy etilat olishda 10 g vodorod ajralib chiqqan bo'lsa, dastlabki spirt tarkibida necha mol vodorod atomi bo'lgan?",
+      "options": [
+        "60",
+        "30",
+        "40",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 170,
+      "question": "Izopropanol va n-geptandan iborat aralashma teng ikki qismga ajratildi. Bir qismi mo'l miqdordagi Na bilan ta'sirlashganda 0,25 mol gaz ajraldi. Qolgan qismini yondirish uchun 5,55 mol O2 sarflangan bo'lsa, dastlabki aralashmadagi izopropanolning massa ulushini hisoblang.",
+      "options": [
+        "16,(6)%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 171,
+      "question": "Izopropanol va n-geptandan iborat aralashma teng ikki qismga ajratildi. Bir qismi mo'l miqdordagi Na bilan ta'sirlashganda 0,25 mol gaz ajraldi. Qolgan qismini yondirish uchun 7,2 mol O2 sarflangan bo'lsa, dastlabki aralashmadagi izopropanolning massa ulushini hisoblang.",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 172,
+      "question": "Izopropanol va n-geptandan iborat aralashma teng ikki qismga ajratildi. Bir qismi mo'l miqdordagi Na bilan ta'sirlashganda 0,25 mol gaz ajraldi. Qolgan qismini yondirish uchun 3,35 mol O2 sarflangan bo'lsa, dastlabki aralashmadagi izopropanolning massa ulushini hisoblang.",
+      "options": [
+        "16,(6)%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 173,
+      "question": "Butanol-1 va butanol-2 dan iborat 14,8 g aralashmani oksidlash uchun KMnO4 ning (c = 0,2 mol/l) kislotali eritmasidan qancha hajm talab etiladi?",
+      "options": [
+        "100 ml",
+        "200 ml",
+        "300 ml",
+        "400 ml"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 174,
+      "question": "Propanol-1 va propanol-2 dan iborat 18 g aralashmani oksidlash uchun KMnO4 ning (c = 0,6 mol/l) kislotali eritmasidan qancha hajm talab etiladi?",
+      "options": [
+        "100 ml",
+        "200 ml",
+        "300 ml",
+        "400 ml"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 175,
+      "question": "Butanol-1 va butanol-2 dan iborat 29,6 g aralashmani oksidlash uchun KMnO4 ning (c = 0,4 mol/l) kislotali eritmasidan qancha hajm talab etiladi?",
+      "options": [
+        "100 ml",
+        "200 ml",
+        "300 ml",
+        "400 ml"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 176,
+      "question": "7,4 g spirt oksidlanganda, uglerod atomlari shuncha bo'lgan kislota olindi. Bu kislotani neytrallash uchun 10%li NaOH eritmasidan (ρ = 1,1 g/sm³) 36,4 ml sarflandi. Qaysi spirt oksidlangan?",
+      "options": [
+        "etanol",
+        "propanol-1",
+        "propanol-2",
+        "butanol-1"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}
