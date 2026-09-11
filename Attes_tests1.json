@@ -1,0 +1,2449 @@
+{
+  "topicId": 1,
+  "title": "Alkanlar",
+  "description": "Alkanlar mavzusi bo'yicha test savollari",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tarkibida 40% vodorod bo'lgan organik modda bo'lishi mumkinmi? Bo'lsa u qaysi modda?",
+      "options": [
+        "deyterometan",
+        "metan",
+        "saxaroza",
+        "etan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Tarkibi C₇H₁₆ bo'lgan va asosiy zanjirida beshta uglerod atomi bo'lgan izomer uglevodorodlar soni nechta bo'ladi?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Propan quyidagi qaysi moddalar bilan reaksiyaga kirishadi? 1) Cl₂; 2) HBr; 3) O₂; 4) HNO₃; 5) CH₃COOH",
+      "options": [
+        "1, 2, 3",
+        "1, 2, 4",
+        "1, 3, 4",
+        "1, 3, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Tarkibida 6,02×10²³ dona vodorod atomi bo'lgan propanning hajmi (n.sh.) necha litr bo'ladi?",
+      "options": [
+        "2,8",
+        "11,2",
+        "22,4",
+        "33,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Tarkibida 16% vodorod bo'lgan alkanni toping.",
+      "options": [
+        "3-etilpentan",
+        "geksan",
+        "oktan",
+        "3-metilpentan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Propan molekulasidagi s- va sp³-orbitallar sonini hisoblang. 1)s-6ta; 2)s-7ta; 3)s-8ta; 4)sp³-8ta; 5)sp³-10ta; 6)sp³-12ta.",
+      "options": [
+        "3, 5",
+        "3, 6",
+        "1, 4",
+        "2, 6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Normal sharoitda hajmi 5,6 l bo'lgan to'yingan uglevodorodning massasi 11 g bo'lsa, u qanday nomlanadi?",
+      "options": [
+        "metan",
+        "etan",
+        "propan",
+        "butan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Bir xil hajmli metan va propan berilgan. Metanning massasi 5 g. Propanning massasini toping.",
+      "options": [
+        "10",
+        "12,5",
+        "13,75",
+        "27,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "A.M. Butlerovning kimyoviy tuzilish nazariyasining hozirgi zamon ta'rifi to'g'ri ko'rsatilgan javobni toping.",
+      "options": [
+        "Murakkab zarrachaning kimyoviy tabiati uning tarkibini tashkil etuvchi moddiy zarrachalarning tabiati, ularning miqdori va kimyoviy tuzilishi bilan belgilanadi.",
+        "Murakkab zarrachaning kimyoviy tabiati uning tarkibiga, kimyoviy, elektron va fazoviy tuzilishiga bog'liq.",
+        "Moddaning xossasini o'rganib, Molekulaning tuzilishini aniqlash, uning tuzilishini va xossasini aks ettiradigan ma'lum bir formula bilan ifodalash mumkin.",
+        "Moddaning kimyoviy xossalari ular molekulasining tarkibiga va kimyoviy tuzilishiga bog'liq."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "2,9 g to'yingan uglevodorod n.sh.da 1,12 l hajm egallaydi. Bu uglevodorodning molekulasida faqat birlamchi va uchlamchi uglerod atomlari borligi ma'lum bo'lsa, u qanday nomlanadi?",
+      "options": [
+        "izobutan",
+        "izogeksan",
+        "izopentan",
+        "n-butan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "To'yingan uglevodorod xlorli hosilasining molekulyar massasi 237 bo'lib, tarkibida 89,9% xlor bor. Moddaning molekulyar formulasini toping.",
+      "options": [
+        "tetraxlormetan",
+        "tetraxlorgeptan",
+        "tetraxloretan",
+        "geksaxloretan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Tarkibiy qismlari bir xil massa ulushda qatnashgan moddalarni ko'rsating.",
+      "options": [
+        "CH₄",
+        "C₆H₆",
+        "CT₄",
+        "C₂D₆"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Uglerodning massa ulushi maksimal qiymatga ega bo'lgan moddani ko'rsating.",
+      "options": [
+        "C₂H₂Cl₄",
+        "C₂H₃Cl₃",
+        "C₂H₄Cl₂",
+        "C₂H₆"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Geliyga nisbatan zichligi 25 bo'lgan alkanning asosiy zanjirida beshta uglerod atomi bo'lgan tuzilish formulalarining soni nechta bo'ladi?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Propan bilan n-dekan, shuningdek, 2-metil-3-xlorpentan bilan 2-metil-3-xlorgeksan bir-biriga nisbatan:",
+      "options": [
+        "gomologlar",
+        "xlorli hosilalar",
+        "izomerlar",
+        "normal tuzilishli uglevodorodlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Qaysi uglevodorod quyidagi element tarkibiga ega? C-83,33%, H-16,67%; 1)pentan; 2)geksan; 3)2-metilbutan; 4)2,2-dimetilpropan; 5)2-metilpentan; 6)3-metilpentan.",
+      "options": [
+        "1, 5, 6",
+        "2, 5, 6",
+        "1, 4, 5",
+        "1, 3, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "2-metilpropanning 0,5 mol miqdoridagi uglerod atomlari sonini hisoblang.",
+      "options": [
+        "3,0×10²³",
+        "9,0×10²³",
+        "1,2×10²⁴",
+        "3,0×10²⁴"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Qaysi metall karbidi suv bilan reaksiyaga kirishganda, metan gaz ajraladi?",
+      "options": [
+        "aluminiy",
+        "magniy",
+        "kalsiy",
+        "stronsiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "2,2,3,4-tetrametilpentan tarkibidagi uglerod atomlarining oksidlanish darajalari yig'indisini toping.",
+      "options": [
+        "-20",
+        "-9",
+        "-36",
+        "-21"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Asosiy zanjirda 4 ta uglerod atomi bo'lgan va molekulyar massasi 114 ga teng bo'lgan to'yingan uglevodorodning nomi.",
+      "options": [
+        "2,2,3,3-tetrametilbutan",
+        "1,2,3,4-tetrametilbutan",
+        "1,1,2,2-tetrametilbutan",
+        "2,3-dimetilbutan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Etan molekulasidagi uglerod atomlari o'zaro qanday orbitallar hisobiga bog'langan?",
+      "options": [
+        "sp²-sp²",
+        "sp³-sp³",
+        "sp-sp",
+        "sp³-s"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Yong'inni o'chirish uchun qaysi birikma qo'llanishi mumkin?",
+      "options": [
+        "CHCl₃",
+        "C₂H₅Cl",
+        "CH₃Cl",
+        "CCl₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Qaysi modda tibbiyotda jarohatlar tuzalishini tezlashtirishda qo'llanadi?",
+      "options": [
+        "CHJ₃",
+        "CH₂J₂",
+        "CH₃Cl",
+        "CH₂Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Qaysi galogenli hosila tibbiyotda narkoz jarayonida ishlatiladi?",
+      "options": [
+        "xloroform",
+        "yodoform",
+        "etil spirt",
+        "dietilefir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Qaysi xususiyat 2,2-dimetilbutan va geksanni umumlashtiradi?",
+      "options": [
+        "gomologlar",
+        "bitta modda",
+        "tuzilish izomerlari",
+        "geometrik izomerlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Izomer moddalar uchun quyidagi javoblarning qaysilari to'g'ri: 1)sifat tarkibi; 2)miqdor tarkibi; 3)molekulyar massasi; 4)kimyoviy tuzilishi; 5)kimyoviy xossalari.",
+      "options": [
+        "1 va 5 har xil; 2, 3 va 4 bir xil",
+        "1, 3 va 4 bir xil; 2 va 5 har xil",
+        "1, 3 va 5 har xil; 2 va 4 bir xil",
+        "1, 2 va 3 bir xil; 4 va 5 har xil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Tarkibi C₇H₁₆ bo'lgan alkanning ikkita uchlamchi uglerodga ega bo'lgan izomerlar soni nechta bo'lishi mumkin?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Geptanning to'rtlamchi uglerodli nechta izomeri mavjud?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Quyidagi moddalarda izomerlar va gomologlar sonining nisbatini toping: 1)2,2,3,3-tetrametilbutan; 2)2,4-dimetilgeksan; 3)3,3-dimetilgeksan; 4)3,3-dimetilgeptan; 5)3,3-dimetilpentan.",
+      "options": [
+        "3:3",
+        "3:2",
+        "2:3",
+        "1:4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "11,2 l propanning 22,4 l kislorodda (n.sh.) yonishi natijasida hosil bo'lgan suv massasini hisoblang.",
+      "options": [
+        "36",
+        "14,4",
+        "22,4",
+        "44,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "11 g propanning to'liq yonishi uchun (n.sh.da) necha litr kislorod kerak?",
+      "options": [
+        "16,5",
+        "22,4",
+        "28",
+        "36,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "16,4 g CH₃COONa va NaOH ning ta'sirlashishi natijasida hosil bo'lgan organik moddani yoqish uchun necha litr (n.sh.) kislorod sarflanadi?",
+      "options": [
+        "6,72",
+        "8,96",
+        "4,48",
+        "11,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Qaysi reaksiyada uglerod atomlarining soni ko'payadi?",
+      "options": [
+        "C₂H₅Cl + NaOH (spirt)",
+        "CH₄ + Cl₂ →",
+        "C₂H₅Cl + Na =",
+        "CH₂=CH₂ + Br₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Qaysi reaksiyada uglerod atomlarining soni kamayadi?",
+      "options": [
+        "C₂H₅COONa + NaOH →",
+        "CH₄ + Cl₂ →",
+        "C₂H₅Cl + C₂H₅Cl + Na =",
+        "CH₂=CH₂ + Br₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Necha gramm natriy asetatdan 2,24 l metan olish mumkin?",
+      "options": [
+        "16,4",
+        "8,2",
+        "4,1",
+        "12,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Propan bromlanganda, nechta monobromli hosila olish mumkin?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "2,2-dimetilpropanning nechta monoxlorli hosilasi bo'ladi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "n-pentanning nechta monogaloidli hosilalari bo'lishi mumkin?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Formulasi C₄H₁₀ bo'lgan uglevodorodning mononitro hosilalari soni nechta bo'lishi mumkin?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Izopropilyodid va ikkilamchi butil yodid natriy metalli bilan reaksiyaga kirishganda, qaysi modda hosil bo'lmaydi?",
+      "options": [
+        "3,4-dimetilgeksan",
+        "2,4-dimetilpentan",
+        "2,3-dimetilbutan",
+        "2,3-dimetilpentan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "1-yod-2-metilpropanning natriy metalli bilan reaksiyasi natijasida qaysi modda hosil bo'ladi?",
+      "options": [
+        "2,4-dimetilgeksan",
+        "2,3-dimetilgeksan",
+        "2,4-dimetilpentan",
+        "2,5-dimetilgeksan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 42,
+      "question": "Faqat 3,4-dimetilgeksan hosil bo'lishi uchun natriy metalli qanday yodalkil(lar) bilan reaksiyaga kirishishi kerak?",
+      "options": [
+        "1-yod-2-metilpropan",
+        "2-yodbutan",
+        "2-yod-2-metilpropan",
+        "2-yod-2-metilpropan va 1-yod-2-metilpropan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Tarkibi C₅H₁₁ bo'lgan alkilning radikallari soni nechta?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "2-metilpropanning nechta dixlorli hosilalari bo'lishi mumkin?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Qaysi karbon kislota ishqor bilan qizdirilganda, 2-metilpropan hosil bo'ladi?",
+      "options": [
+        "2-metilbutan kislota",
+        "3-metilbutan kislota",
+        "2,2-dimetilpropan kislota",
+        "B va C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Vyurs reaksiyasi bo'yicha qaysi galoidalkillardan geksan olinganda, toza mahsulot hosil bo'ladi?",
+      "options": [
+        "CH₃Br va C₅H₁₁Br",
+        "C₂H₅Br va C₄H₉Br",
+        "C₃H₇Br va C₃H₇Br",
+        "C₃H₇Br va C₄H₉Br"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Quyidagi moddalardan 1:2,1 massa nisbatda olib Vyurs reaksiyasini olib borilganda n-geksan hosil bo'ladi? 1)CH₃Cl; 2)C₂H₅Cl; 3)C₄H₉Cl; 4)C₄H₉Cl; 5)C₅H₁₁Cl.",
+      "options": [
+        "1, 2",
+        "1, 5",
+        "2, 4",
+        "3, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Quyidagi modda nomlarining qaysi biri noto'g'ri?",
+      "options": [
+        "2,2,3-trimetilpentan",
+        "2,2,3-trimetilbutan",
+        "2-izopropilpentan",
+        "2,3-dimetilgeksan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Vyurs reaksiyasi bo'yicha faqat n-dekan olish uchun qaysi moddalardan foydalanish ma'qul?",
+      "options": [
+        "metilxlorid va n-nonilxlorid",
+        "etilxlorid va n-oktilxlorid",
+        "propilxlorid va n-geptilxlorid",
+        "n-pentilxlorid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 50,
+      "question": "Metilyodid va izopropilyodid aralashmasining natriy metali bilan reaksiyasida qanday mahsulotlar hosil bo'ladi?",
+      "options": [
+        "metan, 2-metilpropan, 2,3-dimetilbutan",
+        "etan, 2,3-dietilbutan, 2-metilpropan",
+        "etan, 2,3-dimetilbutan, izobutan",
+        "propan, 2,3-dimetilbutan, izobutan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Metilyodid, etilyodid va propilyodidlar aralashmasining natriy metali bilan reaksiyasi natijasida necha xil organik mahsulot hosil bo'ladi?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 52,
+      "question": "Vyurs reaksiyasi asosida qaysi moddadan faqat 2,3-dimetilbutan olish mumkin?",
+      "options": [
+        "etil bromid",
+        "2-brombutan",
+        "2-metil-3-brombutan",
+        "2-brompropan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Vyurs usulida qaysi moddalardan foydalanib, 2,2,4-trimetilpentan olish mumkin? 1)CH₃J; 2)C₂H₅Br; 3)C₄H₉Br; 4)2-brompropan; 5)(CH₃)₃CCH₂Br.",
+      "options": [
+        "1, 5",
+        "2, 3",
+        "2, 4",
+        "4, 5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Diizopropildibutilmetanni xalqaro nomenklatura bo'yicha nomlang.",
+      "options": [
+        "5,5-dipropilnonan",
+        "2-metil-3-izopropil-3-butilgeptan",
+        "5,5-diizopropilnonan",
+        "4,5-diizopropilnonan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Izobutanni xlorlash reaksiyasi natijasida uning necha xil monoxlorli hosilasi hosil bo'ladi?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "n-butanni xlorlash natijasida uning necha xil digaloidli hosilasini olish mumkin?",
+      "options": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Tarkibi C₅H₁₂ bo'lgan uglevodorod xlorlanganda, faqat yagona monoxlorli mahsulot hosil bo'lsa, uglevodorodning nomini toping.",
+      "options": [
+        "pentan",
+        "2,2-dimetilbutan",
+        "2-metilpentan",
+        "2,2-dimetilpropan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "2-metilbutan xlorlanganda, necha xil monoxlorli hosilalar hosil bo'ladi?",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "1 mol to'yingan uglevodorod yonganda 22,4 l (n.sh.da) CO₂ va 36 g suv hosil bo'lgan. To'yingan uglevodorodning formulasini aniqlab, 1 litrini yondirish uchun qancha kislorod (l) sarf bo'lishini toping.",
+      "options": [
+        "etan, 3",
+        "propan, 3",
+        "metan, 2",
+        "butan, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "1 mol metandan xlorlanish reaksiyasi natijasida uglerod tetraxlorid olingan. Mahsulot unumi 60% ni tashkil etgan bo'lsa, necha gramm uglerod tetraxlorid olingan?",
+      "options": [
+        "92,4",
+        "46,2",
+        "23,1",
+        "95,0"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Metanni xlor bilan reaksiyasi natijasida quyidagi moddalardan qaysilari hosil bo'ladi?",
+      "options": [
+        "CH₃Cl va HCl",
+        "CH₂Cl₂ va HCl",
+        "CHCl₃ va HCl",
+        "Ko'rsatilgan moddalarning hammasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Butanni termik krekingi natijasida necha xil organik modda hosil bo'ladi? (degidrogenlash hodisasini hisobga olmang).",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Alkanlardagi C-H atomlar orasida σ-bog'ning kimyoviy xossalari uchun qanday reaksiya tipi xarakterli?",
+      "options": [
+        "o'rin olish",
+        "almashinish",
+        "birikish",
+        "parchalanish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "14 mol metan termik parchalanganda (1500°C), normal sharoitda o'lchangan 125,44 l asetilen ajralib chiqdi. Mahsulotning unumini (%) hisoblang.",
+      "options": [
+        "68",
+        "65",
+        "80",
+        "77"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "6 g etan hosil bo'lishi uchun qanday hajmdagi (l) etilen vodorod bilan reaksiyaga kirishishi kerak?",
+      "options": [
+        "2,24",
+        "4,48",
+        "5,24",
+        "6,58"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "103,2 g alkan tarkibida 24 mol atom bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 67,
+      "question": "5,4 g alkan tarkibida 1,275 mol atom bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "28,8 g alkan tarkibida 6,8 mol atom bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "Etilenga alkan qo'shilganda uglerod atomlari soni 3 marta, vodorod atomlari soni 5 marta ortgan bo'lsa, olingan aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "18,4",
+        "19",
+        "40",
+        "40,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "Etilenga alkan qo'shilganda uglerod atomlari soni 2 marta, vodorod atomlari soni 3 marta ortgan bo'lsa, olingan aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "22",
+        "36",
+        "38,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "Etilenga alkan qo'shilganda uglerod atomlari soni 4 marta, vodorod atomlari soni 5 marta ortgan bo'lsa, olingan aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "22",
+        "36",
+        "38,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Etilenga alkan qo'shilganda uglerod atomlari soni 7 marta, vodorod atomlari soni 9 marta ortgan bo'lsa, olingan aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "18,4",
+        "19",
+        "40",
+        "40,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "Geptan 300°C da X + 4H₂ reaksiya natijasida qaysi uglevodorod olinadi?",
+      "options": [
+        "metilsiklogeksan",
+        "toluol",
+        "siklogeksan",
+        "o-ksilol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Geksan 300°C da X + 4H₂ reaksiya natijasida qaysi uglevodorod olinadi?",
+      "options": [
+        "metilsiklogeksan",
+        "toluol",
+        "benzol",
+        "o-ksilol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "Gomologik qatorda ketma-ket kelgan alkanlarning dixloridlari Mr nisbati 0,86 teng, molekulyar massasi katta bo'lgan uglevodorodning formulasini aniqlang.",
+      "options": [
+        "C₃H₈",
+        "C₂H₆",
+        "CH₄",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 76,
+      "question": "Alkan molekulasida yettita birlamchi va uchta uchlamchi uglerod atomlari bo'lsa, molekuladagi to'rtlamchi uglerod atomlari sonini aniqlang.",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Alkan tarkibidagi birlamchi uglerod atomlari soni 6 ta, to'rtlamchi uglerod atomlari soni esa 1 ta bo'lsa, nechta uchlamchi uglerod atomi borligini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "Alkan tarkibidagi birlamchi uglerod atomlari soni 8 ta, to'rtlamchi uglerod atomlari soni esa 2 ta bo'lsa, nechta uchlamchi uglerod atomi borligini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 79,
+      "question": "Alkan tarkibidagi birlamchi uglerod atomlari soni 7 ta, to'rtlamchi uglerod atomlari soni esa 1 ta bo'lsa, nechta uchlamchi uglerod atomi borligini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 80,
+      "question": "Alkan tarkibida uglerod-vodorod bog'lari soni uglerod-uglerod bog'lari sonidan 9 taga ko'p bo'lsa, shu alkan tarkibidagi vodorod soni uglerod sonidan necha marta ko'p?",
+      "options": [
+        "2,5",
+        "2,66",
+        "2,4",
+        "2,33"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "Uglerod va vodorodning massalari nisbati 5,4:1 bo'lgan metan va etilen aralashmasidan A litr berilgan. Gazlar aralashmasidagi alkanning hajmini (litr) aniqlang.",
+      "options": [
+        "A/5",
+        "A/3",
+        "2A/5",
+        "A/2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Uglerod va vodorodning massalari nisbati 3,75:1 bo'lgan metan va etilen aralashmasidan A litr berilgan. Gazlar aralashmasidagi alkanning hajmini (litr) aniqlang.",
+      "options": [
+        "3A/4",
+        "A/3",
+        "2A/5",
+        "A/2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "O'n beshta birlamchi va beshta to'rtlamchi uglerod atomi saqlagan alkan molekulasida nechta uchlamchi uglerod atomi bo'ladi?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 84,
+      "question": "O'n to'rtta birlamchi va to'rtta to'rtlamchi uglerod atomi saqlagan alkan molekulasida nechta uchlamchi uglerod atomi bo'ladi?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 85,
+      "question": "O'n uchta birlamchi va uchta to'rtlamchi uglerod atomi saqlagan alkan molekulasida nechta uchlamchi uglerod atomi bo'ladi?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 86,
+      "question": "Standart sharoitda alkanning hosil bo'lish entalpiyasi 6320 kJ/mol ga teng bo'lsa, alkanni aniqlang. ΔH(C-C)=350 kJ/mol; ΔH(C-H)=410 kJ/mol.",
+      "options": [
+        "C₈H₁₈",
+        "C₇H₁₆",
+        "C₆H₁₄",
+        "C₅H₁₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "Standart sharoitda alkanning hosil bo'lish entalpiyasi 7490 kJ/mol ga teng bo'lsa, alkanni aniqlang. ΔH(C-C)=350 kJ/mol; ΔH(C-H)=410 kJ/mol.",
+      "options": [
+        "C₈H₁₈",
+        "C₇H₁₆",
+        "C₆H₁₄",
+        "C₅H₁₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "Standart sharoitda alkanning hosil bo'lish entalpiyasi 8660 kJ/mol ga teng bo'lsa, alkanni aniqlang. ΔH(C-C)=350 kJ/mol; ΔH(C-H)=410 kJ/mol.",
+      "options": [
+        "C₈H₁₈",
+        "C₇H₁₆",
+        "C₆H₁₄",
+        "C₅H₁₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "Standart sharoitda alkanning hosil bo'lish entalpiyasi 9830 kJ/mol ga teng bo'lsa, alkanni aniqlang. ΔH(C-C)=350 kJ/mol; ΔH(C-H)=410 kJ/mol.",
+      "options": [
+        "C₈H₁₈",
+        "C₇H₁₆",
+        "C₆H₁₄",
+        "C₅H₁₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "Faqat birlamchi va ikkilamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi uglerod atomlari soni ikkilamchi vodorod atomlari sonidan 5 marta kam bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "86",
+        "72",
+        "58"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 91,
+      "question": "Faqat birlamchi va ikkilamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi uglerod atomlari soni ikkilamchi vodorod atomlari sonidan 4 marta kam bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "86",
+        "72",
+        "58"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 92,
+      "question": "Faqat birlamchi va ikkilamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi uglerod atomlari soni ikkilamchi vodorod atomlari sonidan 3 marta kam bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "86",
+        "72",
+        "58"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 93,
+      "question": "Faqat birlamchi va ikkilamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi uglerod atomlari soni ikkilamchi vodorod atomlari sonidan 2 marta kam bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "86",
+        "72",
+        "58"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 94,
+      "question": "Faqat birlamchi va to'rtlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni to'rtlamchi uglerodlar atomlari sonidan 7,5 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "72",
+        "114",
+        "156",
+        "198"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 95,
+      "question": "Faqat birlamchi va to'rtlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni to'rtlamchi uglerodlar atomlari sonidan 8 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "72",
+        "114",
+        "156",
+        "198"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 96,
+      "question": "Faqat birlamchi va to'rtlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni to'rtlamchi uglerodlar atomlari sonidan 9 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "72",
+        "114",
+        "156",
+        "198"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 97,
+      "question": "Faqat birlamchi va to'rtlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni to'rtlamchi uglerodlar atomlari sonidan 12 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "72",
+        "114",
+        "156",
+        "198"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 98,
+      "question": "Qaysi radikalni (1 dona radikal uchun) hosil qilishda 19 ta elektron qatnashadi?",
+      "options": [
+        "n-propil",
+        "n-butil",
+        "n-pentil",
+        "n-geksil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "Qaysi radikalni (1 dona radikal uchun) hosil qilishda 25 ta elektron qatnashadi?",
+      "options": [
+        "n-propil",
+        "n-butil",
+        "n-pentil",
+        "n-geksil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 100,
+      "question": "Qaysi radikalni (1 dona radikal uchun) hosil qilishda 31 ta elektron qatnashadi?",
+      "options": [
+        "n-propil",
+        "n-butil",
+        "n-pentil",
+        "n-geksil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 101,
+      "question": "Qaysi radikalni (1 dona radikal uchun) hosil qilishda 37 ta elektron qatnashadi?",
+      "options": [
+        "n-propil",
+        "n-butil",
+        "n-pentil",
+        "n-geksil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 102,
+      "question": "Metanga qaysi alkan qo'shilganda massa 12 marta, molyar massa 2,4 marta ortadi?",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "Metanga qaysi alkan qo'shilganda massa 8,5 marta, molyar massa 1,7 marta ortadi?",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 104,
+      "question": "Metanga qaysi alkan qo'shilganda massa 15,5 marta, molyar massa 3,1 marta ortadi?",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 105,
+      "question": "Metanga qaysi alkan qo'shilganda massa 8,25 marta, molyar massa 2,75 marta ortadi?",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 106,
+      "question": "9 ta birlamchi va 3 ta to'rtlamchi uglerod atomlariga ega bo'lgan alkanda nechta uchlamchi uglerod atomi mavjud?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "6 ta birlamchi va 1 ta to'rtlamchi uglerod atomlariga ega bo'lgan alkanda nechta uchlamchi uglerod atomi mavjud?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 108,
+      "question": "8 ta birlamchi va 2 ta to'rtlamchi uglerod atomlariga ega bo'lgan alkanda nechta uchlamchi uglerod atomi mavjud?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 109,
+      "question": "Ikkilamchi, uchlamchi va to'rtlamchi uglerodlar soni o'zaro teng bo'lgan alkan tarkibidagi birlamchi uglerodlar soni 8 ta bo'lsa, alkanning brutto formulasini aniqlang.",
+      "options": [
+        "C₁₄H₃₀",
+        "C₁₂H₂₆",
+        "C₁₆H₃₄",
+        "C₁₅H₃₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 110,
+      "question": "Ikkilamchi, uchlamchi va to'rtlamchi uglerodlar soni o'zaro teng bo'lgan alkan tarkibidagi birlamchi uglerodlar soni 5 ta bo'lsa, alkanning brutto formulasini aniqlang.",
+      "options": [
+        "C₁₇H₁₆",
+        "C₈H₁₈",
+        "C₉H₂₀",
+        "C₁₀H₂₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 111,
+      "question": "Ikkilamchi, uchlamchi va to'rtlamchi uglerodlar soni o'zaro teng bo'lgan alkan tarkibidagi birlamchi uglerodlar soni 8 ta bo'lsa (2-variant), alkanning brutto formulasini aniqlang.",
+      "options": [
+        "C₁₇H₁₆",
+        "C₈H₁₈",
+        "C₉H₂₀",
+        "C₁₄H₃₀"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 112,
+      "question": "0,2 mol alkil radikali tarkibidagi proton, elektron va neytronlari yig'indisi 18·NA ga teng bo'lsa, radikalni aniqlang.",
+      "options": [
+        "butil",
+        "pentil",
+        "geksil",
+        "geptil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 113,
+      "question": "0,2 mol alkil radikali tarkibidagi proton, elektron va neytronlari yig'indisi 31,2·NA ga teng bo'lsa, radikalni aniqlang.",
+      "options": [
+        "butil",
+        "pentil",
+        "geksil",
+        "geptil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 114,
+      "question": "Metanga noma'lum alkan qo'shilganda uglerod atomlari soni 7 marta, vodorod atomlari soni 5 marta ortgan bo'lsa, alkanni aniqlang.",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 115,
+      "question": "Metanga noma'lum alkan qo'shilganda uglerod atomlari soni 9 marta, vodorod atomlari soni 6 marta ortgan bo'lsa, alkanni aniqlang.",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 116,
+      "question": "Metanga noma'lum alkan qo'shilganda uglerod atomlari soni 13 marta, vodorod atomlari soni 9 marta ortgan bo'lsa, alkanni aniqlang.",
+      "options": [
+        "etan",
+        "propan",
+        "butan",
+        "pentan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 117,
+      "question": "Alkan molekulasi tarkibida 16 ta bog' bo'lsa, «n»ning qiymatini hisoblang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 118,
+      "question": "2,2,5,5-tetrametilgeksan molekulasida nechta sp³-orbital mavjud?",
+      "options": [
+        "6",
+        "10",
+        "24",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 119,
+      "question": "2,2,7,8-tetrametil-5,6-dietilnonan molekulasida nechta sp³-orbital mavjud?",
+      "options": [
+        "15",
+        "17",
+        "60",
+        "68"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 120,
+      "question": "M=128 g/mol bo'lgan alkan molekulasi tarkibida uglerod-uglerod o'rtasidagi bog' uglerod-vodorod o'rtasidagi bog'dan nechtaga farq qiladi?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "15"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 121,
+      "question": "Molyar massasi 32 g/mol bo'lgan etan va propandan iborat 0,6 mol aralashmadagi vodorod atomlarini (mol) aniqlang.",
+      "options": [
+        "1,78",
+        "2,98",
+        "3,77",
+        "4,66"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "Propanga noma'lum alkan qo'shilganda uglerod atomlari soni 2 marta, vodorod atomlari soni 5/2 marta ortgan bo'lsa, noma'lum alkanni aniqlang.",
+      "options": [
+        "metan",
+        "etan",
+        "propan",
+        "butan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 123,
+      "question": "Propanga noma'lum alkan qo'shilganda uglerod atomlari soni 3 marta, vodorod atomlari soni 4 marta ortgan bo'lsa, noma'lum alkanni aniqlang.",
+      "options": [
+        "metan",
+        "etan",
+        "propan",
+        "butan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 124,
+      "question": "Metanga noma'lum alkan qo'shilganda uglerod atomlari soni 2 marta, vodorod atomlari soni 5/3 marta ortgan bo'lsa, noma'lum alkanni aniqlang.",
+      "options": [
+        "metan",
+        "etan",
+        "propan",
+        "butan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 125,
+      "question": "Metanga propan qo'shilganda protonlar soni 27 marta ortgan bo'lsa, neytronlar soni necha marta ortgan?",
+      "options": [
+        "30",
+        "31",
+        "32",
+        "33"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 126,
+      "question": "Metanga etan qo'shilganda protonlar soni 19 marta ortgan bo'lsa, neytronlar soni necha marta ortgan?",
+      "options": [
+        "20",
+        "21",
+        "22",
+        "23"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 127,
+      "question": "Metanga propan qo'shilganda protonlar soni 14 marta ortgan bo'lsa, neytronlar soni necha marta ortgan?",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 128,
+      "question": "Metanga etan qo'shilganda protonlar soni 10 marta ortgan bo'lsa, neytronlar soni necha marta ortgan?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 129,
+      "question": "1 ta ikkilamchi, 9 ta uchlamchi va 4 ta to'rtlamchi uglerod atomlari saqlagan alkan molekulasida nechta vodorod atomi bo'ladi?",
+      "options": [
+        "68",
+        "70",
+        "72",
+        "74"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 130,
+      "question": "2 ta ikkilamchi, 9 ta uchlamchi va 3 ta to'rtlamchi uglerod atomlari saqlagan alkan molekulasida nechta vodorod atomi bo'ladi?",
+      "options": [
+        "64",
+        "66",
+        "68",
+        "70"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 131,
+      "question": "3 ta ikkilamchi, 9 ta uchlamchi va 2 ta to'rtlamchi uglerod atomlari saqlagan alkan molekulasida nechta vodorod atomi bo'ladi?",
+      "options": [
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 132,
+      "question": "Monobromalkan molekulasidagi vodorod atomlari soni uglerod atomlari sonidan to'rttaga ko'p bo'lsa, birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "95",
+        "109",
+        "123",
+        "137"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 133,
+      "question": "Monoxloralkan molekulasidagi vodorod atomlari soni uglerod atomlari sonidan ikkitaga ko'p bo'lsa, birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "50,5",
+        "64,5",
+        "78,5",
+        "92,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 134,
+      "question": "Monobromalkan molekulasidagi vodorod atomlari soni uglerod atomlari sonidan beshtaga ko'p bo'lsa, birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "95",
+        "109",
+        "123",
+        "137"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 135,
+      "question": "2,2-dibrom-3,4,4,5-tetrametilgeksan molekulasida uglerod necha xil oksidlanish darajasiga ega?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 136,
+      "question": "2,4-dibrom-2,3,3,5-tetrametilgeksan molekulasida uglerod necha xil oksidlanish darajasiga ega?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 137,
+      "question": "2,2-dibrom-3,3,4,5-tetrametilgeksan molekulasida uglerod necha xil oksidlanish darajasiga ega?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "2,4-dibrom-2,3,3,4-tetrametilgeksan molekulasida uglerod necha xil oksidlanish darajasiga ega?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 139,
+      "question": "Faqat birlamchi va uchlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni uchlamchi uglerod atomlari sonidan 3,75 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "86",
+        "142",
+        "198",
+        "254"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 140,
+      "question": "Faqat birlamchi va uchlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni uchlamchi uglerod atomlari sonidan 4 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "86",
+        "142",
+        "198",
+        "254"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 141,
+      "question": "Faqat birlamchi va uchlamchi uglerod atomlaridan tashkil topgan alkan molekulasi tarkibidagi birlamchi vodorod atomlari soni uchlamchi uglerod atomlari sonidan 4,5 marta ko'p bo'lsa, alkanning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "86",
+        "142",
+        "198",
+        "254"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 142,
+      "question": "Natriy atsetat va mo'l miqdorda olingan natriy ishqordan iborat 300 g aralashma qizdirilganda hosil bo'lgan gaz xlor bilan reaksiyaga kirishib monogaloidli birikma hosil qilgan. Olingan mahsulot natriy metali bilan ta'sirlashib 30 g organik mahsulot hosil bo'lgan bo'lsa, NaOH massasini (g) hisoblang.",
+      "options": [
+        "80",
+        "136",
+        "164",
+        "56"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 143,
+      "question": "Natriy atsetat va mo'l miqdordagi NaOH dan iborat 100 g aralashma qizdirilganda gaz hosil bo'ldi. Bu gaz xlor bilan reaksiyaga kirishishi natijasida olingan monogaloidli birikma natriy bilan ta'sirlashib 7,5 g mahsulot hosil bo'ldi. Reaksiyaga qatnashmagan NaOH massasini (g) aniqlang.",
+      "options": [
+        "39",
+        "20",
+        "41",
+        "59"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 144,
+      "question": "Propan, metan va is gazidan iborat 11,2 l (n.sh.) aralashma yondirilganda 30,8 g CO₂ va 16,2 g H₂O hosil bo'ldi. Dastlabki aralashmadagi moddalar hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "2,8; 4,48; 3,92",
+        "3,36; 6,72; 1,12",
+        "1,12; 2,24; 7,84",
+        "2,24; 5,6; 3,36"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 145,
+      "question": "CH₄, CO va C₃H₈ lardan iborat 15,68 l (n.sh.) aralashma yondirilganda 48,4 g CO₂ va 28,8 g H₂O hosil bo'ldi. Dastlabki aralashma tarkibidagi moddalar mol nisbatini aniqlang.",
+      "options": [
+        "1:2:1",
+        "1:1:1",
+        "4:1:2",
+        "1:2:3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 146,
+      "question": "Izobutilbromid, 1-brom-2,2-dimetilpropan va izopropilbromid natriy bilan ta'sirlashganda (Vyurs reaksiyasi bo'yicha) hosil bo'lgan alkanlardagi birlamchi, uchlamchi va to'rtlamchi uglerod atomlarining sonini aniqlang.",
+      "options": [
+        "28; 8; 4",
+        "12; 8; 5",
+        "28; 8; 8",
+        "10; 8; 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 147,
+      "question": "5 l (n.sh.) izobutan va unga nisbatan mo'l miqdorda olingan kislorod aralashmasi portlatilgandan so'ng hosil bo'lgan suv bug'i kondensatsiyalandi. Qolgan gazlar aralashmasi 37,5 l (n.sh.)ni tashkil etsa, reaksiya uchun olingan kislorodning hajmini (l, n.sh.) toping.",
+      "options": [
+        "32,5",
+        "17,5",
+        "50",
+        "62"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 148,
+      "question": "Alkil xloridga KOH spirtli eritmasi ta'sir ettirilishidan hosil bo'lgan mahsulotga HBr, so'ngra Na ta'sir ettirilganda CH₃C(CH₃)₂C(CH₃)₂CH₃ alkan olindi. Alkil xlorid(lar)ning tuzilishini aniqlang.",
+      "options": [
+        "3, 4",
+        "3",
+        "2",
+        "1, 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 149,
+      "question": "Is gazi va etandan iborat 44,8 l (n.sh.) aralashma yondirilganda (reaksiya unumi 70%) 39,2 l (n.sh.) karbonat angidrid hosil bo'lsa, aralashmadagi is gazining hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "60",
+        "75",
+        "25",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 150,
+      "question": "44,8 l (n.sh.) metan 1500°C da qizdirilganda hajmi 56 l (n.sh.) bo'lgan gazlar aralashmasi hosil bo'lsa, undagi gazlarning hajmiy ulushlarini (%) aniqlang.",
+      "options": [
+        "35; 45; 20",
+        "60; 10; 30",
+        "50; 30; 20",
+        "70; 20; 10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 151,
+      "question": "Azotga nisbatan zichligi 0,8 ga teng bo'lgan metan va kislorod aralashmasi yondirildi va suv bug'lari kondensatlangandan keyin hosil bo'lgan aralashmaning ammiakka nisbatan zichligini aniqlang.",
+      "options": [
+        "0,9",
+        "1,12",
+        "1,49",
+        "25,3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 152,
+      "question": "Ftorga nisbatan zichligi 1 ga teng bo'lgan propan va kislorod aralashmasi yondirildi va suv bug'lari kondensatlangandan keyin hosil bo'lgan aralashmaning kislorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "1,375",
+        "2,17",
+        "0,96",
+        "1,16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 153,
+      "question": "CH₄, C₂H₂ va CO lardan iborat 13,44 l (n.sh.) aralashma yondirilganda 17,92 l (n.sh.) CO₂ va 7,2 g H₂O hosil bo'ldi. Dastlabki aralashmadagi moddalar hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "3,36; 2,24; 7,84",
+        "8,96; 2,24; 2,24",
+        "4,48; 4,48; 4,48",
+        "2,24; 4,48; 6,72"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 154,
+      "question": "CO, C₂H₂ va CH₄ dan iborat 15,68 l (n.sh.) aralashma yondirilganda 39,6 g CO₂ va 18 g suv hosil bo'ldi. Dastlabki aralashmadagi moddalar hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "2,24; 2,24; 2,24",
+        "1,12; 6,72; 7,84",
+        "2,24; 4,48; 8,96",
+        "4,48; 1,12; 5,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 155,
+      "question": "Vodorod, is gazi va metandan iborat 15,68 l (n.sh.) aralashmaning to'la yonishi uchun 89,6 l (n.sh.) havo (φO₂=0,2) sarflandi va 13,5 g suv hosil bo'ldi. Boshlang'ich aralashmadagi vodorod miqdorini (mol) hisoblang.",
+      "options": [
+        "0,15",
+        "0,25",
+        "0,30",
+        "0,45"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 156,
+      "question": "Is gazi, asetilen va metandan iborat 13,44 l (n.sh.) aralashma yondirilganda 20,16 l (n.sh.) CO₂ va 14,4 g H₂O hosil bo'ldi. Dastlabki aralashmadagi moddalar hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "1,68; 5,6; 6,16",
+        "1,12; 6,72; 5,6",
+        "2,24; 6,72; 4,48",
+        "3,36; 2,24; 7,84"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 157,
+      "question": "23,6 g uglevodorodlarning aralashmasi berilgan bo'lib, bunda metanning moli etan va propan mollari yig'indisidan 0,05 molga ko'p. Aralashma yondirilganda 9,33×10²³ ta CO₂ hosil bo'lgan bo'lsa, aralashmaning NH₃ ga nisbatan zichligini toping.",
+      "options": [
+        "1,38",
+        "1,46",
+        "1,53",
+        "1,69"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 158,
+      "question": "Suv yonganda hosil bo'lgan gazlarning o'rtacha molekular massasiga ega bo'lgan 22,4 l CO va CH₄ aralashmasidagi CO ning massa ulushini toping.",
+      "options": [
+        "33,6",
+        "66,67",
+        "47,5",
+        "24,33"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "Stexiometrik nisbatda olingan alkan va O₂ dan iborat 36 ml aralashma reaksiya natijasida 18 ml CO₂ hosil bo'lgan bo'lsa, alkan formulasini aniqlang.",
+      "options": [
+        "C₂H₆",
+        "C₃H₈",
+        "CH₄",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 160,
+      "question": "Alkanlarning gomologik qatorida uglerod bilan vodorodning foiz miqdori etandan geksanga o'tganda qanday o'zgaradi?",
+      "options": [
+        "vodorodning foiz miqdori uglerodnikiga nisbatan ortadi",
+        "uglerodning foiz miqdori qancha oshsa, vodorodniki o'shancha kamayadi",
+        "uglerodning foiz miqdori kamayib, vodorodniki ortib boradi",
+        "vodorod va uglerodlarning foiz miqdorlari o'zaro teng bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 161,
+      "question": "Propil radikalini hosil qilishda nechta elektron qatnashgan?",
+      "options": [
+        "23",
+        "19",
+        "21",
+        "20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Reaksiya unumi 75% bo'lsa, 32,8 g natriy asetatdan qancha hajm (l, n.sh.) metan olish mumkin?",
+      "options": [
+        "8,96",
+        "3,36",
+        "6,72",
+        "4,48"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 163,
+      "question": "D(Ne)=1,81 bo'lgan C₃H₄, C₂H₆ va C₃H₄ dan iborat aralashma 320 g 20%li bromli suvni rangsizlantirdi. Qolgan gazlar aralashmasiga CH₄ qo'shilganda D(NO)=0,79 bo'lgan gazlar aralashmasi hosil bo'ldi, hosil bo'lgan gazlar aralashmasi tarkibidagi metanning hajmiy ulushini toping.",
+      "options": [
+        "40",
+        "60",
+        "30",
+        "70"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 164,
+      "question": "Qaysi alkanning izomerlari uning tarkibidagi vodorodlar soniga nisbati 1,75:1 ga teng?",
+      "options": [
+        "C₇H₁₆",
+        "C₈H₁₈",
+        "C₉H₂₀",
+        "C₆H₁₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 165,
+      "question": "To'yingan uglevodorod krekingi natijasida uchta gaz hosil bo'ldi. Bu aralashmaning zichligi boshlang'ich aralashma zichligidan 1,5 marta kichik bo'ldi. Reaksiya unumi qanday bo'lganligini aniqlang.",
+      "options": [
+        "50",
+        "75",
+        "80",
+        "90"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 166,
+      "question": "To'yingan uglevodorod krekingi natijasida uchta gaz hosil bo'ldi. Bu aralashmaning zichligi boshlang'ich aralashma zichligidan 1,8 marta kichik bo'ldi. Reaksiya unumi qanday bo'lganligini aniqlang.",
+      "options": [
+        "50",
+        "75",
+        "80",
+        "90"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 167,
+      "question": "Noma'lum ikkita alkanning 1:2 hajmiy nisbatdagi aralashmasidagi vodorod atomlari soni uglerod atomlar sonidan 8/3 marta ko'p bo'lsa, ushbu aralashmaning argonga nisbatan zichligini aniqlang? (Alkanlar massasi bir biridan 42 m.a.b.ga farq qiladi)",
+      "options": [
+        "2,2",
+        "1,47",
+        "3,66",
+        "1,1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 168,
+      "question": "Izobutan 25°C da yorug'lik ta'sirida monoxlorlanganda, birlamchi, ikkilamchi, uchlamchi vodorod atomlarining xlorga almashinish tezligi tegishlicha 1,0:3,8:5,0 ga teng bo'lsa, hosil bo'ladigan izomerlarning massa ulushini (%) aniqlang.",
+      "options": [
+        "64,3 va 35,7",
+        "56,7 va 43,3",
+        "67,8 va 32,2",
+        "71,8 va 28,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 169,
+      "question": "Hajmiy nisbatlari 3:7:4 nisbatda olingan alkan, kislorod, azot aralashmasi portlatildi va suv bug'i kondensatsiyalandi. Hosil bo'lgan gazlarning geliyga nisbatan zichligi 8,625 ga teng bo'lsa, dastlabki aralashmadagi uglevodorodni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 170,
+      "question": "Agar ikki xil alkanlarning monoxlorli hosilalari natriy metali ishtirokida Vyurs reaksiyasiga kirishganda CH₃CH(CH₃)C(CH₃)₂... va ... tarkibli moddalar ham hosil bo'lgan bo'lsa, reaksiyada qatnashgan galogenuglevodorodlar tarkibidagi to'rtlamchi (a), ikkilamchi (b) va birlamchi (c) uglerod atomlari sonini aniqlang.",
+      "options": [
+        "a-1; b-2; c-8",
+        "a-1; b-0; c-9",
+        "a-1; b-1; c-8",
+        "a-1; b-1; c-9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 171,
+      "question": "C₄H₈Cl₂ tarkibli moddaning asosiy zanjirida to'rtta uglerod atomi bo'lgan asiklik izomerlari sonini aniqlang. (geometrik izomerlarni hisobga olmang)",
+      "options": [
+        "14",
+        "15",
+        "13",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 172,
+      "question": "2-metilbutan 25°C da monoxlorlanganda birlamchi, ikkilamchi va uchlamchi vodorod atomlarining xlorga almashinish tezligi tegishli ravishda 1:3,8:5 ga tengligini hisobga olib hosil bo'ladigan izomerlarning massa ulushini aniqlang.",
+      "options": [
+        "28:14:35:23",
+        "21:21:33:25",
+        "18:24:25:33",
+        "33:14:30:23"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 173,
+      "question": "34,27 g alkanning ftorli hosilasi tarkibida 17,44 g ftor bo'lsa, shu moddaning formulasini aniqlang.",
+      "options": [
+        "C₃H₅F₃",
+        "C₅H₉F₃",
+        "C₄H₇F₃",
+        "C₆H₁₁F₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 174,
+      "question": "Metan va etandan iborat gazlar aralashmasini (w(CH₄)=52%) to'liq yondirish uchun 152,7 litr (n.sh.) ozon-kislorod aralashmasi (φ(O₃)=0,2) dan sarflangan bo'lsa, dastlabki aralashmaning massasini (g) hisoblang.",
+      "options": [
+        "16",
+        "62",
+        "42",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 175,
+      "question": "1/3 mol metan yorug'lik ta'sirida xlorlanganda ajralgan gaz 280 g 20%li kaliy ishqorini neytrallashga yetarli bo'lsa, hosil bo'lgan galogenli hosila formulasini toping.",
+      "options": [
+        "CCl₄",
+        "CH₂Cl₂",
+        "CHCl₃",
+        "CH₃Cl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 176,
+      "question": "Tarkibida 15,625×10²³ ta vodorod atomi bo'lgan 11,2 l metan va butan aralashmasini yoqish uchun ozon-kislorod (φ(O₂)=0,76) aralashmasidan necha litr kerak?",
+      "options": [
+        "56",
+        "32,48",
+        "29",
+        "62,72"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 177,
+      "question": "Metanning hajmiy ulushi 67% ga teng bo'lgan metan va etandan iborat bo'lgan gazlar aralashmasini to'liq yondirish uchun ozonning hajmiy ulushi 20% bo'lgan ozon-kislorod aralashmasidan 152,7 l (n.sh.) sarflangan bo'lsa, dastlabki aralashmaning hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "44,8",
+        "67,2",
+        "22,4",
+        "89,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 178,
+      "question": "Dixloretan ombor zararkunandalariga qarshi kurashda ishlatildi. Agar har 1 m³ hajmga 200 g dan dixloretan ishlatilsa, 300 m³ hajmdagi xonani zararsizlantirish uchun qancha miqdorda (mol) dixloretan zarur bo'ladi?",
+      "options": [
+        "530",
+        "606",
+        "1500",
+        "250"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 179,
+      "question": "Atsetilenni kaliy permanganatning suvli eritmasi shavel kislotaga qadar oksidlaydi. Oksidlovchi va qaytaruvchining ekvivalent massasini aniqlang.",
+      "options": [
+        "158; 13",
+        "52,7; 6,5",
+        "31,6; 6,5",
+        "52,7; 3,25"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 180,
+      "question": "Stexiometrik nisbatda olingan alkan va kislorod aralashmasi yondirilgandan keyin, suv bug'lari kondensatlangach, idishdagi bosim ikki marta kamaydi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 181,
+      "question": "Stexiometrik nisbatda olingan alkan va kislorod aralashmasi yondirilgandan keyin, suv bug'lari kondensatlangach, idishdagi bosim 2,25 marta kamaydi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 182,
+      "question": "Stexiometrik nisbatda olingan alkan va kislorod aralashmasi portlatilgandan keyin hosil bo'lgan aralashma hajmi boshlang'ich aralashma hajmiga teng bo'ldi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 183,
+      "question": "Etan va kisloroddan iborat 1000 ml aralashma portlatilgandan keyin, suv bug'lari kondensatlangach aralashma hajmi 500 ml gacha kamaydi. Boshlang'ich aralashmadagi alkanning hajmiy ulushini aniqlang.",
+      "options": [
+        "0,1",
+        "0,2",
+        "0,3",
+        "0,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 184,
+      "question": "Propan va kisloroddan iborat 2000 ml aralashma portlatilgandan keyin, suv bug'lari kondensatlangach aralashma hajmi 1100 ml gacha kamaydi. Boshlang'ich aralashmadagi alkanning hajmiy ulushini aniqlang.",
+      "options": [
+        "0,1",
+        "0,15",
+        "0,2",
+        "0,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 185,
+      "question": "Hajmi 4 ml bo'lgan alkan va 16 ml kisloroddan iborat aralashma portlatilib, suv bug'lari kondensatlangach aralashma hajmi 10 ml ni tashkil qildi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "C₅H₁₂",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 186,
+      "question": "Noma'lum alkan va kisloroddan iborat, o'rtacha molyar massasi 33,5 bo'lgan aralashma yondirilgandan keyin, aralashma o'rtacha massasi 39,2 bo'lib qoldi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "C₅H₁₂",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 187,
+      "question": "Noma'lum alkan va kisloroddan iborat, o'rtacha molyar massasi 31,6 bo'lgan aralashma yondirilgandan keyin, aralashma o'rtacha massasi 41,6 bo'lib qoldi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "C₅H₁₂",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 188,
+      "question": "Hajmiy nisbati 1:6:3 bo'lgan noma'lum alkan, kislorod va azotdan iborat aralashma portlatilgandan keyin hosil bo'lgan bitta murakkab va ikkita oddiy moddadan iborat aralashmaning o'rtacha molyar massasi 33,6 bo'ldi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 189,
+      "question": "Hajmiy nisbati 1:7:3 bo'lgan noma'lum alkan, kislorod va azotdan iborat aralashma portlatilgandan keyin hosil bo'lgan bitta murakkab va ikkita oddiy moddadan iborat aralashmaning o'rtacha molyar massasi 35,0 bo'ldi. Alkanni aniqlang.",
+      "options": [
+        "C₂H₆",
+        "CH₄",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 190,
+      "question": "Hajmi 22,4 l bo'lgan metanning quyosh nuri ta'sirida xlorlanishidan hosil bo'lgan aralashmani neytrallash uchun 320 ml (ρ=1,25 g/ml) 42%li kaliy gidroksid eritmasi sarflandi. Xlor bilan almashinmagan vodorod atomlari sonini aniqlang.",
+      "options": [
+        "6,02×10²³",
+        "12,04×10²³",
+        "18,06×10²³",
+        "24,08×10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 191,
+      "question": "Hajmi 16,8 l bo'lgan metanning quyosh nuri ta'sirida xlorlanishidan hosil bo'lgan aralashmani neytrallash uchun 160 ml (ρ=1,25 g/ml) 21%li kaliy gidroksid eritmasi sarflandi. Xlor bilan almashingan vodorod atomlari sonini aniqlang.",
+      "options": [
+        "4,515×10²³",
+        "12,04×10²³",
+        "18,06×10²³",
+        "24,08×10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 192,
+      "question": "Hajmi 13,44 l bo'lgan etanning quyosh nuri ta'sirida xlorlanishidan hosil bo'lgan aralashmani neytrallash uchun 240 ml (ρ=1,25 g/ml) 44,8%li kaliy gidroksid eritmasi sarflandi. Xlor bilan almashinmagan vodorod atomlari sonini aniqlang.",
+      "options": [
+        "14,448×10²³",
+        "7,224×10²³",
+        "18,06×10²³",
+        "3,24×10²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 193,
+      "question": "Alkanlarning ozon ishtirokida yonishining umumiy formulasida ozon oldidagi koeffisient qiymatini aniqlang.",
+      "options": [
+        "1,5n + 0,5",
+        "n + 1/3",
+        "n + 1",
+        "0,5n + 1,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 194,
+      "question": "Alkan tarkibida uglerod-vodorod bog'lari soni uglerod-uglerod bog'lari sonidan 8 taga ko'p bo'lsa, shu alkandagi uglerodning massa ulushini aniqlang.",
+      "options": [
+        "0,827",
+        "0,818",
+        "0,833",
+        "0,837"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 195,
+      "question": "Vyurs reaksiyasi asosida 1 moldan metil va etil xloridlari yetarli miqdorda natriy qo'shib qizdirilganda, 4,48 l (n.sh.) etan hosil bo'lganligi ma'lum bo'lsa, hosil bo'lgan propan hajmini aniqlang.",
+      "options": [
+        "8,96",
+        "11,2",
+        "4,48",
+        "13,44"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 196,
+      "question": "Vyurs reaksiyasi asosida 1 moldan metil va etil xloridlari yetarli miqdorda natriy qo'shib qizdirilganda, 4,48 l (n.sh.) propan hosil bo'lganligi ma'lum bo'lsa, hosil bo'lgan butan hajmini aniqlang.",
+      "options": [
+        "8,96",
+        "11,2",
+        "4,48",
+        "13,44"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 197,
+      "question": "Quyidagi alkanlardan qaysilarini Vyurs reaksiyasida toza holda olish mumkin (a) va qaysilarini toza holda olib bo'lmaydi (b)? 1)etan; 2)propan; 3)n-butan; 4)izobutan; 5)izopentan; 6)neopentan; 7)n-pentan; 8)n-geksan; 9)metan.",
+      "options": [
+        "a-1, 3, 6, 8; b-2, 4, 5, 7",
+        "a-1, 3, 8; b-2, 4, 5, 6, 7, 9",
+        "a-2, 4, 5, 6, 7, 9; b-1, 3, 8",
+        "a-1, 3, 8; b-2, 4, 5, 6, 7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 198,
+      "question": "Vyurs reaksiyasi bo'yicha teng miqdorda olingan propil bromid va noma'lum alkil bromididan umumiy massasi 10,8 g bo'lgan alkanlar aralashmasi va 30,9 g natriy bromid hosil bo'ldi. Noma'lum radikalni aniqlang.",
+      "options": [
+        "metil",
+        "etil",
+        "izopropil",
+        "izobutil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 199,
+      "question": "Vyurs reaksiyasi bo'yicha teng miqdorda olingan propil xlorid va noma'lum alkil xlorididan umumiy massasi 17,4 g bo'lgan alkanlar aralashmasi va 35,1 g natriy xlorid hosil bo'ldi. Noma'lum radikalni aniqlang.",
+      "options": [
+        "metil",
+        "etil",
+        "izopropil",
+        "izobutil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 200,
+      "question": "Izobutil xlorid va ikkilamchi butil xloridlardan (a) hamda ikkilamchi-, izo- va uchlamchi butil xloridlaridan (b) Vyurs reaksiyasi natijasida necha xil alkan olish mumkin?",
+      "options": [
+        "a-3; b-5",
+        "a-2; b-4",
+        "a-3; b-6",
+        "a-4; b-6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 201,
+      "question": "Fisher-Tropsh usuli bo'yicha 1:2:3 mol nisbatda metan, etan va propan aralashmasidan 10,4 g hosil bo'ldi. Boshlang'ich mahsulotlardan qanchadan (g) olinganligini aniqlang.",
+      "options": [
+        "19,6; 3,4",
+        "18,4; 6,8",
+        "8,2; 2,2",
+        "21,2; 18,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 202,
+      "question": "Fisher-Tropsh usuli bo'yicha 3:2:1 mol nisbatda metan, etan va propan aralashmasidan 10,4 g hosil bo'ldi. Boshlang'ich aralashmaning o'rtacha molyar massasini aniqlang.",
+      "options": [
+        "19,6",
+        "8,41",
+        "9,22",
+        "12,18"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 203,
+      "question": "Qarag'ay daraxtidan zajratib olingan alkan nechta digalogenli hosila hosil qiladi?",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 204,
+      "question": "Hajmi 10 ml bo'lgan noma'lum uglevodorod 80 ml kislorod qo'shib portlatildi. Suv bug'lari kondensatsiyalangach, aralashma hajmi 65 ml bo'lib qoldi. Ushbu aralashma KOH eritmasi orqali o'tkazilganda 45 ml bo'lib qoldi. Uglevodorodning molyar massasini aniqlang.",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 205,
+      "question": "Hajmi 8 ml bo'lgan noma'lum uglevodorod 56 ml kislorod qo'shib portlatildi. Suv bug'lari kondensatsiyalangach, aralashma hajmi 52 ml bo'lib qoldi. Ushbu aralashma KOH eritmasi orqali o'tkazilganda 36 ml bo'lib qoldi. Uglevodorodning molyar massasini aniqlang.",
+      "options": [
+        "26",
+        "28",
+        "30",
+        "32"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 206,
+      "question": "Massasi 1,44 g bo'lgan alkanning brom bilan ta'sirlashishi natijasida 3,02 g monobromli hosila hosil bo'ldi. Ushbu alkanda birlamchi, ikkilamchi va uchlamchi uglerod atomlari mavjud bo'lsa, ushbu alkandagi ikkinchi uglerod atomi oksidlanish darajasini aniqlang.",
+      "options": [
+        "-2",
+        "-1",
+        "0",
+        "-3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 207,
+      "question": "Propan xlorlanganda hosil bo'lgan mahsulotning 29,5 g massasi 21,3 g xlor tutsa, necha xil xlorli birikma ushbu holatga mos tushishini aniqlang.",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 208,
+      "question": "Butan xlorlanganda hosil bo'lgan mahsulotning 25,2 g massasi 14,2 g xlor tutsa, necha xil boshlang'ich birikma ushbu holatga mos tushishini aniqlang.",
+      "options": [
+        "11",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 209,
+      "question": "Propandan 2,3-dimetilbutan hosil qilish uchun qaysi moddalar ketma-ketligidan foydalanish kerak?",
+      "options": [
+        "Cl₂ (quyosh nuri), NaOH (suvli), Na",
+        "Cl₂ (quyosh nuri), NaOH (spirtli), K",
+        "Br₂ (quyosh nuri), Na",
+        "Cl₂ (quyosh nuri), Al₂O₃ (t°), Na"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 210,
+      "question": "Massasi 27,5 g bo'lgan bir asosli to'yingan karbon kislotaning natriyli tuzi mo'l miqdorda NaOH bilan qizdirilganda 80% unum bilan 4,48 l (n.sh.) gaz ajraldi. Hosil bo'lgan uglevodorodni aniqlang.",
+      "options": [
+        "C₅H₁₂",
+        "C₂H₆",
+        "C₃H₈",
+        "C₄H₁₀"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 211,
+      "question": "Uglerod va vodorod atomlari soni nisbati 0,35:1 bo'lgan etan va propandan 6,72 l (n.sh.) aralashma yonishidan hosil bo'lgan gaz 70 g 40%li NaOH bilan reaksiyaga kirishdi. Reaksiya mahsulot(lar)ining formulasi va massasini aniqlang.",
+      "options": [
+        "50,4 g NaHCO₃; 10,6 g Na₂CO₃",
+        "74,2 g Na₂CO₃",
+        "58,8 g NaHCO₃",
+        "25,2 g NaHCO₃; 42,4 g Na₂CO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 212,
+      "question": "Kaliy propionat va mo'l miqdordagi KOH dan iborat 100 g aralashma qizdirilganda gaz hosil bo'ldi. Bu gaz xlor bilan reaksiyaga kirishishi natijasida olingan monogaloidli birikma natriy bilan ta'sirlashib, 14,5 g mahsulot hosil bo'ldi. Reaksiyaga qatnashmagan KOH massasini aniqlang.",
+      "options": [
+        "56",
+        "16",
+        "84",
+        "44"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 213,
+      "question": "Metil va etil galogenidlarining ekvimolyar aralashmasiga mo'l miqdordagi Na metali ta'sir ettirilganda 6,6 g ekvimolyar gazlar aralashmasi va 45 g tuz hosil bo'ldi. Alkil galogenid tarkibidagi galogenni aniqlang.",
+      "options": [
+        "Br",
+        "I",
+        "F",
+        "Cl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 214,
+      "question": "Noma'lum bir asosli karbon kislotaning kaliyli tuzi ishqor bilan suyuqlantirilganda 17,4 g A uglevodorod hosil bo'ladi. Shunday miqdordagi ushbu tuzning suvdagi eritmasi to'liq elektroliz qilinganda esa 17,4 g B uglevodorod hosil bo'lsa, dastlabki tuzning massasini aniqlang.",
+      "options": [
+        "42",
+        "50,4",
+        "56",
+        "58,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 215,
+      "question": "Noma'lum uglevodorodni to'liq yoqish uchun uning gomologik qatorida o'zidan bitta avval turadigan huddi shunday miqdordagi uglevodorodni yoqishga sarflanadigan kislorodga nisbatan 1,75 marta ko'p kislorod sarflansa, uglevodorodni aniqlang.",
+      "options": [
+        "etan",
+        "propen",
+        "oktadien",
+        "toluol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 216,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 16,4 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 217,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 15,7 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 218,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 17,1 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 219,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 17,8 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "20"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 220,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 18,5 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "24"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 221,
+      "question": "Alkan tetraxlorlanganda hosil bo'lgan aralashma bug'ining geliyga nisbatan zichligi 15 ga teng bo'lsa, dastlabki alkanning bitta molekulasida nechta sp³ gibridlangan orbital bo'ladi?",
+      "options": [
+        "12",
+        "8",
+        "16",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 222,
+      "question": "Havoga nisbatan zichligi 2 ga teng bo'lgan 0,58 g gaz modda yondirilganda 896 ml CO₂ va 0,9 g suv hosil bo'ldi. Agar shu modda xlorlanganda 3:1 nisbatda ikki xil monoxlor birikma hosil bo'lsa, dastlabki moddani aniqlang.",
+      "options": [
+        "2-metilpropan",
+        "izopentan",
+        "2-metiletan",
+        "2-metilbutan"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
