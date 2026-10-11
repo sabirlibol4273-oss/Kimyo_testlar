@@ -1,0 +1,1206 @@
+{
+  "topicId": 4,
+  "title": "Alkadienlar",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Alkadiyenlarning gomologik qatori qanday umumiy formula bilan ifodalanadi?",
+      "options": [
+        "CₙH₂ₙ₊₂",
+        "CₙH₂ₙ",
+        "CₙH₂ₙ₋₂",
+        "CₙHₙ₋₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Butadiyen-1,2 da uglerod atomi qanday gibridlangan holatda bo'ladi?",
+      "options": [
+        "faqat sp²",
+        "sp³ va sp",
+        "faqat sp²",
+        "sp, sp² va sp³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Izopren molekulasida qanday kimyoviy bog'lar mavjud?",
+      "options": [
+        "8 ta σ va 2 ta π",
+        "10 ta σ va 2 ta π",
+        "12 ta σ va 2 ta π",
+        "9 ta σ va 3 ta π"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Pentadien-1,4 molekulasida nechta uglerod atomi sp² gibridlangan holatda bo'ladi?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "1,3-butadien molekulasidagi 2- va 3-uglerod atomlarining gibridlanish turi qanday?",
+      "options": [
+        "sp³",
+        "sp²",
+        "sp",
+        "spd"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Butadien-1,3 dagi gibrid orbitallar sonini ko'rsating.",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "11"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "102,5 g alkadiyen tarkibida 20 mol atom bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "4,8 g alkadiyen tarkibida 505,68·10²¹ ta atom bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "138,5 kPa va 47°C da o'lchangan 1,92 litr divinil tarkibidagi vodorodning miqdorini (mol) aniqlang.",
+      "options": [
+        "0,1",
+        "0,4",
+        "0,6",
+        "0,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Alkadiyen molekulasidagi proton, elektron va neytronlari yig'indisini topish formulasini ko'rsating.",
+      "options": [
+        "14n – 4",
+        "14n + 4",
+        "22n – 4",
+        "24n – 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Alkadiyen molekulasidagi vodorod sonidan uglerod soni ayirmasi nimaga teng?",
+      "options": [
+        "2n – 2",
+        "2n + 2",
+        "n – 2",
+        "n + 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Alkadiyen molekulasidagi vodorod atomlarining mol ulushi 62,5% bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Alkadiyen molekulasida umumiy bog'lar soni 17 ta bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Alkadiyen molekulasidagi elektronlar soni atomlar sonidan 2,8 marta ko'p bo'lsa, alkadiyenning molyar massasini (g·mol⁻¹) aniqlang.",
+      "options": [
+        "82",
+        "96",
+        "110",
+        "124"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Alkadiyen molekulasidagi protonlar soni neytronlar sonidan 12 taga ko'p bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Alkadiyen molekulasi tarkibidagi vodorod atomlari soni uglerod atomlari sonidan 1,6 marta ko'p bo'lsa, alkadiyenning molyar massasini (g·mol⁻¹) hisoblang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Alkadiyen molekulasi tarkibidagi vodorod atomlari soni uglerod atomlari sonidan 4 taga ko'p bo'lsa, alkadiyenning molyar massasini (g·mol⁻¹) hisoblang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Alkadiyen molekulasidagi umumiy bog'lar soni protonlar sonidan 2,7 marta kam bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Alkadiyen molekulasidagi umumiy bog'lar soni protonlar sonidan 24 taga kam bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Alkadiyen molekulasidagi umumiy bog'lar soni vodorod atomlari sonidan 1,7 marta ko'p bo'lsa, \"n\" ni toping.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "2-metilbutadiyen-1,3 molekulasidagi sp³-, sp²- va sp-gibridlangan orbitallar va bog' hosil qilishda qatnashgan s va p orbitallar sonini ko'rsating.\n1) s – 2 ta; 2) s – 6 ta; 3) s – 8 ta; 4) p – 2 ta; 5) p – 4 ta; 6) sp – 1 ta; 7) sp – 2 ta; 8) sp – yo'q; 9) sp² – 9 ta; 10) sp² – 10 ta; 11) sp² – 12 ta; 12) sp³ – 4 ta.",
+      "options": [
+        "1, 2, 4, 7, 11",
+        "1, 3, 4, 8, 12",
+        "3, 5, 8, 11, 12",
+        "1, 2, 5, 9, 11"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Alkadiyen molekulasidagi sp³ – orbitallar soni sp² – orbitallardan 2 marta ko'p bo'lsa, molekuladagi umumiy bog'lar sonini hisoblang (molekulada sp – orbitallar mavjud emas).",
+      "options": [
+        "20",
+        "23",
+        "26",
+        "29"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "2-etil-3-metilgeksadiyen-1,3 molekulasidagi uglerod atomlari sonini toping.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Asosiy zanjirida beshta uglerod saqlagan C₅H₈ tarkibli nechta diyen bor (geometrik izomerlarsiz)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Asosiy zanjirida to'rtta uglerod saqlagan C₅H₈ tarkibli nechta diyen bor (geometrik izomerlarsiz)?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Asosiy zanjirida oltita uglerod saqlagan C₆H₁₀ tarkibli nechta diyen bor (geometrik izomerlarsiz)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Asosiy zanjirida to'rtta uglerod saqlagan C₆H₁₀ tarkibli nechta diyen bor (geometrik izomerlarsiz)?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Geksadiyen molekulasida nechta sp³ – s bog'lanish bo'lishi mumkin?",
+      "options": [
+        "4 yoki 5 yoki 6 yoki 7 yoki 8",
+        "2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "2 yoki 3 yoki 5 yoki 6",
+        "4 yoki 5 yoki 6 yoki 7 yoki 8 yoki 9"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Geksadiyen molekulasida nechta sp² – s bog'lanish bo'lishi mumkin?",
+      "options": [
+        "4 yoki 5 yoki 6 yoki 7 yoki 8",
+        "2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "2 yoki 3 yoki 5 yoki 6",
+        "4 yoki 5 yoki 6 yoki 7 yoki 8 yoki 9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Pentadiyen molekulasida nechta sp³ – s bog'lanish bo'lishi mumkin?",
+      "options": [
+        "0 yoki 2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "0 yoki 2 yoki 3 yoki 5 yoki 6",
+        "2 yoki 3 yoki 5 yoki 6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Pentadiyen molekulasida nechta sp² – s bog'lanish bo'lishi mumkin?",
+      "options": [
+        "0 yoki 2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "2 yoki 3 yoki 4 yoki 5 yoki 6",
+        "0 yoki 2 yoki 3 yoki 5 yoki 6",
+        "2 yoki 3 yoki 5 yoki 6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "2-metilbutadiyen-1,3 va kislorod aralashmasi yonishidan 52,8 g CO₂ ajraldi. Ortib qolgan alkadiyen 1,6 g vodorodni biriktirib oldi. Boshlang'ich aralashmadagi uglevodorod miqdorini (mol) aniqlang.",
+      "options": [
+        "1,04",
+        "0,24",
+        "0,40",
+        "0,64"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Izopren va kislorod aralashmasi yonishidan 2,6 mol CO₂ hosil bo'ldi. Ortib qolgan alkadiyenni to'la bromlash uchun 0,6 mol Br₂ sarflandi. Boshlang'ich aralashmadagi izopren miqdorini (mol) aniqlang.",
+      "options": [
+        "0,82",
+        "0,47",
+        "0,30",
+        "0,52"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Quyidagi uglevodorodlardan geometrik izomerlari mavjud bo'lganlarini tanlang.\n1) 2-metilpentadiyen-1,4; 2) 3-metilpentadiyen-1,3; 3) 2-metilbutadiyen-1,3; 4) 4-metilpenten-2; 5) 4-metilpentadiyen-1,3; 6) pentadiyen-1,3; 7) 4-metil-2-etilpentadiyen-1,3.",
+      "options": [
+        "3, 5, 6",
+        "2, 4, 6",
+        "1, 3, 5, 7",
+        "1, 2, 4, 7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Quyidagi uglevodorodlardan geometrik izomerlari mavjud bo'lmaganlarini tanlang.\n1) 2-metilpentadiyen-1,4; 2) 3-metilpentadiyen-1,3; 3) 2-metilbutadiyen-1,3; 4) 4-metilpenten-2; 5) 4-metilpentadiyen-1,3; 6) pentadiyen-1,3; 7) 4-metil-2-etilpentadiyen-1,3.",
+      "options": [
+        "3, 5, 6",
+        "2, 4, 6",
+        "1, 3, 5, 7",
+        "1, 2, 4, 7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "To'la gidrogenlanganda 3-metilpentan hosil qiluvchi uglevodorodlarni aniqlang.",
+      "options": [
+        "3-metilpentadiyen-1,4; 2-etilbuten-1",
+        "metilizopropilatsetilen; 2-metilpenten-2",
+        "3-metilgeksen-2; 3-metilpentin-1",
+        "metilsiklobutan; siklogeksan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Geometrik izomeri mavjud bo'lgan diyen uglevodorodni aniqlang.",
+      "options": [
+        "pentadiyen-1,2",
+        "pentadiyen-1,3",
+        "pentadiyen-1,4",
+        "pentadiyen-2,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "G'alla ekinlariga qattiq qora kuya kasalligiga qarshi qanday modda ishlatiladi?",
+      "options": [
+        "geksaxlorbenzol",
+        "geksaxlorsiklogeksan",
+        "geksaxloran",
+        "geksaxlorbutadiyen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "50 ml butan va kislorod (mo'l miqdorda) aralashmasi yondirildi. Reaksiya tugaganidan so'ng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 17,5 ml ga kamaygan bo'lsa, dastlabki aralashmadagi butanning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "10",
+        "90",
+        "61,53",
+        "38,47"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "0,1 mol to'yinmagan uglevodorod to'liq yondirilishidan olingan gazlar aralashmasi 150 g 39,9%li Ba(OH)₂ eritmasiga yuttirilganda 39,4 g cho'kma olingan bo'lsa, noma'lum diyenni aniqlang.",
+      "options": [
+        "C₅H₈",
+        "C₃H₄",
+        "C₆H₁₀",
+        "C₂H₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "0,08 mol to'yinmagan uglevodorod to'liq yondirilishidan olingan gazlar aralashmasi 150 g 22,8%li Ba(OH)₂ eritmasiga yuttirilganda 31,52 g cho'kma olingan bo'lsa, noma'lum diyenni aniqlang.",
+      "options": [
+        "C₅H₈",
+        "C₃H₄",
+        "C₆H₁₀",
+        "C₂H₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "2,7,7,8-tetrametil-5,6-dietilnonadiyen-2,3 molekulasidagi sp(a), sp²(b), sp³(c) orbitallar σ-bog'lar (d) va bog' hosil qilishda qatnashgan orbitallar (e) sonini aniqlang.",
+      "options": [
+        "a – 2 ta; b – 6 ta; c – 48; d – 42 ta; e – 88",
+        "a – 2 ta; b – 6 ta; c – 48; d – 42 ta; e – 96",
+        "a – 2 ta; b – 6 ta; c – 56; d – 48 ta; e – 100",
+        "a – 2 ta; b – 6 ta; c – 56; d – 48 ta; e – 110 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "2,7,7,8-tetrametil-5,6-dietilnonadiyen-2,3 molekulasidagi sp(a), sp³(b), sp²(c) orbitallar σ-bog'lar (d) va bog' hosil qilishda qatnashgan orbitallar (e) sonini aniqlang.",
+      "options": [
+        "a – 2 ta; b – 48 ta; c – 6 ta; d – 42 ta; e – 96 ta",
+        "a – 2 ta; b – 6 ta; c – 48 ta; d – 42 ta; e – 96 ta",
+        "a – 2 ta; b – 6 ta; c – 56 ta; d – 48 ta; e – 100 ta",
+        "a – 2 ta; b – 56 ta; c – 6 ta; d – 48 ta; e – 100 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Diyen uglevodorodi vodorod xlorid bilan to'la reaksiyaga kirishganda uning molyar massasi 2,35 marta ortdi. Diyenning molekulyar massasini aniqlang.",
+      "options": [
+        "68",
+        "54",
+        "42",
+        "74"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Bitta uchbog' va ikkita qo'shbog' tutuvchi uglevodorodlarning kislorod ishtirokida yonishining umumiy formulasida kislorod oldidagi koeffitsient qiymatini aniqlang.",
+      "options": [
+        "1,5n – 0,5",
+        "n + 1/3",
+        "n – 1",
+        "1,5n – 1,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Bitta uchbog' va ikkita qo'shbog' tutuvchi uglevodorodlarning ozon ishtirokida yonishining umumiy formulasida ozon oldidagi koeffitsient qiymatini aniqlang.",
+      "options": [
+        "1,5n – 0,5",
+        "n + 2/3",
+        "n – 1",
+        "1,5n – 1,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Alkadiyen tarkibidagi C–H bog'lari soni uglerod atomlari orasidagi oddiy bog'lar sonidan 5 taga ko'p bo'lsa, shu alkadiyenning 0,4 molidagidek atom tutuvchi metan hajmini (l) aniqlang.",
+      "options": [
+        "17,92",
+        "12,54",
+        "23,26",
+        "35,84"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Alkadiyen tarkibidagi C–C atomlari orasidagi oddiy bog'lari soni C–H atomlari orasidagi bog'lar sonidan 3 martaga kam bo'lsa, shu alkadiyenning stexiometrik miqdordagi kislorod bilan portlatilishidan keyin suv bug'lari kondensatsiyalanmagan holda idishdagi bosim boshlang'ich bosimga nisbatan necha marta ortishini aniqlang.",
+      "options": [
+        "1,07",
+        "1,18",
+        "1,12",
+        "1,15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Uglevodorodlarning umumiy formulasidan kelib chiqqan holda ular uchun \"n\" qiymatini ko'rsating.\na) alkanlar; b) alkenlar; c) alkinlar; d) alkadiyenlar; e) sikloalkanlar; f) bitta qo'shbog' va bitta uchbog' tutuvchilar.\n1) n ≥ 1; 2) n ≥ 2; 3) n ≥ 3; 4) n ≥ 4; 5) n ≥ 5.",
+      "options": [
+        "a-1; b-2; c-3; d-4; e-3; f-5",
+        "a-1; b-2; c-2; d-3; e-3; f-4",
+        "a-2; b-3; c-3; d-4; e-4; f-4",
+        "a-1; b-2; c-2; d-4; e-3; f-4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Noma'lum diyen gidrobromlanganda hosil bo'lgan monobromli birikmadagi bromning massa ulushi brommetandagi massa ulushiga nisbatan 1,57 marta kamroq bo'lsa, shu alkadiyenning qanday massasi 800 g 2%li bromli suvni to'liq rangsizlantiradi?",
+      "options": [
+        "3,4",
+        "6,8",
+        "4",
+        "5,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Pentadiyen-1,3 ning qanday massasi 89,6 g 2,5%li bromli suv bor idish orqali o'tkazilganda 3:2 mol nisbatda di va tetrabromli hosilalar paydo bo'ladi?",
+      "options": [
+        "0,68",
+        "0,34",
+        "1,28",
+        "2,56"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Butin-1, butadiyen-1,3 va butin-2 dan iborat 5,4 g aralashma bromning 5%li CCl₄ dagi eritmasining (ρ = 1,6 g/ml) qanday hajmi bilan to'liq ta'sirlashishini aniqlang.",
+      "options": [
+        "640",
+        "400",
+        "480",
+        "520"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Noma'lum uglevodorod sharoitga qarab 160 g yoki 320 g bromni biriktiradi. Tetrabromidning dibromidga massa nisbati 1,74 bo'lsa, noma'lum uglevodorodni aniqlang.\n1) CH₂CHCHCH₂; 2) CH₂CHCH₂CH₂CHCH₂; 3) CH₃CH₂CHCH₂; 4) CH₃CCH.",
+      "options": [
+        "2",
+        "3, 4",
+        "1, 2",
+        "1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Lebedev usuli bo'yicha 1 tonna butadiyen kauchuk olish uchun necha tonna bug'doy kerak? (unum 75%; bug'doyda kraxmal 40%)",
+      "options": [
+        "5,68",
+        "11,1",
+        "10",
+        "7,78"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Alkadiyenning 6 ml hajmi to'liq yonishi uchun olingan 40 ml kislorodning 17,5%i ortib qoldi. Hosil bo'lgan karbonat angidrid hajmini aniqlang.",
+      "options": [
+        "18",
+        "24",
+        "30",
+        "36"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 56,
+      "question": "Alkadiyenni to'liq yoqish uchun undan massasi 3,2 marta ko'p bo'lgan kislorod sarfladi. Ushbu alkadiyenning ikkinchi uglerod atomi oksidlanish darajasini aniqlang.",
+      "options": [
+        "–1",
+        "–2",
+        "–3",
+        "0"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Alkadiyenni to'liq yoqish uchun undan massasi 3,294 marta ko'p bo'lgan kislorod sarfladi. Ushbu alkadiyenning 0,3 moli yondirilishidan olingan gaz modda kaliy gidroksidning 200 g eritmasi bilan ta'sirlashganda hosil bo'lgan modda(lar) massasini aniqlang. Kaliy gidroksid eritmasidagi erituvchi massasi erigan modda massasidan 24 g ga kam.",
+      "options": [
+        "150",
+        "207",
+        "69; 100",
+        "69; 50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Alkadiyenlar tarkibidagi elektronlar sonini hisoblash formulasini keltiring.",
+      "options": [
+        "8n + 2",
+        "10n – 2",
+        "14n – 2",
+        "8n – 2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Butadiyen-1,3 va etilenning sopolimerlanishidan hosil bo'lgan kauchukning 27,6 g namunasi 200 g 16%li bromli suvni rangsizlantirsa, kauchukda butadiyen va etilen qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Butadiyen-1,3 va etilenning sopolimerlanishidan hosil bo'lgan kauchukning 19,2 g namunasi 200 g 16%li bromli suvni rangsizlantirsa, kauchukda butadiyen va etilen qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "2:1",
+        "2:3",
+        "2:5",
+        "1:2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "Butadiyen-1,3 va etilenning sopolimerlanishidan hosil bo'lgan kauchukning 22 g namunasi 200 g 16%li bromli suvni rangsizlantirsa, kauchukda butadiyen va etilen qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Butadiyen-1,3 va etilenning sopolimerlanishidan hosil bo'lgan kauchukning 33,2 g namunasi 200 g 16%li bromli suvni rangsizlantirsa, kauchukda butadiyen va propilen qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "1:1",
+        "1:2",
+        "1:3",
+        "1:4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 63,
+      "question": "Alkadiyen molekulasi bromlanganda tetrabromli birikma hosil bo'ldi. Hosil bo'lgan moddaning massasi alkadiyenning massasidan 4,9 marta og'ir bo'lsa, molekuladagi proton, elektron, neytronlari yig'indisini hisoblang.",
+      "options": [
+        "106",
+        "128",
+        "150",
+        "172"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Alkadiyen molekulasi ozonda yondirilganda ozonning oldiga qo'yiladigan koeffitsiyentni ko'rsating.",
+      "options": [
+        "1,5n",
+        "n + 1",
+        "n – 1/3",
+        "n – 1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "0,2 mol alkadiyen yondirilganda hosil bo'lgan karbonat angidridning massasi suv massasidan 24,4 g ga ko'p bo'lsa, \"n\" ning qiymatini hisoblang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Ekvimolyar nisbatda olingan CₙH₂ₙ₊₂ va CₙH₂ₙ₋₂ dan iborat uglevodorodlar aralashmasini yondirish uchun sarflangan kislorodning hajmi uglevodorodlar hajmidan 4,5 marta ko'p bo'lsa, \"n\" ning qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Pentadiyen-1,3 ning 896 g 25%li bromli suv bilan reaksiyasida dibromli va tetrabromli mahsulotlarning molyar nisbati 5:1 bo'lsa, reaksiya uchun sarf bo'lgan alkadiyen massasini (g) hisoblang.",
+      "options": [
+        "68",
+        "74,8",
+        "81,6",
+        "88,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "32,4 g butadiyen-1,3 ning polimerlanishidan olingan namuna tarkibida 2,8595·10²¹ ta monomer bor. Reaksiyaga kirishmagan alkadiyen 240 g 4%li bromli suvni rangsizlantira oladi. Polibutadiyenning o'rtacha molekulyar massasini toping.",
+      "options": [
+        "6480",
+        "648",
+        "648000",
+        "64800"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Izoprenning gidrogenlanish reaksiyasida ekvimolyar nisbatda 2-metilbutan va 2-metilbuten-2 dan iborat 22,4 litr (n.sh.) aralashma hosil bo'lsa, reaksiyaga qatnashgan vodorod hajmi (l; n.sh.) va izoprenning massasini (g) aniqlang.",
+      "options": [
+        "33,6; 68",
+        "67,2; 136",
+        "22,4; 68",
+        "33,6; 102"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "Qaysi monomerlarning qo'sh polimerlanish formulasi (–CH₂C(CH₃) = CHCH₂CH₂–C(CH₃)₂–)ₙ bo'lgan yuqori molekulyar birikma hosil qilishga olib keladi?\n1) xloropren; 2) izopren; 3) butadiyen-1,3; 4) pentadiyen-1,3; 5) izobutilen; 6) buten-1; 7) buten-2.",
+      "options": [
+        "1, 5",
+        "3, 6",
+        "2, 5",
+        "3, 7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Formulasi: [–H₂CC(Cl) = CHCH₂CH₂CH(C₂H₅)–]ₙ bo'lgan yuqori molekulyar birikma qaysi monomerlarning qo'sh polimerlanishidan hosil bo'lganligini ko'rsating.\n1) xloropren; 2) izopren; 3) butadiyen-1,3; 4) pentadiyen-1,3; 5) izobutilen; 6) buten-1; 7) buten-2.",
+      "options": [
+        "1, 6",
+        "2, 7",
+        "3, 5",
+        "4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 72,
+      "question": "Butadiyen-1,3 va stirolning sopolimerlanishidan hosil bo'lgan kauchukning 73,2 g namunasi 400 g 8%li bromli suvni rangsizlantirsa, kauchukda butadiyen-1,3 va stirol qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "3:1",
+        "1:6",
+        "1:3",
+        "6:1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Butadiyen-1,3 va stirolning sopolimerlanishidan hosil bo'lgan kauchukning 53,2 g namunasi 400 g 24%li bromli suvni rangsizlantirsa, kauchukda butadiyen-1,3 va stirol qanday molyar nisbatda bo'lgan?",
+      "options": [
+        "3:1",
+        "1:6",
+        "1:3",
+        "6:1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "Noma'lum alkadiyenning to'liq bromlanish reaksiya tenglamasining o'ng va chap tomonidagi atomlar yig'indisi 22 ga teng bo'lsa, alkadiyenning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 75,
+      "question": "Noma'lum alkadiyenning to'liq bromlanish reaksiya tenglamasining o'ng va chap tomonidagi atomlar yig'indisi 28 ga teng bo'lsa, alkadiyenning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 76,
+      "question": "Noma'lum alkadiyenning to'liq bromlanish reaksiya tenglamasining o'ng va chap tomonidagi atomlar yig'indisi 34 ga teng bo'lsa, alkadiyenning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 77,
+      "question": "Noma'lum alkadiyenning to'liq bromlanish reaksiya tenglamasining o'ng va chap tomonidagi atomlar yig'indisi 40 ga teng bo'lsa, alkadiyenning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "40",
+        "54",
+        "68",
+        "82"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "Noma'lum alkadiyenning vodorod xlorid bilan reaksiyasi natijasida umumiy massasi 743 g bo'lgan monoxlorli va dixlorli hosilalar olindi. Olingan aralashmada uglerod va xlor massalari yig'indisi 691 g hamda xlor atomlari uglerod atomlaridan 18 molga kam ekanligi ma'lum bo'lsa, dixlorli hosila miqdorini (mol) hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Noma'lum alkadiyenning vodorod xlorid bilan reaksiyasi natijasida umumiy massasi 779,5 g bo'lgan monoxlorli va dixlorli hosilalar olindi. Olingan aralashmada uglerod va xlor massalari yig'indisi 726,5 g hamda xlor atomlari uglerod atomlaridan 17 molga kam ekanligi ma'lum bo'lsa, monoxlorli hosila miqdorini (mol) hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 80,
+      "question": "Noma'lum alkadiyenning vodorod xlorid bilan reaksiyasi natijasida umumiy massasi 743 g bo'lgan ikki xil xlorli hosilalar olindi. Olingan aralashmada uglerod va xlor massalari yig'indisi 691 g hamda xlor atomlari uglerod atomlaridan 18 molga kam ekanligi ma'lum bo'lsa, monoxlorli hosila miqdorini (mol) hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "Molyar nisbatlari 2:3 bo'lgan stirol va butadiyen-1,3 ning sopolimerlanishidan o'rtacha arifmetik molekulyar massasi 55 500 bo'lgan polimer olingan bo'lsa, polimerlanish darajasini (n) aniqlang.",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 82,
+      "question": "Molyar nisbatlari 3:2 bo'lgan stirol va butadiyen-1,3 ning sopolimerlanishidan o'rtacha arifmetik molekulyar massasi 84 000 bo'lgan polimer olingan bo'lsa, polimerlanish darajasini (n) aniqlang.",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Molyar nisbatlari 1:4 bo'lgan stirol va butadiyen-1,3 ning sopolimerlanishidan o'rtacha arifmetik molekulyar massasi 80 000 bo'lgan polimer olingan bo'lsa, polimerlanish darajasini (n) aniqlang.",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Molyar nisbatlari 4:1 bo'lgan stirol va butadiyen-1,3 ning sopolimerlanishidan o'rtacha arifmetik molekulyar massasi 94 000 bo'lgan polimer olingan bo'lsa, polimerlanish darajasini (n) aniqlang.",
+      "options": [
+        "100",
+        "150",
+        "200",
+        "250"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 85,
+      "question": "4 litr butan katalitik degidrogenlanishi natijasida butadiyen-1,3 va vodorodning 5 litr gazlar aralashmasi hosil bo'ldi. Shu aralashmadagi gazlarning hajmiy ulushini toping?",
+      "options": [
+        "70%; 10%; 20%",
+        "80%; 5%; 15%",
+        "50%; 25%; 25%",
+        "15%; 60%; 25%"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 86,
+      "question": "Tarkibida 24,08·10²³ vodorod atomi tutgan izopren molekulasini yoqish uchun qancha kislorod atomi kerak bo'ladi?",
+      "options": [
+        "21,07·10²³",
+        "42,14·10²³",
+        "7,52·10²³",
+        "15,04·10²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "C₃H₆, C₂H₆ va C₄H₆ lardan iborat 0,4 mol aralashmaning massasi 17,2 g. Aralashma tarkibidagi uglerod massasini aniqlang.",
+      "options": [
+        "12,6",
+        "14,8",
+        "13,85",
+        "11,45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 88,
+      "question": "C₅H₁₀, C₄H₁₀ va C₆H₁₀ lardan iborat 6,72 l aralashmaning massasi 21 g kelsa, shu aralashmada C va H atomlari nisbatini toping.",
+      "options": [
+        "1:1",
+        "2:1",
+        "3:2",
+        "1:2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "C₄H₁₀, C₄H₈ va C₄H₆ dan iborat aralashma 17,92 l kelsa, uning massasi 45,2 g bo'ladi. Shu aralashma yondirilgandan so'ng qancha g CO₂ va H₂O hosil bo'ladi?",
+      "options": [
+        "140,8; 61,2",
+        "44; 18",
+        "70,4; 30,6",
+        "281,6; 122,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "Izoprenning gidrogenlanish reaksiyasida umumiy massasi 42 g bo'lgan teng hajmli 2-metilbuten-1, 2-metilbuten-2 va 3-metilbuten-1 aralashmasi hosil bo'ldi, reaksiyaga kirishgan 2-metilbutadiyen-1,3 va vodorodning massalarini (g) aniqlang.",
+      "options": [
+        "40,8; 1,2",
+        "28,2; 0,6",
+        "34,6; 1,0",
+        "4,2; 1,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 91,
+      "question": "1 ml uglevodorod va 8,5 ml kislorod aralashmasi yondirilgandan so'ng hosil bo'lgan suv bug'i kondensatlanganda gazlar aralashmasining hajmi 7,5 ml ni tashkil etdi. Ushbu gazlar ishqor eritmasidan o'tkazilganda esa ularning hajmi 5,5 ml ni tashkil qildi. Uglevodorodning molekular massasini aniqlang.",
+      "options": [
+        "26",
+        "24",
+        "28",
+        "30"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 92,
+      "question": "162 g butadiyen-1,3 olish uchun kerak bo'ladigan etil spirtining (ρ = 0,8 g/sm³) hajmini (ml) toping. (η = 75%)",
+      "options": [
+        "460",
+        "368",
+        "286,2",
+        "282,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "15 millilitri CₓHᵧ tarkibli uglevodorod bo'lgan CₓHᵧ va O₂ dan iborat 100 ml aralashmadagi gazlar reaksiyaga kirishishi natijasida hosil bo'lgan suv bug'lari kondensatlangandan so'ng hajm 70 ml ni tashkil qildi. Ushbu aralashma kaliy gidroksid eritmasi orqali o'tkazilganda gazning hajmi 40 ml gacha kamaydi. Uglevodorodning formulasini aniqlang.",
+      "options": [
+        "C₃H₄",
+        "C₃H₆",
+        "C₂H₄",
+        "C₂H₆"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 94,
+      "question": "Reaksiya unumi 70% bo'lsa, S.V. Lebedev usuli bo'yicha 200 l 96%li etil spirtdan (ρ = 0,8 g/sm³) necha kilogramm divinil olish mumkin?",
+      "options": [
+        "63",
+        "54",
+        "74",
+        "90"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 95,
+      "question": "Qaysi qatorda siklogeksen izomerlari keltirilgan?",
+      "options": [
+        "2-metilpenten-1; pentin-1; pentadiyen-1,3",
+        "etilsiklobutan; metilsiklopentan; 2,3-dimetilbuten-2",
+        "siklogeksan; siklobutan; siklogeksen",
+        "geksin-1; metilsiklopenten; 2-metilpentadiyen-1,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 96,
+      "question": "Qaysi qatorda izobutilen izomerlari keltirilgan?",
+      "options": [
+        "buten-1; buten-2; butadiyen-1,2",
+        "siklobutan; buten-2; metilsiklopropan",
+        "izopren; butadiyen-1,3; metilsiklobutan",
+        "vinilatsetilen; dimetilatsetilen; 1,2-metilsiklopropan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 97,
+      "question": "Qaysi qatorda siklobuten izomerlari keltirilgan?",
+      "options": [
+        "buten-1; buten-2; 2-metilpropen-1",
+        "siklopentan; siklogeksan; siklopropan",
+        "izopren; butadiyen-1,3; metilsiklobutan",
+        "dimetilatsetilen; butadiyen-1,3; metilsiklopropen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 98,
+      "question": "Noma'lum uglevodorodning 5 l (n.sh.) hajmi 40 l (n.sh.) kislorod ishtirokida (kislorod mo'l miqdorda olingan) yoqildi. So'ngra hosil bo'lgan suv bug'lari kondensatsiyalandi. Qolgan gazlar aralashmasi 35 l (n.sh.) ni tashkil etsa, reaksiya uchun olingan uglevodorodni aniqlang.",
+      "options": [
+        "allen",
+        "butin",
+        "2-metilbutadien-1,3",
+        "atsetilen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "Ochiq zanjirli to'yingan uglevodorodning 4 l (n.sh.) hajmi 40 litr kislorod ishtirokida (kislorod mo'l miqdorda olingan) yoqildi. So'ngra hosil bo'lgan suv bug'lari kondensatsiyalandi. Qolgan gazlar aralashmasi 26 l (n.sh.) ni tashkil etsa, reaksiya uchun olingan uglevodorodni aniqlang.",
+      "options": [
+        "butan",
+        "siklobutan",
+        "geksan",
+        "siklogeksan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 100,
+      "question": "Ochiq zanjirli to'yingan uglevodorodning 6 l (n.sh.) hajmi 35 litr kislorod ishtirokida (kislorod mo'l miqdorda olingan) yoqildi. So'ngra hosil bo'lgan suv bug'lari kondensatsiyalandi. Qolgan gazlar aralashmasi 26 l (n.sh.) ni tashkil etsa, undagi CO₂ ning foiz miqdorini toping.",
+      "options": [
+        "61,53",
+        "46,15",
+        "92,3",
+        "75"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 101,
+      "question": "Diyen uglevodorodining 5 l (n.sh.) hajmini 40 l (n.sh.) kislorod ishtirokida yoqildi. So'ngra hosil bo'lgan suv bug'lari kondensatsiyalandi. Qolgan gazlar aralashmasi 35 l (n.sh.) ni tashkil qilsa, necha foiz kislorod yonishda sarf bo'lgan?",
+      "options": [
+        "50",
+        "25",
+        "75",
+        "57"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 102,
+      "question": "O'zaro izomer bo'lgan noma'lum alken va sikloalkandan iborat 5 l (n.sh.) aralashma 40 l kislorodda yoqildi. So'ngra hosil bo'lgan suv bug'lari kondensatsiyalandi. Qolgan gazlar aralashmasi 30 l (n.sh.) ni tashkil qilsa, undagi CO₂ ning hajmini (l) aniqlang.",
+      "options": [
+        "20",
+        "25",
+        "15",
+        "26"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 103,
+      "question": "Alken va kisloroddan iborat 70 litr aralashma yondirilganda 45 litr aralashma olindi. Agar reaksiya uchun olingan kislorod hajmi alkenning 40%ini yondirishga yetarli bo'lsa, dastlabki aralashmadagi kislorodning hajmiy ulushini (%) aniqlang. (suv bug'i kondensatsiyalangan)",
+      "options": [
+        "35,71",
+        "33,33",
+        "66,67",
+        "64,28"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 104,
+      "question": "Alken va kisloroddan iborat 90 litr aralashma yondirilganda 50 litr aralashma olindi. Agar reaksiya uchun olingan alkenning 1/3 qismi ortib qolgan bo'lsa, alkenni aniqlang. (suv bug'i kondensatsiyalangan)",
+      "options": [
+        "C₃H₆",
+        "C₂H₄",
+        "C₄H₈",
+        "C₅H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 105,
+      "question": "50 ml CₓHᵧ tarkibli uglevodorod va azotdan iborat aralashma 200 ml kislorod qo'shib portlatildi. Reaksiyadan keyin aralashma hajmi 250 ml bo'lib qoldi. Suv bug'lari kondensatsiyalangandan so'ng aralashma hajmi 160 ml, bu aralashma ishqordan o'tkazilgandan keyin esa 70 ml bo'lib qoldi. Uglevodorod formulasini aniqlang.",
+      "options": [
+        "C₃H₈",
+        "C₂H₄",
+        "C₃H₄",
+        "CH₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 106,
+      "question": "7 l (n.sh.) alkadiyen va unga nisbatan mo'l miqdorda olingan kislorod aralashmasi portlatilgandan so'ng hosil bo'lgan suv bug'lari kondensatlandi. Agar qolgan gazlar aralashmasi argondan 6,25% og'ir bo'lib, 40 l (n.sh.) hajmini tashkil etsa, reaksiya uchun olingan kislorodning hajmini (l; n.sh.) aniqlang.",
+      "options": [
+        "68",
+        "54",
+        "42",
+        "74"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 107,
+      "question": "Tarkibida CₙH₂ₙ₋₄ formulaga mos keluvchi uglevodorod to'la bromlanganda hosil bo'lgan birikmadagi bromning massa ulushi uglerodga qaraganda 10 marta ko'p bo'lsa, n ning qiymatini aniqlang.",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 108,
+      "question": "Vodorodning massa ulushi 11,764% bo'lgan alkadiyenning 7 l (n.sh.) hajmi unga nisbatan mo'l miqdorda olingan kislorod ishtirokida portlatilgandan so'ng hosil bo'lgan suv bug'i kondensatlandi. Qolgan gazlar aralashmasi 41 l (n.sh.) ni tashkil etsa, reaksiya uchun olingan kislorod hajmini aniqlang.",
+      "options": [
+        "55",
+        "49",
+        "62",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 109,
+      "question": "Alkadiyenni to'liq yoqish uchun undan massasi 3,259 marta ko'p bo'lgan kislorod sarfladi. Ushbu alkadiyenning 0,325 moli yondirilishidan olingan gaz modda kaliy gidroksidning 200 g eritmasi bilan ta'sirlashganda hosil bo'lgan modda(lar) massasini aniqlang. Kaliy gidroksid eritmasidagi erituvchi massa ulushi erigan modda massa ulushidan 28,8%ga kam.",
+      "options": [
+        "130",
+        "89,7",
+        "15; 158,7",
+        "138; 30"
+      ],
+      "correctIndex": 3
+    }
+  ]
+}
