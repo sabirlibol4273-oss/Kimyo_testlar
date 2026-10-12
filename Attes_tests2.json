@@ -1,0 +1,2471 @@
+{
+  "topicId": 2,
+  "title": "Sikloalkanlar",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ag⁺ ionini HCl bilan aniqlaganda qanday cho‘kma hosil bo‘ladi?",
+      "options": [
+        "G‘isht-qizil Ag₂CrO₄",
+        "Sariq AgI",
+        "Oq, pishloqsimon AgCl",
+        "Qora Ag₂S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "AgCl cho‘kmasi yorug‘likda qanday o‘zgaradi?",
+      "options": [
+        "Sarg‘ayadi",
+        "Ko‘karadi",
+        "Qorayadi",
+        "O‘zgarmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "AgCl cho‘kmasi qaysi reagent ortiqchasida eriydi?",
+      "options": [
+        "HNO₃",
+        "HCl",
+        "NH₃·H₂O",
+        "H₂SO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Ag⁺ ioni K₂CrO₄ bilan qanday rangli cho‘kma beradi?",
+      "options": [
+        "G‘isht-qizil",
+        "Oq",
+        "Qora",
+        "Sariq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Ag⁺ ionining K₂CrO₄ bilan reaksiyasida qaysi cho‘kma hosil bo‘ladi?",
+      "options": [
+        "Ag₂Cr₂O₇",
+        "Ag₂CrO₄",
+        "AgCrO₄",
+        "Ag₂O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Ag⁺ ioni Na₂S bilan qanday cho‘kma hosil qiladi?",
+      "options": [
+        "Sariq Ag₂SO₄",
+        "Qora Ag₂S",
+        "Qizil Ag₂S",
+        "Oq AgS"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Ba²⁺ ionini aniqlashda eng ishonchli reagent qaysi?",
+      "options": [
+        "KNO₃",
+        "NaOH",
+        "NaCl",
+        "H₂SO₄ (yoki Na₂SO₄)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "BaSO₄ cho‘kmasiga xos xossa qaysi?",
+      "options": [
+        "Ko‘k, NH₃ da eriydi",
+        "Oq, HCl da eriydi",
+        "Oq, kislotalarda erimaydi",
+        "Sariq, kislotalarda eriydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Ba²⁺ ioni K₂CrO₄ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oq BaCrO₄",
+        "Qora BaCrO₄",
+        "Sariq BaCrO₄",
+        "G‘isht-qizil BaCrO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Ca²⁺ ioni Na₂CO₃ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Ko‘k CaCO₃",
+        "Oq CaCO₃",
+        "Sariq CaCO₃",
+        "Qora CaO"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "CaCO₃ cho‘kmasiga HCl ta’sir ettirilsa nima kuzatiladi?",
+      "options": [
+        "SO₂ gazi ajraladi",
+        "Sariq rangga kiradi",
+        "Erimaydi",
+        "Eriydi, CO₂ gazi ajraladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Ca²⁺ ionini Mg²⁺ ionidan ajratish uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "NaCl",
+        "NH₄Cl",
+        "KNO₃",
+        "(NH₄)₂C₂O₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "CaC₂O₄ cho‘kmasining qaysi xossasi Ca²⁺ ni Mg²⁺ dan ajratishga imkon beradi?",
+      "options": [
+        "Suvda yaxshi eriydi",
+        "Qizil rangli",
+        "Ammiakda eriydi",
+        "Sirka kislotada erimaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Sr²⁺ ioni H₂SO₄ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oq SrSO₄",
+        "Ko‘k Sr(OH)₂",
+        "Qora SrS",
+        "Sariq SrSO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Mg(OH)₂ cho‘kmasi qaysi eritmada eriydi?",
+      "options": [
+        "NaCl eritmasi",
+        "NH₄Cl eritmasi",
+        "NaOH ortiqchasi",
+        "NH₃·H₂O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Mg(OH)₂ ning ishqor ortiqchasiga munosabati qanday?",
+      "options": [
+        "Erimaydi",
+        "Qora rangga kiradi",
+        "To‘liq eriydi",
+        "Ko‘k eritma hosil qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Mg²⁺ ioni Na₂HPO₄ va NH₃·H₂O bilan qaysi cho‘kmani hosil qiladi?",
+      "options": [
+        "Na₃PO₄",
+        "MgCl₂",
+        "(NH₄)₃PO₄",
+        "MgNH₄PO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Al(OH)₃ cho‘kmasining tashqi ko‘rinishi qanday?",
+      "options": [
+        "Ko‘k, kristall",
+        "Qora, kukunsimon",
+        "Qizil-qo‘ng‘ir",
+        "Oq, jelesimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Al(OH)₃ qaysi reagentda erimaydi?",
+      "options": [
+        "NaOH ortiqchasi",
+        "KOH ortiqchasi",
+        "NH₃·H₂O ortiqchasi",
+        "HCl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Zn(OH)₂ ni Al(OH)₃ dan farqlovchi xossa qaysi?",
+      "options": [
+        "NH₃ ortiqchasida eriydi",
+        "Kislotada eriydi",
+        "Oq rangli",
+        "NaOH ortiqchasida eriydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Sulfidlar orasida yagona oq rangli cho‘kma qaysi?",
+      "options": [
+        "CuS",
+        "ZnS",
+        "PbS",
+        "CdS"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Cr(OH)₃ cho‘kmasi qanday rangda?",
+      "options": [
+        "Pushti",
+        "Olma-yashil",
+        "Kulrang-yashil",
+        "Ko‘k"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Cr(OH)₃ ishqor ortiqchasida eritilsa qanday eritma hosil bo‘ladi?",
+      "options": [
+        "To‘q ko‘k eritma",
+        "Qonsimon qizil eritma",
+        "Yashil eritma",
+        "Sariq eritma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Mn(OH)₂ cho‘kmasi havoda qanday o‘zgaradi?",
+      "options": [
+        "Tez qo‘ng‘irlashadi (MnO(OH)₂ hosil bo‘ladi)",
+        "Yashillanadi",
+        "O‘zgarmaydi",
+        "Ko‘karadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Mn²⁺ ioni NaOH bilan dastlab qanday rangli cho‘kma beradi?",
+      "options": [
+        "Yashil",
+        "Qora",
+        "Oq",
+        "Pushti"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Fe(OH)₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Sariq",
+        "Oq-yashil",
+        "Ko‘k",
+        "Qizil-qo‘ng‘ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Fe(OH)₂ havoda qaysi moddaga aylanadi?",
+      "options": [
+        "FeO",
+        "Fe(OH)₃",
+        "FeCl₃",
+        "Fe"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "4Fe(OH)₂ + O₂ + 2H₂O → ?",
+      "options": [
+        "4Fe(OH)₃",
+        "Fe₃O₄ + H₂O",
+        "2Fe₂O₃ + 4H₂O",
+        "4FeO + 4H₂O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Fe²⁺ ionini aniqlashda ishlatiladigan qizil qon tuzining formulasi qaysi?",
+      "options": [
+        "NH₄SCN",
+        "KSCN",
+        "K₄[Fe(CN)₆]",
+        "K₃[Fe(CN)₆]"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Sariq qon tuzining formulasi qaysi?",
+      "options": [
+        "K₂CrO₄",
+        "K₄[Fe(CN)₆]",
+        "KSCN",
+        "K₃[Fe(CN)₆]"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Turnbul ko‘ki qaysi reaksiyada hosil bo‘ladi?",
+      "options": [
+        "Fe³⁺ + KSCN",
+        "Fe²⁺ + K₃[Fe(CN)₆]",
+        "Fe³⁺ + K₄[Fe(CN)₆]",
+        "Cu²⁺ + NH₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Berlin lazuri qaysi reaksiyada hosil bo‘ladi?",
+      "options": [
+        "Cu²⁺ + NaOH",
+        "Fe³⁺ + K₄[Fe(CN)₆]",
+        "Fe³⁺ + KSCN",
+        "Fe²⁺ + K₃[Fe(CN)₆]"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Berlin lazuri va turnbul ko‘ki qanday rangda?",
+      "options": [
+        "To‘q ko‘k",
+        "Oltin-sariq",
+        "Qonsimon qizil",
+        "Olma-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Turnbul ko‘ki va berlin lazurining varaqada berilgan formulasi qaysi?",
+      "options": [
+        "KFe[Fe(CN)₆]",
+        "K₄[Fe(CN)₆]",
+        "Fe(SCN)₃",
+        "K₃[Fe(CN)₆]"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Fe(OH)₃ cho‘kmasi qanday rangda?",
+      "options": [
+        "Oq-yashil",
+        "Ko‘k",
+        "Sariq",
+        "Qizil-qo‘ng‘ir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Cu(OH)₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Qora",
+        "Yashil",
+        "Qizil",
+        "Ko‘k (havorang)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "Cu(OH)₂ qizdirilsa qanday moddaga aylanadi?",
+      "options": [
+        "Qora CuO",
+        "Oq Cu",
+        "Ko‘k CuCO₃",
+        "Qizil Cu₂O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Cu(OH)₂ cho‘kmasi NH₃ ortiqchasida qanday natija beradi?",
+      "options": [
+        "Qizil cho‘kma tushadi",
+        "To‘q ko‘k eritma hosil bo‘ladi",
+        "Rangsiz eritma hosil bo‘ladi",
+        "Yashil eritma hosil bo‘ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Cu²⁺ ionining H₂S bilan reaksiyasida qanday cho‘kma hosil bo‘ladi?",
+      "options": [
+        "Sariq CuS",
+        "Qora CuS",
+        "Oq CuS",
+        "Ko‘k Cu(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Ni(OH)₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Ko‘k",
+        "Pushti",
+        "Olma-yashil",
+        "Oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Co(OH)₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Qora",
+        "Olma-yashil",
+        "Pushti",
+        "Sariq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "CoCl₂ ga NaOH qo‘shilganda dastlab qanday rangli asos tuz hosil bo‘ladi?",
+      "options": [
+        "Sariq",
+        "Ko‘k",
+        "Qora",
+        "Oq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Pb²⁺ ioni KI bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oq PbI₂",
+        "Qora PbI₂",
+        "Oltin-sariq PbI₂",
+        "Qizil PbI₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "«Oltin yomg‘ir» tajribasi qaysi modda bilan o‘tkaziladi?",
+      "options": [
+        "PbI₂",
+        "CdS",
+        "AgI",
+        "HgI₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "PbI₂ qaynoq suvda qanday o‘zgaradi?",
+      "options": [
+        "Eriydi, sovuganda yaltiroq tangachalar tushadi",
+        "Erimaydi",
+        "Gaz ajratib parchalanadi",
+        "Qorayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "PbCl₂ ni AgCl dan farqlovchi xossa qaysi?",
+      "options": [
+        "Yorug‘likda qorayadi",
+        "Xlorid ionlari bilan hosil bo‘ladi",
+        "Issiq suvda eriydi",
+        "Oq rangga ega"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "«Sariq kron» bo‘yog‘i qaysi modda?",
+      "options": [
+        "PbCrO₄",
+        "K₂CrO₄",
+        "Ag₂CrO₄",
+        "PbI₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "«Kadmiy sarig‘i» qaysi modda?",
+      "options": [
+        "Sb₂S₃",
+        "PbI₂",
+        "CdS",
+        "PbCrO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Hg²⁺ ioni oz miqdordagi KI bilan qanday cho‘kma beradi?",
+      "options": [
+        "Sariq HgI₂",
+        "Qora HgS",
+        "Oq HgI₂",
+        "Qizil HgI₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 50,
+      "question": "HgI₂ cho‘kmasi KI ortiqchasida eriganda qaysi modda hosil bo‘ladi?",
+      "options": [
+        "HgI",
+        "K[HgI₃]",
+        "K₂[HgI₄]",
+        "Hg₂I₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Bi₂S₃ cho‘kmasi qanday rangda?",
+      "options": [
+        "Oq",
+        "To‘q sariq",
+        "Qora-qo‘ng‘ir",
+        "Sariq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "SnS cho‘kmasi qanday rangda?",
+      "options": [
+        "Yashil",
+        "Sariq",
+        "Qo‘ng‘ir",
+        "Oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Sb₂S₃ cho‘kmasi qanday rangda?",
+      "options": [
+        "Oq",
+        "Ko‘k",
+        "Qora",
+        "To‘q sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "PbS cho‘kmasi qanday rangda?",
+      "options": [
+        "Qora",
+        "Oq",
+        "Sariq",
+        "Qizil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Qaysi kation H₂S bilan sariq sulfid cho‘kmasi beradi?",
+      "options": [
+        "Cu²⁺",
+        "Ag⁺",
+        "Pb²⁺",
+        "Cd²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Qaysi kation NaOH bilan pushti cho‘kma beradi?",
+      "options": [
+        "Cu²⁺",
+        "Ni²⁺",
+        "Fe³⁺",
+        "Co²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Qaysi kation NaOH bilan ko‘k (havorang) cho‘kma beradi?",
+      "options": [
+        "Ni²⁺",
+        "Cu²⁺",
+        "Mg²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Qaysi kation NaOH bilan qizil-qo‘ng‘ir cho‘kma beradi?",
+      "options": [
+        "Fe³⁺",
+        "Cu²⁺",
+        "Fe²⁺",
+        "Zn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Qaysi kation NaOH bilan olma-yashil cho‘kma beradi?",
+      "options": [
+        "Cu²⁺",
+        "Co²⁺",
+        "Mg²⁺",
+        "Ni²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Qaysi kation K₂CrO₄ bilan g‘isht-qizil cho‘kma beradi?",
+      "options": [
+        "Na⁺",
+        "Ba²⁺",
+        "Ag⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Ba²⁺ + SO₄²⁻ → ?",
+      "options": [
+        "BaSO₄↓",
+        "BaSO₃↓",
+        "BaS↓",
+        "Ba(OH)₂↓"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "AgNO₃ + HCl → ?",
+      "options": [
+        "AgCl↓ + HNO₃",
+        "Ag↓ + Cl₂ + HNO₃",
+        "Ag₂O↓ + HNO₃",
+        "AgH + NO₂ + Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Al³⁺ + 3OH⁻ → ?",
+      "options": [
+        "AlO₂⁻",
+        "Al(OH)₃↓",
+        "Al(OH)₂⁺",
+        "Al₂O₃↓"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Fe²⁺ + 2OH⁻ → ?",
+      "options": [
+        "Fe₂O₃↓",
+        "Fe(OH)₂↓",
+        "Fe(OH)₃↓",
+        "FeO↓ + H₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Mg²⁺ + 2OH⁻ → ?",
+      "options": [
+        "MgO↓ + H₂",
+        "MgOH⁺",
+        "Mg(OH)₂↓",
+        "Mg↓ + H₂O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 66,
+      "question": "Zn²⁺ + S²⁻ → ?",
+      "options": [
+        "Zn↓ + S",
+        "ZnS↓ (oq)",
+        "ZnSO₄",
+        "ZnS↓ (qora)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "Al³⁺ ionini to‘liq cho‘ktirish uchun qaysi reagent afzal (cho‘kma ortiqchasida erimaydi)?",
+      "options": [
+        "NaOH ortiqchasi",
+        "KOH ortiqchasi",
+        "HCl",
+        "NH₃·H₂O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Zn²⁺ va Al³⁺ ionlarini qaysi reagent ortiqchasi yordamida ajratish mumkin?",
+      "options": [
+        "NH₃·H₂O",
+        "H₂O",
+        "NaOH",
+        "HCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Ag⁺ va Pb²⁺ xloridlarini qanday ajratish mumkin?",
+      "options": [
+        "Sovuq suv bilan",
+        "HCl ortiqchasi bilan",
+        "HNO₃ bilan",
+        "Issiq suv bilan (PbCl₂ eriydi)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "Qaysi ion NaOH bilan oq cho‘kma hosil qiladi va u havoda qo‘ng‘irlashadi?",
+      "options": [
+        "Al³⁺",
+        "Mg²⁺",
+        "Mn²⁺",
+        "Zn²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Qaysi kation NaOH bilan oq cho‘kma beradi va bu cho‘kma ham NaOH, ham NH₃ ortiqchasida eriydi?",
+      "options": [
+        "Al³⁺",
+        "Zn²⁺",
+        "Mg²⁺",
+        "Fe³⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 72,
+      "question": "Qaysi kationning gidroksidi NaOH ortiqchasida erimaydi, lekin NH₄Cl eritmasida eriydi?",
+      "options": [
+        "Zn²⁺",
+        "Pb²⁺",
+        "Al³⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "Pb²⁺ ioni qaysi reagent bilan qora cho‘kma beradi?",
+      "options": [
+        "Na₂S",
+        "K₂CrO₄",
+        "KI",
+        "HCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "Ag⁺ ioni qaysi reagent bilan qora cho‘kma beradi?",
+      "options": [
+        "K₂CrO₄",
+        "KI",
+        "HCl",
+        "Na₂S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "Ba²⁺ ioni qaysi anion bilan sariq cho‘kma beradi?",
+      "options": [
+        "CO₃²⁻",
+        "Cl⁻",
+        "SO₄²⁻",
+        "CrO₄²⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 76,
+      "question": "Qaysi kation sulfat ioni bilan oq cho‘kma bermaydi?",
+      "options": [
+        "Pb²⁺",
+        "Sr²⁺",
+        "Ba²⁺",
+        "Na⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Cl⁻ ionini aniqlash uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "BaCl₂",
+        "NaOH",
+        "AgNO₃ (HNO₃ muhitida)",
+        "KSCN"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "AgBr cho‘kmasi qanday rangda?",
+      "options": [
+        "Och sariq (sarg‘ish-oq)",
+        "To‘q ko‘k",
+        "Qora",
+        "Oq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 79,
+      "question": "AgI cho‘kmasi qanday rangda?",
+      "options": [
+        "Sariq",
+        "Qora",
+        "Oq",
+        "Qizil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 80,
+      "question": "AgI cho‘kmasining NH₃ ga munosabati qanday?",
+      "options": [
+        "Umuman erimaydi",
+        "Yaxshi eriydi",
+        "Ko‘k eritma hosil qiladi",
+        "Qiyin eriydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "AgBr cho‘kmasining NH₃ ga munosabati qanday?",
+      "options": [
+        "Oson eriydi",
+        "Qizil eritma hosil qiladi",
+        "Umuman erimaydi",
+        "Qiyin eriydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 82,
+      "question": "I⁻ ioni Pb(NO₃)₂ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oltin-sariq PbI₂",
+        "Ko‘k PbI₂",
+        "Qora PbI",
+        "Oq PbI₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "SO₄²⁻ ionini aniqlash uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "NaOH",
+        "AgNO₃",
+        "KI",
+        "BaCl₂ (HCl muhitida)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "SO₃²⁻ ioni SO₄²⁻ ionidan qanday farqlanadi?",
+      "options": [
+        "BaSO₃ HCl da erib, o‘tkir hidli SO₂ ajraladi",
+        "BaSO₃ kislotalarda erimaydi",
+        "BaSO₃ qora rangda",
+        "BaSO₃ sariq rangda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "BaCO₃ cho‘kmasiga HCl ta’sir ettirilsa qaysi gaz ajraladi?",
+      "options": [
+        "H₂S",
+        "Hidsiz CO₂",
+        "O‘tkir hidli SO₂",
+        "NH₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 86,
+      "question": "CO₃²⁻ ionini aniqlashda ajralgan gaz ohakli suvni qanday o‘zgartiradi?",
+      "options": [
+        "Rangsizlantiradi",
+        "Ko‘kartiradi",
+        "Loyqalantiradi",
+        "Qizartiradi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "PO₄³⁻ ioni AgNO₃ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Ko‘k Ag₂PO₄",
+        "Och sariq Ag₃PO₄",
+        "Oq AgPO₄",
+        "Qora Ag₃PO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 88,
+      "question": "Ag₃PO₄ cho‘kmasini AgCl, AgBr, AgI dan farqlovchi xossa qaysi?",
+      "options": [
+        "Qora rangda",
+        "HNO₃ da eriydi",
+        "HNO₃ da erimaydi",
+        "Suvda yaxshi eriydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "S²⁻ ioni Pb(NO₃)₂ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oltin-sariq PbI₂",
+        "Sariq PbS",
+        "Oq PbSO₄",
+        "Qora PbS"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 90,
+      "question": "SiO₃²⁻ ioniga HCl ta’sir ettirilsa qanday cho‘kma hosil bo‘ladi?",
+      "options": [
+        "Qora SiO₂",
+        "Sariq Si",
+        "Ko‘k H₂SiO₃",
+        "Oq, jelesimon H₂SiO₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 91,
+      "question": "CrO₄²⁻ ioni BaCl₂ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oq BaCrO₄",
+        "Sariq BaCrO₄",
+        "Qora BaCrO₄",
+        "To‘q ko‘k BaCrO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 92,
+      "question": "F⁻ ioni CaCl₂ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Oq CaF₂",
+        "Ko‘k CaF₂",
+        "Sariq CaF₂",
+        "Qora CaF₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "Ca²⁺ + 2F⁻ → ?",
+      "options": [
+        "Ca₂F↓",
+        "CaF₂↓",
+        "CaF↓",
+        "CaF₂ eritmada qoladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 94,
+      "question": "C₂O₄²⁻ ioni CaCl₂ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Qora CaC",
+        "Ko‘k CaC₂O₄",
+        "Oq CaC₂O₄",
+        "Sariq CaC₂O₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "S₂O₃²⁻ ioniga kuchli kislota ta’sir ettirilsa nima kuzatiladi?",
+      "options": [
+        "Oq-sarg‘ish oltingugurt loyqasi va o‘tkir hidli gaz",
+        "Ko‘k cho‘kma tushadi",
+        "Hidsiz gaz ajraladi, cho‘kma yo‘q",
+        "Qora cho‘kma tushadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 96,
+      "question": "Na₂S₂O₃ + H₂SO₄ → ?",
+      "options": [
+        "Na₂SO₄ + H₂S↑ + SO₃",
+        "Na₂SO₄ + S↓ + SO₂↑ + H₂O",
+        "Na₂SO₃ + S + H₂O",
+        "Na₂S + SO₃ + H₂O"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 97,
+      "question": "Qaysi anion kuchli kislota bilan ham cho‘kma, ham gaz hosil qiladi?",
+      "options": [
+        "Cl⁻",
+        "NO₃⁻",
+        "S₂O₃²⁻",
+        "SO₄²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "Qaysi anion BaCl₂ bilan kislotalarda erimaydigan oq cho‘kma beradi?",
+      "options": [
+        "SO₄²⁻",
+        "SO₃²⁻",
+        "CO₃²⁻",
+        "PO₄³⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "Br⁻ ionini aniqlash reagenti va hosil bo‘ladigan cho‘kma:",
+      "options": [
+        "KI — sariq",
+        "BaCl₂ — oq BaBr₂",
+        "NaOH — qora",
+        "AgNO₃ — och sariq AgBr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 100,
+      "question": "CO₂ gazi ohakli suvdan o‘tkazilganda qaysi cho‘kma hosil bo‘ladi?",
+      "options": [
+        "CaCO₃",
+        "Ca(HCO₃)₂",
+        "CaC₂",
+        "CaO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 101,
+      "question": "CO₂ ortiqcha o‘tkazilganda loyqa nima uchun yo‘qoladi?",
+      "options": [
+        "CaO hosil bo‘ladi",
+        "CaCO₃ parchalanib ketadi",
+        "CaC₂ hosil bo‘ladi",
+        "Eriydigan Ca(HCO₃)₂ hosil bo‘ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 102,
+      "question": "SO₂ gazi ohakli suv bilan qaysi cho‘kmani hosil qiladi?",
+      "options": [
+        "CaSO₄",
+        "CaS",
+        "CaSO₃",
+        "CaCO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 103,
+      "question": "SO₂ ni CO₂ dan qanday farqlash mumkin?",
+      "options": [
+        "SO₂ yonmaydi",
+        "SO₂ brom suvi va KMnO₄ ni rangsizlantiradi",
+        "SO₂ rangsiz gaz",
+        "SO₂ ohakli suvni loyqalatadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 104,
+      "question": "H₂S gazi qaysi reagent yordamida aniqlanadi?",
+      "options": [
+        "Fenolftalein",
+        "Ohakli suv",
+        "Konsentrlangan HCl",
+        "Pb(CH₃COO)₂ shimdirilgan qog‘oz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 105,
+      "question": "H₂S gazi Pb(CH₃COO)₂ shimdirilgan qog‘ozda qanday belgi beradi?",
+      "options": [
+        "Ko‘k dog‘",
+        "Sariq dog‘",
+        "Oq tutun",
+        "Qora dog‘ (PbS)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 106,
+      "question": "NH₃ gazi konsentrlangan HCl bilan qanday belgi beradi?",
+      "options": [
+        "Oq tutun (NH₄Cl)",
+        "Qora cho‘kma",
+        "Sariq loyqa",
+        "Ko‘k eritma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "NH₃ gazi nam lakmus qog‘ozini qanday o‘zgartiradi?",
+      "options": [
+        "Qizartiradi",
+        "Rangsizlantiradi",
+        "Sarg‘aytiradi",
+        "Ko‘kartiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 108,
+      "question": "Qaysi gaz ohakli suvni loyqalantiradi va hidsiz?",
+      "options": [
+        "SO₂",
+        "H₂S",
+        "NH₃",
+        "CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 109,
+      "question": "Qaysi gaz Pb(CH₃COO)₂ + H₂S → PbS↓ + 2CH₃COOH reaksiyasi orqali aniqlanadi?",
+      "options": [
+        "CO₂",
+        "NH₃",
+        "H₂S",
+        "SO₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 110,
+      "question": "AgCl + 2NH₃ → ?",
+      "options": [
+        "Ag₂O + NH₄Cl",
+        "AgNH₂ + HCl",
+        "[Ag(NH₃)₂]Cl",
+        "Ag + NH₄Cl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 111,
+      "question": "Al(OH)₃ + NaOH → ?",
+      "options": [
+        "Al(OH)₂Na",
+        "NaAl + H₂O",
+        "Al₂O₃ + H₂O",
+        "Na[Al(OH)₄]"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 112,
+      "question": "Zn(OH)₂ + 2NaOH → ?",
+      "options": [
+        "Zn(OH)Na",
+        "ZnO + NaOH",
+        "Na₂[Zn(OH)₄]",
+        "Na₂Zn + H₂O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 113,
+      "question": "Cr(OH)₃ + 3NaOH → ?",
+      "options": [
+        "Na₂CrO₄",
+        "Cr₂O₃ + NaOH",
+        "NaCrO₂ + H₂",
+        "Na₃[Cr(OH)₆]"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 114,
+      "question": "Pb(OH)₂ + 2NaOH → ?",
+      "options": [
+        "Na₂[Pb(OH)₄]",
+        "Na₂Pb + H₂O",
+        "Pb + NaOH",
+        "PbO + NaOH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 115,
+      "question": "Cu(OH)₂ + 4NH₃ → ?",
+      "options": [
+        "Cu + N₂ + H₂O",
+        "Cu(NH₂)₂ + H₂O",
+        "[Cu(NH₃)₄](OH)₂",
+        "CuO + NH₄OH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 116,
+      "question": "Zn(OH)₂ + 4NH₃ → ?",
+      "options": [
+        "ZnO + NH₄OH",
+        "Zn + N₂ + H₂O",
+        "Zn(NH₂)₂",
+        "[Zn(NH₃)₄](OH)₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 117,
+      "question": "Mg(OH)₂ + 2NH₄Cl → ?",
+      "options": [
+        "MgCl₂ + 2NH₃·H₂O",
+        "MgO + NH₄Cl",
+        "Mg + NH₃ + HCl",
+        "Mg(NH₄)₂ + Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 118,
+      "question": "CaCO₃ + CO₂ + H₂O → ?",
+      "options": [
+        "Ca(HCO₃)₂",
+        "Ca(OH)₂ + CO₂",
+        "CaC₂O₄",
+        "CaO + H₂CO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 119,
+      "question": "Vaqtinchalik qattiqlik qaysi moddaning hosil bo‘lishi bilan bog‘liq?",
+      "options": [
+        "CaSO₄",
+        "Ca(HCO₃)₂",
+        "CaCl₂",
+        "CaF₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 120,
+      "question": "Cu(OH)₂ → CuO + H₂O reaksiyasi qanday sharoitda boradi?",
+      "options": [
+        "Yorug‘likda",
+        "NH₃ ortiqchasida",
+        "Qizdirilganda",
+        "Sovutilganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 121,
+      "question": "Quyidagilardan qaysi biri amfoter emas (jadvalga ko‘ra)?",
+      "options": [
+        "Al(OH)₃",
+        "Pb(OH)₂",
+        "Fe(OH)₃",
+        "Zn(OH)₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "Fe(OH)₃ ning kislota va ishqorga munosabati qanday?",
+      "options": [
+        "Ikkalasida ham eriydi",
+        "Kislotada eriydi, ishqorda erimaydi",
+        "Ishqorda eriydi, kislotada erimaydi",
+        "Hech birida erimaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 123,
+      "question": "Fe(OH)₃ + 3HCl → ?",
+      "options": [
+        "Fe + HCl + H₂O",
+        "FeCl₂ + H₂O + Cl₂",
+        "FeCl + H₂O",
+        "FeCl₃ + 3H₂O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 124,
+      "question": "Quyidagi cho‘kmalardan qaysi biri kislotalarda ham erimaydi?",
+      "options": [
+        "Zn(OH)₂",
+        "Ag₃PO₄",
+        "CaCO₃",
+        "BaSO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 125,
+      "question": "Qaysi cho‘kmalar HNO₃ va HCl da ham erimaydi?",
+      "options": [
+        "CaCO₃, BaCO₃, MgCO₃",
+        "Al(OH)₃, Zn(OH)₂, Fe(OH)₃",
+        "Ag₃PO₄, BaSO₃, CaF₂",
+        "BaSO₄, AgCl, CuS"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 126,
+      "question": "NH₃·H₂O da umuman erimaydigan cho‘kma qaysi?",
+      "options": [
+        "AgCl",
+        "AgI",
+        "Zn(OH)₂",
+        "Cu(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 127,
+      "question": "Al(OH)₃ ning NaOH ortiqchasida butunlay erishi nimani ko‘rsatadi?",
+      "options": [
+        "Kislotalarda erimasligini",
+        "Kuchli asosligini",
+        "Oksidlovchiligini",
+        "Amfoterlikni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 128,
+      "question": "Kislotalarda erimaydigan sulfid (jadvalga ko‘ra) qaysi?",
+      "options": [
+        "CuS",
+        "FeS",
+        "ZnS",
+        "MnS"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 129,
+      "question": "Qaysi cho‘kma HCl da erib, CO₂ ajratadi?",
+      "options": [
+        "CuS",
+        "CaCO₃",
+        "AgCl",
+        "BaSO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 130,
+      "question": "Qaysi qatorda faqat oq cho‘kmalar berilgan?",
+      "options": [
+        "AgCl, AgI, PbS",
+        "CaCO₃, Fe(OH)₃, MgCO₃",
+        "AgCl, BaSO₄, CaCO₃",
+        "BaSO₄, Cu(OH)₂, ZnS"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 131,
+      "question": "Qaysi qatorda faqat qora cho‘kmalar berilgan?",
+      "options": [
+        "CuO, Cu₂O, PbS",
+        "CuS, ZnS, PbS",
+        "CuS, PbS, Ag₂S",
+        "Ag₂S, CdS, FeS"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 132,
+      "question": "Qaysi qatorda faqat sariq rangli cho‘kmalar berilgan?",
+      "options": [
+        "CdS, ZnS, BaCrO₄",
+        "AgI, AgCl, CdS",
+        "AgI, PbI₂, CdS",
+        "PbI₂, PbS, BaCrO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 133,
+      "question": "Qaysi cho‘kma yashil rangda emas?",
+      "options": [
+        "Cr(OH)₃",
+        "Ni(OH)₂",
+        "Cu(OH)₂",
+        "Fe(OH)₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 134,
+      "question": "(CuOH)₂CO₃ (malaxit) qanday rangda?",
+      "options": [
+        "Ko‘k-yashil",
+        "Qora",
+        "Oq",
+        "Qizil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 135,
+      "question": "Cu₂O cho‘kmasi qanday rangda?",
+      "options": [
+        "Qora",
+        "Oq",
+        "Ko‘k",
+        "G‘isht-qizil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 136,
+      "question": "MnO₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Pushti",
+        "Oq",
+        "Qo‘ng‘ir",
+        "Ko‘k"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 137,
+      "question": "HgI₂ cho‘kmasi qanday rangda?",
+      "options": [
+        "Ko‘k",
+        "Oq",
+        "Yashil",
+        "Qizil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "CuO qanday rangda?",
+      "options": [
+        "Qora",
+        "Oq",
+        "Qizil",
+        "Ko‘k"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 139,
+      "question": "ZnS cho‘kmasi qanday rangda?",
+      "options": [
+        "Oq",
+        "Sariq",
+        "Qora",
+        "Qo‘ng‘ir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 140,
+      "question": "Oltingugurt (S) cho‘kmasi qanday rangda?",
+      "options": [
+        "Ko‘k",
+        "Oq-sariq",
+        "Qizil",
+        "Qora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 141,
+      "question": "MgNH₄PO₄ cho‘kmasi qanday ko‘rinishda?",
+      "options": [
+        "Qora, kukunsimon",
+        "Ko‘k, kristall",
+        "Oq, mayda kristall",
+        "Sariq, jelesimon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 142,
+      "question": "Quyidagilardan qaysi biri oq rangli emas?",
+      "options": [
+        "Pb(OH)₂",
+        "PbI₂",
+        "PbCl₂",
+        "PbSO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 143,
+      "question": "Quyidagilardan qaysi biri qora rangli emas?",
+      "options": [
+        "ZnS",
+        "CuS",
+        "HgS",
+        "PbS"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 144,
+      "question": "Quyidagilardan qaysi biri qizil yoki qo‘ng‘ir rangda emas?",
+      "options": [
+        "Ag₂CrO₄",
+        "BaSO₄",
+        "MnO₂",
+        "Fe(OH)₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 145,
+      "question": "Ag₂CrO₄ va Cu₂O cho‘kmalari uchun umumiy rang qaysi?",
+      "options": [
+        "Oq",
+        "G‘isht-qizil",
+        "To‘q ko‘k",
+        "Olma-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 146,
+      "question": "BaCrO₄ va PbCrO₄ cho‘kmalari qanday rangda?",
+      "options": [
+        "Sariq",
+        "Qora",
+        "Ko‘k",
+        "Oq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 147,
+      "question": "Qaysi cho‘kma ko‘k rangda?",
+      "options": [
+        "Cu(OH)₂",
+        "CuS",
+        "Cu₂O",
+        "CuO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 148,
+      "question": "«Kumush oyna» reaksiyasi uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "KMnO₄",
+        "Br₂ suvi",
+        "[Ag(NH₃)₂]OH",
+        "Cu(OH)₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 149,
+      "question": "«Kumush oyna» reaksiyasi qaysi funksional guruhni aniqlaydi?",
+      "options": [
+        "Gidroksil guruhi (–OH)",
+        "Nitro guruhi (–NO₂)",
+        "Aldegid guruhi (–CHO)",
+        "Amino guruhi (–NH₂)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 150,
+      "question": "Etanal kumush oyna reaksiyasida qaysi moddaga aylanadi?",
+      "options": [
+        "CH₃COONH₄",
+        "CH₃CH₂OH",
+        "HCOONH₄",
+        "CH₃COOAg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 151,
+      "question": "Aldegidga Cu(OH)₂ qo‘shib qizdirilsa qanday o‘zgarish kuzatiladi?",
+      "options": [
+        "To‘q ko‘k eritma hosil bo‘ladi",
+        "Ko‘k cho‘kma yo‘qolib, g‘isht-qizil Cu₂O tushadi",
+        "Kumush oyna hosil bo‘ladi",
+        "Qora CuS tushadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 152,
+      "question": "Qaysi karbon kislota «kumush oyna» reaksiyasini beradi?",
+      "options": [
+        "CH₃COOH",
+        "C₁₇H₃₅COOH",
+        "HCOOH",
+        "C₂H₅COOH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 153,
+      "question": "Chumoli kislota kumush oyna reaksiyasida qaysi tuzni hosil qiladi?",
+      "options": [
+        "NH₄NO₃",
+        "HCOONH₄",
+        "(NH₄)₂CO₃",
+        "CH₃COONH₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 154,
+      "question": "Glukozaning kumush oyna reaksiyasini berishi nimani isbotlaydi?",
+      "options": [
+        "Aromatik halqa borligini",
+        "Tarkibida aldegid guruhi borligini",
+        "Ko‘p atomli spirt ekanligini",
+        "Karboksil guruhi borligini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "Qaysi modda qizdirilgan Cu(OH)₂ bilan Cu₂O cho‘kmasini bermaydi?",
+      "options": [
+        "Glukoza",
+        "Metanal",
+        "Etanal",
+        "Saxaroza"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 156,
+      "question": "Glukoza Cu(OH)₂ bilan qizdirilganda qanday cho‘kma hosil bo‘ladi?",
+      "options": [
+        "G‘isht-qizil Cu₂O",
+        "Qora CuO",
+        "Ko‘k Cu(OH)₂",
+        "Kumush Ag"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 157,
+      "question": "Asetilen [Ag(NH₃)₂]OH bilan qaysi cho‘kmani hosil qiladi?",
+      "options": [
+        "Ag₂C",
+        "Ag₂C₂",
+        "Ag₂O",
+        "AgC₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 158,
+      "question": "Kumush asetilenidi qanday rangda?",
+      "options": [
+        "Och sariq (oq-sarg‘ish)",
+        "To‘q ko‘k",
+        "Qora",
+        "Qizil-qo‘ng‘ir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 159,
+      "question": "Qaysi alkin [Ag(NH₃)₂]OH bilan cho‘kma bermaydi?",
+      "options": [
+        "Asetilen",
+        "But-2-in",
+        "But-1-in",
+        "Propin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 160,
+      "question": "Alkinlar [Ag(NH₃)₂]OH bilan qachon cho‘kma beradi?",
+      "options": [
+        "Molekulada halqa bo‘lsa",
+        "Uchlamchi bog‘ zanjir o‘rtasida bo‘lsa",
+        "Har qanday holatda",
+        "Uchlamchi bog‘ zanjir uchida bo‘lsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 161,
+      "question": "Mis(I) asetilenidi Cu₂C₂ qanday rangda?",
+      "options": [
+        "Yashil",
+        "Qizil-qo‘ng‘ir",
+        "Oq",
+        "Ko‘k"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Mis(I) asetilenidini olish uchun asetilenga qaysi reagent ta’sir ettiriladi?",
+      "options": [
+        "CuSO₄ eritmasi",
+        "Cu₂Cl₂ ning ammiakli eritmasi",
+        "CuO",
+        "Cu(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 163,
+      "question": "Vagner reaksiyasida qaysi reagent ishlatiladi?",
+      "options": [
+        "Brom suvi",
+        "FeCl₃",
+        "KMnO₄ ning suvli eritmasi",
+        "[Ag(NH₃)₂]OH"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 164,
+      "question": "Vagner reaksiyasida qanday cho‘kma tushadi?",
+      "options": [
+        "Oq Mn(OH)₂",
+        "Qora MnS",
+        "Binafsha KMnO₄",
+        "Qo‘ng‘ir MnO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 165,
+      "question": "Etilenga KMnO₄ suvli eritmasi ta’sir ettirilganda qaysi organik modda hosil bo‘ladi?",
+      "options": [
+        "Etilenglikol C₂H₄(OH)₂",
+        "Sirka kislota",
+        "Etanal",
+        "Etanol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 166,
+      "question": "Vagner reaksiyasida KMnO₄ eritmasi bilan nima kuzatiladi?",
+      "options": [
+        "Oq tutun chiqadi",
+        "Kumush oyna hosil bo‘ladi",
+        "Binafsha rang yo‘qoladi, qo‘ng‘ir cho‘kma tushadi",
+        "Ko‘k eritma hosil bo‘ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 167,
+      "question": "Fenol brom suvi bilan qanday cho‘kma beradi?",
+      "options": [
+        "Sariq pikrin kislota",
+        "Oq 2,4,6-tribromfenol",
+        "Qora fenolyat",
+        "Binafsha kompleks"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 168,
+      "question": "Anilin brom suvi bilan qanday cho‘kma beradi?",
+      "options": [
+        "Sariq nitroanilin",
+        "Qora cho‘kma",
+        "Oq 2,4,6-tribromanilin",
+        "Ko‘k anilin bromid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 169,
+      "question": "C₆H₅OH + 3Br₂ → C₆H₂Br₃OH↓ + ?",
+      "options": [
+        "HBr",
+        "3Br₂",
+        "3HBr",
+        "H₂O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 170,
+      "question": "Fenolning brom suvi bilan reaksiyasi qanday sharoitda boradi?",
+      "options": [
+        "Faqat 500°C da",
+        "Faqat yorug‘likda",
+        "Faqat FeBr₃ katalizatorida",
+        "Xona haroratida, katalizatorsiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 171,
+      "question": "Yodoform formulasi qaysi?",
+      "options": [
+        "CH₂I₂",
+        "CH₃I",
+        "CI₄",
+        "CHI₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 172,
+      "question": "Yodoform qanday modda?",
+      "options": [
+        "Oq, hidsiz kukun",
+        "Qora cho‘kma",
+        "Ko‘k eritma",
+        "Och sariq, o‘ziga xos hidli kristall"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 173,
+      "question": "Yodoform reaksiyasi uchun qaysi reagentlar ishlatiladi?",
+      "options": [
+        "I₂ + NaOH",
+        "AgNO₃ + NH₃",
+        "Br₂ + FeBr₃",
+        "KMnO₄ + H₂O"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 174,
+      "question": "Qaysi spirt yodoform reaksiyasini beradi?",
+      "options": [
+        "Metanol",
+        "Etanol",
+        "2-metilpropan-2-ol",
+        "Propan-1-ol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 175,
+      "question": "Qaysi keton yodoform reaksiyasini beradi?",
+      "options": [
+        "Pentan-3-on",
+        "Siklogeksanon",
+        "Benzofenon",
+        "Aseton CH₃COCH₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 176,
+      "question": "Xloralkan NaOH bilan qizdirilib, so‘ngra AgNO₃ qo‘shilsa qanday cho‘kma tushadi?",
+      "options": [
+        "Qora Ag₂S",
+        "Och sariq AgBr",
+        "Oq AgCl",
+        "Sariq AgI"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 177,
+      "question": "Yodalkan NaOH bilan qizdirilib, so‘ngra AgNO₃ qo‘shilsa qanday cho‘kma tushadi?",
+      "options": [
+        "Qora Ag₂S",
+        "Sariq AgI",
+        "Och sariq AgBr",
+        "Oq AgCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 178,
+      "question": "Brometan aniqlanganda qaysi cho‘kma hosil bo‘ladi?",
+      "options": [
+        "Sariq AgI",
+        "Qora Ag₂O",
+        "Och sariq AgBr",
+        "Oq AgCl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 179,
+      "question": "Pikrin kislota qaysi modda?",
+      "options": [
+        "2,4,6-tribromfenol",
+        "Nitrobenzol",
+        "2,4,6-trinitrofenol",
+        "Trinitrotoluol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 180,
+      "question": "Pikrin kislota qanday olinadi?",
+      "options": [
+        "Fenolga brom suvi ta’siri",
+        "Benzolga KMnO₄ ta’siri",
+        "Anilinga FeCl₃ ta’siri",
+        "Fenolga kons. HNO₃ ta’siri (H₂SO₄ ishtirokida)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 181,
+      "question": "Pikrin kislota qanday rangda?",
+      "options": [
+        "Oq",
+        "Ko‘k",
+        "Binafsha",
+        "Sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 182,
+      "question": "Ksantoprotein reaksiyasi uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "I₂ eritmasi",
+        "Ishqoriy muhitda Cu(OH)₂",
+        "FeCl₃",
+        "Konsentrlangan HNO₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 183,
+      "question": "Ksantoprotein reaksiyasidan keyin ishqor qo‘shilsa rang qanday o‘zgaradi?",
+      "options": [
+        "To‘q sariq (apelsin) tusga kiradi",
+        "Binafsha rangga kiradi",
+        "Ko‘karadi",
+        "Rangsizlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 184,
+      "question": "Ksantoprotein reaksiyasining mohiyati nima?",
+      "options": [
+        "Aromatik halqaning nitrolanishi",
+        "Peptid bog‘ning gidrolizi",
+        "Oqsilning oksidlanishi",
+        "Aminoguruhning bromlanishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 185,
+      "question": "Oqsilga og‘ir metall tuzlari (CuSO₄, HgCl₂) ta’sir ettirilsa nima sodir bo‘ladi?",
+      "options": [
+        "Kumush oyna hosil bo‘ladi",
+        "Qaytar tuzlash",
+        "Binafsha rang hosil bo‘ladi",
+        "Qaytmas denaturatsiya — oq ivigan cho‘kma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 186,
+      "question": "Og‘ir metall tuzlari bilan zaharlanganda nima uchun sut yoki tuxum oqligi beriladi?",
+      "options": [
+        "Ular metallni oksidlaydi",
+        "Oqsil og‘ir metall ionlarini cho‘ktirib bog‘laydi",
+        "Ular kislotani neytrallaydi",
+        "Ular metallni eritib chiqaradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 187,
+      "question": "Oqsilni tuzlash uchun qaysi tuz eritmasi ishlatiladi?",
+      "options": [
+        "To‘yingan (NH₄)₂SO₄",
+        "HgCl₂",
+        "CuSO₄",
+        "Pb(CH₃COO)₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 188,
+      "question": "Oqsilni tuzlash (vysalivaniye) jarayonining xususiyati qanday?",
+      "options": [
+        "Qaytmas denaturatsiya",
+        "Qaytar — suv qo‘shilsa oqsil yana eriydi",
+        "Oqsil yonadi",
+        "Oqsil parchalanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 189,
+      "question": "Sovun qattiq suv bilan qaysi cho‘kmani hosil qiladi?",
+      "options": [
+        "C₁₇H₃₅COONa",
+        "(C₁₇H₃₅COO)₂Ca",
+        "CaCO₃",
+        "C₁₇H₃₅COOH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 190,
+      "question": "Qattiq suvda sovun nima uchun ko‘pirmaydi?",
+      "options": [
+        "Suvda erimaydigan kalsiy/magniy stearatlar hosil bo‘ladi",
+        "Sovun oksidlanadi",
+        "Suvning harorati past bo‘ladi",
+        "Sovun parchalanib ketadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 191,
+      "question": "Karbamid formulasi qaysi?",
+      "options": [
+        "CH₃CONH₂",
+        "CO(NH₂)₂",
+        "NH₂COOH",
+        "NH₄CNO"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 192,
+      "question": "Karbamid kons. HNO₃ bilan qanday cho‘kma beradi?",
+      "options": [
+        "Qora cho‘kma",
+        "Ko‘k kompleks",
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Sariq pikrin kislota"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 193,
+      "question": "Ko‘p atomli spirtlarga sifat reaksiyasi uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "[Ag(NH₃)₂]OH",
+        "Brom suvi",
+        "FeCl₃",
+        "Yangi cho‘ktirilgan Cu(OH)₂ (xona haroratida)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 194,
+      "question": "Glitseringa Cu(OH)₂ qo‘shilganda nima kuzatiladi?",
+      "options": [
+        "Qora cho‘kma tushadi",
+        "Kumush oyna hosil bo‘ladi",
+        "Cho‘kma eriydi, yorqin to‘q ko‘k eritma hosil bo‘ladi",
+        "G‘isht-qizil cho‘kma tushadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 195,
+      "question": "Glukoza Cu(OH)₂ bilan xona haroratida qanday natija beradi?",
+      "options": [
+        "G‘isht-qizil cho‘kma",
+        "Kumush oyna",
+        "Qora cho‘kma",
+        "To‘q ko‘k eritma (ko‘p atomli spirt sifatida)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 196,
+      "question": "Etanolni glitserindan qaysi reagent yordamida farqlash mumkin?",
+      "options": [
+        "Na metali",
+        "Cu(OH)₂",
+        "NaCl",
+        "Suv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 197,
+      "question": "Asetilenni etilendan qaysi reagent yordamida farqlash mumkin?",
+      "options": [
+        "Kislorodda yondirish",
+        "[Ag(NH₃)₂]OH",
+        "Brom suvi",
+        "KMnO₄ eritmasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 198,
+      "question": "Glukozani saxarozadan qaysi reagent yordamida farqlash mumkin?",
+      "options": [
+        "[Ag(NH₃)₂]OH (qizdirib)",
+        "I₂ eritmasi",
+        "NaCl eritmasi",
+        "Cu(OH)₂ (xona haroratida)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 199,
+      "question": "Etanolni metanoldan qaysi reaksiya yordamida farqlash mumkin?",
+      "options": [
+        "Yodoform reaksiyasi (I₂ + NaOH)",
+        "Yonish reaksiyasi",
+        "Natriy bilan reaksiya",
+        "Suvda eritish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 200,
+      "question": "Fenol FeCl₃ bilan qanday rang beradi?",
+      "options": [
+        "Qonsimon qizil",
+        "Binafsha (to‘q siyoh)",
+        "To‘q ko‘k",
+        "Sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 201,
+      "question": "Salitsil kislota FeCl₃ bilan qanday rang beradi?",
+      "options": [
+        "Binafsha",
+        "Sariq",
+        "Ko‘k",
+        "Yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 202,
+      "question": "Fenolni benzoldan qaysi reagent yordamida farqlash mumkin?",
+      "options": [
+        "H₂O",
+        "FeCl₃",
+        "HCl",
+        "NaCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 203,
+      "question": "Kraxmal yod eritmasi bilan qanday rang beradi?",
+      "options": [
+        "Ko‘k",
+        "Qizil",
+        "Sariq",
+        "Binafsha-qizg‘ish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 204,
+      "question": "Kraxmal-yod aralashmasi qizdirilsa nima kuzatiladi?",
+      "options": [
+        "Rang qorayadi",
+        "Qizil cho‘kma tushadi",
+        "Ko‘k rang yo‘qoladi, sovuganda qaytadi",
+        "Rang o‘zgarmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 205,
+      "question": "Kraxmalni aniqlash uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "Br₂ suvi",
+        "I₂ eritmasi",
+        "KSCN",
+        "FeCl₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 206,
+      "question": "Biuret reaksiyasi uchun qaysi reagent ishlatiladi?",
+      "options": [
+        "Ishqoriy muhitda Cu(OH)₂",
+        "FeCl₃",
+        "Konsentrlangan HNO₃",
+        "[Ag(NH₃)₂]OH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 207,
+      "question": "Biuret reaksiyasida qanday rang hosil bo‘ladi?",
+      "options": [
+        "Qonsimon qizil",
+        "Binafsha-qizg‘ish",
+        "Ko‘k",
+        "To‘q sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 208,
+      "question": "Biuret reaksiyasi oqsildagi qaysi bog‘ni aniqlaydi?",
+      "options": [
+        "Peptid bog‘",
+        "Efir bog‘",
+        "Vodorod bog‘",
+        "Disulfid bog‘"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 209,
+      "question": "Qaysi modda brom suvini rangsizlantiradi?",
+      "options": [
+        "Sirka kislota",
+        "Etan",
+        "Etilen",
+        "Etanol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 210,
+      "question": "Alkenlar va alkinlar brom suvi bilan qanday belgi beradi?",
+      "options": [
+        "Qora cho‘kma tushadi",
+        "Ko‘k rang paydo bo‘ladi",
+        "Kumush oyna hosil bo‘ladi",
+        "Sarg‘ish rang yo‘qoladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 211,
+      "question": "Fe³⁺ ioni KSCN bilan qanday rang beradi?",
+      "options": [
+        "Qonsimon qizil",
+        "To‘q ko‘k",
+        "Yashil",
+        "Sariq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 212,
+      "question": "Fe³⁺ + 3SCN⁻ → ?",
+      "options": [
+        "Fe(CN)₃",
+        "FeS + CN⁻",
+        "Fe(SCN)₃",
+        "Fe(SCN)₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 213,
+      "question": "Fe³⁺ ionini aniqlash uchun qaysi reagent qonsimon qizil eritma beradi?",
+      "options": [
+        "KSCN yoki NH₄SCN",
+        "NaOH",
+        "K₃[Fe(CN)₆]",
+        "BaCl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 214,
+      "question": "Cu²⁺ ioni NH₃·H₂O ortiqchasi bilan qaysi ionni hosil qiladi?",
+      "options": [
+        "CuNH₃²⁺",
+        "Cu(OH)₄²⁻",
+        "[Cu(NH₃)₂]⁺",
+        "[Cu(NH₃)₄]²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 215,
+      "question": "NH₄⁺ ionini aniqlash usuli qaysi?",
+      "options": [
+        "BaCl₂ qo‘shish — oq cho‘kma",
+        "KSCN qo‘shish — qizil rang",
+        "NaOH bilan qizdirish — NH₃ ajraladi",
+        "AgNO₃ qo‘shish — sariq cho‘kma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 216,
+      "question": "Na⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "G‘isht-qizil",
+        "Yashil-ko‘k",
+        "Binafsha",
+        "Sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 217,
+      "question": "K⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "Qip-qizil",
+        "Binafsha",
+        "Sariq",
+        "Sarg‘ish-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 218,
+      "question": "Ca²⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "Sariq",
+        "G‘isht-qizil",
+        "Yashil-ko‘k",
+        "Binafsha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 219,
+      "question": "Sr²⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "Sariq",
+        "Sarg‘ish-yashil",
+        "Qip-qizil",
+        "Binafsha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 220,
+      "question": "Ba²⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "Qip-qizil",
+        "Sarg‘ish-yashil",
+        "Binafsha",
+        "Sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 221,
+      "question": "Cu²⁺ ioni alangani qanday rangga bo‘yaydi?",
+      "options": [
+        "G‘isht-qizil",
+        "Binafsha",
+        "Sariq",
+        "Yashil-ko‘k"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 222,
+      "question": "Alangani binafsha rangga bo‘yaydigan ion qaysi?",
+      "options": [
+        "K⁺",
+        "Na⁺",
+        "Ba²⁺",
+        "Ca²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 223,
+      "question": "Alangani sariq rangga bo‘yaydigan ion qaysi?",
+      "options": [
+        "Cu²⁺",
+        "Na⁺",
+        "Sr²⁺",
+        "K⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 224,
+      "question": "Alangani sarg‘ish-yashil rangga bo‘yaydigan ion qaysi?",
+      "options": [
+        "Na⁺",
+        "K⁺",
+        "Ba²⁺",
+        "Ca²⁺"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
