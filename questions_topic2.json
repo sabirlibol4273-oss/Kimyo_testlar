@@ -3159,6 +3159,3812 @@
         "9,6"
       ],
       "correctIndex": 0
+    },
+    {
+      "id": 288,
+      "question": "H₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 289,
+      "question": "O₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "16",
+        "18",
+        "24",
+        "32"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 290,
+      "question": "F₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "38",
+        "40",
+        "20",
+        "19"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 291,
+      "question": "J₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "127",
+        "254",
+        "252",
+        "126"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 292,
+      "question": "Br₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "79",
+        "80",
+        "160",
+        "158"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 293,
+      "question": "Cl₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "71",
+        "70",
+        "35",
+        "35,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 294,
+      "question": "He molyar massasini (g/mol) toping.",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 295,
+      "question": "O₃ molyar massasini (g/mol) toping.",
+      "options": [
+        "16",
+        "48",
+        "24",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 296,
+      "question": "P₄ molyar massasini (g/mol) toping.",
+      "options": [
+        "31",
+        "62",
+        "93",
+        "124"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 297,
+      "question": "S₈ molyar massasini (g/mol) toping.",
+      "options": [
+        "128",
+        "96",
+        "32",
+        "256"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 298,
+      "question": "H₂O molyar massasini (g/mol) toping.",
+      "options": [
+        "18",
+        "10",
+        "27",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 299,
+      "question": "N₂O molyar massasini (g/mol) toping.",
+      "options": [
+        "46",
+        "44",
+        "28",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 300,
+      "question": "SO₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "32",
+        "48",
+        "64",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 301,
+      "question": "P₂O₅ molyar massasini (g/mol) toping.",
+      "options": [
+        "62",
+        "80",
+        "110",
+        "142"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 302,
+      "question": "CO₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "12",
+        "44",
+        "32",
+        "28"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 303,
+      "question": "Na₂O molyar massasini (g/mol) toping.",
+      "options": [
+        "60",
+        "78",
+        "62",
+        "39"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 304,
+      "question": "Na₂O₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "66",
+        "68",
+        "80",
+        "78"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 305,
+      "question": "CaO₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "72",
+        "74",
+        "56",
+        "54"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 306,
+      "question": "K₂O molyar massasini (g/mol) toping.",
+      "options": [
+        "100",
+        "94",
+        "55",
+        "39"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 307,
+      "question": "CaO molyar massasini (g/mol) toping.",
+      "options": [
+        "72",
+        "74",
+        "56",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 308,
+      "question": "MgO molyar massasini (g/mol) toping.",
+      "options": [
+        "16",
+        "40",
+        "24",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 309,
+      "question": "Al₂O₃ molyar massasini (g/mol) toping.",
+      "options": [
+        "102",
+        "48",
+        "54",
+        "104"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 310,
+      "question": "B₂O₃ molyar massasini toping.",
+      "options": [
+        "22",
+        "48",
+        "70",
+        "32"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 311,
+      "question": "Fe₃O₄ molyar massasini (g/mol) toping.",
+      "options": [
+        "168",
+        "232",
+        "230",
+        "64"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 312,
+      "question": "Mn₃O₄ molyar massasini (g/mol) toping.",
+      "options": [
+        "229",
+        "230",
+        "165",
+        "64"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 313,
+      "question": "NaOH molyar massasini (g/mol) toping.",
+      "options": [
+        "17",
+        "40",
+        "20",
+        "41"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 314,
+      "question": "LiOH molyar massasini (g/mol) toping.",
+      "options": [
+        "7",
+        "24",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 315,
+      "question": "KOH molyar massasini (g/mol) toping.",
+      "options": [
+        "39",
+        "54",
+        "56",
+        "33"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 316,
+      "question": "Ca(OH)₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "56",
+        "74",
+        "40",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 317,
+      "question": "Cu(OH)₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "64",
+        "94",
+        "98",
+        "34"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 318,
+      "question": "Zn(OH)₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "65",
+        "34",
+        "99",
+        "100"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 319,
+      "question": "Fe(OH)₃ molyar massasini (g/mol) toping.",
+      "options": [
+        "107",
+        "56",
+        "51",
+        "108"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 320,
+      "question": "Cr(OH)₃ molyar massasini (g/mol) toping.",
+      "options": [
+        "100",
+        "104",
+        "102",
+        "103"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 321,
+      "question": "Al(OH)₃ molyar massasini (g/mol) toping.",
+      "options": [
+        "78",
+        "74",
+        "75",
+        "76"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 322,
+      "question": "Mn(OH)₂ molyar massasini (g/mol) toping.",
+      "options": [
+        "75",
+        "89",
+        "72",
+        "73"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 323,
+      "question": "HF ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19",
+        "20",
+        "18",
+        "21"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 324,
+      "question": "HCl ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "36,5",
+        "36",
+        "35",
+        "35,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 325,
+      "question": "HBr ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "80",
+        "79",
+        "81",
+        "82"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 326,
+      "question": "H₂S ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "17",
+        "2",
+        "32",
+        "34"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 327,
+      "question": "HCN ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "27",
+        "28",
+        "29",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 328,
+      "question": "HNO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "46",
+        "47",
+        "62",
+        "63"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 329,
+      "question": "H₂SO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "87",
+        "98",
+        "96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 330,
+      "question": "H₃PO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "95",
+        "94",
+        "96",
+        "98"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 331,
+      "question": "HClO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "84,5",
+        "84",
+        "83,5",
+        "83"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 332,
+      "question": "H₄P₂O₇ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "178",
+        "147",
+        "176",
+        "145"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 333,
+      "question": "H₃AsO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "137",
+        "140",
+        "142",
+        "139"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 334,
+      "question": "H₃BO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "59",
+        "64",
+        "62",
+        "63"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 335,
+      "question": "H₂Cr₂O₇ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "216",
+        "214",
+        "218",
+        "220"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 336,
+      "question": "HMnO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "119",
+        "120",
+        "118",
+        "121"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 337,
+      "question": "HClO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "100",
+        "99,5",
+        "100,5",
+        "99"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 338,
+      "question": "NaCl ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "58,5",
+        "55,5",
+        "57,5",
+        "53,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 339,
+      "question": "K₂S ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "110",
+        "108",
+        "112",
+        "106"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 340,
+      "question": "CaF₂ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "68",
+        "59",
+        "78",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 341,
+      "question": "ZnSO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "145",
+        "144",
+        "142",
+        "143"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 342,
+      "question": "MgCO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "85",
+        "84",
+        "86",
+        "83"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 343,
+      "question": "CuSO₄ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "160",
+        "161",
+        "159",
+        "158"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 344,
+      "question": "Cd(NO₃)₂ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "234",
+        "235",
+        "236",
+        "233"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 345,
+      "question": "Cr₂(SO₄)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "392",
+        "394",
+        "390",
+        "391"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 346,
+      "question": "Al₂(SO₄)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "54",
+        "400",
+        "342",
+        "288"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 347,
+      "question": "Fe₄(P₂O₇)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "402",
+        "396",
+        "400",
+        "746"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 348,
+      "question": "NaHCO₃ molyar massasi nechaga teng?",
+      "options": [
+        "84",
+        "106",
+        "85",
+        "105"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 349,
+      "question": "Ca(HSO₄)₂ molyar massasi nechaga teng?",
+      "options": [
+        "232",
+        "234",
+        "236",
+        "238"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 350,
+      "question": "AlHP₂O₇ molyar massasi nechaga teng?",
+      "options": [
+        "203",
+        "202",
+        "201",
+        "200"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 351,
+      "question": "Fe(H₂PO₄)₃ molyar massasi nechaga teng?",
+      "options": [
+        "331",
+        "343",
+        "345",
+        "347"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 352,
+      "question": "Mg(HS)₂ molyar massasi nechaga teng?",
+      "options": [
+        "91",
+        "88",
+        "92",
+        "90"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 353,
+      "question": "(CaOH)₂CO₃ molyar massasi nechaga teng?",
+      "options": [
+        "170",
+        "174",
+        "172",
+        "176"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 354,
+      "question": "(Fe(OH)₂)₂SO₃ molyar massasi nechaga teng?",
+      "options": [
+        "246",
+        "266",
+        "260",
+        "256"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 355,
+      "question": "(CaOH)₂SO₃ molyar massasi nechaga teng?",
+      "options": [
+        "196",
+        "164",
+        "176",
+        "194"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 356,
+      "question": "(MgOH)₂CO₃ molyar massasi nechaga teng?",
+      "options": [
+        "142",
+        "140",
+        "150",
+        "134"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 357,
+      "question": "(FeOH)₂Cr₂O₇ molyar massasi nechaga teng?",
+      "options": [
+        "294",
+        "296",
+        "396",
+        "362"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 358,
+      "question": "Malaxitni CuCO₃·Cu(OH)₂ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "230",
+        "224",
+        "220",
+        "222"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 359,
+      "question": "Dolomitni CaCO₃·MgCO₃ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "180",
+        "182",
+        "184",
+        "186"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 360,
+      "question": "Magnetitni Fe₃O₄ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "230",
+        "232",
+        "234",
+        "236"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 361,
+      "question": "Qizil qon K₃[Fe(CN)₆] tuzini molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "329",
+        "368",
+        "312",
+        "322"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 362,
+      "question": "Piritni FeS₂ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "88",
+        "120",
+        "122",
+        "90"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 363,
+      "question": "Mis kuporosining CuSO₄·5H₂O molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "248",
+        "249",
+        "250",
+        "251"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 364,
+      "question": "Buraning Na₂B₄O₇·10H₂O molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "376",
+        "378",
+        "380",
+        "382"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 365,
+      "question": "Trunbul ko‘kining Fe₃[Fe(CN)₆]₂ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "592",
+        "380",
+        "388",
+        "590"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 366,
+      "question": "Superfosfatning Ca(H₂PO₄)₂·CaSO₄ molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "368",
+        "370",
+        "372",
+        "374"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 367,
+      "question": "Suyuq sovunning C₁₇H₃₅COOK molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "321",
+        "320",
+        "323",
+        "322"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 368,
+      "question": "Na₃[Co(NO₂)₆] ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "408",
+        "406",
+        "400",
+        "404"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 369,
+      "question": "[Zn(NH₃)₄Cl₂] ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "204",
+        "206",
+        "202",
+        "200"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 370,
+      "question": "[Pt(NH₃)₄Br₂]Cl₂ ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "337",
+        "426",
+        "494",
+        "452"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 371,
+      "question": "[Cr(H₂O)₃(NH₃)Cl₂]NO₃ ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "233",
+        "256",
+        "234",
+        "252"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 372,
+      "question": "K[Co(NO₂)₄(H₂O)₂] ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "326",
+        "359",
+        "318",
+        "342"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 373,
+      "question": "[Cu(NH₃)₄]SO₄ ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "228",
+        "259",
+        "248",
+        "242"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 374,
+      "question": "Na₂[Zn(CN)₄] ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "226",
+        "259",
+        "248",
+        "215"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 375,
+      "question": "[Cu(NH₃)₄](OH)₂ ushbu kompleks birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "126",
+        "159",
+        "166",
+        "142"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 376,
+      "question": "Quyidagi qatorda nisbiy molekulyar massa qanday o‘zgaradi? CH₄ → H₂O → HF  1) ortadi; 2) kamayadi; 3) o‘zgarmaydi.",
+      "options": [
+        "1, 1",
+        "1, 3",
+        "2, 3",
+        "1, 2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 377,
+      "question": "Quyidagi qatorda nisbiy molekulyar massa qanday o‘zgaradi? NO₂ → CO₂ → SiO₂  1) ortadi; 2) kamayadi; 3) o‘zgarmaydi.",
+      "options": [
+        "1, 1",
+        "1, 3",
+        "2, 3",
+        "2, 1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 378,
+      "question": "Quyidagi qatorda nisbiy molekulyar massa qanday o‘zgaradi? PH₃ → NH₃ → SiH₄  1) ortadi; 2) kamayadi; 3) o‘zgarmaydi.",
+      "options": [
+        "1, 1",
+        "1, 3",
+        "2, 3",
+        "2, 1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 379,
+      "question": "Quyidagi qatorda nisbiy molekulyar massa qanday o‘zgaradi? N₂O₃ → H₂SO₄ → NaOH  1) ortadi; 2) kamayadi; 3) o‘zgarmaydi.",
+      "options": [
+        "1, 1",
+        "1, 2",
+        "2, 3",
+        "1, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 380,
+      "question": "Quyidagi qatorda nisbiy molekulyar massa qanday o‘zgaradi? AgNO₃ → C₃H₈ → CO₂  1) ortadi; 2) kamayadi; 3) o‘zgarmaydi.",
+      "options": [
+        "1, 1",
+        "1, 2",
+        "2, 3",
+        "3, 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 381,
+      "question": "X₂ moddaning molyar massasi 32 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "N₂",
+        "I₂",
+        "O₂",
+        "Cl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 382,
+      "question": "X₂ moddaning molyar massasi 254 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "F₂",
+        "I₂",
+        "S₃",
+        "Cl₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 383,
+      "question": "X₂ moddaning molyar massasi 28 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "N₂",
+        "Br₂",
+        "Ar",
+        "Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 384,
+      "question": "X₂ moddaning molyar massasi 160 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "N₂",
+        "Br₂",
+        "Ar",
+        "Cl₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 385,
+      "question": "X₂ moddaning molyar massasi 38 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "N₂",
+        "F₂",
+        "O₃",
+        "Cl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 386,
+      "question": "X₄ ning molyar massasi 124 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 387,
+      "question": "X₂₀ ning molyar massasi 240 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 388,
+      "question": "X₈ ning molyar massasi 256 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 389,
+      "question": "X₆₀ ning molyar massasi 720 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 390,
+      "question": "X₇ ning molyar massasi 224 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 391,
+      "question": "X₃ ning molyar massasi 48 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 392,
+      "question": "X₄ ning molyar massasi 128 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "C",
+        "O",
+        "S",
+        "P"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 393,
+      "question": "X₂O tarkibli moddaning M = 62 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "Na",
+        "K",
+        "Li",
+        "H"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 394,
+      "question": "X₂O tarkibli moddaning M = 87 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "N",
+        "Cl",
+        "Mg",
+        "Mn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 395,
+      "question": "X₂O tarkibli moddaning M = 44 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "J",
+        "Br",
+        "N",
+        "Cl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 396,
+      "question": "X₂O tarkibli moddaning M = 18 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "Na",
+        "K",
+        "Li",
+        "H"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 397,
+      "question": "X₂O tarkibli moddaning M = 94 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "Br",
+        "K",
+        "Cl",
+        "J"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 398,
+      "question": "EO tarkibli moddaning molyar massasi 56 g/mol bo‘lsa, E ni aniqlang.",
+      "options": [
+        "K",
+        "N",
+        "P",
+        "Ca"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 399,
+      "question": "E₂O₃ tarkibli moddaning molyar massasi 110 g/mol bo‘lsa, E ni aniqlang.",
+      "options": [
+        "Br",
+        "N",
+        "P",
+        "Al"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 400,
+      "question": "EO₂ tarkibli moddaning molyar massasi 44 g/mol bo‘lsa, E ni aniqlang.",
+      "options": [
+        "Cl",
+        "N",
+        "Cd",
+        "C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 401,
+      "question": "E₂O tarkibli moddaning molyar massasi 62 g/mol bo‘lsa, E ni aniqlang.",
+      "options": [
+        "J",
+        "Na",
+        "Al",
+        "Ca"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 402,
+      "question": "E₃O₄ tarkibli moddaning molyar massasi 229 g/mol bo‘lsa, E ni aniqlang.",
+      "options": [
+        "Mn",
+        "N",
+        "P",
+        "Cu"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 403,
+      "question": "NOx ushbu moddaning molyar massasi 46 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 404,
+      "question": "P₂Oy ushbu moddaning molyar massasi 110 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "4",
+        "1",
+        "2",
+        "3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 405,
+      "question": "Fe₃Ox ushbu moddaning molyar massasi 232 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 406,
+      "question": "Cl₂Oy ushbu moddaning molyar massasi 119 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 407,
+      "question": "N₂Oy ushbu moddaning molyar massasi 108 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 408,
+      "question": "M = 56 g/mol bo‘lgan YOH modda tarkibidagi Y ni aniqlang.",
+      "options": [
+        "Rb",
+        "Na",
+        "K",
+        "Li"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 409,
+      "question": "M = 58 g/mol bo‘lgan Y(OH)₂ modda tarkibidagi Y ni aniqlang.",
+      "options": [
+        "Mn",
+        "Al",
+        "Ca",
+        "Mg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 410,
+      "question": "M = 90 g/mol bo‘lgan Y(OH)₂ modda tarkibidagi Y ni aniqlang.",
+      "options": [
+        "Ga",
+        "Na",
+        "Mn",
+        "Fe"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 411,
+      "question": "M = 78 g/mol bo‘lgan Y(OH)₃ modda tarkibidagi Y ni aniqlang.",
+      "options": [
+        "Ga",
+        "Na",
+        "Al",
+        "Fe"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 412,
+      "question": "M = 40 g/mol bo‘lgan YOH modda tarkibidagi Y ni aniqlang.",
+      "options": [
+        "Rb",
+        "Na",
+        "K",
+        "Li"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 413,
+      "question": "Me(OH)₂ ushbu moddaning molyar massasi 74 g/mol bo‘lsa, Me ni aniqlang.",
+      "options": [
+        "Mg",
+        "Zn",
+        "Cd",
+        "Ca"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 414,
+      "question": "Fe(OH)x ushbu moddaning molyar massasi 90 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 415,
+      "question": "Mn(OH)x ushbu moddaning molyar massasi 123 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 416,
+      "question": "Cu(OH)y ushbu moddaning molyar massasi 98 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 417,
+      "question": "Co(OH)z ushbu moddaning molyar massasi 110 g/mol bo‘lsa, z qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 418,
+      "question": "H₂XO₃ tarkibli moddaning M = 62 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "S",
+        "Cl",
+        "P",
+        "C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 419,
+      "question": "H₃XO₄ tarkibli moddaning M = 98 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "S",
+        "Cl",
+        "P",
+        "C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 420,
+      "question": "HXO₃ tarkibli moddaning M = 129 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "Br",
+        "Cl",
+        "P",
+        "J"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 421,
+      "question": "H₂XO₃ tarkibli moddaning M = 82 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "Si",
+        "As",
+        "P",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 422,
+      "question": "H₂XO₄ tarkibli moddaning M = 98 g/mol bo‘lsa, X ni aniqlang.",
+      "options": [
+        "S",
+        "Cl",
+        "P",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 423,
+      "question": "M = 160 g/mol bo‘lgan XSO₄ modda tarkibidagi X ni aniqlang.",
+      "options": [
+        "Cu",
+        "Zn",
+        "Cd",
+        "Hg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 424,
+      "question": "M = 136 g/mol bo‘lgan XSO₄ modda tarkibidagi X ni aniqlang.",
+      "options": [
+        "Fe",
+        "Ca",
+        "Mg",
+        "Mn"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 425,
+      "question": "M = 148 g/mol bo‘lgan XSO₄ modda tarkibidagi X ni aniqlang.",
+      "options": [
+        "Cu",
+        "Fe",
+        "Pb",
+        "Cr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 426,
+      "question": "M = 233 g/mol bo‘lgan XSO₄ modda tarkibidagi X ni aniqlang.",
+      "options": [
+        "Ba",
+        "Be",
+        "Cd",
+        "Hg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 427,
+      "question": "M = 208 g/mol bo‘lgan XSO₄ modda tarkibidagi X ni aniqlang.",
+      "options": [
+        "Cu",
+        "Zn",
+        "Cd",
+        "Hg"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 428,
+      "question": "PX₃ ning molyar massasi 34 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Cl",
+        "H",
+        "Br",
+        "J"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 429,
+      "question": "PX₃ ning molyar massasi 271 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Cl",
+        "H",
+        "Br",
+        "J"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 430,
+      "question": "CX₂ ning molyar massasi 76 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "S",
+        "H",
+        "Br",
+        "J"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 431,
+      "question": "X₂O₃ ning molyar massasi 110 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "As",
+        "H",
+        "P",
+        "Cr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 432,
+      "question": "X₂S₃ ning molyar massasi 214 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Mo",
+        "Mn",
+        "Fe",
+        "Co"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 433,
+      "question": "Al₂X₃ ning molyar massasi 438 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "J"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 434,
+      "question": "Al₂X₃ ning molyar massasi 150 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 435,
+      "question": "H₂SOx ushbu moddaning molyar massasi 98 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 436,
+      "question": "H₃POx ushbu moddaning molyar massasi 82 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 437,
+      "question": "HClOy ushbu moddaning molyar massasi 68,5 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 438,
+      "question": "H₃AsOx ushbu moddaning molyar massasi 142 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 439,
+      "question": "C₄H₁₀Ox ning molyar massasi 122 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 440,
+      "question": "C₄H₁₀Ox ning molyar massasi 106 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 441,
+      "question": "C₄H₁₀Ox ning molyar massasi 90 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 442,
+      "question": "C₄H₁₀Ox ning molyar massasi 74 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 443,
+      "question": "C₃H₈Ox ning molyar massasi 74 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 444,
+      "question": "C₁₂H₂₂Ox ning molyar massasi 342 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "11",
+        "12",
+        "13",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 445,
+      "question": "C₅H₁₀Ox ning molyar massasi 150 g/mol bo‘lsa, X ning qiymatini hisoblang.",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 446,
+      "question": "CuXO₄ ning molyar massasi 160 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 447,
+      "question": "CuXO₄ ning molyar massasi 180 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Mn",
+        "Te",
+        "Cr",
+        "S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 448,
+      "question": "CaXO₄ ning molyar massasi 183 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 449,
+      "question": "Li₃XO₄ ning molyar massasi 160 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "P",
+        "As"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 450,
+      "question": "CdXO₄ ning molyar massasi 231 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Mn",
+        "P",
+        "S"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 451,
+      "question": "ZnXO₄ ning molyar massasi 181 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Cr",
+        "Te",
+        "P",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 452,
+      "question": "MgXO₄ ning molyar massasi 120 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 453,
+      "question": "Al(XO₄)₃ ning molyar massasi 384 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Mn",
+        "Br",
+        "Cl",
+        "J"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 454,
+      "question": "Ca₃(XO₄)₂ ning molyar massasi 398 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "As",
+        "S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 455,
+      "question": "X₃(PO₄)₂ ning molyar massasi 454 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Mg",
+        "Sr",
+        "Ba",
+        "Ca"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 456,
+      "question": "X₂(SeO₃)₃ ning molyar massasi 485 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Mg",
+        "Sr",
+        "Al",
+        "Cr"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 457,
+      "question": "Al(HXO₄)₃ ning molyar massasi 459 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Zn",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 458,
+      "question": "Cr(HX)₃ ning molyar massasi 151 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "Po",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 459,
+      "question": "Al₂(HXO₄)₃ ning molyar massasi 474 g/mol bo‘lsa, X elementni toping.",
+      "options": [
+        "Se",
+        "Te",
+        "P",
+        "As"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 460,
+      "question": "Fe(OH)xBr ushbu moddaning molyar massasi 170 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 461,
+      "question": "Al(OH)xSO₄ ushbu moddaning molyar massasi 140 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 462,
+      "question": "(MgOH)yP₂O₇ ushbu moddaning molyar massasi 338 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 463,
+      "question": "Ca(OH)xPO₄ ushbu moddaning molyar massasi 186 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 464,
+      "question": "Fe(HSO₄)y ushbu moddaning molyar massasi 347 g/mol bo‘lsa, y qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 465,
+      "question": "Ca(HCO₃)x ushbu moddaning molyar massasi 162 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 466,
+      "question": "Cu(H₂PO₃)x ushbu moddaning molyar massasi 226 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 467,
+      "question": "Al₂(HAsO₄)x ushbu moddaning molyar massasi 474 g/mol bo‘lsa, x qiymatini aniqlang.",
+      "options": [
+        "3",
+        "4",
+        "1",
+        "2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 468,
+      "question": "X₂CO₃·10H₂O tarkibli kristallgidratning M = 286 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "K",
+        "Rb",
+        "Li",
+        "Na"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 469,
+      "question": "ZnXO₄·7H₂O tarkibli kristallgidratning M = 287 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "P",
+        "Cl",
+        "S",
+        "C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 470,
+      "question": "X₂MnO₄·6H₂O tarkibli kristallgidratning M = 241 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "K",
+        "Rb",
+        "Li",
+        "Na"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 471,
+      "question": "FeXO₄·2H₂O tarkibli kristallgidratning M = 187 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "P",
+        "Cl",
+        "S",
+        "C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 472,
+      "question": "X₂SO₃·8H₂O tarkibli kristallgidratning M = 238 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "K",
+        "Rb",
+        "Li",
+        "Na"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 473,
+      "question": "XCO₃·4H₂O tarkibli kristallgidratning M = 172 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "Fe",
+        "Mg",
+        "Mn",
+        "Ca"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 474,
+      "question": "FeXO₄·7H₂O tarkibli kristallgidratning M = 301 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "P",
+        "Mn",
+        "S",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 475,
+      "question": "XNO₃·6H₂O tarkibli kristallgidratning M = 209 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "K",
+        "Rb",
+        "Li",
+        "Na"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 476,
+      "question": "Al(XO₄)₃·3H₂O tarkibli kristallgidratning M = 379,5 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "P",
+        "Cl",
+        "S",
+        "C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 477,
+      "question": "MeAsO₃·8H₂O tarkibli kristallgidratning M = 323 g/mol bo‘lsa metallni toping.",
+      "options": [
+        "Fe",
+        "Mg",
+        "Mn",
+        "Ca"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 478,
+      "question": "CuXO₄·5H₂O tarkibli kristallgidratning M = 250 g/mol bo‘lsa X ni toping.",
+      "options": [
+        "P",
+        "Cl",
+        "S",
+        "C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 479,
+      "question": "Al₂(XO₄)₃ ning molyar massasi 630 g/mol bo‘lsa, Ti₂(XO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "558",
+        "624",
+        "756",
+        "672"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 480,
+      "question": "X₂(SiO₃)₃ ning molyar massasi 458 g/mol bo‘lsa, X(JO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "640",
+        "750",
+        "418",
+        "388"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 481,
+      "question": "Me₂(SO₄)₃ ning molyar massasi 480 g/mol bo‘lsa, Me₂(CO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "420",
+        "372",
+        "480",
+        "621"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 482,
+      "question": "Cr₂(XO₄)₃ ning molyar massasi 533 g/mol bo‘lsa, Co₂(XO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "558",
+        "624",
+        "499",
+        "672"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 483,
+      "question": "XSO₃ ning molyar massasi 145 g/mol bo‘lsa, X(BrO₃)₂ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "321",
+        "425",
+        "418",
+        "388"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 484,
+      "question": "Me₂SO₄ ning molyar massasi 174 g/mol bo‘lsa, Me₂CO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "420",
+        "372",
+        "148",
+        "138"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 485,
+      "question": "Al(XO₃)₃ ning molyar massasi 213 g/mol bo‘lsa, Ni₂(XO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "558",
+        "624",
+        "304",
+        "672"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 486,
+      "question": "X₂SiO₃ ning molyar massasi 122 g/mol bo‘lsa, XClO₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "106,5",
+        "750",
+        "405,6",
+        "388"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 487,
+      "question": "MePO₄ ning molyar massasi 147 g/mol bo‘lsa, Me₂(CO₃)₃ ning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "282",
+        "384",
+        "284",
+        "184"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 488,
+      "question": "X₂Y ning molyar massasi 44 g/mol va XY₂ ning molyar massasi 46 g/mol bo‘lsa, X₂Y₃ ning molyar massasini g/mol aniqlang.",
+      "options": [
+        "48",
+        "102",
+        "76",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 489,
+      "question": "X₂Y ning molyar massasi 62 g/mol va X₂Y₂ ning molyar massasi 78 g/mol bo‘lsa, X₂SY₃ ning molyar massasini g/mol aniqlang.",
+      "options": [
+        "126",
+        "102",
+        "76",
+        "124"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 490,
+      "question": "X₂Y₃ ning molyar massasi 110 g/mol va X₂Y₅ ning molyar massasi 142 g/mol bo‘lsa, AlXY₄ ning molyar massasini g/mol aniqlang.",
+      "options": [
+        "148",
+        "102",
+        "176",
+        "122"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 491,
+      "question": "X₂Y ning molyar massasi 87 g/mol va X₂Y₅ ning molyar massasi 151 g/mol bo‘lsa, Ca(XY₄)₂ ning molyar massasini g/mol aniqlang.",
+      "options": [
+        "248",
+        "239",
+        "276",
+        "280"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 492,
+      "question": "XY ning molyar massasi 72 g/mol va X₂Y₃ ning molyar massasi 160 g/mol bo‘lsa, X₃Y₄ ning molyar massasini g/mol aniqlang.",
+      "options": [
+        "148",
+        "102",
+        "176",
+        "232"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 493,
+      "question": "Molyar massa nima?",
+      "options": [
+        "1 dona zarrachaning hajmi",
+        "1 dona zarrachaning massasi",
+        "1 mol zarrachaning massasi",
+        "1 mol zarrachaning hajmi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 494,
+      "question": "Molyar hajm nima?",
+      "options": [
+        "1 dona zarrachaning hajmi",
+        "1 dona zarrachaning massasi",
+        "1 mol zarrachaning massasi",
+        "1 mol zarrachaning hajmi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 495,
+      "question": "Formulasi HCOONa bo'lgan birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "52",
+        "68",
+        "84",
+        "100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 496,
+      "question": "Formulasi HCOOK bo'lgan birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "52",
+        "68",
+        "84",
+        "100"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 497,
+      "question": "Formulasi CH₃COONa bo'lgan birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "66",
+        "82",
+        "98",
+        "116"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 498,
+      "question": "Formulasi CH₃COOK bo'lgan birikmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "66",
+        "82",
+        "98",
+        "116"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 499,
+      "question": "Molyar massasi 93 g/mol bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "C₆H₅NO₂",
+        "C₆H₅NH₂",
+        "C₆H₅OH",
+        "C₆H₅CO₂H"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 500,
+      "question": "Molyar massasi 122 g/mol bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "C₆H₅NO₂",
+        "C₆H₅NH₂",
+        "C₆H₅OH",
+        "C₆H₅CO₂H"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 501,
+      "question": "Molyar massasi 123 g/mol bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "C₆H₅NO₂",
+        "C₆H₅NH₂",
+        "C₆H₅OH",
+        "C₆H₅CO₂H"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 502,
+      "question": "Molyar massasi eng kichik bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "BH₃",
+        "H₂O",
+        "CH₄",
+        "NH₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 503,
+      "question": "Molyar massasi eng katta bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "BH₃",
+        "H₂O",
+        "CH₄",
+        "NH₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 504,
+      "question": "Molyar massasi eng kichik bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "NO",
+        "CO",
+        "C₂H₂",
+        "B₂H₆"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 505,
+      "question": "Molyar massasi eng katta bo'lgan birikma formulasini ko'rsating.",
+      "options": [
+        "N₂O",
+        "NO₂",
+        "C₂O",
+        "CO₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 506,
+      "question": "Oₓ ning molyar massasi 48 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 507,
+      "question": "Oₓ ning molyar massasi 64 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 508,
+      "question": "Sₓ ning molyar massasi 192 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 509,
+      "question": "Sₓ ning molyar massasi 256 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 510,
+      "question": "X₂ ning molyar massasi 28 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "oltingugurt",
+        "fosfor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 511,
+      "question": "X₄ ning molyar massasi 124 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "oltingugurt",
+        "fosfor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 512,
+      "question": "X₄ ning molyar massasi 128 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "oltingugurt",
+        "fosfor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 513,
+      "question": "P₂Oₓ ning molyar massasi 110 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 514,
+      "question": "P₂Oₓ ning molyar massasi 142 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 515,
+      "question": "Cl₂Oₓ ning molyar massasi 119 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 516,
+      "question": "Cl₂Oₓ ning molyar massasi 151 g/mol bo'lsa, x ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 517,
+      "question": "XO ning molyar massasi 28 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "uglerod",
+        "magniy",
+        "azot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 518,
+      "question": "XO ning molyar massasi 25 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "uglerod",
+        "magniy",
+        "azot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 519,
+      "question": "XO ning molyar massasi 30 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "uglerod",
+        "magniy",
+        "azot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 520,
+      "question": "XO ning molyar massasi 40 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "berilliy",
+        "uglerod",
+        "magniy",
+        "azot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 521,
+      "question": "XO₂ ning molyar massasi 64 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "azot"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 522,
+      "question": "XO₂ ning molyar massasi 44 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "uglerod",
+        "kremniy",
+        "oltingugurt",
+        "azot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 523,
+      "question": "XO₃ ning molyar massasi 103 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "xrom",
+        "marganes",
+        "selen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 524,
+      "question": "XO₃ ning molyar massasi 100 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "xrom",
+        "marganes",
+        "selen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 525,
+      "question": "XO₃ ning molyar massasi 127 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "xrom",
+        "marganes",
+        "selen"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 526,
+      "question": "XO₃ ning molyar massasi 80 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "oltingugurt",
+        "xrom",
+        "marganes",
+        "selen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 527,
+      "question": "X₂O ning molyar massasi 232 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "mis",
+        "brom",
+        "kumush",
+        "yod"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 528,
+      "question": "X₂O ning molyar massasi 270 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "mis",
+        "brom",
+        "kumush",
+        "yod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 529,
+      "question": "X₂O ning molyar massasi 144 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "mis",
+        "brom",
+        "kumush",
+        "yod"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 530,
+      "question": "X₂O ning molyar massasi 176 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "mis",
+        "brom",
+        "kumush",
+        "yod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 531,
+      "question": "X₂O₃ ning molyar massasi 102 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "azot",
+        "fosfor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 532,
+      "question": "X₂O₃ ning molyar massasi 110 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "azot",
+        "fosfor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 533,
+      "question": "X₂O₃ ning molyar massasi 70 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "azot",
+        "fosfor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 534,
+      "question": "X₂O₅ ning molyar massasi 142 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 535,
+      "question": "X₂O₅ ning molyar massasi 108 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 536,
+      "question": "X₂O₅ ning molyar massasi 240 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 537,
+      "question": "X₂O₇ ning molyar massasi 272 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "marganes",
+        "brom",
+        "yod",
+        "reniy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 538,
+      "question": "X₂O₇ ning molyar massasi 366 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "marganes",
+        "brom",
+        "yod",
+        "reniy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 539,
+      "question": "X₂O₇ ning molyar massasi 222 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "marganes",
+        "brom",
+        "yod",
+        "reniy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 540,
+      "question": "X₂O₇ ning molyar massasi 484 g/mol bo'lsa, X ni aniqlang.",
+      "options": [
+        "marganes",
+        "brom",
+        "yod",
+        "reniy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 541,
+      "question": "I valentli element oksidining molyar massasi 30 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "azot",
+        "ftor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 542,
+      "question": "I valentli element oksidining molyar massasi 54 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "azot",
+        "ftor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 543,
+      "question": "I valentli element oksidining molyar massasi 62 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "azot",
+        "ftor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 544,
+      "question": "I valentli element oksidining molyar massasi 44 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "litiy",
+        "natriy",
+        "azot",
+        "ftor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 545,
+      "question": "II valentli element oksidining molyar massasi 40 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "uglerod",
+        "azot",
+        "magniy",
+        "kalsiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 546,
+      "question": "II valentli element oksidining molyar massasi 28 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "uglerod",
+        "azot",
+        "magniy",
+        "kalsiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 547,
+      "question": "II valentli element oksidining molyar massasi 30 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "uglerod",
+        "azot",
+        "magniy",
+        "kalsiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 548,
+      "question": "III valentli element oksidining molyar massasi 152 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "marganes",
+        "xrom"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 549,
+      "question": "III valentli element oksidining molyar massasi 158 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "marganes",
+        "xrom"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 550,
+      "question": "III valentli element oksidining molyar massasi 70 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "marganes",
+        "xrom"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 551,
+      "question": "III valentli element oksidining molyar massasi 102 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "bor",
+        "aluminiy",
+        "marganes",
+        "xrom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 552,
+      "question": "V valentli element oksidining molyar massasi 108 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 553,
+      "question": "V valentli element oksidining molyar massasi 240 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 554,
+      "question": "V valentli element oksidining molyar massasi 142 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 555,
+      "question": "V valentli element oksidining molyar massasi 151 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "azot",
+        "fosfor",
+        "xlor",
+        "brom"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 556,
+      "question": "VI valentli qaysi element oksidining molyar massasi 176 g/mol?",
+      "options": [
+        "tellur",
+        "selen",
+        "molibden",
+        "xrom"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 557,
+      "question": "VI valentli qaysi element oksidining molyar massasi 144 g/mol?",
+      "options": [
+        "tellur",
+        "selen",
+        "molibden",
+        "xrom"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 558,
+      "question": "C₄H₁₀Oₓ ning molyar massasi 122 g/mol bo'lsa, x ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 559,
+      "question": "C₄H₁₀Oₓ ning molyar massasi 90 g/mol bo'lsa, x ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 560,
+      "question": "C₅H₁₂Oₓ ning molyar massasi 88 g/mol bo'lsa, x ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 561,
+      "question": "C₅H₁₂Oₓ ning molyar massasi 120 g/mol bo'lsa, x ni aniqlang.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 562,
+      "question": "Ma'lumotlar asosida XZ birikmaning molyar massasini (g/mol) aniqlang. XY=40, XY₄Z=120, Y=16 g/mol.",
+      "options": [
+        "56",
+        "72",
+        "80",
+        "96"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 563,
+      "question": "Ma'lumotlar asosida XZ birikmaning molyar massasini (g/mol) aniqlang. XY=56, XY₄Z=136, Y=16 g/mol.",
+      "options": [
+        "56",
+        "72",
+        "80",
+        "96"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 564,
+      "question": "Ma'lumotlar asosida XZ birikmaning molyar massasini (g/mol) aniqlang. XY=64, XY₄Z=144, Y=16 g/mol.",
+      "options": [
+        "56",
+        "72",
+        "80",
+        "96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 565,
+      "question": "Ma'lumotlar asosida XZ birikmaning molyar massasini (g/mol) aniqlang. XY=80, XY₄Z=160, Y=16 g/mol.",
+      "options": [
+        "56",
+        "72",
+        "80",
+        "96"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 566,
+      "question": "X₃(PO₄)₂ ning molyar massasi 601 g/mol bo'lsa, X elementni aniqlang.",
+      "options": [
+        "magniy",
+        "kalsiy",
+        "stronsiy",
+        "bariy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 567,
+      "question": "X₃(AsO₄)₂ ning molyar massasi 542 g/mol bo'lsa, X elementni aniqlang.",
+      "options": [
+        "magniy",
+        "kalsiy",
+        "stronsiy",
+        "bariy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 568,
+      "question": "X₃(PO₄)₂ ning molyar massasi 454 g/mol bo'lsa, X elementni aniqlang.",
+      "options": [
+        "magniy",
+        "kalsiy",
+        "stronsiy",
+        "bariy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 569,
+      "question": "X₃(AsO₄)₂ ning molyar massasi 689 g/mol bo'lsa, X elementni aniqlang.",
+      "options": [
+        "magniy",
+        "kalsiy",
+        "stronsiy",
+        "bariy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 570,
+      "question": "Ca₃(XO₄)₂ ning molyar massasi 492 g/mol bo'lsa, X elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "31",
+        "75",
+        "122"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 571,
+      "question": "Ba₃(XO₄)₂ ning molyar massasi 689 g/mol bo'lsa, X elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "31",
+        "75",
+        "122"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 572,
+      "question": "Ba₃(XO₄)₂ ning molyar massasi 783 g/mol bo'lsa, X elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "31",
+        "75",
+        "122"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 573,
+      "question": "Ca₃(XO₄)₂ ning molyar massasi 398 g/mol bo'lsa, X elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "31",
+        "75",
+        "122"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 574,
+      "question": "X₂Y₃ va X₂Y₅ molyar massalari 110 va 142 g/mol bo'lsa, X va Y molyar massalarini aniqlang.",
+      "options": [
+        "M(X)=16, M(Y)=31 g/mol",
+        "M(X)=31, M(Y)=16 g/mol",
+        "M(X)=31, M(Y)=32 g/mol",
+        "M(X)=62, M(Y)=16 g/mol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 575,
+      "question": "X₂Y₃ va X₂Y₅ molyar massalari 76 va 108 g/mol bo'lsa, X va Y molyar massalarini aniqlang.",
+      "options": [
+        "M(X)=16, M(Y)=14 g/mol",
+        "M(X)=14, M(Y)=16 g/mol",
+        "M(X)=31, M(Y)=16 g/mol",
+        "M(X)=16, M(Y)=31 g/mol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 576,
+      "question": "XY₃=184, XY₅=222 g/mol bo'lsa, XY₇ birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "240",
+        "250",
+        "260",
+        "270"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 577,
+      "question": "X₂Y=160, X₂Y₃=224 g/mol bo'lsa, XY birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "80",
+        "96",
+        "128",
+        "144"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 578,
+      "question": "XY₃=137, XY₅=175 g/mol bo'lsa, XY₇ birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "213",
+        "223",
+        "233",
+        "243"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 579,
+      "question": "X₂Y=120, X₃Y₂=208 g/mol bo'lsa, XY birikmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "72",
+        "88",
+        "120",
+        "136"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 580,
+      "question": "X₃Y₂=208, X₄Y₃=296 g/mol bo'lsa, Y elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "52",
+        "55",
+        "56",
+        "96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 581,
+      "question": "X₃Y₂=200, X₄Y₃=284 g/mol bo'lsa, X elementning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "16",
+        "31",
+        "32"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 582,
+      "question": "XFₙ molekulasida 4 ta atom bo'lib, molyar massasi 88 g/mol bo'lsa, X atomning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "9",
+        "14",
+        "27",
+        "31"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 583,
+      "question": "XFₙ molekulasida 4 ta atom bo'lib, molyar massasi 132 g/mol bo'lsa, X atomning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14",
+        "31",
+        "75",
+        "122"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 584,
+      "question": "Avogadro soni 6,02·10²³ o'rniga 6,02·10²⁴ bo'lsa, sulfat kislotaning molekulyar (u) va molyar massalari (g/mol) qanday bo'ladi?",
+      "options": [
+        "98, 98",
+        "98, 980",
+        "980, 98",
+        "980, 980"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 585,
+      "question": "Binar birikma tarkibidagi azotning massa ulushi 79,67%, mol ulushi 95,45% ga teng bo'lsa, noma'lum elementni aniqlang.",
+      "options": [
+        "bor",
+        "mishyak",
+        "kremniy",
+        "fosfor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 586,
+      "question": "Element ftorli va xlorli birikmalarining molyar massalari 100 va 166 g/mol bo'lsa, elementni aniqlang.",
+      "options": [
+        "uglerod",
+        "magniy",
+        "titan",
+        "mis"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 587,
+      "question": "II valentli metall bromidning molyar massasi 216 g/mol bo'lsa, metallni aniqlang.",
+      "options": [
+        "magniy",
+        "kalsiy",
+        "temir",
+        "mis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 588,
+      "question": "O'quvchi SO₂ formulasini S₄O₂ ko'rinishida yozgan bo'lsa, molyar massa hisoblashda qancha adashgan?",
+      "options": [
+        "96 g/mol ko'p hisoblagan",
+        "80 g/mol ko'p hisoblagan",
+        "96 g/mol kam hisoblagan",
+        "80 g/mol kam hisoblagan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 589,
+      "question": "O'quvchi SO₃ formulasini S₆O₂ ko'rinishida yozgan bo'lsa, molyar massa hisoblashda qancha adashgan?",
+      "options": [
+        "160 g/mol ko'p hisoblagan",
+        "144 g/mol ko'p hisoblagan",
+        "160 g/mol kam hisoblagan",
+        "144 g/mol kam hisoblagan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 590,
+      "question": "O'quvchi SO₂ formulasini S₂O ko'rinishida yozgan bo'lsa, molyar massa hisoblashda qancha adashgan?",
+      "options": [
+        "16 g/mol ko'p hisoblagan",
+        "32 g/mol ko'p hisoblagan",
+        "16 g/mol kam hisoblagan",
+        "32 g/mol kam hisoblagan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 591,
+      "question": "O'quvchi SO₃ formulasini S₃O ko'rinishida yozgan bo'lsa, molyar massa hisoblashda qancha adashgan?",
+      "options": [
+        "16 g/mol kam hisoblagan",
+        "32 g/mol kam hisoblagan",
+        "16 g/mol ko'p hisoblagan",
+        "32 g/mol ko'p hisoblagan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 592,
+      "question": "Uglerodning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "2·10⁻²³",
+        "2·10²³",
+        "4·10⁻²³",
+        "4·10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 593,
+      "question": "Magniyning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "2·10⁻²³",
+        "2·10²³",
+        "4·10⁻²³",
+        "4·10²³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 594,
+      "question": "Titanning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "4·10⁻²³",
+        "4·10²³",
+        "8·10⁻²³",
+        "8·10²³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 595,
+      "question": "Kriptonning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "7·10⁻²³",
+        "7·10²³",
+        "14·10⁻²³",
+        "14·10²³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 596,
+      "question": "C₅H₆ ning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "11·10²³",
+        "11·10⁻²³",
+        "14·10²³",
+        "14·10⁻²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 597,
+      "question": "C₆H₁₂ ning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "11·10²³",
+        "11·10⁻²³",
+        "14·10²³",
+        "14·10⁻²³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 598,
+      "question": "C₄H₈O ning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "12·10²³",
+        "12·10⁻²³",
+        "15·10²³",
+        "15·10⁻²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 599,
+      "question": "C₄H₁₀O₂ ning absolyut massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "12·10²³",
+        "12·10⁻²³",
+        "15·10²³",
+        "15·10⁻²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 600,
+      "question": "Absolyut massasi 7,5·10⁻²³ g bo'lgan moddaning molyar massasini (g/mol) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "33",
+        "39",
+        "42",
+        "45"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 601,
+      "question": "Cₙ ning absolyut massasi 120·10⁻²³ g bo'lsa, n ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "6",
+        "8",
+        "60",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 602,
+      "question": "Cₙ ning absolyut massasi 160·10⁻²³ g bo'lsa, n ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "6",
+        "8",
+        "60",
+        "80"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 603,
+      "question": "CₓH₆ ning absolyut massasi 13·10⁻²³ g bo'lsa, x ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 604,
+      "question": "CₓH₁₈ ning absolyut massasi 19·10⁻²³ g bo'lsa, x ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 605,
+      "question": "CₓH₄O₂ ning absolyut massasi 12·10⁻²³ g bo'lsa, x ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 606,
+      "question": "CₓH₂O₄ ning absolyut massasi 15·10⁻²³ g bo'lsa, x ning qiymatini aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 607,
+      "question": "8 dona magniy atomining massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "3,2·10⁻²³",
+        "32·10⁻²³",
+        "5,6·10⁻²³",
+        "56·10⁻²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 608,
+      "question": "16 dona aluminiy atomining massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "4,8·10⁻²³",
+        "48·10⁻²³",
+        "7,2·10⁻²³",
+        "72·10⁻²³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 609,
+      "question": "32 dona berilliy atomining massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "4,8·10⁻²³",
+        "48·10⁻²³",
+        "7,2·10⁻²³",
+        "72·10⁻²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 610,
+      "question": "48 dona litiy atomining massasini (g) aniqlang (Nₐ=6·10²³ mol⁻¹).",
+      "options": [
+        "3,2·10⁻²³",
+        "32·10⁻²³",
+        "5,6·10⁻²³",
+        "56·10⁻²³"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 611,
+      "question": "Nisbiy atom massa nima?",
+      "options": [
+        "1 mol uglerod-12 izotopining massasi",
+        "uglerod-12 izotopi absolyut massasining 1/12 qismi",
+        "12 g uglerod-12 izotopidagi atomlar sonicha miqdor",
+        "uglerod-12 izotopi absolyut massasining 1/12 qismidan necha marta og'irligini ko'rsatuvchi fizik kattalik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 612,
+      "question": "Nisbiy atom massa birligi sifatida qabul qilingan etalonga mos keluvchi qiymatlarni ko'rsating. 1) mₐ(¹H); 2) (1/12)mₐ(¹²C); 3) mₐ(1/12); 4) 1/Nₐ",
+      "options": [
+        "1, 2, 4",
+        "faqat 2",
+        "2, 3, 4",
+        "2 va 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 613,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/6 qismi qabul qilinsa, kalsiyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "6,(6)",
+        "20",
+        "80",
+        "240"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 614,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/4 qismi qabul qilinsa, titanning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "12",
+        "16",
+        "144",
+        "192"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 615,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/3 qismi qabul qilinsa, berilliyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "2,25",
+        "3",
+        "27",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 616,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/24 qismi qabul qilinsa, geliyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "0,1(6)",
+        "2",
+        "8",
+        "96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 617,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/48 qismi qabul qilinsa, kislorodning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "0,(3)",
+        "4",
+        "64",
+        "768"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 618,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/18 qismi qabul qilinsa, neonning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "1,(1)",
+        "13,(3)",
+        "30",
+        "360"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 619,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 1/30 qismi qabul qilinsa, oltingugurtning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "1,0(6)",
+        "12,8",
+        "80",
+        "960"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 620,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 2/3 qismi qabul qilinsa, geliyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "0,5",
+        "1",
+        "16",
+        "32"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 621,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 3/4 qismi qabul qilinsa, berilliyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "0,5",
+        "1",
+        "40,5",
+        "81"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 622,
+      "question": "Agar etalon sifatida ¹²C absolyut massasining 4/5 qismi qabul qilinsa, titanning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "5",
+        "10",
+        "230,4",
+        "460,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 623,
+      "question": "⁴⁸Ti izotopi absolyut massasining 1/12 qismi etalon olinsa, massa atom birligi (a) va nisbiy molekulyar massa (b) qanday o'zgaradi?",
+      "options": [
+        "a-4 marta ortadi, b-4 marta ortadi",
+        "a-4 marta kamayadi, b-4 marta kamayadi",
+        "a-4 marta ortadi, b-4 marta kamayadi",
+        "a-4 marta kamayadi, b-4 marta ortadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 624,
+      "question": "⁷²Ge izotopi absolyut massasining 1/12 qismi etalon olinsa, massa atom birligi (a) va molyar massa (b) qanday o'zgaradi?",
+      "options": [
+        "a-6 marta ortadi, b-6 marta ortadi",
+        "a-o'zgarmaydi, b-o'zgarmaydi",
+        "a-6 marta ortadi, b-o'zgarmaydi",
+        "a-o'zgarmaydi, b-6 marta ortadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 625,
+      "question": "⁹⁶Mo izotopi absolyut massasining 1/12 qismi etalon olinsa, massa atom birligi (a) va molyar massa (b) qanday o'zgaradi?",
+      "options": [
+        "a-8 marta ortadi, b-8 marta ortadi",
+        "a-o'zgarmaydi, b-o'zgarmaydi",
+        "a-8 marta ortadi, b-o'zgarmaydi",
+        "a-o'zgarmaydi, b-8 marta ortadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 626,
+      "question": "Qaysi element izotopi absolyut massasining 1/12 qismi etalon olinsa, marganesning nisbiy atom massasi 5 ga teng bo'ladi?",
+      "options": [
+        "⁸⁴Kr",
+        "⁹⁶Mo",
+        "¹⁰⁸Ag",
+        "¹³²Cs"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 627,
+      "question": "Qaysi element izotopi absolyut massasining 1/12 qismi etalon olinsa, aluminiyning nisbiy atom massasi 3 ga teng bo'ladi?",
+      "options": [
+        "⁸⁴Kr",
+        "⁹⁶Mo",
+        "¹⁰⁸Ag",
+        "¹³²Cs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 628,
+      "question": "¹⁰⁸Ag izotopi absolyut massasining 1/12 qismi etalon olinsa, aluminiyning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "3",
+        "9",
+        "81",
+        "243"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 629,
+      "question": "¹³²Cs izotopi absolyut massasining 1/12 qismi etalon olinsa, marganesning nisbiy atom massasi nechaga teng bo'ladi?",
+      "options": [
+        "5",
+        "10",
+        "302,5",
+        "605"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 630,
+      "question": "¹⁶O izotopi absolyut massasining 1/32 qismi etalon olinsa, massa atom birligi qiymati qanday o'zgaradi?",
+      "options": [
+        "2 marta ortadi",
+        "2 marta kamayadi",
+        "4 marta ortadi",
+        "4 marta kamayadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 631,
+      "question": "¹⁶O izotopi absolyut massasining 1/4 qismi etalon olinsa, massa atom birligi qiymati qanday o'zgaradi?",
+      "options": [
+        "2 marta ortadi",
+        "2 marta kamayadi",
+        "4 marta ortadi",
+        "4 marta kamayadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 632,
+      "question": "¹⁶O izotopi absolyut massasining 1/64 qismi etalon olinsa, massa atom birligi qiymati qanday o'zgaradi?",
+      "options": [
+        "2 marta ortadi",
+        "4 marta ortadi",
+        "2 marta kamayadi",
+        "4 marta kamayadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 633,
+      "question": "¹⁶O izotopi absolyut massasining 1/8 qismi etalon olinsa, massa atom birligi qiymati qanday o'zgaradi?",
+      "options": [
+        "2 marta ortadi",
+        "2 marta kamayadi",
+        "4 marta ortadi",
+        "4 marta kamayadi"
+      ],
+      "correctIndex": 0
     }
   ]
 }
