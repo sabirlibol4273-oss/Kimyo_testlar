@@ -2466,6 +2466,6243 @@
         "Ca²⁺"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": 225,
+      "question": "PbS qanday rangli?",
+      "options": [
+        "Qizil-qo'ng'ir",
+        "G'isht-qizil",
+        "Sariq",
+        "Qora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 226,
+      "question": "Cu₂C₂ qanday rangli?",
+      "options": [
+        "G'isht-qizil",
+        "Ko'k (havorang)",
+        "Kulrang-yashil",
+        "Qizil-qo'ng'ir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 227,
+      "question": "Sr²⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "G'isht-qizil",
+        "Binafsha",
+        "Sariq",
+        "Qip-qizil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 228,
+      "question": "Etanol ga I₂ + NaOH ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Och sariq yodoform cho'kmasi",
+        "Qaytmas denaturatsiya — ivigan cho'kma",
+        "G'isht-qizil Cu₂O cho'kmasi",
+        "Ko'k rang"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 229,
+      "question": "Eritmaga HCl (HNO₃ muhitida) qo'shilganda AgCl (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ag⁺",
+        "S²⁻",
+        "Al³⁺",
+        "SO₃²⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 230,
+      "question": "Tuz alangani qip-qizil rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "Sr²⁺",
+        "Ca²⁺",
+        "Na⁺",
+        "K⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 231,
+      "question": "Eritmaga NaOH (oz) qo'shilganda Cr(OH)₃ (kulrang-yashil) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "S²⁻",
+        "CrO₄²⁻",
+        "Cr³⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 232,
+      "question": "Ni(OH)₂ qanday rangli?",
+      "options": [
+        "To'q sariq",
+        "Pushti",
+        "Olma-yashil",
+        "Qizil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 233,
+      "question": "Oqsil ga Cu(OH)₂ ishqoriy muhitda ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Sariq rang (ksantoprotein)",
+        "Qaytar cho'kma — tuzlash",
+        "Oq 2,4,6-tribromanilin cho'kmasi",
+        "Binafsha-qizg'ish rang (biuret)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 234,
+      "question": "KFe[Fe(CN)₆] qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "To'q ko'k",
+        "Pushti",
+        "Qora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 235,
+      "question": "HgS qanday rangli?",
+      "options": [
+        "Qora-qo'ng'ir",
+        "Pushti",
+        "G'isht-qizil",
+        "Qora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 236,
+      "question": "Eritmaga H₂SO₄ qo'shilganda SrSO₄ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "SiO₃²⁻",
+        "Sb³⁺",
+        "Ag⁺",
+        "Sr²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 237,
+      "question": "Fenol ga FeCl₃ ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Binafsha-qizg'ish rang (biuret)",
+        "Qaytmas denaturatsiya — ivigan cho'kma",
+        "Oq 2,4,6-tribromanilin cho'kmasi",
+        "Binafsha rang"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 238,
+      "question": "Anilin ga Brom suvi ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Oq 2,4,6-tribromanilin cho'kmasi",
+        "Kumush oyna — Ag ajraladi",
+        "Binafsha-qizg'ish rang (biuret)",
+        "Och sariq yodoform cho'kmasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 239,
+      "question": "I⁻ ioniga AgNO₃ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbS (qora)",
+        "AgI (sariq)",
+        "Ag₂S (qora)",
+        "BaCrO₄ (sariq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 240,
+      "question": "Fenol ga Brom suvi ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Oq, erimaydigan kalsiy stearat",
+        "Binafsha rang yo'qoladi, qo'ng'ir MnO₂ cho'kadi",
+        "Kumush oyna — Ag ajraladi",
+        "Oq 2,4,6-tribromfenol cho'kmasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 241,
+      "question": "Eritmaga NH₃·H₂O qo'shilganda Al(OH)₃ (oq, jelesimon) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ba²⁺",
+        "Fe³⁺",
+        "Al³⁺",
+        "SO₃²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 242,
+      "question": "Eritmaga BaCl₂ qo'shilganda BaCO₃ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Co²⁺",
+        "CO₃²⁻",
+        "Ni²⁺",
+        "Cd²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 243,
+      "question": "Quyidagi cho'kmalardan qaysi biri oq rangli?",
+      "options": [
+        "Fe(OH)₂",
+        "PbS",
+        "AgCl",
+        "Ag₂S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 244,
+      "question": "Turnbul ko'ki qaysi ion va reagent ta'sirida hosil bo'ladi?",
+      "options": [
+        "Fe²⁺ + K₄[Fe(CN)₆]",
+        "Fe³⁺ + KSCN",
+        "Fe²⁺ + K₃[Fe(CN)₆]",
+        "Fe³⁺ + K₄[Fe(CN)₆]"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 245,
+      "question": "Mg²⁺ ioniga Na₂HPO₄ + NH₃·H₂O ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbCrO₄ (sariq)",
+        "MgNH₄PO₄ (oq)",
+        "AgBr (och sariq)",
+        "KFe[Fe(CN)₆] (turnbul ko'ki) (to'q ko'k)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 246,
+      "question": "Ag⁺ ioniga Na₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Cu(OH)₂ (ko'k)",
+        "Fe(OH)₃ (qizil-qo'ng'ir)",
+        "Ni(OH)₂ (olma-yashil)",
+        "Ag₂S (qora)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 247,
+      "question": "Fe³⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "SrSO₄ (oq)",
+        "Fe(OH)₃ (qizil-qo'ng'ir)",
+        "PbCl₂ (oq)",
+        "Sb₂S₃ (to'q sariq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 248,
+      "question": "PbCl₂ qanday rangli?",
+      "options": [
+        "G'isht-qizil",
+        "Qora",
+        "Oq",
+        "Olma-yashil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 249,
+      "question": "Fe³⁺ ionining KSCN bilan reaksiyasi qanday belgi beradi?",
+      "options": [
+        "Qizil-qo'ng'ir cho'kma",
+        "Yashil eritma",
+        "To'q ko'k cho'kma",
+        "Qonsimon qizil eritma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 250,
+      "question": "AgBr qanday rangli?",
+      "options": [
+        "Qora-qo'ng'ir",
+        "Kulrang-yashil",
+        "Oltin-sariq",
+        "Och sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 251,
+      "question": "Fe(OH)₂ qanday rangli?",
+      "options": [
+        "Qora",
+        "Qizil",
+        "Oq-yashil",
+        "Oltin-sariq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 252,
+      "question": "SrSO₄ qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "Qora-qo'ng'ir",
+        "Oq",
+        "Kulrang-yashil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 253,
+      "question": "«Oltin yomg'ir» tajribasi qaysi moddaga xos?",
+      "options": [
+        "HgI₂",
+        "PbI₂",
+        "PbCl₂",
+        "AgI"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 254,
+      "question": "Asetilen ga [Cu(NH₃)₂]Cl ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Kumush oyna — Ag ajraladi",
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Qaytar cho'kma — tuzlash",
+        "Qizil-qo'ng'ir Cu₂C₂ cho'kmasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 255,
+      "question": "Eritmaga Na₂S qo'shilganda Bi₂S₃ (qora-qo'ng'ir) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Mn²⁺",
+        "Bi³⁺",
+        "F⁻",
+        "Sr²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 256,
+      "question": "Ba²⁺ ioniga K₂CrO₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbS (qora)",
+        "Cr(OH)₃ (kulrang-yashil)",
+        "Mg(OH)₂ (oq)",
+        "BaCrO₄ (sariq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 257,
+      "question": "K⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "Binafsha",
+        "G'isht-qizil",
+        "Qip-qizil",
+        "Sarg'ish-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 258,
+      "question": "Sn²⁺ ioniga Na₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Mn(OH)₂ (oq)",
+        "AgI (sariq)",
+        "ZnS (oq)",
+        "SnS (qo'ng'ir)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 259,
+      "question": "Co²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "H₂SiO₃ (oq, jelesimon)",
+        "BaCrO₄ (sariq)",
+        "Co(OH)₂ (pushti)",
+        "AgI (sariq)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 260,
+      "question": "Ag₂C₂ qanday rangli?",
+      "options": [
+        "To'q sariq",
+        "Och sariq",
+        "Oltin-sariq",
+        "Qora-qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 261,
+      "question": "Quyidagi sulfidlardan qaysi biri oq rangli?",
+      "options": [
+        "CdS",
+        "CuS",
+        "PbS",
+        "ZnS"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 262,
+      "question": "Mg(OH)₂ qanday rangli?",
+      "options": [
+        "Qora-qo'ng'ir",
+        "Oq",
+        "To'q sariq",
+        "Qizil-qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 263,
+      "question": "Tuz alangani sarg'ish-yashil rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "Ca²⁺",
+        "Sr²⁺",
+        "Na⁺",
+        "Ba²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 264,
+      "question": "Eritmaga NaOH qo'shilganda Co(OH)₂ (pushti) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "F⁻",
+        "Br⁻",
+        "Co²⁺",
+        "S²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 265,
+      "question": "Cr³⁺ ioniga NaOH (oz) ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Cr(OH)₃ (kulrang-yashil)",
+        "PbS (qora)",
+        "PbCrO₄ (sariq)",
+        "BaCrO₄ (sariq)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 266,
+      "question": "Quyidagi cho'kmalardan qaysi biri och sariq rangli?",
+      "options": [
+        "Bi₂S₃",
+        "AgBr",
+        "Zn(OH)₂",
+        "CaF₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 267,
+      "question": "Eritmaga Na₂S qo'shilganda Ag₂S (qora) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ag⁺",
+        "PO₄³⁻",
+        "S²⁻",
+        "I⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 268,
+      "question": "AgCl qanday rangli?",
+      "options": [
+        "Oq",
+        "Oltin-sariq",
+        "Olma-yashil",
+        "Och sariq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 269,
+      "question": "Oqsil ga To'yingan (NH₄)₂SO₄ ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Binafsha-qizg'ish rang (biuret)",
+        "Oq 2,4,6-tribromfenol cho'kmasi",
+        "Qaytar cho'kma — tuzlash",
+        "Kumush oyna — Ag ajraladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 270,
+      "question": "Cu²⁺ ioniga H₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Cu(OH)₂ (ko'k)",
+        "CuS (qora)",
+        "Bi₂S₃ (qora-qo'ng'ir)",
+        "Mg(OH)₂ (oq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 271,
+      "question": "Fe²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Fe(OH)₂ (oq-yashil)",
+        "PbCrO₄ (sariq)",
+        "BaCrO₄ (sariq)",
+        "H₂SiO₃ (oq, jelesimon)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 272,
+      "question": "Eritmaga NaOH qo'shilganda Mg(OH)₂ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "C₂O₄²⁻",
+        "Sb³⁺",
+        "Ag⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 273,
+      "question": "Tuz alangani g'isht-qizil rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "Sr²⁺",
+        "Ca²⁺",
+        "Cu²⁺",
+        "Na⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 274,
+      "question": "Eritmaga K₄[Fe(CN)₆] qo'shilganda KFe[Fe(CN)₆] (berlin lazuri) (to'q ko'k) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ni²⁺",
+        "Fe³⁺",
+        "Br⁻",
+        "SiO₃²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 275,
+      "question": "SiO₃²⁻ ioniga HCl ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "H₂SiO₃ (oq, jelesimon)",
+        "Ag₂S (qora)",
+        "AgCl (oq)",
+        "SnS (qo'ng'ir)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 276,
+      "question": "Eritmaga HCl qo'shilganda H₂SiO₃ (oq, jelesimon) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "SiO₃²⁻",
+        "Cu²⁺",
+        "Cd²⁺",
+        "SO₃²⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 277,
+      "question": "Qaysi alkin ammiakli kumush oksidi eritmasi bilan cho'kma beradi?",
+      "options": [
+        "Geks-3-in",
+        "But-2-in",
+        "But-1-in",
+        "Pent-2-in"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 278,
+      "question": "Sr²⁺ ioniga H₂SO₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "AgI (sariq)",
+        "Ni(OH)₂ (olma-yashil)",
+        "SrSO₄ (oq)",
+        "PbS (qora)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 279,
+      "question": "Quyidagi cho'kmalardan qaysi biri qo'ng'ir rangli?",
+      "options": [
+        "Mn(OH)₂",
+        "Ni(OH)₂",
+        "SnS",
+        "FeS"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 280,
+      "question": "CuO qanday rangli?",
+      "options": [
+        "Qora",
+        "G'isht-qizil",
+        "To'q ko'k",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 281,
+      "question": "Quyidagi cho'kmalardan qaysi biri qizil rangli?",
+      "options": [
+        "Cu₂C₂",
+        "HgI₂",
+        "Fe(OH)₃",
+        "FeS"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 282,
+      "question": "Fe(OH)₃ qanday rangli?",
+      "options": [
+        "Ko'k-yashil",
+        "Qizil-qo'ng'ir",
+        "Och sariq",
+        "G'isht-qizil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 283,
+      "question": "Asetilen ga [Ag(NH₃)₂]OH ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "G'isht-qizil Cu₂O cho'kmasi",
+        "Binafsha rang",
+        "Cho'kma eriydi, to'q ko'k eritma",
+        "Och sariq Ag₂C₂ cho'kmasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 284,
+      "question": "Ca²⁺ ioniga (NH₄)₂C₂O₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbS (qora)",
+        "Bi₂S₃ (qora-qo'ng'ir)",
+        "CaC₂O₄ (oq)",
+        "Mg(OH)₂ (oq)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 285,
+      "question": "H₂SiO₃ qanday rangli?",
+      "options": [
+        "Qora-qo'ng'ir",
+        "Sariq",
+        "Oq",
+        "Olma-yashil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 286,
+      "question": "Quyidagi cho'kmalardan qaysi biri g'isht-qizil rangli?",
+      "options": [
+        "Zn(OH)₂",
+        "Ag₂CrO₄",
+        "Co(OH)₂",
+        "CuS"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 287,
+      "question": "Aldegid (etanal) ga Cu(OH)₂, t° ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "G'isht-qizil Cu₂O cho'kmasi",
+        "Qizil-qo'ng'ir Cu₂C₂ cho'kmasi",
+        "Kumush oyna — Ag ajraladi",
+        "Binafsha rang yo'qoladi, qo'ng'ir MnO₂ cho'kadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 288,
+      "question": "BaCrO₄ qanday rangli?",
+      "options": [
+        "Ko'k (havorang)",
+        "Oltin-sariq",
+        "Qora",
+        "Sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 289,
+      "question": "CO₃²⁻ ioniga BaCl₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "SrSO₄ (oq)",
+        "BaCO₃ (oq)",
+        "BaSO₄ (oq)",
+        "BaSO₃ (oq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 290,
+      "question": "2,4,6-tribromfenol qanday rangli?",
+      "options": [
+        "Qora-qo'ng'ir",
+        "Oq",
+        "Qizil",
+        "To'q sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 291,
+      "question": "Eritmaga Na₂S qo'shilganda ZnS (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Fe²⁺",
+        "Zn²⁺",
+        "Sb³⁺",
+        "C₂O₄²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 292,
+      "question": "Cd²⁺ ioniga H₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CdS (sariq)",
+        "Cu(OH)₂ (ko'k)",
+        "H₂SiO₃ (oq, jelesimon)",
+        "Co(OH)₂ (pushti)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 293,
+      "question": "Fe²⁺ ioniga K₃[Fe(CN)₆] ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "KFe[Fe(CN)₆] (turnbul ko'ki) (to'q ko'k)",
+        "SrSO₄ (oq)",
+        "CaC₂O₄ (oq)",
+        "Co(OH)₂ (pushti)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 294,
+      "question": "Eritmaga H₂SO₄ qo'shilganda BaSO₄ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Hg²⁺",
+        "Sn²⁺",
+        "Ba²⁺",
+        "Fe³⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 295,
+      "question": "FeS qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "Ko'k (havorang)",
+        "Qora",
+        "Sariq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 296,
+      "question": "Quyidagi cho'kmalardan qaysi biri kulrang-yashil rangli?",
+      "options": [
+        "BaSO₄",
+        "PbI₂",
+        "Fe(OH)₂",
+        "Cr(OH)₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 297,
+      "question": "Quyidagi cho'kmalardan qaysi biri qora rangli?",
+      "options": [
+        "Fe(OH)₂",
+        "Cu₂C₂",
+        "Ag₂S",
+        "Cr(OH)₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 298,
+      "question": "Eritmaga Na₂S qo'shilganda PbS (qora) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "CO₃²⁻",
+        "Mn²⁺",
+        "Pb²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 299,
+      "question": "CaCO₃ qanday rangli?",
+      "options": [
+        "Oq",
+        "Qizil-qo'ng'ir",
+        "To'q ko'k",
+        "Olma-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 300,
+      "question": "Eritmaga NaOH qo'shilganda Mn(OH)₂ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Bi³⁺",
+        "CO₃²⁻",
+        "Mn²⁺",
+        "SiO₃²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 301,
+      "question": "Cu²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Mg(OH)₂ (oq)",
+        "KFe[Fe(CN)₆] (turnbul ko'ki) (to'q ko'k)",
+        "BaCrO₄ (sariq)",
+        "Cu(OH)₂ (ko'k)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 302,
+      "question": "Pb²⁺ ioniga HCl (sovuqda) ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbCl₂ (oq)",
+        "Fe(OH)₂ (oq-yashil)",
+        "MgNH₄PO₄ (oq)",
+        "Cu(OH)₂ (ko'k)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 303,
+      "question": "Zn²⁺ ioniga Na₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "ZnS (oq)",
+        "CaCO₃ (oq)",
+        "BaCO₃ (oq)",
+        "PbS (qora)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 304,
+      "question": "Tuz alangani sariq rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "Sr²⁺",
+        "K⁺",
+        "Na⁺",
+        "Cu²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 305,
+      "question": "Eritmaga Na₂S qo'shilganda SnS (qo'ng'ir) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Cr³⁺",
+        "CO₃²⁻",
+        "Sr²⁺",
+        "Sn²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 306,
+      "question": "Al(OH)₃ va Zn(OH)₂ ni qaysi reagent yordamida farqlash mumkin?",
+      "options": [
+        "NaOH (ortiqcha)",
+        "NH₃·H₂O (ortiqcha)",
+        "Distillangan suv",
+        "HCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 307,
+      "question": "PO₄³⁻ ioniga AgNO₃ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbI₂ (oltin-sariq)",
+        "Ag₃PO₄ (och sariq)",
+        "SrSO₄ (oq)",
+        "H₂SiO₃ (oq, jelesimon)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 308,
+      "question": "Sb₂S₃ qanday rangli?",
+      "options": [
+        "Qo'ng'ir",
+        "To'q sariq",
+        "Oltin-sariq",
+        "Oq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 309,
+      "question": "CaC₂O₄ qanday rangli?",
+      "options": [
+        "Qizil-qo'ng'ir",
+        "Oq",
+        "Pushti",
+        "Olma-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 310,
+      "question": "Karbamid ga Konsentrlangan HNO₃ ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Och sariq yodoform cho'kmasi",
+        "G'isht-qizil Cu₂O cho'kmasi",
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Oq, erimaydigan kalsiy stearat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 311,
+      "question": "Eritmaga BaCl₂ qo'shilganda BaSO₃ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sn²⁺",
+        "Hg²⁺",
+        "SO₃²⁻",
+        "Al³⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 312,
+      "question": "Eritmaga (NH₄)₂C₂O₄ qo'shilganda CaC₂O₄ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Fe³⁺",
+        "Zn²⁺",
+        "Ca²⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 313,
+      "question": "Bi₂S₃ qanday rangli?",
+      "options": [
+        "Ko'k (havorang)",
+        "Qora-qo'ng'ir",
+        "Och sariq",
+        "Oq-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 314,
+      "question": "Tuz alangani yashil-ko'k rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "Na⁺",
+        "Sr²⁺",
+        "K⁺",
+        "Cu²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 315,
+      "question": "Eritmaga AgNO₃ qo'shilganda AgI (sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Cu²⁺",
+        "Zn²⁺",
+        "I⁻",
+        "Ca²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 316,
+      "question": "Eritmaga K₃[Fe(CN)₆] qo'shilganda KFe[Fe(CN)₆] (turnbul ko'ki) (to'q ko'k) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Mn²⁺",
+        "Cr³⁺",
+        "Fe²⁺",
+        "SO₃²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 317,
+      "question": "Ba²⁺ ioniga H₂SO₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "BaSO₃ (oq)",
+        "CaCO₃ (oq)",
+        "HgI₂ (qizil)",
+        "BaSO₄ (oq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 318,
+      "question": "Ag⁺ ioniga HCl (HNO₃ muhitida) ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Ag₃PO₄ (och sariq)",
+        "KFe[Fe(CN)₆] (berlin lazuri) (to'q ko'k)",
+        "CdS (sariq)",
+        "AgCl (oq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 319,
+      "question": "Eritmaga AgNO₃ qo'shilganda Ag₃PO₄ (och sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sb³⁺",
+        "S²⁻",
+        "Sn²⁺",
+        "PO₄³⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 320,
+      "question": "Co(OH)₂ qanday rangli?",
+      "options": [
+        "To'q sariq",
+        "Ko'k (havorang)",
+        "Pushti",
+        "Oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 321,
+      "question": "Eritmaga CaCl₂ qo'shilganda CaC₂O₄ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sb³⁺",
+        "C₂O₄²⁻",
+        "Br⁻",
+        "Co²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 322,
+      "question": "CaF₂ qanday rangli?",
+      "options": [
+        "Ko'k (havorang)",
+        "Oq",
+        "To'q ko'k",
+        "Oltin-sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 323,
+      "question": "Kraxmalga yod eritmasi qo'shilganda nima kuzatiladi?",
+      "options": [
+        "Sariq cho'kma",
+        "Binafsha rang, qizdirilganda kuchayadi",
+        "Ko'k rang; qizdirilsa yo'qoladi, sovuganda qaytadi",
+        "Qizil rang"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 324,
+      "question": "PbCrO₄ qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "Qora-qo'ng'ir",
+        "Sariq",
+        "Ko'k-yashil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 325,
+      "question": "Quyidagi cho'kmalardan qaysi biri oq-yashil rangli?",
+      "options": [
+        "HgS",
+        "Fe(OH)₂",
+        "Ag₃PO₄",
+        "Ni(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 326,
+      "question": "(CuOH)₂CO₃ qanday rangli?",
+      "options": [
+        "To'q sariq",
+        "Ko'k (havorang)",
+        "Olma-yashil",
+        "Ko'k-yashil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 327,
+      "question": "Ag⁺ ionini K₂CrO₄ bilan aniqlaganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Sariq AgCrO₄",
+        "Oq Ag₂CrO₄",
+        "G'isht-qizil Ag₂CrO₄",
+        "Qora Ag₂O"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 328,
+      "question": "Na⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "Qip-qizil",
+        "Binafsha",
+        "Sarg'ish-yashil",
+        "Sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 329,
+      "question": "Ni²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "ZnS (oq)",
+        "BaCrO₄ (sariq)",
+        "Ni(OH)₂ (olma-yashil)",
+        "BaCO₃ (oq)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 330,
+      "question": "Eritmaga CaCl₂ qo'shilganda CaF₂ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Fe³⁺",
+        "PO₄³⁻",
+        "Zn²⁺",
+        "F⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 331,
+      "question": "Ba²⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "Binafsha",
+        "Qip-qizil",
+        "Sarg'ish-yashil",
+        "G'isht-qizil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 332,
+      "question": "Cu₂O qanday rangli?",
+      "options": [
+        "Olma-yashil",
+        "G'isht-qizil",
+        "Kulrang-yashil",
+        "Sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 333,
+      "question": "Ca²⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "G'isht-qizil",
+        "Binafsha",
+        "Qip-qizil",
+        "Yashil-ko'k"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 334,
+      "question": "S²⁻ ioniga Pb(NO₃)₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CuS (qora)",
+        "BaCrO₄ (sariq)",
+        "PbS (qora)",
+        "PbCl₂ (oq)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 335,
+      "question": "Eritmaga Pb(NO₃)₂ qo'shilganda PbS (qora) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sn²⁺",
+        "S²⁻",
+        "Hg²⁺",
+        "Bi³⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 336,
+      "question": "Mn(OH)₂ qanday rangli?",
+      "options": [
+        "Olma-yashil",
+        "Qora-qo'ng'ir",
+        "Qo'ng'ir",
+        "Oq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 337,
+      "question": "Quyidagi cho'kmalardan qaysi biri ko'k (havorang) rangli?",
+      "options": [
+        "Cu(OH)₂",
+        "Ag₃PO₄",
+        "Sb₂S₃",
+        "Cu₂C₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 338,
+      "question": "Quyidagi cho'kmalardan qaysi biri to'q ko'k rangli?",
+      "options": [
+        "Cr(OH)₃",
+        "Ag₂S",
+        "KFe[Fe(CN)₆]",
+        "SrSO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 339,
+      "question": "Kraxmal ga I₂ eritmasi ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Och sariq Ag₂C₂ cho'kmasi",
+        "Ko'k rang",
+        "G'isht-qizil Cu₂O cho'kmasi",
+        "Cho'kma eriydi, to'q ko'k eritma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 340,
+      "question": "CHI₃ (yodoform) qanday rangli?",
+      "options": [
+        "Och sariq",
+        "Oltin-sariq",
+        "Ko'k (havorang)",
+        "Olma-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 341,
+      "question": "AgI qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "Sariq",
+        "Ko'k (havorang)",
+        "Qora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 342,
+      "question": "MnO₂ qanday rangli?",
+      "options": [
+        "Olma-yashil",
+        "Qo'ng'ir",
+        "Pushti",
+        "Sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 343,
+      "question": "Quyidagilardan qaysi biri yodoform reaksiyasini BERMAYDI?",
+      "options": [
+        "Etanal",
+        "Aseton",
+        "Etanol",
+        "Metanol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 344,
+      "question": "Cu(OH)₂ qanday rangli?",
+      "options": [
+        "Qizil-qo'ng'ir",
+        "Ko'k (havorang)",
+        "To'q ko'k",
+        "Qizil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 345,
+      "question": "Fe³⁺ ioniga K₄[Fe(CN)₆] ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "KFe[Fe(CN)₆] (berlin lazuri) (to'q ko'k)",
+        "CuS (qora)",
+        "Bi₂S₃ (qora-qo'ng'ir)",
+        "CaF₂ (oq)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 346,
+      "question": "Eritmaga NaOH qo'shilganda Fe(OH)₂ (oq-yashil) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Hg²⁺",
+        "Cr³⁺",
+        "Fe²⁺",
+        "Al³⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 347,
+      "question": "Bi³⁺ ioniga Na₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CuS (qora)",
+        "Bi₂S₃ (qora-qo'ng'ir)",
+        "BaSO₄ (oq)",
+        "PbS (qora)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 348,
+      "question": "Cu(OH)₂ qizdirilganda qanday o'zgarish kuzatiladi?",
+      "options": [
+        "Cho'kma oq rangga kiradi",
+        "Ko'k cho'kma qora CuO ga aylanadi",
+        "Cho'kma eriydi va to'q ko'k eritma hosil bo'ladi",
+        "Ko'k cho'kma qizil Cu₂O ga aylanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 349,
+      "question": "Mn²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "KFe[Fe(CN)₆] (berlin lazuri) (to'q ko'k)",
+        "Mn(OH)₂ (oq)",
+        "Mg(OH)₂ (oq)",
+        "Ag₃PO₄ (och sariq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 350,
+      "question": "Ag₂CrO₄ qanday rangli?",
+      "options": [
+        "Oltin-sariq",
+        "G'isht-qizil",
+        "Sariq",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 351,
+      "question": "Pb²⁺ ioniga KI ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Ag₂CrO₄ (g'isht-qizil)",
+        "Ni(OH)₂ (olma-yashil)",
+        "PbCl₂ (oq)",
+        "PbI₂ (oltin-sariq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 352,
+      "question": "Glukoza ga [Ag(NH₃)₂]OH, t° ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Och sariq Ag₂C₂ cho'kmasi",
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Kumush oyna — Ag ajraladi",
+        "Binafsha rang"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 353,
+      "question": "Br⁻ ioniga AgNO₃ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "KFe[Fe(CN)₆] (turnbul ko'ki) (to'q ko'k)",
+        "SnS (qo'ng'ir)",
+        "AgBr (och sariq)",
+        "Al(OH)₃ (oq, jelesimon)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 354,
+      "question": "Eritmaga NaOH qo'shilganda Ni(OH)₂ (olma-yashil) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "S²⁻",
+        "Ba²⁺",
+        "Cr³⁺",
+        "Ni²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 355,
+      "question": "Eritmaga K₂CrO₄ qo'shilganda PbCrO₄ (sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Fe³⁺",
+        "Br⁻",
+        "Ni²⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 356,
+      "question": "Glitserin ga Cu(OH)₂, xona harorati ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Binafsha-qizg'ish rang (biuret)",
+        "Oq 2,4,6-tribromanilin cho'kmasi",
+        "Cho'kma eriydi, to'q ko'k eritma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 357,
+      "question": "Quyidagi cho'kmalardan qaysi biri to'q sariq rangli?",
+      "options": [
+        "Zn(OH)₂",
+        "PbCrO₄",
+        "Ni(OH)₂",
+        "Sb₂S₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 358,
+      "question": "ZnS qanday rangli?",
+      "options": [
+        "Qo'ng'ir",
+        "Oq",
+        "Qizil",
+        "Qora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 359,
+      "question": "Cu²⁺ ioni alangani qaysi rangga bo'yaydi?",
+      "options": [
+        "Binafsha",
+        "Yashil-ko'k",
+        "Sariq",
+        "G'isht-qizil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 360,
+      "question": "Glukoza Cu(OH)₂ bilan qizdirilganda qanday cho'kma tushadi?",
+      "options": [
+        "Ko'k Cu(OH)₂ saqlanadi",
+        "Qora CuO",
+        "Kumush oyna",
+        "G'isht-qizil Cu₂O"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 361,
+      "question": "Etilen ga KMnO₄ suvli eritmasi ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Binafsha-qizg'ish rang (biuret)",
+        "Qizil-qo'ng'ir Cu₂C₂ cho'kmasi",
+        "Binafsha rang yo'qoladi, qo'ng'ir MnO₂ cho'kadi",
+        "Kumush oyna — Ag ajraladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 362,
+      "question": "Ag₃PO₄ qanday rangli?",
+      "options": [
+        "Oq-yashil",
+        "Oltin-sariq",
+        "Qo'ng'ir",
+        "Och sariq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 363,
+      "question": "Eritmaga NaOH qo'shilganda Fe(OH)₃ (qizil-qo'ng'ir) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "F⁻",
+        "Zn²⁺",
+        "Br⁻",
+        "Fe³⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 364,
+      "question": "Quyidagi cho'kmalardan qaysi biri pushti rangli?",
+      "options": [
+        "FeS",
+        "Co(OH)₂",
+        "2,4,6-tribromfenol",
+        "Mn(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 365,
+      "question": "Chumoli kislota ga [Ag(NH₃)₂]OH, t° ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Qaytmas denaturatsiya — ivigan cho'kma",
+        "Och sariq Ag₂C₂ cho'kmasi",
+        "Kumush oyna — Ag ajraladi",
+        "Oq, erimaydigan kalsiy stearat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 366,
+      "question": "Quyidagi cho'kmalardan qaysi biri oltin-sariq rangli?",
+      "options": [
+        "BaSO₃",
+        "Mg(OH)₂",
+        "ZnS",
+        "PbI₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 367,
+      "question": "CuS qanday rangli?",
+      "options": [
+        "G'isht-qizil",
+        "To'q sariq",
+        "Olma-yashil",
+        "Qora"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 368,
+      "question": "Pb²⁺ ioniga Na₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "SrSO₄ (oq)",
+        "Mn(OH)₂ (oq)",
+        "PbI₂ (oltin-sariq)",
+        "PbS (qora)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 369,
+      "question": "Eritmaga KI (oz) qo'shilganda HgI₂ (qizil) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ca²⁺",
+        "Cr³⁺",
+        "Hg²⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 370,
+      "question": "Eritmaga H₂S qo'shilganda CdS (sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Cd²⁺",
+        "SO₃²⁻",
+        "C₂O₄²⁻",
+        "Ca²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 371,
+      "question": "Eritmaga Na₂CO₃ qo'shilganda CaCO₃ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Al³⁺",
+        "Ni²⁺",
+        "Ca²⁺",
+        "Ba²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 372,
+      "question": "BaSO₃ qanday rangli?",
+      "options": [
+        "Oq",
+        "Qizil",
+        "Qora",
+        "Ko'k-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 373,
+      "question": "Eritmaga H₂S qo'shilganda CuS (qora) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ca²⁺",
+        "Cu²⁺",
+        "Ni²⁺",
+        "C₂O₄²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 374,
+      "question": "PbI₂ qanday rangli?",
+      "options": [
+        "Qizil-qo'ng'ir",
+        "Oltin-sariq",
+        "Ko'k-yashil",
+        "Oq-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 375,
+      "question": "BaCO₃ qanday rangli?",
+      "options": [
+        "Och sariq",
+        "Oq",
+        "To'q sariq",
+        "Kulrang-yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 376,
+      "question": "Ca²⁺ ioniga Na₂CO₃ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "AgBr (och sariq)",
+        "Sb₂S₃ (to'q sariq)",
+        "MgNH₄PO₄ (oq)",
+        "CaCO₃ (oq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 377,
+      "question": "Zn(OH)₂ qanday rangli?",
+      "options": [
+        "G'isht-qizil",
+        "Qizil",
+        "Oq",
+        "Ko'k-yashil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 378,
+      "question": "Al(OH)₃ qanday rangli?",
+      "options": [
+        "Olma-yashil",
+        "Oq",
+        "Qizil-qo'ng'ir",
+        "Sariq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 379,
+      "question": "Eritmaga HCl (sovuqda) qo'shilganda PbCl₂ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ag⁺",
+        "Pb²⁺",
+        "Zn²⁺",
+        "PO₄³⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 380,
+      "question": "Al³⁺ ioniga NH₃·H₂O ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "AgCl (oq)",
+        "BaCO₃ (oq)",
+        "Al(OH)₃ (oq, jelesimon)",
+        "Cr(OH)₃ (kulrang-yashil)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 381,
+      "question": "Cr(OH)₃ qanday rangli?",
+      "options": [
+        "Och sariq",
+        "Kulrang-yashil",
+        "Pushti",
+        "Qora"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 382,
+      "question": "Quyidagi cho'kmalardan qaysi biri sariq rangli?",
+      "options": [
+        "CaCO₃",
+        "KFe[Fe(CN)₆]",
+        "AgI",
+        "HgI₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 383,
+      "question": "Mg²⁺ ioniga NaOH ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Sb₂S₃ (to'q sariq)",
+        "Bi₂S₃ (qora-qo'ng'ir)",
+        "Mg(OH)₂ (oq)",
+        "Co(OH)₂ (pushti)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 384,
+      "question": "Sb³⁺ ioniga H₂S ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "SnS (qo'ng'ir)",
+        "Sb₂S₃ (to'q sariq)",
+        "Ag₂CrO₄ (g'isht-qizil)",
+        "CaF₂ (oq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 385,
+      "question": "Oqsil ga Konsentrlangan HNO₃ ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Binafsha-qizg'ish rang (biuret)",
+        "Oq 2,4,6-tribromfenol cho'kmasi",
+        "Ko'k rang",
+        "Sariq rang (ksantoprotein)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 386,
+      "question": "Eritmaga Na₂HPO₄ + NH₃·H₂O qo'shilganda MgNH₄PO₄ (oq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sn²⁺",
+        "Fe³⁺",
+        "S²⁻",
+        "Mg²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 387,
+      "question": "Fenolga brom suvi ta'sir ettirilganda nima hosil bo'ladi?",
+      "options": [
+        "Sariq modda — pikrin kislota",
+        "Oq cho'kma — 2,4,6-tribromfenol",
+        "Qo'ng'ir MnO₂ cho'kmasi",
+        "Binafsha rangli eritma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 388,
+      "question": "Aldegid (etanal) ga [Ag(NH₃)₂]OH, t° ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Och sariq yodoform cho'kmasi",
+        "Kumush oyna — Ag ajraladi",
+        "Ko'k rang",
+        "Qaytar cho'kma — tuzlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 389,
+      "question": "Quyidagi cho'kmalardan qaysi biri ko'k-yashil rangli?",
+      "options": [
+        "Mn(OH)₂",
+        "Cr(OH)₃",
+        "(CuOH)₂CO₃",
+        "Co(OH)₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 390,
+      "question": "Eritmaga K₂CrO₄ qo'shilganda Ag₂CrO₄ (g'isht-qizil) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "CO₃²⁻",
+        "SiO₃²⁻",
+        "Ag⁺",
+        "Cd²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 391,
+      "question": "Eritmaga H₂S qo'shilganda Sb₂S₃ (to'q sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ca²⁺",
+        "CrO₄²⁻",
+        "Ba²⁺",
+        "Sb³⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 392,
+      "question": "F⁻ ioniga CaCl₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CdS (sariq)",
+        "CaF₂ (oq)",
+        "Ag₂S (qora)",
+        "SrSO₄ (oq)"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 393,
+      "question": "SO₃²⁻ ioniga BaCl₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CaF₂ (oq)",
+        "CuS (qora)",
+        "ZnS (oq)",
+        "BaSO₃ (oq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 394,
+      "question": "2,4,6-tribromanilin qanday rangli?",
+      "options": [
+        "Qo'ng'ir",
+        "Och sariq",
+        "Oq",
+        "Oltin-sariq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 395,
+      "question": "Sovun (natriy stearat) ga Qattiq suv (CaCl₂) ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Sariq rang (ksantoprotein)",
+        "Oq, erimaydigan kalsiy stearat",
+        "Kumush oyna — Ag ajraladi",
+        "Binafsha rang"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 396,
+      "question": "Eritmaga NaOH qo'shilganda Cu(OH)₂ (ko'k) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Sr²⁺",
+        "Cu²⁺",
+        "SiO₃²⁻",
+        "I⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 397,
+      "question": "Eritmaga AgNO₃ qo'shilganda AgBr (och sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Mg²⁺",
+        "Br⁻",
+        "CrO₄²⁻",
+        "SiO₃²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 398,
+      "question": "BaSO₄ qanday rangli?",
+      "options": [
+        "Oq",
+        "Qora",
+        "Qizil",
+        "Olma-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 399,
+      "question": "Ag₂S qanday rangli?",
+      "options": [
+        "Oq-yashil",
+        "Qora",
+        "Qora-qo'ng'ir",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 400,
+      "question": "Pb²⁺ ioniga K₂CrO₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "PbCrO₄ (sariq)",
+        "PbCl₂ (oq)",
+        "Ag₃PO₄ (och sariq)",
+        "CaC₂O₄ (oq)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 401,
+      "question": "MgNH₄PO₄ qanday rangli?",
+      "options": [
+        "Oq",
+        "Qizil-qo'ng'ir",
+        "Ko'k (havorang)",
+        "Ko'k-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 402,
+      "question": "Ca²⁺ ni Mg²⁺ dan ajratishda qaysi reagent ishlatiladi?",
+      "options": [
+        "(NH₄)₂C₂O₄",
+        "Na₂HPO₄",
+        "Na₂CO₃",
+        "NaOH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 403,
+      "question": "HgI₂ qanday rangli?",
+      "options": [
+        "Qizil-qo'ng'ir",
+        "Qizil",
+        "Olma-yashil",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 404,
+      "question": "Eritmaga K₂CrO₄ qo'shilganda BaCrO₄ (sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Ba²⁺",
+        "Zn²⁺",
+        "Br⁻",
+        "Cr³⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 405,
+      "question": "Ag⁺ ioniga K₂CrO₄ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Ag₂CrO₄ (g'isht-qizil)",
+        "MgNH₄PO₄ (oq)",
+        "HgI₂ (qizil)",
+        "BaCrO₄ (sariq)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 406,
+      "question": "Eritmaga KI qo'shilganda PbI₂ (oltin-sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "Co²⁺",
+        "Cu²⁺",
+        "Ba²⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 407,
+      "question": "Eritmaga BaCl₂ qo'shilganda BaCrO₄ (sariq) cho'kmasi tushdi. Eritmada qaysi ion bo'lgan?",
+      "options": [
+        "I⁻",
+        "CrO₄²⁻",
+        "S²⁻",
+        "F⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 408,
+      "question": "SnS qanday rangli?",
+      "options": [
+        "Qo'ng'ir",
+        "Kulrang-yashil",
+        "To'q sariq",
+        "To'q ko'k"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 409,
+      "question": "SO₃²⁻ ionini SO₄²⁻ dan qanday farqlash mumkin?",
+      "options": [
+        "BaCl₂ dan keyingi cho'kma HCl da erib, o'tkir hidli gaz ajraladi",
+        "Faqat SO₃²⁻ BaCl₂ bilan cho'kma beradi",
+        "BaSO₃ ham, BaSO₄ ham HCl da eriydi",
+        "SO₃²⁻ BaCl₂ bilan sariq cho'kma beradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 410,
+      "question": "CrO₄²⁻ ioniga BaCl₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Fe(OH)₃ (qizil-qo'ng'ir)",
+        "PbI₂ (oltin-sariq)",
+        "CaC₂O₄ (oq)",
+        "BaCrO₄ (sariq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 411,
+      "question": "Tuz alangani binafsha rangga bo'yadi. Tuz tarkibida qaysi ion bor?",
+      "options": [
+        "K⁺",
+        "Na⁺",
+        "Ba²⁺",
+        "Ca²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 412,
+      "question": "Quyidagi cho'kmalardan qaysi biri qora-qo'ng'ir rangli?",
+      "options": [
+        "Bi₂S₃",
+        "KFe[Fe(CN)₆]",
+        "BaCrO₄",
+        "Mn(OH)₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 413,
+      "question": "Quyidagi cho'kmalardan qaysi biri qizil-qo'ng'ir rangli?",
+      "options": [
+        "Bi₂S₃",
+        "2,4,6-tribromfenol",
+        "Fe(OH)₃",
+        "PbCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 414,
+      "question": "Hg²⁺ ioniga KI (oz) ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "Cr(OH)₃ (kulrang-yashil)",
+        "Fe(OH)₂ (oq-yashil)",
+        "HgI₂ (qizil)",
+        "CaF₂ (oq)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 415,
+      "question": "Quyidagi cho'kmalardan qaysi biri olma-yashil rangli?",
+      "options": [
+        "PbCl₂",
+        "Ni(OH)₂",
+        "Cr(OH)₃",
+        "2,4,6-tribromfenol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 416,
+      "question": "CdS qanday rangli?",
+      "options": [
+        "Qo'ng'ir",
+        "Oq-yashil",
+        "Sariq",
+        "Qora-qo'ng'ir"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 417,
+      "question": "C₂O₄²⁻ ioniga CaCl₂ ta'sir ettirilganda qanday cho'kma hosil bo'ladi?",
+      "options": [
+        "CaF₂ (oq)",
+        "ZnS (oq)",
+        "Fe(OH)₃ (qizil-qo'ng'ir)",
+        "CaC₂O₄ (oq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 418,
+      "question": "Oqsil ga Og'ir metall tuzi (CuSO₄) ta'sir ettirilganda nima kuzatiladi?",
+      "options": [
+        "Qizil-qo'ng'ir Cu₂C₂ cho'kmasi",
+        "Oq kristall CO(NH₂)₂·HNO₃",
+        "Qaytmas denaturatsiya — ivigan cho'kma",
+        "G'isht-qizil Cu₂O cho'kmasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 419,
+      "question": "104 g BaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan BaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "98,5 g",
+        "49,25 g",
+        "104 g",
+        "197 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 420,
+      "question": "30,4 g FeSO₄ saqlagan eritmaga ortiqcha NaOH (havosiz) qo'shildi. Hosil bo'lgan Fe(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "9 g",
+        "18 g",
+        "36 g",
+        "30,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 421,
+      "question": "13,2 g etanal ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "86,4 g",
+        "43,2 g",
+        "21,6 g",
+        "64,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 422,
+      "question": "4,4 g etanal kumush oyna reaksiyasiga kirganda necha gramm kumush ajraladi?",
+      "options": [
+        "43,2 g",
+        "21,6 g",
+        "10,8 g",
+        "32,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 423,
+      "question": "Quyidagi cho'kmalardan qaysi biri HNO₃ da ERIYDI?",
+      "options": [
+        "AgCl",
+        "CaCO₃",
+        "AgBr",
+        "PbS"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 424,
+      "question": "3 g metanal ortiqcha ammiakli kumush oksidi bilan reaksiyaga kirdi. Ajralgan kumush massasi?",
+      "options": [
+        "43,2 g",
+        "10,8 g",
+        "32,4 g",
+        "21,6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 425,
+      "question": "17 g AgNO₃ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan AgI cho'kmasi massasini toping.",
+      "options": [
+        "17 g",
+        "23,5 g",
+        "47 g",
+        "11,75 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 426,
+      "question": "52 g BaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan BaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "98,5 g",
+        "24,62 g",
+        "49,25 g",
+        "52 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 427,
+      "question": "34 g AgNO₃ saqlagan eritmaga ortiqcha NaCl qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "14,35 g",
+        "57,4 g",
+        "28,7 g",
+        "34 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 428,
+      "question": "Quyidagilardan qaysi biri ortiqcha NaOH da ERIMAYDI?",
+      "options": [
+        "Mg(OH)₂",
+        "Cr(OH)₃",
+        "Pb(OH)₂",
+        "Al(OH)₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 429,
+      "question": "14,62 g NaCl saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "35,88 g",
+        "71,75 g",
+        "17,94 g",
+        "14,62 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 430,
+      "question": "22,2 g CaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan CaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "10 g",
+        "22,2 g",
+        "20 g",
+        "40 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 431,
+      "question": "9 g glukoza kumush oyna reaksiyasiga kiritildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "10,8 g",
+        "16,2 g",
+        "21,6 g",
+        "5,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 432,
+      "question": "3,9 g asetilen ortiqcha ammiakli kumush oksidi eritmasidan o'tkazildi. Hosil bo'lgan Ag₂C₂ massasini toping.",
+      "options": [
+        "36 g",
+        "18 g",
+        "72 g",
+        "54 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 433,
+      "question": "10,5 g NaF saqlagan eritmaga ortiqcha CaCl₂ qo'shildi. Hosil bo'lgan CaF₂ cho'kmasi massasini toping.",
+      "options": [
+        "9,75 g",
+        "10,5 g",
+        "19,5 g",
+        "4,88 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 434,
+      "question": "12,6 g NaF saqlagan eritmaga ortiqcha CaCl₂ qo'shildi. Hosil bo'lgan CaF₂ cho'kmasi massasini toping.",
+      "options": [
+        "11,7 g",
+        "5,85 g",
+        "23,4 g",
+        "12,6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 435,
+      "question": "16,1 g ZnSO₄ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan ZnS cho'kmasi massasini toping.",
+      "options": [
+        "9,7 g",
+        "16,1 g",
+        "4,85 g",
+        "19,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 436,
+      "question": "83,2 g BaCl₂ saqlagan eritmaga ortiqcha H₂SO₄ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "83,2 g",
+        "46,6 g",
+        "93,2 g",
+        "186,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 437,
+      "question": "97 g K₂CrO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaCrO₄ cho'kmasi massasini toping.",
+      "options": [
+        "63,25 g",
+        "97 g",
+        "253 g",
+        "126,5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 438,
+      "question": "19 g MgCl₂ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Mg(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "23,2 g",
+        "19 g",
+        "5,8 g",
+        "11,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 439,
+      "question": "2,6 g asetilen ortiqcha ammiakli kumush oksidi eritmasidan o'tkazildi. Hosil bo'lgan Ag₂C₂ massasini toping.",
+      "options": [
+        "48 g",
+        "36 g",
+        "24 g",
+        "12 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 440,
+      "question": "9 g glukoza ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "3,6 g",
+        "14,4 g",
+        "7,2 g",
+        "10,8 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 441,
+      "question": "56,8 g Na₂SO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "46,6 g",
+        "186,4 g",
+        "56,8 g",
+        "93,2 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 442,
+      "question": "23,75 g MgCl₂ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Mg(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "29 g",
+        "23,75 g",
+        "7,25 g",
+        "14,5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 443,
+      "question": "AgCl, AgBr va AgI aralashmasiga ortiqcha NH₃·H₂O qo'shildi. Cho'kmada nima qoladi?",
+      "options": [
+        "AgI to'liq, AgBr qisman",
+        "Hammasi eriydi",
+        "Faqat AgCl",
+        "AgCl va AgI"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 444,
+      "question": "6,6 g etanal ortiqcha [Ag(NH₃)₂]OH bilan qizdirildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "64,8 g",
+        "32,4 g",
+        "16,2 g",
+        "48,6 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 445,
+      "question": "71 g Na₂SO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "233 g",
+        "58,25 g",
+        "71 g",
+        "116,5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 446,
+      "question": "28,4 g Na₂SO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "46,6 g",
+        "23,3 g",
+        "93,2 g",
+        "28,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 447,
+      "question": "55,5 g CaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan CaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "100 g",
+        "50 g",
+        "25 g",
+        "55,5 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 448,
+      "question": "27 g glukoza ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "21,6 g",
+        "10,8 g",
+        "43,2 g",
+        "32,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 449,
+      "question": "40,25 g ZnSO₄ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan ZnS cho'kmasi massasini toping.",
+      "options": [
+        "40,25 g",
+        "12,12 g",
+        "24,25 g",
+        "48,5 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 450,
+      "question": "4,4 g etanal ortiqcha [Ag(NH₃)₂]OH bilan qizdirildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "21,6 g",
+        "10,8 g",
+        "43,2 g",
+        "32,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 451,
+      "question": "Qaysi cho'kma ortiqcha ammiak eritmasida eriydi?",
+      "options": [
+        "AgI",
+        "AgCl",
+        "Mg(OH)₂",
+        "Fe(OH)₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 452,
+      "question": "40,05 g AlCl₃ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Al(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "46,8 g",
+        "40,05 g",
+        "11,7 g",
+        "23,4 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 453,
+      "question": "Quyidagi cho'kmalardan qaysi biri kuchli kislotalarda (HNO₃, HCl) erimaydi?",
+      "options": [
+        "CaF₂",
+        "CaCO₃",
+        "BaCO₃",
+        "BaSO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 454,
+      "question": "99,3 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan PbI₂ cho'kmasi massasini toping.",
+      "options": [
+        "276,6 g",
+        "138,3 g",
+        "69,15 g",
+        "99,3 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 455,
+      "question": "13,2 g etanal ortiqcha [Ag(NH₃)₂]OH bilan qizdirildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "32,4 g",
+        "97,2 g",
+        "64,8 g",
+        "129,6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 456,
+      "question": "41,6 g BaCl₂ saqlagan eritmaga ortiqcha H₂SO₄ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "23,3 g",
+        "41,6 g",
+        "93,2 g",
+        "46,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 457,
+      "question": "HgCl₂ eritmasiga KI tomchilatib qo'shilganda avval qizil cho'kma tushib, keyin yo'qoldi. Bunga sabab?",
+      "options": [
+        "Hg metali ajraldi",
+        "K₂[HgI₄] kompleksi hosil bo'ldi",
+        "HgI₂ oksidlandi",
+        "HgI₂ gidrolizlandi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 458,
+      "question": "17,55 g NaCl saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "21,52 g",
+        "43,05 g",
+        "17,55 g",
+        "86,1 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 459,
+      "question": "48,3 g ZnSO₄ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan ZnS cho'kmasi massasini toping.",
+      "options": [
+        "58,2 g",
+        "14,55 g",
+        "48,3 g",
+        "29,1 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 460,
+      "question": "48,75 g FeCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Hosil bo'lgan Fe(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "64,2 g",
+        "16,05 g",
+        "48,75 g",
+        "32,1 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 461,
+      "question": "80 g CuSO₄ saqlagan eritmaga NaOH (yetarli miqdorda) qo'shildi. Hosil bo'lgan Cu(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "49 g",
+        "24,5 g",
+        "80 g",
+        "98 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 462,
+      "question": "49,2 g Na₃PO₄ saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan Ag₃PO₄ cho'kmasi massasini toping.",
+      "options": [
+        "49,2 g",
+        "251,4 g",
+        "125,7 g",
+        "62,85 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 463,
+      "question": "32,5 g FeCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Hosil bo'lgan Fe(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "10,7 g",
+        "21,4 g",
+        "32,5 g",
+        "42,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 464,
+      "question": "18,6 g anilin ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromanilin massasini toping.",
+      "options": [
+        "132 g",
+        "66 g",
+        "33 g",
+        "99 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 465,
+      "question": "64 g CuSO₄ saqlagan eritmaga NaOH (yetarli miqdorda) qo'shildi. Hosil bo'lgan Cu(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "78,4 g",
+        "19,6 g",
+        "64 g",
+        "39,2 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 466,
+      "question": "32,8 g Na₃PO₄ saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan Ag₃PO₄ cho'kmasi massasini toping.",
+      "options": [
+        "167,6 g",
+        "32,8 g",
+        "41,9 g",
+        "83,8 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 467,
+      "question": "34 g AgNO₃ saqlagan eritmaga ortiqcha NaCl qo'shildi. Cho'kma massasi qancha?",
+      "options": [
+        "28,7 g",
+        "57,4 g",
+        "34,0 g",
+        "14,35 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 468,
+      "question": "11,7 g NaCl saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "11,7 g",
+        "57,4 g",
+        "28,7 g",
+        "14,35 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 469,
+      "question": "165,5 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan PbS cho'kmasi massasini toping.",
+      "options": [
+        "119,5 g",
+        "239 g",
+        "59,75 g",
+        "165,5 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 470,
+      "question": "80 g CuSO₄ saqlagan eritmaga ortiqcha H₂S qo'shildi. Hosil bo'lgan CuS cho'kmasi massasini toping.",
+      "options": [
+        "80 g",
+        "96 g",
+        "48 g",
+        "24 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 471,
+      "question": "64 g CuSO₄ saqlagan eritmaga ortiqcha H₂S qo'shildi. Hosil bo'lgan CuS cho'kmasi massasini toping.",
+      "options": [
+        "19,2 g",
+        "38,4 g",
+        "76,8 g",
+        "64 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 472,
+      "question": "Qaysi cho'kma ortiqcha NH₃·H₂O da ERIMAYDI?",
+      "options": [
+        "Al(OH)₃",
+        "Cu(OH)₂",
+        "Zn(OH)₂",
+        "AgCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 473,
+      "question": "0,1 mol BaCl₂ va 0,15 mol Na₂SO₄ eritmalari aralashtirildi. Necha gramm BaSO₄ cho'kadi?",
+      "options": [
+        "11,65 g",
+        "23,3 g",
+        "34,95 g",
+        "20,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 474,
+      "question": "Eritmaga sovuq HCl qo'shilganda oq cho'kma tushdi, u issiq suvda eridi. Eritmada qaysi kation bor?",
+      "options": [
+        "Hg²⁺",
+        "Pb²⁺",
+        "Ag⁺",
+        "Ba²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 475,
+      "question": "104 g BaCl₂ saqlagan eritmaga ortiqcha H₂SO₄ qo'shildi. Hosil bo'lgan BaSO₄ cho'kmasi massasini toping.",
+      "options": [
+        "104 g",
+        "233 g",
+        "116,5 g",
+        "58,25 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 476,
+      "question": "32 g CuSO₄ saqlagan eritmaga ortiqcha H₂S qo'shildi. Hosil bo'lgan CuS cho'kmasi massasini toping.",
+      "options": [
+        "38,4 g",
+        "19,2 g",
+        "32 g",
+        "9,6 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 477,
+      "question": "165,5 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan PbI₂ cho'kmasi massasini toping.",
+      "options": [
+        "230,5 g",
+        "461 g",
+        "115,25 g",
+        "165,5 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 478,
+      "question": "42,5 g AgNO₃ saqlagan eritmaga ortiqcha NaBr qo'shildi. Hosil bo'lgan AgBr cho'kmasi massasini toping.",
+      "options": [
+        "94 g",
+        "23,5 g",
+        "47 g",
+        "42,5 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 479,
+      "question": "27 g glukoza kumush oyna reaksiyasiga kiritildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "32,4 g",
+        "64,8 g",
+        "48,6 g",
+        "16,2 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 480,
+      "question": "18 g glukoza kumush oyna reaksiyasiga kiritildi. Hosil bo'lgan Ag massasini toping.",
+      "options": [
+        "21,6 g",
+        "43,2 g",
+        "10,8 g",
+        "32,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 481,
+      "question": "17,4 g aseton I₂ + NaOH bilan ishlandi. Hosil bo'lgan CHI₃ massasini toping.",
+      "options": [
+        "177,3 g",
+        "59,1 g",
+        "236,4 g",
+        "118,2 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 482,
+      "question": "13,95 g anilin ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromanilin massasini toping.",
+      "options": [
+        "49,5 g",
+        "74,25 g",
+        "99 g",
+        "24,75 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 483,
+      "question": "0,1 mol Ca(OH)₂ saqlagan ohakli suvdan 0,15 mol CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "15 g",
+        "10 g",
+        "5 g",
+        "0 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 484,
+      "question": "36 g glukoza ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "43,2 g",
+        "28,8 g",
+        "14,4 g",
+        "57,6 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 485,
+      "question": "77,6 g K₂CrO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaCrO₄ cho'kmasi massasini toping.",
+      "options": [
+        "202,4 g",
+        "50,6 g",
+        "101,2 g",
+        "77,6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 486,
+      "question": "66,2 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan PbS cho'kmasi massasini toping.",
+      "options": [
+        "23,9 g",
+        "95,6 g",
+        "66,2 g",
+        "47,8 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 487,
+      "question": "Quyidagi gidroksidlardan qaysi biri ortiqcha NaOH eritmasida eriydi?",
+      "options": [
+        "Fe(OH)₂",
+        "Al(OH)₃",
+        "Ni(OH)₂",
+        "Mg(OH)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 488,
+      "question": "51 g AgNO₃ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan AgI cho'kmasi massasini toping.",
+      "options": [
+        "141 g",
+        "70,5 g",
+        "35,25 g",
+        "51 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 489,
+      "question": "1,3 g asetilen ortiqcha ammiakli kumush oksidi eritmasidan o'tkazildi. Hosil bo'lgan Ag₂C₂ massasini toping.",
+      "options": [
+        "18 g",
+        "24 g",
+        "6 g",
+        "12 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 490,
+      "question": "26,7 g AlCl₃ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Al(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "7,8 g",
+        "26,7 g",
+        "31,2 g",
+        "15,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 491,
+      "question": "51 g AgNO₃ saqlagan eritmaga ortiqcha NaCl qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "86,1 g",
+        "51 g",
+        "21,52 g",
+        "43,05 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 492,
+      "question": "16,8 g NaF saqlagan eritmaga ortiqcha CaCl₂ qo'shildi. Hosil bo'lgan CaF₂ cho'kmasi massasini toping.",
+      "options": [
+        "31,2 g",
+        "15,6 g",
+        "7,8 g",
+        "16,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 493,
+      "question": "16,4 g Na₃PO₄ saqlagan eritmaga ortiqcha AgNO₃ qo'shildi. Hosil bo'lgan Ag₃PO₄ cho'kmasi massasini toping.",
+      "options": [
+        "16,4 g",
+        "41,9 g",
+        "20,95 g",
+        "83,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 494,
+      "question": "2,9 g aseton I₂ + NaOH bilan ishlandi. Hosil bo'lgan CHI₃ massasini toping.",
+      "options": [
+        "29,55 g",
+        "9,85 g",
+        "19,7 g",
+        "39,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 495,
+      "question": "48,5 g K₂CrO₄ saqlagan eritmaga ortiqcha BaCl₂ qo'shildi. Hosil bo'lgan BaCrO₄ cho'kmasi massasini toping.",
+      "options": [
+        "63,25 g",
+        "126,5 g",
+        "48,5 g",
+        "31,62 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 496,
+      "question": "14,1 g fenol ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromfenol massasini toping.",
+      "options": [
+        "49,65 g",
+        "24,82 g",
+        "99,3 g",
+        "74,47 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 497,
+      "question": "9,4 g fenolga ortiqcha brom suvi qo'shildi. Hosil bo'lgan cho'kma massasi?",
+      "options": [
+        "33,1 g",
+        "24,0 g",
+        "17,3 g",
+        "39,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 498,
+      "question": "83,2 g BaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan BaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "83,2 g",
+        "39,4 g",
+        "78,8 g",
+        "157,6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 499,
+      "question": "Saxaroza va glukozani farqlovchi reaksiya qaysi?",
+      "options": [
+        "Brom suvi qo'shish",
+        "Cu(OH)₂ bilan xona haroratida",
+        "Yod eritmasi qo'shish",
+        "Cu(OH)₂ bilan qizdirish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 500,
+      "question": "18,8 g fenol ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromfenol massasini toping.",
+      "options": [
+        "99,3 g",
+        "66,2 g",
+        "33,1 g",
+        "132,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 501,
+      "question": "4,7 g fenol ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromfenol massasini toping.",
+      "options": [
+        "16,55 g",
+        "33,1 g",
+        "8,28 g",
+        "24,83 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 502,
+      "question": "81,25 g FeCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Hosil bo'lgan Fe(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "107 g",
+        "26,75 g",
+        "53,5 g",
+        "81,25 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 503,
+      "question": "60,8 g FeSO₄ saqlagan eritmaga ortiqcha NaOH (havosiz) qo'shildi. Hosil bo'lgan Fe(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "72 g",
+        "36 g",
+        "60,8 g",
+        "18 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 504,
+      "question": "82,75 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha Na₂S qo'shildi. Hosil bo'lgan PbS cho'kmasi massasini toping.",
+      "options": [
+        "59,75 g",
+        "29,88 g",
+        "82,75 g",
+        "119,5 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 505,
+      "question": "0,4 mol Fe(OH)₂ havoda to'liq Fe(OH)₃ ga aylanishi uchun necha litr O₂ (n.sh.) kerak?",
+      "options": [
+        "2,24 l",
+        "4,48 l",
+        "1,12 l",
+        "8,96 l"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 506,
+      "question": "27,75 g CaCl₂ saqlagan eritmaga ortiqcha Na₂CO₃ qo'shildi. Hosil bo'lgan CaCO₃ cho'kmasi massasini toping.",
+      "options": [
+        "12,5 g",
+        "27,75 g",
+        "50 g",
+        "25 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 507,
+      "question": "Glitserin va etanolni bir-biridan qaysi reagent bilan farqlash mumkin?",
+      "options": [
+        "Cu(OH)₂, xona harorati",
+        "FeCl₃",
+        "Brom suvi",
+        "I₂ + NaOH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 508,
+      "question": "15,2 g FeSO₄ saqlagan eritmaga ortiqcha NaOH (havosiz) qo'shildi. Hosil bo'lgan Fe(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "15,2 g",
+        "9 g",
+        "18 g",
+        "4,5 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 509,
+      "question": "38 g MgCl₂ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Mg(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "38 g",
+        "23,2 g",
+        "46,4 g",
+        "11,6 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 510,
+      "question": "16 g CuSO₄ saqlagan eritmaga NaOH (yetarli miqdorda) qo'shildi. Hosil bo'lgan Cu(OH)₂ cho'kmasi massasini toping.",
+      "options": [
+        "9,8 g",
+        "4,9 g",
+        "19,6 g",
+        "16 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 511,
+      "question": "68 g AgNO₃ saqlagan eritmaga ortiqcha NaBr qo'shildi. Hosil bo'lgan AgBr cho'kmasi massasini toping.",
+      "options": [
+        "68 g",
+        "37,6 g",
+        "150,4 g",
+        "75,2 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 512,
+      "question": "34 g AgNO₃ saqlagan eritmaga ortiqcha NaBr qo'shildi. Hosil bo'lgan AgBr cho'kmasi massasini toping.",
+      "options": [
+        "34 g",
+        "18,8 g",
+        "37,6 g",
+        "75,2 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 513,
+      "question": "Qaysi juftlikni HNO₃ qo'shish orqali farqlash mumkin?",
+      "options": [
+        "AgCl va AgBr",
+        "CuS va PbS",
+        "Ag₃PO₄ va AgI",
+        "BaSO₄ va AgCl"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 514,
+      "question": "27,9 g anilin ortiqcha brom suvi bilan ishlandi. Hosil bo'lgan 2,4,6-tribromanilin massasini toping.",
+      "options": [
+        "148,5 g",
+        "49,5 g",
+        "198 g",
+        "99 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 515,
+      "question": "5,8 g aseton I₂ + NaOH bilan ishlandi. Hosil bo'lgan CHI₃ massasini toping.",
+      "options": [
+        "59,1 g",
+        "39,4 g",
+        "19,7 g",
+        "78,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 516,
+      "question": "85 g AgNO₃ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan AgI cho'kmasi massasini toping.",
+      "options": [
+        "58,75 g",
+        "235 g",
+        "117,5 g",
+        "85 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 517,
+      "question": "6,6 g etanal ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "21,6 g",
+        "43,2 g",
+        "32,4 g",
+        "10,8 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 518,
+      "question": "2,2 g etanal ortiqcha Cu(OH)₂ bilan qizdirildi. Hosil bo'lgan Cu₂O massasini toping.",
+      "options": [
+        "7,2 g",
+        "3,6 g",
+        "10,8 g",
+        "14,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 519,
+      "question": "132,4 g Pb(NO₃)₂ saqlagan eritmaga ortiqcha KI qo'shildi. Hosil bo'lgan PbI₂ cho'kmasi massasini toping.",
+      "options": [
+        "132,4 g",
+        "368,8 g",
+        "92,2 g",
+        "184,4 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 520,
+      "question": "Tuz eritmasiga oz NaOH qo'shilganda oq cho'kma tushdi; u NaOH ortiqchasida ham, NH₃ ortiqchasida ham eridi. Kation qaysi?",
+      "options": [
+        "Mg²⁺",
+        "Zn²⁺",
+        "Al³⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 521,
+      "question": "33,38 g AlCl₃ saqlagan eritmaga ortiqcha NH₃·H₂O qo'shildi. Hosil bo'lgan Al(OH)₃ cho'kmasi massasini toping.",
+      "options": [
+        "19,5 g",
+        "33,38 g",
+        "9,75 g",
+        "39 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 522,
+      "question": "Mg(OH)₂ cho'kmasini qaysi eritmada eritish mumkin?",
+      "options": [
+        "NaCl eritmasi",
+        "NaOH ortiqchasi",
+        "NH₃·H₂O ortiqchasi",
+        "NH₄Cl eritmasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 523,
+      "question": "85 g AgNO₃ saqlagan eritmaga ortiqcha NaCl qo'shildi. Hosil bo'lgan AgCl cho'kmasi massasini toping.",
+      "options": [
+        "35,88 g",
+        "143,5 g",
+        "71,75 g",
+        "85 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 524,
+      "question": "0,2 mol Ca(OH)₂ saqlagan ohakli suvdan 5,38 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "20 g",
+        "24 g",
+        "16 g",
+        "4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 525,
+      "question": "0,1 mol FeSO₄ va 0,1 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "24 g",
+        "32,1 g",
+        "48 g",
+        "16 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 526,
+      "question": "0,1 mol MgCl₂ va 0,2 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "5,8 g",
+        "21,4 g",
+        "17,4 g",
+        "15,6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 527,
+      "question": "Y tuz alangani binafsha rangga bo'yaydi; AgNO₃ bilan sariq cho'kma beradi, cho'kma NH₃ da erimaydi. Y — ?",
+      "options": [
+        "NaI",
+        "KI",
+        "K₃PO₄",
+        "KBr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 528,
+      "question": "9,2 g glitserin necha gramm Cu(OH)₂ ni erita oladi?",
+      "options": [
+        "4,9 g",
+        "9,8 g",
+        "3,27 g",
+        "19,6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 529,
+      "question": "0,15 mol Ca(OH)₂ saqlagan ohakli suvdan 4,03 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "12 g",
+        "3 g",
+        "18 g",
+        "15 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 530,
+      "question": "0,3 mol Ca(OH)₂ saqlagan ohakli suvdan 12,1 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "54 g",
+        "24 g",
+        "6 g",
+        "30 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 531,
+      "question": "0,4 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 48 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "6,72 l",
+        "8,96 l",
+        "2,24 l",
+        "4,48 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 532,
+      "question": "Vagner reaksiyasida 0,3 mol etilen to'liq oksidlandi. Hosil bo'lgan MnO₂ massasi?",
+      "options": [
+        "52,2 g",
+        "26,1 g",
+        "17,4 g",
+        "8,7 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 533,
+      "question": "0,1 mol AlCl₃ va 0,3 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "7,8 g",
+        "31,2 g",
+        "37,5 g",
+        "29,7 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 534,
+      "question": "0,4 mol ZnSO₄ saqlagan eritmaga 0,96 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "47,52 g",
+        "15,84 g",
+        "31,68 g",
+        "39,6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 535,
+      "question": "0,15 mol Ca(OH)₂ saqlagan ohakli suvdan 6,05 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "15 g",
+        "27 g",
+        "3 g",
+        "12 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 536,
+      "question": "0,2 mol ZnSO₄ saqlagan eritmaga 0,48 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "23,76 g",
+        "19,8 g",
+        "7,92 g",
+        "15,84 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 537,
+      "question": "0,4 mol ZnSO₄ saqlagan eritmaga 1,44 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "7,92 g",
+        "71,28 g",
+        "39,6 g",
+        "63,36 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 538,
+      "question": "0,3 mol AlCl₃ saqlagan eritmaga 1,05 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "11,7 g",
+        "27,3 g",
+        "17,55 g",
+        "23,4 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 539,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 21,5 g cho'kma tushdi; ortiqcha HCl qo'shilgach 11,65 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "7,1 g",
+        "9,85 g",
+        "5,3 g",
+        "12,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 540,
+      "question": "0,4 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 24 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "8,96 l",
+        "6,72 l",
+        "3,36 l",
+        "2,24 l"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 541,
+      "question": "0,2 mol AlCl₃ saqlagan eritmaga 0,76 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "3,12 g",
+        "12,48 g",
+        "15,6 g",
+        "19,76 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 542,
+      "question": "0,2 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 64,8 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "4,5 g",
+        "3 g",
+        "6,75 g",
+        "4,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 543,
+      "question": "0,3 mol ZnSO₄ saqlagan eritmaga 0,9 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "22,27 g",
+        "29,7 g",
+        "44,55 g",
+        "14,85 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 544,
+      "question": "0,3 mol ZnSO₄ saqlagan eritmaga 0,72 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "23,76 g",
+        "11,88 g",
+        "29,7 g",
+        "35,64 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 545,
+      "question": "0,25 mol Ca(OH)₂ saqlagan ohakli suvdan 7,84 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "35 g",
+        "25 g",
+        "15 g",
+        "10 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 546,
+      "question": "0,25 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 64,8 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "8,8 g",
+        "6 g",
+        "2,2 g",
+        "1,5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 547,
+      "question": "0,4 mol AlCl₃ saqlagan eritmaga 1,28 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "24,96 g",
+        "6,24 g",
+        "31,2 g",
+        "33,28 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 548,
+      "question": "0,1 mol AlCl₃ va 0,1 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "9,9 g",
+        "15,6 g",
+        "17,7 g",
+        "7,8 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 549,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 51,05 g cho'kma tushdi; ortiqcha HCl qo'shilgach 11,65 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "28,3 g",
+        "7,1 g",
+        "21,2 g",
+        "39,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 550,
+      "question": "0,2 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 75,6 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "1,5 g",
+        "6,6 g",
+        "2,2 g",
+        "4,5 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 551,
+      "question": "0,1 mol FeSO₄ va 0,05 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "16 g",
+        "21,4 g",
+        "32 g",
+        "12 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 552,
+      "question": "AgCl va AgBr aralashmasi 66,3 g. Ortiqcha ammiak eritmasi bilan ishlanganda 37,6 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "64,93 %",
+        "43,29 %",
+        "21,64 %",
+        "56,71 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 553,
+      "question": "0,25 mol Ca(OH)₂ saqlagan ohakli suvdan 6,72 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "20 g",
+        "25 g",
+        "30 g",
+        "5 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 554,
+      "question": "0,1 mol Ca(OH)₂ saqlagan ohakli suvdan 4,03 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "2 g",
+        "18 g",
+        "8 g",
+        "10 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 555,
+      "question": "0,2 mol FeSO₄ va 0,1 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "32 g",
+        "42,8 g",
+        "24 g",
+        "64 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 556,
+      "question": "0,2 mol AlCl₃ saqlagan eritmaga 0,7 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "11,7 g",
+        "18,2 g",
+        "7,8 g",
+        "15,6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 557,
+      "question": "0,25 mol Ca(OH)₂ saqlagan ohakli suvdan 10,08 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "5 g",
+        "25 g",
+        "20 g",
+        "45 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 558,
+      "question": "0,2 mol AlCl₃ saqlagan eritmaga 0,64 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "15,6 g",
+        "3,12 g",
+        "16,64 g",
+        "12,48 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 559,
+      "question": "Vagner reaksiyasida 0,1 mol etilen to'liq oksidlandi. Hosil bo'lgan MnO₂ massasi?",
+      "options": [
+        "5,8 g",
+        "17,4 g",
+        "2,9 g",
+        "8,7 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 560,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 31,35 g cho'kma tushdi; ortiqcha HCl qo'shilgach 11,65 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "17,7 g",
+        "19,7 g",
+        "10,6 g",
+        "7,1 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 561,
+      "question": "AgCl va AgBr aralashmasi 71,25 g. Ortiqcha ammiak eritmasi bilan ishlanganda 28,2 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "39,58 %",
+        "60,42 %",
+        "90,63 %",
+        "30,21 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 562,
+      "question": "AgCl va AgBr aralashmasi 80,65 g. Ortiqcha ammiak eritmasi bilan ishlanganda 37,6 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "46,62 %",
+        "80,07 %",
+        "53,38 %",
+        "26,69 %"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 563,
+      "question": "0,3 mol AlCl₃ saqlagan eritmaga 0,96 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "4,68 g",
+        "23,4 g",
+        "24,96 g",
+        "18,72 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 564,
+      "question": "AgCl va AgBr aralashmasi 42,55 g. Ortiqcha ammiak eritmasi bilan ishlanganda 28,2 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "66,27 %",
+        "50,59 %",
+        "16,86 %",
+        "33,73 %"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 565,
+      "question": "0,4 mol AlCl₃ saqlagan eritmaga 1,52 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "39,52 g",
+        "31,2 g",
+        "6,24 g",
+        "24,96 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 566,
+      "question": "0,1 mol Ca(OH)₂ saqlagan ohakli suvdan 3,58 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "4 g",
+        "10 g",
+        "16 g",
+        "6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 567,
+      "question": "0,1 mol AlCl₃ va 0,2 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "23,4 g",
+        "7,8 g",
+        "27,6 g",
+        "19,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 568,
+      "question": "Z tuz eritmasiga NaOH qo'shilganda oq cho'kma tushib, havoda tez qo'ng'irlashdi; BaCl₂ bilan kislotada erimaydigan oq cho'kma berdi. Z — ?",
+      "options": [
+        "MnCl₂",
+        "ZnSO₄",
+        "FeSO₄",
+        "MnSO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 569,
+      "question": "0,1 mol AlCl₃ saqlagan eritmaga 0,32 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "1,56 g",
+        "7,8 g",
+        "8,32 g",
+        "6,24 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 570,
+      "question": "0,15 mol Ca(OH)₂ saqlagan ohakli suvdan 4,7 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "6 g",
+        "9 g",
+        "21 g",
+        "15 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 571,
+      "question": "0,3 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 108 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "6 g",
+        "4,4 g",
+        "3 g",
+        "8,8 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 572,
+      "question": "0,2 mol Ca(OH)₂ saqlagan ohakli suvdan 6,27 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "12 g",
+        "8 g",
+        "28 g",
+        "20 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 573,
+      "question": "Vagner reaksiyasida 0,6 mol etilen to'liq oksidlandi. Hosil bo'lgan MnO₂ massasi?",
+      "options": [
+        "104,4 g",
+        "34,8 g",
+        "17,4 g",
+        "52,2 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 574,
+      "question": "0,25 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 12 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "4,48 l",
+        "2,24 l",
+        "5,6 l",
+        "1,12 l"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 575,
+      "question": "0,1 mol Ca(OH)₂ saqlagan ohakli suvdan 3,14 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "10 g",
+        "6 g",
+        "14 g",
+        "4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 576,
+      "question": "0,3 mol Ca(OH)₂ saqlagan ohakli suvdan 9,41 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "42 g",
+        "12 g",
+        "30 g",
+        "18 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 577,
+      "question": "0,4 mol ZnSO₄ saqlagan eritmaga 1,2 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "19,8 g",
+        "59,4 g",
+        "39,6 g",
+        "29,7 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 578,
+      "question": "0,1 mol AlCl₃ saqlagan eritmaga 0,35 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "5,85 g",
+        "7,8 g",
+        "3,9 g",
+        "9,1 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 579,
+      "question": "0,1 mol ZnSO₄ saqlagan eritmaga 0,3 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "4,95 g",
+        "7,43 g",
+        "9,9 g",
+        "14,85 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 580,
+      "question": "0,3 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 48 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "6,72 l",
+        "4,48 l",
+        "2,24 l",
+        "1,12 l"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 581,
+      "question": "0,2 mol MgCl₂ va 0,2 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "27,2 g",
+        "23,2 g",
+        "15,6 g",
+        "11,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 582,
+      "question": "0,3 mol MgCl₂ va 0,2 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "15,6 g",
+        "17,4 g",
+        "33 g",
+        "29 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 583,
+      "question": "4,6 g etanol yodoform reaksiyasiga to'liq kirdi. Necha gramm NaI hosil bo'ladi?",
+      "options": [
+        "39,4 g",
+        "15 g",
+        "45 g",
+        "75 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 584,
+      "question": "0,3 mol ZnSO₄ saqlagan eritmaga 1,08 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "53,46 g",
+        "29,7 g",
+        "5,94 g",
+        "47,52 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 585,
+      "question": "13,8 g etanol yodoform reaksiyasiga to'liq kirdi. Necha gramm NaI hosil bo'ladi?",
+      "options": [
+        "45 g",
+        "225 g",
+        "135 g",
+        "118,2 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 586,
+      "question": "0,25 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 97,2 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "6 g",
+        "2,2 g",
+        "1,5 g",
+        "8,8 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 587,
+      "question": "0,1 mol Ca(OH)₂ saqlagan ohakli suvdan 2,69 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "2 g",
+        "8 g",
+        "12 g",
+        "10 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 588,
+      "question": "0,25 mol Ca(OH)₂ saqlagan ohakli suvdan 8,96 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "15 g",
+        "10 g",
+        "40 g",
+        "25 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 589,
+      "question": "AgCl va AgBr aralashmasi 47,5 g. Ortiqcha ammiak eritmasi bilan ishlanganda 18,8 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "60,42 %",
+        "39,58 %",
+        "30,21 %",
+        "90,63 %"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 590,
+      "question": "0,25 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 86,4 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "4,5 g",
+        "4,4 g",
+        "3 g",
+        "6,6 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 591,
+      "question": "0,2 mol Ca(OH)₂ saqlagan ohakli suvdan 8,06 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "36 g",
+        "20 g",
+        "4 g",
+        "16 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 592,
+      "question": "0,4 mol AlCl₃ saqlagan eritmaga 1,4 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "36,4 g",
+        "15,6 g",
+        "23,4 g",
+        "31,2 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 593,
+      "question": "0,35 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 12 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "3,36 l",
+        "1,12 l",
+        "7,84 l",
+        "6,72 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 594,
+      "question": "0,2 mol FeSO₄ va 0,05 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "20 g",
+        "32,1 g",
+        "48 g",
+        "24 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 595,
+      "question": "0,2 mol MgCl₂ va 0,1 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "7,8 g",
+        "11,6 g",
+        "19,4 g",
+        "17,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 596,
+      "question": "AgCl va AgBr aralashmasi 33,15 g. Ortiqcha ammiak eritmasi bilan ishlanganda 18,8 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "21,64 %",
+        "56,71 %",
+        "43,29 %",
+        "64,93 %"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 597,
+      "question": "0,2 mol ZnSO₄ saqlagan eritmaga 0,72 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "35,64 g",
+        "3,96 g",
+        "31,68 g",
+        "19,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 598,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 62,7 g cho'kma tushdi; ortiqcha HCl qo'shilgach 23,3 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "14,2 g",
+        "21,2 g",
+        "35,4 g",
+        "39,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 599,
+      "question": "9,2 g etanol yodoform reaksiyasiga to'liq kirdi. Necha gramm NaI hosil bo'ladi?",
+      "options": [
+        "30 g",
+        "90 g",
+        "150 g",
+        "78,8 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 600,
+      "question": "0,1 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 32,4 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "2,25 g",
+        "1,5 g",
+        "3,38 g",
+        "2,2 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 601,
+      "question": "0,1 mol ZnSO₄ saqlagan eritmaga 0,24 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "7,92 g",
+        "11,88 g",
+        "3,96 g",
+        "9,9 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 602,
+      "question": "0,15 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 12 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "1,12 l",
+        "3,36 l",
+        "2,24 l",
+        "5,04 l"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 603,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 33,15 g cho'kma tushdi; ortiqcha HCl qo'shilgach 23,3 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "14,2 g",
+        "9,85 g",
+        "5,3 g",
+        "19,5 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 604,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 43 g cho'kma tushdi; ortiqcha HCl qo'shilgach 23,3 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "10,6 g",
+        "24,8 g",
+        "19,7 g",
+        "14,2 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 605,
+      "question": "0,2 mol AlCl₃ va 0,1 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "25,5 g",
+        "9,9 g",
+        "15,6 g",
+        "23,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 606,
+      "question": "AgCl va AgBr aralashmasi 56,9 g. Ortiqcha ammiak eritmasi bilan ishlanganda 28,2 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "50,44 %",
+        "49,56 %",
+        "25,22 %",
+        "75,66 %"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 607,
+      "question": "0,2 mol FeSO₄ va 0,15 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "80 g",
+        "53,5 g",
+        "28 g",
+        "40 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 608,
+      "question": "AgCl va AgBr aralashmasi 61,85 g. Ortiqcha ammiak eritmasi bilan ishlanganda 18,8 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "30,4 %",
+        "34,8 %",
+        "104,41 %",
+        "69,6 %"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 609,
+      "question": "0,1 mol AlCl₃ saqlagan eritmaga 0,38 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "7,8 g",
+        "6,24 g",
+        "1,56 g",
+        "9,88 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 610,
+      "question": "0,25 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 36 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "1,12 l",
+        "2,24 l",
+        "5,6 l",
+        "3,36 l"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 611,
+      "question": "18,4 g glitserin necha gramm Cu(OH)₂ ni erita oladi?",
+      "options": [
+        "19,6 g",
+        "9,8 g",
+        "6,53 g",
+        "39,2 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 612,
+      "question": "AgCl va AgBr aralashmasi 51,95 g. Ortiqcha ammiak eritmasi bilan ishlanganda 37,6 g cho'kma qoldi. AgCl ning massa ulushi (%)?",
+      "options": [
+        "41,43 %",
+        "13,81 %",
+        "72,38 %",
+        "27,62 %"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 613,
+      "question": "36,8 g glitserin necha gramm Cu(OH)₂ ni erita oladi?",
+      "options": [
+        "39,2 g",
+        "13,07 g",
+        "78,4 g",
+        "19,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 614,
+      "question": "0,4 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 129,6 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "13,5 g",
+        "8,8 g",
+        "6 g",
+        "9 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 615,
+      "question": "0,2 mol Ca(OH)₂ saqlagan ohakli suvdan 7,17 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "8 g",
+        "32 g",
+        "12 g",
+        "20 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 616,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 54,65 g cho'kma tushdi; ortiqcha HCl qo'shilgach 34,95 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "31,9 g",
+        "21,3 g",
+        "19,7 g",
+        "10,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 617,
+      "question": "0,1 mol ZnSO₄ saqlagan eritmaga 0,36 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "9,9 g",
+        "15,84 g",
+        "17,82 g",
+        "1,98 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 618,
+      "question": "0,1 mol FeSO₄ va 0,15 mol Fe₂(SO₄)₃ aralashmasiga ortiqcha NaOH qo'shildi, cho'kma havoda qoldirilib, so'ng qizdirildi. Qoldiq (Fe₂O₃) massasi?",
+      "options": [
+        "20 g",
+        "32 g",
+        "64 g",
+        "42,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 619,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 74,35 g cho'kma tushdi; ortiqcha HCl qo'shilgach 34,95 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "42,5 g",
+        "21,2 g",
+        "21,3 g",
+        "39,4 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 620,
+      "question": "0,2 mol AlCl₃ va 0,3 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "29,7 g",
+        "39 g",
+        "45,3 g",
+        "15,6 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 621,
+      "question": "0,3 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 24 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "2,24 l",
+        "10,08 l",
+        "4,48 l",
+        "6,72 l"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 622,
+      "question": "0,15 mol Ca(OH)₂ saqlagan ohakli suvdan 5,38 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "6 g",
+        "15 g",
+        "24 g",
+        "9 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 623,
+      "question": "0,1 mol MgCl₂ va 0,1 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "11,6 g",
+        "7,8 g",
+        "13,6 g",
+        "5,8 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 624,
+      "question": "0,15 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 43,2 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "4,4 g",
+        "3 g",
+        "1,5 g",
+        "2,2 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 625,
+      "question": "0,3 mol Ca(OH)₂ saqlagan ohakli suvdan 8,06 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "36 g",
+        "30 g",
+        "24 g",
+        "6 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 626,
+      "question": "Vagner reaksiyasida 0,2 mol etilen to'liq oksidlandi. Hosil bo'lgan MnO₂ massasi?",
+      "options": [
+        "11,6 g",
+        "34,8 g",
+        "17,4 g",
+        "5,8 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 627,
+      "question": "0,2 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 24 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "3,36 l",
+        "1,12 l",
+        "4,48 l",
+        "2,24 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 628,
+      "question": "Na₂CO₃ va Na₂SO₄ aralashmasiga ortiqcha BaCl₂ qo'shilganda 44,8 g cho'kma tushdi; ortiqcha HCl qo'shilgach 34,95 g qoldi. Aralashmadagi Na₂CO₃ massasi?",
+      "options": [
+        "26,6 g",
+        "9,85 g",
+        "5,3 g",
+        "21,3 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 629,
+      "question": "0,5 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 48 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "6,72 l",
+        "11,2 l",
+        "3,36 l",
+        "4,48 l"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 630,
+      "question": "0,2 mol AlCl₃ va 0,2 mol ZnCl₂ saqlagan eritmaga ortiqcha ammiak eritmasi qo'shildi. Cho'kma massasi?",
+      "options": [
+        "35,4 g",
+        "15,6 g",
+        "31,2 g",
+        "19,8 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 631,
+      "question": "0,3 mol MgCl₂ va 0,1 mol AlCl₃ saqlagan eritmaga ortiqcha NaOH qo'shildi. Cho'kma massasi?",
+      "options": [
+        "25,2 g",
+        "23,2 g",
+        "17,4 g",
+        "7,8 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 632,
+      "question": "0,15 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 54 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "4,4 g",
+        "1,5 g",
+        "2,2 g",
+        "3 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 633,
+      "question": "0,3 mol AlCl₃ saqlagan eritmaga 1,14 mol NaOH qo'shildi. Cho'kma massasini toping.",
+      "options": [
+        "29,64 g",
+        "23,4 g",
+        "4,68 g",
+        "18,72 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 634,
+      "question": "0,3 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 86,4 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "6 g",
+        "8,8 g",
+        "3 g",
+        "4,4 g"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 635,
+      "question": "W tuz NaOH bilan ko'k cho'kma beradi, cho'kma qizdirilsa qorayadi, NH₃ ortiqchasida to'q ko'k eritma hosil qiladi; BaCl₂ bilan kislotada erimaydigan oq cho'kma beradi. W — ?",
+      "options": [
+        "CuSO₄",
+        "NiSO₄",
+        "CuCl₂",
+        "Cu(NO₃)₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 636,
+      "question": "0,2 mol ZnSO₄ saqlagan eritmaga 0,6 mol NaOH qo'shildi. Zn(OH)₂ cho'kmasi massasi qancha?",
+      "options": [
+        "19,8 g",
+        "29,7 g",
+        "14,85 g",
+        "9,9 g"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 637,
+      "question": "0,35 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 36 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "2,24 l",
+        "7,84 l",
+        "3,36 l",
+        "4,48 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 638,
+      "question": "0,45 mol asetilen va etilen aralashmasi ammiakli kumush oksidi eritmasidan o'tkazilganda 36 g cho'kma tushdi. Etilen hajmi (n.sh.)?",
+      "options": [
+        "10,08 l",
+        "15,12 l",
+        "3,36 l",
+        "6,72 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 639,
+      "question": "0,35 mol metanal va etanal aralashmasi ortiqcha ammiakli kumush oksidi bilan 108 g kumush berdi. Aralashmadagi metanal massasi?",
+      "options": [
+        "6,6 g",
+        "4,5 g",
+        "8,8 g",
+        "6 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 640,
+      "question": "X tuz alangani sariq rangga bo'yaydi; eritmasi BaCl₂ bilan oq cho'kma beradi, cho'kma HCl da erib hidsiz gaz ajraladi, gaz ohakli suvni loyqalantiradi. X — ?",
+      "options": [
+        "Na₂CO₃",
+        "K₂CO₃",
+        "Na₂SO₃",
+        "Na₂SO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 641,
+      "question": "0,3 mol Ca(OH)₂ saqlagan ohakli suvdan 10,75 l (n.sh.) CO₂ o'tkazildi. Cho'kma massasi?",
+      "options": [
+        "12 g",
+        "30 g",
+        "48 g",
+        "18 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 642,
+      "question": "X tuzga NaCl qo'shilganda oq cho'kma hosil bo'ldi, cho'kma HNO₃ da erimaydi. Noma'lum tuzga K₂CrO₄ qo'shilsa g'isht-qizil cho'kma tushadi. X tuz tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ag⁺",
+        "Pb²⁺",
+        "Ba²⁺",
+        "Hg²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 643,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 3) K₄[Fe(CN)₆] qo'shilganda to'q ko'k cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Fe³⁺",
+        "Fe²⁺",
+        "Mg²⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 644,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) Tuz alangani sariq rangga bo'yadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "K⁺",
+        "Pb²⁺",
+        "NH₄⁺",
+        "Na⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 645,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) Tuz alangani sariq rangga bo'yadi. 3) Kislota qo'shilganda o'tkir hidli gaz ajraldi. 4) Kuchli kislota qo'shilganda sarg'ish oltingugurt loyqasi hosil bo'ldi. X tuzni aniqlang.",
+      "options": [
+        "Na₃PO₄",
+        "Na₂SO₃",
+        "K₃PO₄",
+        "Na₂S₂O₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 646,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, ohakli suvni loyqalantiruvchi hidsiz gaz ajraldi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) Tuz alangani sariq rangga bo'yadi. 4) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da eridi. X tuzni aniqlang.",
+      "options": [
+        "Na₂CO₃",
+        "K₂CO₃",
+        "Na₃PO₄",
+        "Na₂C₂O₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 647,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) Tuz alangani g'isht-qizil rangga bo'yadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda qiyin eridi. X tuzni aniqlang.",
+      "options": [
+        "BaBr₂",
+        "CaCl₂",
+        "Ca(NO₃)₂",
+        "CaBr₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 648,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda cho'kma tushmadi. 2) Tuz alangani sarg'ish-yashil rangga bo'yadi. 3) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 4) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "Pb(NO₃)₂",
+        "Ba(NO₃)₂",
+        "BaI₂",
+        "BaCl₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 649,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 2) K₃[Fe(CN)₆] qo'shilganda to'q ko'k cho'kma tushdi. 3) BaCl₂ qo'shilganda cho'kma tushmadi. 4) Na₂S qo'shilganda qora cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "MnCl₂",
+        "CaCl₂",
+        "FeSO₄",
+        "FeCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 650,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. 4) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "MnSO₄",
+        "MnCl₂",
+        "NiCl₂",
+        "BaCl₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 651,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) KI qo'shilganda sariq cho'kma tushdi, u ammiakda erimaydi. 3) NaCl qo'shilganda oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Hg²⁺",
+        "Cu²⁺",
+        "Pb²⁺",
+        "Ag⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 652,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) CaCl₂ qo'shilganda oq cho'kma tushdi. 3) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "CO₃²⁻",
+        "SO₃²⁻",
+        "C₂O₄²⁻",
+        "PO₄³⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 653,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) CaCl₂ qo'shilganda oq cho'kma tushdi. 2) Tuz alangani sariq rangga bo'yadi. 3) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "FeCl₃",
+        "Na₃PO₄",
+        "NaCl",
+        "NaF"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 654,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Fe²⁺",
+        "Mg²⁺",
+        "Al³⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 655,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) CaCl₂ qo'shilganda oq cho'kma tushdi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) Tuz alangani sariq rangga bo'yadi. 4) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "NaBr",
+        "Na₂S",
+        "NaF",
+        "Na₂S₂O₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 656,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "NH₄NO₃",
+        "NH₄Br",
+        "Ba(NO₃)₂",
+        "NH₄Cl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 657,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Al³⁺",
+        "Zn²⁺",
+        "Cr³⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 658,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 4) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. X tuzni aniqlang.",
+      "options": [
+        "Fe₂(SO₄)₃",
+        "MnCl₂",
+        "MgSO₄",
+        "MnSO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 659,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 3) Tuz alangani sarg'ish-yashil rangga bo'yadi. 4) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "Ba(NO₃)₂",
+        "NaBr",
+        "BaBr₂",
+        "BaCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 660,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Pb²⁺",
+        "Zn²⁺",
+        "Cu²⁺",
+        "Al³⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 661,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) NaOH qo'shilganda ko'k cho'kma tushdi, u qizdirilganda qoraydi. 3) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Co²⁺",
+        "Ni²⁺",
+        "Cu²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 662,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da eridi. 2) Kislota qo'shilganda hidsiz gaz ajraldi. 3) BaCl₂ qo'shilganda oq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "CO₃²⁻",
+        "PO₄³⁻",
+        "SO₃²⁻",
+        "SO₄²⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 663,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH qo'shilganda ko'k cho'kma tushdi, u qizdirilganda qoraydi. 2) AgNO₃ qo'shilganda cho'kma tushmadi. 3) Ortiqcha ammiak qo'shilganda yorqin to'q ko'k eritma hosil bo'ldi. 4) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "KNO₃",
+        "Cu(NO₃)₂",
+        "CuCl₂",
+        "CuSO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 664,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda oq cho'kma tushdi. 2) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tuzni aniqlang.",
+      "options": [
+        "(NH₄)₂SO₄",
+        "NH₄NO₃",
+        "MgCl₂",
+        "NH₄Cl"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 665,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 4) BaCl₂ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "K₂SO₃",
+        "KNO₃",
+        "K₂SO₄",
+        "NiSO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 666,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Pb(NO₃)₂ qo'shilganda oltin-sariq cho'kma tushdi. 2) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 3) Tuz alangani sarg'ish-yashil rangga bo'yadi. 4) BaCl₂ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "KI",
+        "BaI₂",
+        "BaCl₂",
+        "Ba(NO₃)₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 667,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NaOH qo'shilganda olma-yashil cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Fe²⁺",
+        "Co²⁺",
+        "Cu²⁺",
+        "Ni²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 668,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Al³⁺",
+        "Pb²⁺",
+        "Zn²⁺",
+        "Cr³⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 669,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 2) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. 3) Tuz alangani sarg'ish-yashil rangga bo'yadi. 4) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "Ba(NO₃)₂",
+        "BaI₂",
+        "BaBr₂",
+        "Al(NO₃)₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 670,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Pb²⁺",
+        "Ba²⁺",
+        "Ca²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 671,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) Tuz alangani yashil-ko'k rangga bo'yadi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ni²⁺",
+        "Cu²⁺",
+        "Mn²⁺",
+        "Co²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 672,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NaOH qo'shilganda pushti cho'kma tushdi. 3) BaCl₂ qo'shilganda oq cho'kma tushdi. 4) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. X tuzni aniqlang.",
+      "options": [
+        "CuSO₄",
+        "CoCl₂",
+        "CoSO₄",
+        "Fe₂(SO₄)₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 673,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sariq rangga bo'yadi. 2) CaCl₂ qo'shilganda oq cho'kma tushdi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 4) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "Na₂S₂O₃",
+        "NaI",
+        "K₃PO₄",
+        "Na₃PO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 674,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 2) Tuz alangani binafsha rangga bo'yadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tuzni aniqlang.",
+      "options": [
+        "NH₄Br",
+        "KBr",
+        "K₂SO₄",
+        "KI"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 675,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda umuman erimadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "Cl⁻",
+        "I⁻",
+        "S²⁻",
+        "Br⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 676,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ qo'shilganda cho'kma tushmadi. 2) CaCl₂ qo'shilganda oq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "PO₄³⁻",
+        "F⁻",
+        "NO₃⁻",
+        "CO₃²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 677,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NaCl bilan hosil bo'lgan cho'kma ortiqcha NH₃·H₂O da eridi. 3) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "Ba(NO₃)₂",
+        "NH₄NO₃",
+        "AgNO₃",
+        "KNO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 678,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sariq rangga bo'yadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda umuman erimadi. X tuzni aniqlang.",
+      "options": [
+        "Na₂CO₃",
+        "BaI₂",
+        "NaI",
+        "NaBr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 679,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 2) KSCN qo'shilganda qonsimon qizil rang paydo bo'ldi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Fe³⁺",
+        "Mn²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 680,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 3) Na₂S qo'shilganda qora cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Fe²⁺",
+        "Pb²⁺",
+        "Ag⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 681,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda qiyin eridi. 2) Tuz alangani g'isht-qizil rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "ZnBr₂",
+        "Ca(NO₃)₂",
+        "CaBr₂",
+        "CaCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 682,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) BaCl₂ qo'shilganda oq cho'kma tushdi. 3) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "KNO₃",
+        "K₃PO₄",
+        "Na₃PO₄",
+        "K₂SO₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 683,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 3) Pb(NO₃)₂ qo'shilganda oltin-sariq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "NO₃⁻",
+        "I⁻",
+        "Br⁻",
+        "Cl⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 684,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Fe²⁺",
+        "Fe³⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 685,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 3) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Pb²⁺",
+        "Mn²⁺",
+        "Al³⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 686,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. 2) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ba²⁺",
+        "Pb²⁺",
+        "Zn²⁺",
+        "Al³⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 687,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani qip-qizil rangga bo'yadi. 2) AgNO₃ qo'shilganda cho'kma tushmadi. 3) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 4) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "NaNO₃",
+        "AgNO₃",
+        "Sr(NO₃)₂",
+        "SrCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 688,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) AgNO₃ qo'shilganda oq cho'kma tushdi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "NO₃⁻",
+        "I⁻",
+        "Br⁻",
+        "Cl⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 689,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) Tuz alangani sariq rangga bo'yadi. 3) HCl qo'shilganda jelesimon cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "NH₄Br",
+        "Na₂SO₃",
+        "NaBr",
+        "Na₂SiO₃"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 690,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) Kislota qo'shilganda hidsiz gaz ajraldi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "K₃PO₄",
+        "KCl",
+        "K₂CO₃",
+        "Na₂CO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 691,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 3) NaOH qo'shilganda ko'k cho'kma tushdi, u qizdirilganda qoraydi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Co²⁺",
+        "Ni²⁺",
+        "Cu²⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 692,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 2) NaOH qo'shilganda ko'k cho'kma tushdi, u qizdirilganda qoraydi. X tuzni aniqlang.",
+      "options": [
+        "Cu(NO₃)₂",
+        "NH₄Cl",
+        "CuSO₄",
+        "CuCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 693,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 2) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "KCl",
+        "KNO₃",
+        "Cu(NO₃)₂",
+        "K₂CrO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 694,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, o'tkir hidli gaz ajraldi. 3) Kislota qo'shilganda o'tkir hidli gaz ajraldi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "SO₃²⁻",
+        "PO₄³⁻",
+        "CO₃²⁻",
+        "S₂O₃²⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 695,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda umuman erimadi. 2) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "K₃PO₄",
+        "KI",
+        "K₂CO₃",
+        "NaI"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 696,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sarg'ish-yashil rangga bo'yadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. 4) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "Ba(NO₃)₂",
+        "BaBr₂",
+        "AgNO₃",
+        "BaCl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 697,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) Pb(NO₃)₂ qo'shilganda oltin-sariq cho'kma tushdi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tuzni aniqlang.",
+      "options": [
+        "NaI",
+        "KI",
+        "K₂CO₃",
+        "K₂CrO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 698,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) CaCl₂ qo'shilganda oq cho'kma tushdi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, ohakli suvni loyqalantiruvchi hidsiz gaz ajraldi. 3) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "KNO₃",
+        "K₂CO₃",
+        "K₂SO₄",
+        "(NH₄)₂CO₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 699,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 2) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mn²⁺",
+        "Mg²⁺",
+        "Al³⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 700,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda oq cho'kma tushdi. 2) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "KCl",
+        "K₂CO₃",
+        "KBr",
+        "CdCl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 701,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH bilan hosil bo'lgan cho'kma NH₄Cl eritmasida eridi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. X tuzni aniqlang.",
+      "options": [
+        "MgCl₂",
+        "Mg(NO₃)₂",
+        "ZnSO₄",
+        "MgSO₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 702,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. X tuzni aniqlang.",
+      "options": [
+        "FeCl₃",
+        "K₃PO₄",
+        "KCl",
+        "KBr"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 703,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda sariq cho'kma tushdi. 2) AgNO₃ qo'shilganda g'isht-qizil cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "S₂O₃²⁻",
+        "SO₃²⁻",
+        "NO₃⁻",
+        "CrO₄²⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 704,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) NaCl qo'shilganda oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Pb²⁺",
+        "Mn²⁺",
+        "Al³⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 705,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) Pb(NO₃)₂ qo'shilganda qora cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "NO₃⁻",
+        "I⁻",
+        "S²⁻",
+        "Cl⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 706,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 2) K₃[Fe(CN)₆] qo'shilganda to'q ko'k cho'kma tushdi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. X tuzni aniqlang.",
+      "options": [
+        "NH₄Cl",
+        "MnCl₂",
+        "FeCl₂",
+        "FeSO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 707,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 3) KSCN qo'shilganda qonsimon qizil rang paydo bo'ldi. 4) AgNO₃ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "ZnCl₂",
+        "Fe₂(SO₄)₃",
+        "FeCl₃",
+        "SrCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 708,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaCl bilan hosil bo'lgan cho'kma ortiqcha NH₃·H₂O da eridi. 2) NaCl qo'shilganda oq cho'kma tushdi. 3) Na₂S qo'shilganda qora cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ni²⁺",
+        "Co²⁺",
+        "Pb²⁺",
+        "Ag⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 709,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 2) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da eridi. 3) Tuz alangani sariq rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "K₃PO₄",
+        "Na₃PO₄",
+        "Na₂SiO₃",
+        "NaF"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 710,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 2) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 3) Na₂S qo'shilganda qora cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Fe²⁺",
+        "Cu²⁺",
+        "Pb²⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 711,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 3) BaCl₂ qo'shilganda cho'kma tushmadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "Cl⁻",
+        "Br⁻",
+        "NO₃⁻",
+        "I⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 712,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mn²⁺",
+        "Mg²⁺",
+        "Co²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 713,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 3) NaOH qo'shilganda olma-yashil cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Cu²⁺",
+        "Ni²⁺",
+        "Mn²⁺",
+        "Co²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 714,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) CaCl₂ qo'shilganda oq cho'kma tushdi. 3) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, ohakli suvni loyqalantiruvchi hidsiz gaz ajraldi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "SO₄²⁻",
+        "CO₃²⁻",
+        "PO₄³⁻",
+        "SO₃²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 715,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) Tuz alangani g'isht-qizil rangga bo'yadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Sr²⁺",
+        "Ba²⁺",
+        "Mg²⁺",
+        "Ca²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 716,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 2) NaOH qo'shilganda kulrang-yashil cho'kma tushdi, ortiqchasida yashil eritma hosil bo'ldi. X tuzni aniqlang.",
+      "options": [
+        "K₂SO₄",
+        "Cr₂(SO₄)₃",
+        "CrCl₃",
+        "Fe₂(SO₄)₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 717,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 4) BaCl₂ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "KNO₃",
+        "Cu(NO₃)₂",
+        "KBr",
+        "K₃PO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 718,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 2) Na₂S qo'shilganda oq cho'kma tushdi. 3) BaCl₂ qo'shilganda oq cho'kma tushdi. 4) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. X tuzni aniqlang.",
+      "options": [
+        "ZnSO₄",
+        "ZnBr₂",
+        "ZnCl₂",
+        "(NH₄)₂SO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 719,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) Oz miqdorda KI qo'shilganda qizil cho'kma tushdi, KI ortiqchasida eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Pb²⁺",
+        "Fe²⁺",
+        "Hg²⁺",
+        "Co²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 720,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 2) KSCN qo'shilganda qonsimon qizil rang paydo bo'ldi. 3) BaCl₂ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "K₂SO₄",
+        "ZnSO₄",
+        "Fe₂(SO₄)₃",
+        "FeCl₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 721,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) NaOH qo'shilganda pushti cho'kma tushdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Cu²⁺",
+        "Co²⁺",
+        "Ni²⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 722,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sarg'ish-yashil rangga bo'yadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "BaI₂",
+        "Ba(NO₃)₂",
+        "CaCl₂",
+        "BaCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 723,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sariq rangga bo'yadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "NaCl",
+        "NaNO₃",
+        "Na₂CO₃",
+        "Al(NO₃)₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 724,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ qo'shilganda cho'kma tushmadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "Br⁻",
+        "NO₃⁻",
+        "Cl⁻",
+        "I⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 725,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda umuman erimadi. 4) Tuz alangani sariq rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "BaI₂",
+        "NaI",
+        "Na₂SO₄",
+        "NaBr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 726,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) Tuz alangani sariq rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "NaCl",
+        "CrCl₃",
+        "Na₂S",
+        "Na₂SO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 727,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 2) NaOH bilan hosil bo'lgan cho'kma NH₄Cl eritmasida eridi. 3) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "MgSO₄",
+        "NaNO₃",
+        "Mg(NO₃)₂",
+        "MgCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 728,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Na⁺",
+        "NH₄⁺",
+        "K⁺",
+        "Co²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 729,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda umuman erimadi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "KI",
+        "KCl",
+        "BaI₂",
+        "K₂CO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 730,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) (NH₄)₂C₂O₄ qo'shilganda sirka kislotada erimaydigan oq cho'kma tushdi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "Ca(NO₃)₂",
+        "CaBr₂",
+        "CaCl₂",
+        "CoCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 731,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, o'tkir hidli gaz ajraldi. 2) Tuz alangani binafsha rangga bo'yadi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "K₂SO₃",
+        "K₂CO₃",
+        "KCl",
+        "Na₂SO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 732,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH qo'shilganda olma-yashil cho'kma tushdi. 2) Na₂S qo'shilganda qora cho'kma tushdi. 3) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Cu²⁺",
+        "Fe²⁺",
+        "Co²⁺",
+        "Ni²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 733,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. 2) Tuz alangani qip-qizil rangga bo'yadi. 3) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ca²⁺",
+        "Ba²⁺",
+        "Mg²⁺",
+        "Sr²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 734,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) (NH₄)₂C₂O₄ qo'shilganda sirka kislotada erimaydigan oq cho'kma tushdi. 2) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda qiyin eridi. 4) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tuzni aniqlang.",
+      "options": [
+        "ZnBr₂",
+        "CaCl₂",
+        "Ca(NO₃)₂",
+        "CaBr₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 735,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) Kislota qo'shilganda o'tkir hidli gaz ajraldi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "PO₄³⁻",
+        "SO₃²⁻",
+        "SO₄²⁻",
+        "CO₃²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 736,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 3) AgNO₃ qo'shilganda cho'kma tushmadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "NO₃⁻",
+        "I⁻",
+        "Br⁻",
+        "Cl⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 737,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani g'isht-qizil rangga bo'yadi. 2) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 3) BaCl₂ qo'shilganda cho'kma tushmadi. 4) (NH₄)₂C₂O₄ qo'shilganda sirka kislotada erimaydigan oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "CaBr₂",
+        "Mg(NO₃)₂",
+        "Ca(NO₃)₂",
+        "CaCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 738,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda oq cho'kma tushdi. 2) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "NH₄NO₃",
+        "NH₄Cl",
+        "NH₄Br",
+        "FeCl₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 739,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 2) Na₂S qo'shilganda oq cho'kma tushdi. 3) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. X tuzni aniqlang.",
+      "options": [
+        "ZnBr₂",
+        "ZnSO₄",
+        "ZnCl₂",
+        "CuSO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 740,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) Tuz alangani sariq rangga bo'yadi. 3) Kislota qo'shilganda o'tkir hidli gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "Na₂SO₃",
+        "Na₂S₂O₃",
+        "K₂SO₃",
+        "Na₂SO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 741,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) Tuz alangani qip-qizil rangga bo'yadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Ca²⁺",
+        "Ba²⁺",
+        "Sr²⁺"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 742,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Na₂S qo'shilganda oq cho'kma tushdi. 2) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. 4) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tuzni aniqlang.",
+      "options": [
+        "ZnCl₂",
+        "ZnBr₂",
+        "CoCl₂",
+        "ZnSO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 743,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sariq rangga bo'yadi. 2) AgNO₃ qo'shilganda sariq cho'kma tushdi. 3) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. X tuzni aniqlang.",
+      "options": [
+        "Na₂S",
+        "KI",
+        "NaBr",
+        "NaI"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 744,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. 2) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 3) Na₂S qo'shilganda qora cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Cu²⁺",
+        "Ni²⁺",
+        "Pb²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 745,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda oq cho'kma tushdi. 2) Tuz alangani sarg'ish-yashil rangga bo'yadi. 3) BaCl₂ qo'shilganda cho'kma tushmadi. 4) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "BaI₂",
+        "Ba(NO₃)₂",
+        "NiCl₂",
+        "BaCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 746,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 2) Na₂S qo'shilganda qora cho'kma tushdi. 3) NaOH qo'shilganda pushti cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "CdCl₂",
+        "CoSO₄",
+        "CoCl₂",
+        "AlCl₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 747,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Oz miqdorda KI qo'shilganda qizil cho'kma tushdi, KI ortiqchasida eridi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) Na₂S qo'shilganda qora cho'kma tushdi. 4) AgNO₃ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "NaNO₃",
+        "MnSO₄",
+        "Sr(NO₃)₂",
+        "Hg(NO₃)₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 748,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. 2) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 3) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 4) BaCl₂ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "BaCl₂",
+        "BaBr₂",
+        "BaI₂",
+        "KBr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 749,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 3) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 4) NaOH qo'shilganda pushti cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "CrCl₃",
+        "CoCl₂",
+        "CdCl₂",
+        "CoSO₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 750,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Na₂HPO₄ va NH₃·H₂O qo'shilganda oq kristall cho'kma tushdi. 2) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 3) AgNO₃ qo'shilganda cho'kma tushmadi. 4) BaCl₂ qo'shilganda cho'kma tushmadi. X tuzni aniqlang.",
+      "options": [
+        "MgSO₄",
+        "KNO₃",
+        "MgCl₂",
+        "Mg(NO₃)₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 751,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da eridi. 2) CaCl₂ qo'shilganda oq cho'kma tushdi. 3) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "F⁻",
+        "PO₄³⁻",
+        "CO₃²⁻",
+        "C₂O₄²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 752,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasierimadi. 2) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 3) NaOH qo'shilganda qizil-qo'ng'ir cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mn²⁺",
+        "Mg²⁺",
+        "Fe³⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 753,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, o'tkir hidli gaz ajraldi. 3) Kislota qo'shilganda o'tkir hidli gaz ajraldi. 4) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "K₂CrO₄",
+        "K₂SO₃",
+        "KI",
+        "Na₂SO₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 754,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda oq cho'kma tushdi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. 4) Kislota qo'shilganda hidsiz gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "(NH₄)₂SO₄",
+        "(NH₄)₂CO₃",
+        "K₂CO₃",
+        "NH₄Br"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 755,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) Tuz alangani binafsha rangga bo'yadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Hg²⁺",
+        "Na⁺",
+        "K⁺",
+        "NH₄⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 756,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. 3) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ba²⁺",
+        "Pb²⁺",
+        "Ca²⁺",
+        "Sr²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 757,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da eridi. 2) NaOH qo'shilganda kulrang-yashil cho'kma tushdi, ortiqchasida yashil eritma hosil bo'ldi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Al³⁺",
+        "Cr³⁺",
+        "Pb²⁺",
+        "Zn²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 758,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Tuz alangani qip-qizil rangga bo'yadi. 2) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Sr²⁺",
+        "Ag⁺",
+        "Pb²⁺",
+        "Ba²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 759,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Kuchli kislota qo'shilganda sarg'ish oltingugurt loyqasi hosil bo'ldi. 2) Kislota qo'shilganda o'tkir hidli gaz ajraldi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "CO₃²⁻",
+        "SO₃²⁻",
+        "C₂O₄²⁻",
+        "S₂O₃²⁻"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 760,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH bilan hosil bo'lgan cho'kma NH₄Cl eritmasida eridi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "ZnSO₄",
+        "Mg(NO₃)₂",
+        "MgSO₄",
+        "MgCl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 761,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH qo'shilganda olma-yashil cho'kma tushdi. 2) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. X tuzni aniqlang.",
+      "options": [
+        "SrCl₂",
+        "NaCl",
+        "NiSO₄",
+        "NiCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 762,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NaOH bilan hosil bo'lgan cho'kma havoda turganda qo'ng'irlashdi. 3) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Co²⁺",
+        "Cu²⁺",
+        "Fe²⁺",
+        "Ni²⁺"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 763,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. 2) AgNO₃ qo'shilganda oq cho'kma tushdi. 3) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 4) Tuz alangani yashil-ko'k rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "CuSO₄",
+        "Cu(NO₃)₂",
+        "MgCl₂",
+        "CuCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 764,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) CaCl₂ qo'shilganda oq cho'kma tushdi. 2) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 3) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erib, ohakli suvni loyqalantiruvchi hidsiz gaz ajraldi. 4) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "Na₂CO₃",
+        "K₂CO₃",
+        "K₂SO₃",
+        "KCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 765,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani g'isht-qizil rangga bo'yadi. 2) AgNO₃ qo'shilganda cho'kma tushmadi. 3) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "Ca(NO₃)₂",
+        "CaBr₂",
+        "Mg(NO₃)₂",
+        "CaCl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 766,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) (NH₄)₂C₂O₄ qo'shilganda sirka kislotada erimaydigan oq cho'kma tushdi. 2) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ba²⁺",
+        "Ca²⁺",
+        "Sr²⁺",
+        "Mg²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 767,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. 4) Tuz alangani yashil-ko'k rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "NH₄Cl",
+        "Cu(NO₃)₂",
+        "CuCl₂",
+        "CuSO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 768,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "I⁻",
+        "Br⁻",
+        "Cl⁻",
+        "PO₄³⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 769,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da erimadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) AgNO₃ qo'shilganda och sariq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "I⁻",
+        "Br⁻",
+        "Cl⁻",
+        "S²⁻"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 770,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) K₂CrO₄ qo'shilganda sariq cho'kma tushdi. 2) Tuz alangani sarg'ish-yashil rangga bo'yadi. 3) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ba²⁺",
+        "Ca²⁺",
+        "Sr²⁺",
+        "Pb²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 771,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. 2) NaOH bilan hosil bo'lgan cho'kma NH₄Cl eritmasida eridi. 3) AgNO₃ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "MgSO₄",
+        "Mg(NO₃)₂",
+        "CdCl₂",
+        "MgCl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 772,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH qo'shilganda olma-yashil cho'kma tushdi. 2) AgNO₃ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "AlCl₃",
+        "NiCl₂",
+        "NiSO₄",
+        "NaCl"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 773,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 3) Oz miqdorda NaOH qo'shilganda oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Mg²⁺",
+        "Zn²⁺",
+        "Ba²⁺",
+        "Mn²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 774,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani binafsha rangga bo'yadi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "KBr",
+        "MgSO₄",
+        "K₂SO₄",
+        "K₃PO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 775,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) Tuz alangani binafsha rangga bo'yadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda qiyin eridi. 4) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. X tuzni aniqlang.",
+      "options": [
+        "K₂SO₃",
+        "KBr",
+        "K₃PO₄",
+        "NaBr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 776,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Kislota qo'shilganda palag'da tuxum hidli gaz ajraldi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "S²⁻",
+        "Cl⁻",
+        "Br⁻",
+        "NO₃⁻"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 777,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂S qo'shilganda qora cho'kma tushdi. 2) NH₃·H₂O bilan hosil bo'lgan cho'kma ammiak ortiqchasieridi. 3) NaOH qo'shilganda pushti cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ni²⁺",
+        "Co²⁺",
+        "Cu²⁺",
+        "Hg²⁺"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 778,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) AgNO₃ qo'shilganda oq cho'kma tushdi. 3) Tuz alangani qip-qizil rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "SrCl₂",
+        "NaCl",
+        "Sr(NO₃)₂",
+        "CoCl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 779,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) AgNO₃ bilan hosil bo'lgan cho'kma HNO₃ da eridi. 3) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 4) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "K₃PO₄",
+        "K₂CrO₄",
+        "Na₃PO₄",
+        "KI"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 780,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) AgNO₃ qo'shilganda g'isht-qizil cho'kma tushdi. 2) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "K₂CrO₄",
+        "ZnBr₂",
+        "KBr",
+        "K₂CO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 781,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH, Na₂CO₃ va Na₂S bilan cho'kma hosil bo'lmadi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. X tuzni aniqlang.",
+      "options": [
+        "NH₄Br",
+        "Na₂SO₄",
+        "(NH₄)₂SO₄",
+        "(NH₄)₂CO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 782,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) CaCl₂ qo'shilganda oq cho'kma tushdi. 2) AgNO₃ qo'shilganda och sariq cho'kma tushdi. 3) Tuz alangani binafsha rangga bo'yadi. X tuzni aniqlang.",
+      "options": [
+        "K₃PO₄",
+        "K₂CrO₄",
+        "K₂SO₃",
+        "Na₃PO₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 783,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) K₂CrO₄ qo'shilganda g'isht-qizil cho'kma tushdi. 2) NaCl qo'shilganda oq cho'kma tushdi. 3) Na₂S qo'shilganda qora cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ag⁺",
+        "Co²⁺",
+        "Pb²⁺",
+        "Cu²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 784,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) NaOH bilan qizdirilganda o'tkir hidli, nam lakmusni ko'kartiruvchi gaz ajraldi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) BaCl₂ qo'shilganda oq cho'kma tushdi. X tuzni aniqlang.",
+      "options": [
+        "(NH₄)₂CO₃",
+        "(NH₄)₂SO₄",
+        "NH₄Br",
+        "Al₂(SO₄)₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 785,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. 2) Tuz alangani g'isht-qizil rangga bo'yadi. 3) (NH₄)₂C₂O₄ qo'shilganda sirka kislotada erimaydigan oq cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Ca²⁺",
+        "Sr²⁺",
+        "Mg²⁺",
+        "Ba²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 786,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) NaOH bilan hosil bo'lgan cho'kma ortiqcha NaOH da erimadi. 2) Na₂S qo'shilganda qora cho'kma tushdi. 3) NaOH qo'shilganda pushti cho'kma tushdi. X tarkibidagi kationni aniqlang.",
+      "options": [
+        "Co²⁺",
+        "Cu²⁺",
+        "Ni²⁺",
+        "Fe²⁺"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 787,
+      "question": "X tuz eritmasi bilan tajribalar o'tkazildi: 1) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 2) BaCl₂ qo'shilganda oq cho'kma tushdi. X tarkibidagi anionni aniqlang.",
+      "options": [
+        "SO₃²⁻",
+        "PO₄³⁻",
+        "SO₄²⁻",
+        "CO₃²⁻"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 788,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani g'isht-qizil rangga bo'yadi. 2) BaCl₂ qo'shilganda cho'kma tushmadi. 3) Cu va konsentrlangan H₂SO₄ bilan qizdirilganda qo'ng'ir gaz ajraldi. 4) Na₂CO₃ qo'shilganda oq cho'kma tushdi, u HCl da CO₂ ajratib eridi. X tuzni aniqlang.",
+      "options": [
+        "CaBr₂",
+        "Pb(NO₃)₂",
+        "CaCl₂",
+        "Ca(NO₃)₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 789,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) BaCl₂ qo'shilganda cho'kma tushmadi. 2) Tuz alangani sariq rangga bo'yadi. 3) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda oson eridi. X tuzni aniqlang.",
+      "options": [
+        "Na₂SO₄",
+        "NaCl",
+        "NH₄Cl",
+        "NaBr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 790,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) K₄[Fe(CN)₆] qo'shilganda to'q ko'k cho'kma tushdi. 2) BaCl₂ bilan hosil bo'lgan cho'kma HCl da erimadi. 3) KSCN qo'shilganda qonsimon qizil rang paydo bo'ldi. X tuzni aniqlang.",
+      "options": [
+        "FeCl₃",
+        "CoSO₄",
+        "Fe₂(SO₄)₃",
+        "CuSO₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 791,
+      "question": "Noma'lum X tuz eritmasi bilan tajribalar: 1) Tuz alangani sarg'ish-yashil rangga bo'yadi. 2) H₂SO₄ qo'shilganda kislotalarda erimaydigan oq cho'kma tushdi. 3) BaCl₂ qo'shilganda cho'kma tushmadi. 4) AgNO₃ bilan hosil bo'lgan cho'kma ammiakda qiyin eridi. X tuzni aniqlang.",
+      "options": [
+        "BaCl₂",
+        "BaI₂",
+        "NaBr",
+        "BaBr₂"
+      ],
+      "correctIndex": 3
     }
   ]
 }
