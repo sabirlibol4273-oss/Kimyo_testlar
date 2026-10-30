@@ -79,6 +79,17 @@
         "Fosfor"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Ar bu qaysi element",
+      "options": [
+        "Litiy",
+        "Argon",
+        "Oltingugurt",
+        "Nitrat"
+      ],
+      "correctIndex": 1
     }
   ]
 }
