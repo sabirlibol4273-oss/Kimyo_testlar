@@ -4,17 +4,6 @@
   "description": "Atom, molekula, modda, element",
   "questions": [
     {
-      "id": 1,
-      "question": "Suvning kimyoviy formulasi qaysi?",
-      "options": [
-        "H₂O",
-        "CO₂",
-        "O₂",
-        "H₂O₂"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 2,
       "question": "Natriy elementining kimyoviy belgisi?",
       "options": [
