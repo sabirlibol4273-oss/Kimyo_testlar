@@ -68,6 +68,17 @@
         "vodorod"
       ],
       "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Si bu qaysi element",
+      "options": [
+        "Kaliy",
+        "Simob",
+        "Kremniy",
+        "Fosfor"
+      ],
+      "correctIndex": 2
     }
   ]
 }
