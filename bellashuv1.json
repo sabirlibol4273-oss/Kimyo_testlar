@@ -90,17 +90,6 @@
         "rangsizlik"
       ],
       "correctIndex": 1
-    },
-    {
-      "id": 12,
-      "question": "Kimyoviy reaksiya tenglamasida nima saqlanadi?",
-      "options": [
-        "faqat hajm",
-        "atomlar soni (massa)",
-        "rang",
-        "harorat"
-      ],
-      "correctIndex": 1
     }
   ]
 }
