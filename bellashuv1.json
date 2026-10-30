@@ -4,17 +4,6 @@
   "description": "Atom, molekula, modda, element",
   "questions": [
     {
-      "id": 3,
-      "question": "Osh tuzining kimyoviy formulasi?",
-      "options": [
-        "KCl",
-        "NaCl",
-        "CaCl₂",
-        "NaOH"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 4,
       "question": "Moddaning kimyoviy xossasini saqlovchi eng kichik zarra?",
       "options": [
