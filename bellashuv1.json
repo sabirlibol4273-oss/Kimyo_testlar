@@ -2,5 +2,17 @@
   "topicId": 1,
   "title": "Elementni topish",
   "description": "Atom, molekula, modda, element",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Na bu qaysi element",
+      "options": [
+        "Natriy",
+        "Kalsiy",
+        "Neon",
+        "Nikel"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
