@@ -35,17 +35,6 @@
         "CaO"
       ],
       "correctIndex": 1
-    },
-    {
-      "id": 7,
-      "question": "1 mol moddadagi zarralar soni (Avogadro soni)?",
-      "options": [
-        "6,02·10²³",
-        "3,01·10²³",
-        "6,02·10²²",
-        "1,2·10²⁴"
-      ],
-      "correctIndex": 0
     }
   ]
 }
