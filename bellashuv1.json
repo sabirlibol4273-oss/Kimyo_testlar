@@ -35,6 +35,17 @@
         "Fosfor"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Fe bu qaysi element",
+      "options": [
+        "Titan",
+        "Temir",
+        "Talliy",
+        "Ftor"
+      ],
+      "correctIndex": 1
     }
   ]
 }
