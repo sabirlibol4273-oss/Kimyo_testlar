@@ -13,17 +13,6 @@
         "elektron"
       ],
       "correctIndex": 1
-    },
-    {
-      "id": 5,
-      "question": "Kislorod molekulasi nechta atomdan iborat?",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
-      "correctIndex": 1
     }
   ]
 }
