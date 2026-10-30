@@ -57,6 +57,17 @@
         "alyuminiy"
       ],
       "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Hg bu qaysi element",
+      "options": [
+        "simob",
+        "kremniy",
+        "geliy",
+        "vodorod"
+      ],
+      "correctIndex": 0
     }
   ]
 }
