@@ -2,17 +2,5 @@
   "topicId": 1,
   "title": "Elementni topish",
   "description": "Atom, molekula, modda, element",
-  "questions": [
-    {
-      "id": 4,
-      "question": "Moddaning kimyoviy xossasini saqlovchi eng kichik zarra?",
-      "options": [
-        "atom",
-        "molekula",
-        "ion",
-        "elektron"
-      ],
-      "correctIndex": 1
-    }
-  ]
+  "questions": []
 }
