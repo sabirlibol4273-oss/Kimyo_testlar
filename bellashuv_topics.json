@@ -1,1 +1,16 @@
-{"topics":[{"id":1,"title":"Kimyoning asosiy tushunchalari","description":"Atom, molekula, modda, element","unlocked":true},{"id":2,"title":"Atom tuzilishi va davriy qonun","description":"Elektron qobiqlar, davriy sistema","unlocked":true}]}
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "Elementni topish",
+      "description": "Atom, molekula, modda, element",
+      "unlocked": true
+    },
+    {
+      "id": 2,
+      "title": "Atom tuzilishi va davriy qonun",
+      "description": "Elektron qobiqlar, davriy sistema",
+      "unlocked": true
+    }
+  ]
+}
