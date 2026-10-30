@@ -79,17 +79,6 @@
         "H₂S"
       ],
       "correctIndex": 0
-    },
-    {
-      "id": 11,
-      "question": "Metallarning umumiy xossasi qaysi?",
-      "options": [
-        "mo'rtlik",
-        "elektr o'tkazuvchanlik",
-        "gaz holati",
-        "rangsizlik"
-      ],
-      "correctIndex": 1
     }
   ]
 }
