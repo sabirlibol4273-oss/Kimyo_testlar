@@ -24,17 +24,6 @@
         "4"
       ],
       "correctIndex": 1
-    },
-    {
-      "id": 6,
-      "question": "Karbonat angidrid formulasi?",
-      "options": [
-        "CO",
-        "CO₂",
-        "C₂O",
-        "CaO"
-      ],
-      "correctIndex": 1
     }
   ]
 }
