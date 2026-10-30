@@ -13,6 +13,17 @@
         "Nikel"
       ],
       "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Ca bu qaysi element",
+      "options": [
+        "Kaliy",
+        "Kripton",
+        "Kadmiy",
+        "Kalsiy"
+      ],
+      "correctIndex": 3
     }
   ]
 }
