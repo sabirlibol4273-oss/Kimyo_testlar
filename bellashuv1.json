@@ -1,1 +1,139 @@
-{"topicId":1,"title":"Kimyoning asosiy tushunchalari","description":"Atom, molekula, modda, element","questions":[{"id":1,"question":"Suvning kimyoviy formulasi qaysi?","options":["H₂O","CO₂","O₂","H₂O₂"],"correctIndex":0},{"id":2,"question":"Natriy elementining kimyoviy belgisi?","options":["N","Na","Nt","S"],"correctIndex":1},{"id":3,"question":"Osh tuzining kimyoviy formulasi?","options":["KCl","NaCl","CaCl₂","NaOH"],"correctIndex":1},{"id":4,"question":"Moddaning kimyoviy xossasini saqlovchi eng kichik zarra?","options":["atom","molekula","ion","elektron"],"correctIndex":1},{"id":5,"question":"Kislorod molekulasi nechta atomdan iborat?","options":["1","2","3","4"],"correctIndex":1},{"id":6,"question":"Karbonat angidrid formulasi?","options":["CO","CO₂","C₂O","CaO"],"correctIndex":1},{"id":7,"question":"1 mol moddadagi zarralar soni (Avogadro soni)?","options":["6,02·10²³","3,01·10²³","6,02·10²²","1,2·10²⁴"],"correctIndex":0},{"id":8,"question":"Vodorodning nisbiy atom massasi?","options":["1","2","12","16"],"correctIndex":0},{"id":9,"question":"Quyidagilardan qaysi biri oddiy modda?","options":["H₂O","O₂","NaCl","CO₂"],"correctIndex":1},{"id":10,"question":"Sulfat kislota formulasi?","options":["H₂SO₄","HCl","HNO₃","H₂S"],"correctIndex":0},{"id":11,"question":"Metallarning umumiy xossasi qaysi?","options":["mo'rtlik","elektr o'tkazuvchanlik","gaz holati","rangsizlik"],"correctIndex":1},{"id":12,"question":"Kimyoviy reaksiya tenglamasida nima saqlanadi?","options":["faqat hajm","atomlar soni (massa)","rang","harorat"],"correctIndex":1}]}
+{
+  "topicId": 1,
+  "title": "Elementni topish",
+  "description": "Atom, molekula, modda, element",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Suvning kimyoviy formulasi qaysi?",
+      "options": [
+        "H₂O",
+        "CO₂",
+        "O₂",
+        "H₂O₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Natriy elementining kimyoviy belgisi?",
+      "options": [
+        "N",
+        "Na",
+        "Nt",
+        "S"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Osh tuzining kimyoviy formulasi?",
+      "options": [
+        "KCl",
+        "NaCl",
+        "CaCl₂",
+        "NaOH"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Moddaning kimyoviy xossasini saqlovchi eng kichik zarra?",
+      "options": [
+        "atom",
+        "molekula",
+        "ion",
+        "elektron"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Kislorod molekulasi nechta atomdan iborat?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Karbonat angidrid formulasi?",
+      "options": [
+        "CO",
+        "CO₂",
+        "C₂O",
+        "CaO"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "1 mol moddadagi zarralar soni (Avogadro soni)?",
+      "options": [
+        "6,02·10²³",
+        "3,01·10²³",
+        "6,02·10²²",
+        "1,2·10²⁴"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Vodorodning nisbiy atom massasi?",
+      "options": [
+        "1",
+        "2",
+        "12",
+        "16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Quyidagilardan qaysi biri oddiy modda?",
+      "options": [
+        "H₂O",
+        "O₂",
+        "NaCl",
+        "CO₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Sulfat kislota formulasi?",
+      "options": [
+        "H₂SO₄",
+        "HCl",
+        "HNO₃",
+        "H₂S"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Metallarning umumiy xossasi qaysi?",
+      "options": [
+        "mo'rtlik",
+        "elektr o'tkazuvchanlik",
+        "gaz holati",
+        "rangsizlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Kimyoviy reaksiya tenglamasida nima saqlanadi?",
+      "options": [
+        "faqat hajm",
+        "atomlar soni (massa)",
+        "rang",
+        "harorat"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
