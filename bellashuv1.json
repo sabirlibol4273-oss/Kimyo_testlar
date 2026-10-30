@@ -57,17 +57,6 @@
         "16"
       ],
       "correctIndex": 0
-    },
-    {
-      "id": 9,
-      "question": "Quyidagilardan qaysi biri oddiy modda?",
-      "options": [
-        "H₂O",
-        "O₂",
-        "NaCl",
-        "CO₂"
-      ],
-      "correctIndex": 1
     }
   ]
 }
