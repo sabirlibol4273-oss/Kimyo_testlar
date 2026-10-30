@@ -46,6 +46,17 @@
         "Ftor"
       ],
       "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "C bu qaysi element",
+      "options": [
+        "kislarod",
+        "Uglerod",
+        "azot",
+        "alyuminiy"
+      ],
+      "correctIndex": 1
     }
   ]
 }
