@@ -24,6 +24,17 @@
         "Kalsiy"
       ],
       "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "N bu qaysi element",
+      "options": [
+        "Argon",
+        "Kislarod",
+        "Azot",
+        "Fosfor"
+      ],
+      "correctIndex": 2
     }
   ]
 }
