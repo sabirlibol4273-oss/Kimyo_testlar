@@ -4,17 +4,6 @@
   "description": "Atom, molekula, modda, element",
   "questions": [
     {
-      "id": 2,
-      "question": "Natriy elementining kimyoviy belgisi?",
-      "options": [
-        "N",
-        "Na",
-        "Nt",
-        "S"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 3,
       "question": "Osh tuzining kimyoviy formulasi?",
       "options": [
