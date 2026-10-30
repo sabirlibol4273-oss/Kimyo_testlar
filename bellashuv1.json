@@ -68,17 +68,6 @@
         "CO₂"
       ],
       "correctIndex": 1
-    },
-    {
-      "id": 10,
-      "question": "Sulfat kislota formulasi?",
-      "options": [
-        "H₂SO₄",
-        "HCl",
-        "HNO₃",
-        "H₂S"
-      ],
-      "correctIndex": 0
     }
   ]
 }
