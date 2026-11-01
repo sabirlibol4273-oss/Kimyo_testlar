@@ -1,1 +1,1943 @@
-{"topicId":12,"title":"Gaz boʻyicha hisoblash ","description":"Tongotarov ","questions":[{"id":1,"question":"jsjsjs","options":["jdjd","rqjss","jahdhd","jahdydh"],"correctIndex":1},{"id":2,"question":"Savol yaeatish","options":["jzjz","jujf","rahshy","ghsyd"],"correctIndex":3}]}
+{
+  "topicId": 12,
+  "title": "Gaz boʻyicha hisoblash ",
+  "description": "Tongotarov ",
+  "questions": [
+    {
+      "id": 1,
+      "question": "jsjsjs",
+      "options": [
+        "jdjd",
+        "rqjss",
+        "jahdhd",
+        "jahdydh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Savol yaeatish",
+      "options": [
+        "jzjz",
+        "jujf",
+        "rahshy",
+        "ghsyd"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "3 mol neon va 2 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "2 mol neon va 3 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "28",
+        "30",
+        "32",
+        "34"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "1 mol neon va 4 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "4 mol neon va 1 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "3 mol metan va 2 mol silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "2 mol metan va 3 mol silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "4 mol metan va 1 mol silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "1 mol metan va 4 mol silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "3 mol geliy, 1 mol neon va 1 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "7,2",
+        "14,4",
+        "18",
+        "72"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "2 mol geliy, 1 mol neon va 1 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "6,8",
+        "13,6",
+        "17",
+        "68"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "5 mol geliy, 2 mol neon va 1 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "10",
+        "12,5",
+        "13,5",
+        "100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "7 mol geliy, 2 mol neon va 1 mol argon aralashmasining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "7,2",
+        "10,8",
+        "13,5",
+        "108"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Mol jihatdan 80% geliy va 20% metan boʻlgan gazlar aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "6,4",
+        "8,8",
+        "11,2",
+        "13,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Mol jihatdan 20% geliy va 80% metan boʻlgan gazlar aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "6,4",
+        "8,8",
+        "11,2",
+        "13,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Mol jihatdan 60% geliy va 40% metan boʻlgan gazlar aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "6,4",
+        "8,8",
+        "11,2",
+        "13,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Mol jihatdan 40% geliy va 60% metan boʻlgan gazlar aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "6,4",
+        "8,8",
+        "11,2",
+        "13,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Neonning mol ulushi 20% boʻlgan neon va argon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Neonning mol ulushi 40% boʻlgan neon va argon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Neonning mol ulushi 60% boʻlgan neon va argon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Neonning mol ulushi 80% boʻlgan neon va argon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "28",
+        "32",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Ekvimolyar nisbatda olingan geliy va neon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "6,(6)",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Ekvimolyar nisbatda olingan neon va argon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Ekvimolyar nisbatda olingan vodorod va azot aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Ekvimolyar nisbatda olingan vodorod va kislorod aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Is gazi va karbonat angidriddan iborat aralashmadagi is gazining mol ulushi 20% boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Is gazi va karbonat angidriddan iborat aralashmadagi is gazining mol ulushi 40% boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Is gazi va karbonat angidriddan iborat aralashmadagi is gazining mol ulushi 60% boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Is gazi va karbonat angidriddan iborat aralashmadagi is gazining mol ulushi 80% boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi is gazining mol ulushi 1/4 boʻlsa, molyar massasi nechaga teng?",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "42"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi is gazining mol ulushi 3/4 boʻlsa, molyar massasi nechaga teng?",
+      "options": [
+        "32",
+        "36",
+        "40",
+        "42"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi is gazining mol ulushi 1/5 boʻlsa, molyar massasi nechaga teng?",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 34,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi is gazining mol ulushi 4/5 boʻlsa, molyar massasi nechaga teng?",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "12 g geliy va 40 g neondan iborat aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "10,4",
+        "13,6",
+        "16",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "8 g geliy va 60 g neondan iborat aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "10,4",
+        "13,6",
+        "16",
+        "18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "48 g metan va 64 g silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "32 g metan va 96 g silan aralashmasining molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Teng massada olingan kislorod va ozon aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "33,6",
+        "36",
+        "38,4",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Teng massada olingan metan va sulfit angidrid aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "19,2",
+        "22,4",
+        "25,6",
+        "28,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Massa jihatdan 80% geliy va 20% metan boʻlgan aralashmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "4,7",
+        "10",
+        "16",
+        "21,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Massa jihatdan 20% geliy va 80% metan boʻlgan aralashmaning molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "4,7",
+        "10",
+        "16",
+        "21,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Ekvimolyar nisbatda olingan sulfit angidrid va X gazdan iborat aralashmaning molyar massasi 48 g/mol boʻlsa, X gazni aniqlang.",
+      "options": [
+        "fosfin",
+        "silan",
+        "etilen",
+        "asetilen"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Ekvimolyar nisbatda olingan sulfit angidrid va X gazdan iborat aralashmaning molyar massasi 49 g/mol boʻlsa, X gazni aniqlang.",
+      "options": [
+        "fosfin",
+        "silan",
+        "etilen",
+        "asetilen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Ekvimolyar nisbatdagi metan, argon va nomaʼlum gaz aralashmasining oʻrtacha molyar massasi 30 g/mol boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "fosfin",
+        "silan",
+        "is gazi",
+        "karbonat angidrid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Ekvimolyar nisbatdagi metan, argon va nomaʼlum gaz aralashmasining oʻrtacha molyar massasi 28 g/mol boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "fosfin",
+        "silan",
+        "is gazi",
+        "karbonat angidrid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Molyar massasi 8 g/mol boʻlgan geliy va neon aralashmasidagi neonning mol ulushini aniqlang.",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/6",
+        "1/8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Molyar massasi 16 g/mol boʻlgan geliy va neon aralashmasidagi geliyning mol ulushini aniqlang.",
+      "options": [
+        "1/2",
+        "1/4",
+        "1/6",
+        "1/8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Is gazining normal sharoitdagi zichligini (g/l) aniqlang.",
+      "options": [
+        "1,15",
+        "1,25",
+        "1,35",
+        "1,45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Azotning normal sharoitdagi zichligini (g/l) aniqlang.",
+      "options": [
+        "1,15",
+        "1,25",
+        "1,35",
+        "1,45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Normal sharoitdagi zichligi 2,5 g/l boʻlgan gaz formulasini koʻrsating.",
+      "options": [
+        "C₂H₄",
+        "C₃H₆",
+        "C₄H₈",
+        "C₅H₁₀"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Normal sharoitdagi zichligi 1,875 g/l boʻlgan gaz formulasini koʻrsating.",
+      "options": [
+        "C₂H₄",
+        "C₃H₆",
+        "C₄H₈",
+        "C₅H₁₀"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Karbonat angidridning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "7",
+        "11",
+        "14",
+        "22"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Sulfit angidridning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "11",
+        "12",
+        "15",
+        "16"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Sulfat angidridning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "11",
+        "12",
+        "16",
+        "20"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Normal sharoitdagi zichligi 2,5 g/l boʻlgan gazning metanga nisbatan zichligini aniqlang.",
+      "options": [
+        "1,5",
+        "2,5",
+        "3,5",
+        "4,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Normal sharoitdagi zichligi 2,5 g/l boʻlgan gazning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "18"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Normal sharoitdagi zichligi 1,25 g/l boʻlgan gazning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Normal sharoitdagi zichligi 3,75 g/l boʻlgan gaz azotdan necha marta ogʻir?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "CₙH₂ₙ tarkibli organik modda bugʻi is gazidan 1 marta ogʻir boʻlsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "CₙH₂ₙ tarkibli organik modda bugʻi is gazidan 1,5 marta ogʻir boʻlsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "CₙH₂ₙ tarkibli organik modda bugʻi is gazidan 2 marta ogʻir boʻlsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "CₙH₂ₙ tarkibli organik modda bugʻi is gazidan 2,5 marta ogʻir boʻlsa, n ning qiymatini aniqlang.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 64,
+      "question": "Normal sharoitda 5,6 litr gaz 8 g boʻlsa, uning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "28",
+        "32",
+        "64",
+        "71"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Normal sharoitda 5,6 litr gaz 10 g boʻlsa, uning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "16",
+        "26",
+        "30",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Quyidagilardan qaysi(lari) toʻgʻri?\n1) 0,1 atm = 10132,5 Pa;\n2) 0,25 atm = 190 mmHg;\n3) 190 mmHg = 1/2 atm.",
+      "options": [
+        "faqat 1",
+        "1 va 2",
+        "1, 2, 3",
+        "2 va 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "Quyidagilardan nechtasi toʻgʻri?\n• 100°K = -173°C\n• -273°K = 0°C\n• 1 atm = 76 dmHg\n• 202,650 kPa = 1520 cmHg",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 68,
+      "question": "Quyidagilardan nechtasi toʻgʻri?\n• -100°K = 173°C\n• 0°K = 273°C\n• 1 atm = 101,325 Pa\n• 405,3 kPa = 304 cmHg",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Quyidagilardan nechtasi toʻgʻri?\n• 1/2 atm = 380 mmHg\n• 38 cmHg = 0,2 atm\n• 2 kPa = 2000 Pa\n• 2 atm = 202650 Pa",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 70,
+      "question": "Quyidagilardan nechtasi toʻgʻri?\n• 1 atm = 7,6 dmHg\n• 760 mmHg = 76 cmHg\n• 263°C = -10°K\n• 0°K = -273°C",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Qaysi vodorod galogenid kisloroddan (O₂) 4 marta ogʻir?",
+      "options": [
+        "vodorod ftorid",
+        "vodorod xlorid",
+        "vodorod bromid",
+        "vodorod yodid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Qaysi vodorod galogenid vodoroddan (D₂) 5 marta ogʻir?",
+      "options": [
+        "vodorod ftorid",
+        "vodorod xlorid",
+        "vodorod bromid",
+        "vodorod yodid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 73,
+      "question": "1,6 litr karbonat angidridga qancha (l; n.sh.) vodorod sulfid qoʻshilsa, molyar massa 36 g/mol boʻladi?",
+      "options": [
+        "1,6",
+        "3,2",
+        "4,8",
+        "6,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 74,
+      "question": "2,7 litr karbonat angidridga qancha (l; n.sh.) vodorod sulfid qoʻshilsa, molyar massa 37 g/mol boʻladi?",
+      "options": [
+        "5,4",
+        "6,3",
+        "7,2",
+        "8,1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi atomlar soni molekulalar sonidan 2,2 marta koʻp boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Is gazi va karbonat angidrid aralashmasidagi atomlar soni molekulalar sonidan 2,8 marta koʻp boʻlsa, aralashmaning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "31,2",
+        "34,4",
+        "37,6",
+        "40,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Idishga sulfit angidrid toʻldirib oʻlchanganda 432 g, neon toʻldirib oʻlchanganda 410 g keldi. Idishga neon bilan qaysi gaz ekvimolyar nisbatda olib toʻldirilganda 412 g keladi?",
+      "options": [
+        "ammiak",
+        "azot",
+        "kislorod",
+        "fosfin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "Idishga karbonat angidrid toʻldirib oʻlchanganda 422 g, argon toʻldirib oʻlchanganda 420 g keldi. Idishga argon bilan qaysi gaz ekvimolyar nisbatda olib toʻldirilganda 417 g keladi?",
+      "options": [
+        "ammiak",
+        "azot",
+        "kislorod",
+        "fosfin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 79,
+      "question": "Harakatchan tiqinga ega silindrga qandaydir bir gaz joylashtirilgan. Tiqinni harakatlantirib hajmni tushirganimizda bosim qanday boʻladi?\nV₁ = 6 litr, P₁ = 100 kPa → V₂ = 4 litr, P₂ = ? (kPa)",
+      "options": [
+        "150",
+        "200",
+        "300",
+        "600"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 80,
+      "question": "Harakatchan tiqinga ega silindrga qandaydir bir gaz joylashtirilgan. Tiqinni harakatlantirib hajmni tushirganimizda bosim qanday boʻladi?\nV₁ = 6 litr, P₁ = 100 kPa → V₂ = 3 litr, P₂ = ? (kPa)",
+      "options": [
+        "150",
+        "200",
+        "300",
+        "600"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "Harakatchan tiqinga ega silindrga qandaydir bir gaz joylashtirilgan. Tiqinni harakatlantirib hajmni tushirganimizda bosim qanday boʻladi?\nV₁ = 6 litr, P₁ = 100 kPa → V₂ = 2 litr, P₂ = ? (kPa)",
+      "options": [
+        "150",
+        "200",
+        "300",
+        "600"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 82,
+      "question": "Harakatchan tiqinga ega silindrga qandaydir bir gaz joylashtirilgan. Tiqinni harakatlantirib hajmni tushirganimizda bosim qanday boʻladi?\nV₁ = 6 litr, P₁ = 100 kPa → V₂ = 1 litr, P₂ = ? (kPa)",
+      "options": [
+        "150",
+        "200",
+        "300",
+        "600"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 83,
+      "question": "Maʼlum miqdordagi gaz 2 litr idishda 6 atm bosim bersa, 3 litr idishda qancha bosim (atm) beradi?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 84,
+      "question": "Maʼlum miqdordagi gaz 2 litr idishda 6 atm bosim bersa, 4 litr idishda qancha bosim (atm) beradi?",
+      "options": [
+        "3",
+        "6",
+        "12",
+        "24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "100 kPa bosim ostida gaz hajmi 300 ml keladi. Bosim 75 kPa gacha kamayganda gaz hajmi (ml) qanday boʻladi?",
+      "options": [
+        "200",
+        "400",
+        "600",
+        "800"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 86,
+      "question": "200 kPa bosim ostida gaz hajmi 300 ml keladi. Bosim 75 kPa gacha kamayganda gaz hajmi (ml) qanday boʻladi?",
+      "options": [
+        "200",
+        "400",
+        "600",
+        "800"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "12 litr gaz 2 atm bosim beradi. Agar temperaturani oʻzgartirmagan holda gaz hajmi 3 litrga yetkazilganda bosim (atm) qanday boʻladi? (T = const)",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 88,
+      "question": "12 litr gaz 4 atm bosim beradi. Agar temperaturani oʻzgartirmagan holda gaz hajmi 6 litrga yetkazilganda bosim (atm) qanday boʻladi? (T = const)",
+      "options": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "Maʼlum miqdordagi gaz 3 atm bosimda 30 litr keladi. Doimiy temperaturada bosim qanday (atm) boʻlganda hajm 45 litr boʻladi? (T = const)",
+      "options": [
+        "2",
+        "2,5",
+        "4",
+        "4,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "760 mmHg bosimda 24 litr keladigan gaz, 480 mmHg bosimda qanday hajmni (litr) egallaydi?",
+      "options": [
+        "19",
+        "38",
+        "57",
+        "76"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "Ballonda 2 atm bosimda 36 litr havo siqilgan. Bosim 1,8 atm gacha kamaytirilsa, hajm qancha (litr) boʻladi?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 92,
+      "question": "760 mmHg bosimda 11,2 litr keladigan gaz, 380 mmHg bosimda qanday hajmni (litr) egallaydi?",
+      "options": [
+        "22,4",
+        "44,8",
+        "67,2",
+        "89,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "120 kPa bosim ostida gazning hajmi 20 litr keladi. Bosim 80 kPa gacha kamaytirilganda hajm qanday (litr) boʻladi?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 94,
+      "question": "Gaz 1 atm bosimda 4 litr kelsa, shuncha miqdor gazning 2,5 atm dagi hajmi (litr) qancha?",
+      "options": [
+        "1,6",
+        "3,2",
+        "5",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 95,
+      "question": "12 litr idishdagi gazning hajmi 8 litrgacha kamaytirilganda bosim 2 atm oshdi. Dastlabki bosimni toping (T = const).",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 96,
+      "question": "24 litr idishdagi gazning hajmi 8 litrgacha kamaytirilganda bosim 12 atm oshdi. Dastlabki bosimni toping (T = const).",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 97,
+      "question": "16 litr idishdagi gazning hajmi 8 litrgacha kamaytirilganda bosim 6 atm oshdi. Oxirgi bosimni toping (T = const).",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "16 litr idishdagi gazning hajmi 12 litrgacha kamaytirilganda bosim 2 atm oshdi. Oxirgi bosimni toping (T = const).",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "400 kPa bosim ostida gazning hajmi 500 ml keladi. Bosim 500 kPa gacha oshirilsa, hajm (ml) qancha boʻladi?",
+      "options": [
+        "625",
+        "400",
+        "500",
+        "600"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 100,
+      "question": "200 kPa bosim ostida gazning hajmi 300 ml keladi. Bosim 75 kPa gacha kamaysa, hajm (ml) qancha boʻladi?",
+      "options": [
+        "112,5",
+        "400",
+        "225",
+        "800"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 101,
+      "question": "300 kPa bosim ostida 200 ml keladigan gaz hajmi 150 ml ga keltirilganda bosim (kPa) qanday boʻladi?",
+      "options": [
+        "200",
+        "300",
+        "400",
+        "500"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 102,
+      "question": "200 kPa bosim ostida 300 ml keladigan gaz hajmi 480 ml ga keltirilganda bosim (kPa) qanday boʻladi?",
+      "options": [
+        "75",
+        "125",
+        "150",
+        "175"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "2 litr X gaz 6 atm bosimni egallaydigan sharoitda, 4 litr gaz qanday bosimni (atm) egallaydi?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 104,
+      "question": "4 litr X gaz 6 atm bosimni egallaydigan sharoitda, 2 litr gaz qanday bosimni (atm) egallaydi?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 105,
+      "question": "15 litr idishdagi ideal gaz 6 atm bosim beradigan sharoitda, 10 litr gaz qancha (atm) bosim beradi?",
+      "options": [
+        "3",
+        "4",
+        "9",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 106,
+      "question": "30 litr idishdagi ideal gaz 3 atm bosim beradigan sharoitda, 10 litr gaz qancha (atm) bosim beradi?",
+      "options": [
+        "1",
+        "3",
+        "9",
+        "12"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 107,
+      "question": "40 litr idishdagi gaz 2 atm bosim hosil qilsa, necha litrli idishdagi gaz 0,8 atm bosim hosil qiladi?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 108,
+      "question": "80 litr idishdagi gaz 1 atm bosim hosil qilsa, necha litrli idishdagi gaz 0,2 atm bosim hosil qiladi?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 109,
+      "question": "Maʼlum miqdordagi gaz 10 litrli idishda 4 atm bosim beradi. Hajm 20 litrga yetganda bosim qancha (atm) boʻladi?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 110,
+      "question": "Maʼlum miqdordagi gaz 10 litrli idishda 8 atm bosim beradi. Hajm 20 litrga yetganda bosim qancha (atm) boʻladi?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 111,
+      "question": "8 atm bosimda 2,8 litr keladigan gaz, 2 atm bosimda necha litr keladi?",
+      "options": [
+        "5,6",
+        "11,2",
+        "16,8",
+        "22,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 112,
+      "question": "4 atm bosimda 5,6 litr keladigan gaz, 2 atm bosimda necha litr keladi?",
+      "options": [
+        "5,6",
+        "11,2",
+        "16,8",
+        "22,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 113,
+      "question": "Boyl – Mariott qonuni qanday taʼriflanadi?",
+      "options": [
+        "Oʻzgarmas temperaturada gazlarning bosimi hajmiga teskari proporsional.",
+        "Oʻzgarmas temperaturada gazlarning bosimi hajmiga toʻgʻri proporsional.",
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga teskari proporsional.",
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga toʻgʻri proporsional."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 114,
+      "question": "Maʼlum miqdordagi geliy 2 litrli idishda 1 atm bosim bersa, necha litrli idishda 608 mmHg bosim beradi?",
+      "options": [
+        "1,25",
+        "2,5",
+        "3,75",
+        "5,0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 115,
+      "question": "6 atm da 2 litr keladigan gaz, qanday bosimda (atm) 3 litr keladi?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 116,
+      "question": "Maʼlum miqdordagi X gaz 5,6 litr idishda 8 atm bosim hosil qiladi. Xuddi shuncha gaz necha litrli idishda 4 atm bosim hosil qiladi?",
+      "options": [
+        "1,4",
+        "2,8",
+        "11,2",
+        "22,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 117,
+      "question": "Gaz 27°C da 150 ml hajmni egallaydi. Temperaturani qanchagacha (°C) oshirsak, gaz hajmi 200 ml ga yetadi?",
+      "options": [
+        "27",
+        "127",
+        "300",
+        "400"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 118,
+      "question": "17°C da maʼlum miqdordagi gaz 40 litr hajmni egallaydi. Bu gaz 307°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "20",
+        "80",
+        "160",
+        "320"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 119,
+      "question": "-73°C da maʼlum miqdordagi gaz 40 litr hajmni egallaydi. Bu gaz 527°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "20",
+        "80",
+        "160",
+        "320"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 120,
+      "question": "Gaz 27°C da 75 litr kelsa, 127°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 121,
+      "question": "273°C da ideal gazning 120 ml kelsa, 0°C da qanday hajmni (ml) egallaydi?",
+      "options": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 122,
+      "question": "Maʼlum miqdordagi geliy 127°C da 5 litr keladi. Bosimni oʻzgartirmasdan gaz hajmini 500 ml qilish uchun temperatura qanday (°C) boʻlishi kerak? (P = const)",
+      "options": [
+        "-233",
+        "-40",
+        "40",
+        "233"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 123,
+      "question": "-23°C da 300 ml keladigan gaz, 27°C da qanday hajmni (ml) egallaydi?",
+      "options": [
+        "150",
+        "240",
+        "360",
+        "600"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 124,
+      "question": "Idishdagi gaz temperaturasi -73°C dan 27°C gacha koʻtarilganda hajmi 4 litr oshdi. Dastlabki hajmni toping (P = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 125,
+      "question": "Idishdagi gaz temperaturasi -73°C dan 27°C gacha koʻtarilganda hajmi 6 litr oshdi. Dastlabki hajmni toping (P = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 126,
+      "question": "Idishdagi gaz temperaturasi 27°C dan 127°C gacha koʻtarilganda hajmi 4 litr oshdi. Oxirgi hajmni toping (P = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 127,
+      "question": "Idishdagi gaz temperaturasi 27°C dan 127°C gacha koʻtarilganda hajmi 6 litr oshdi. Oxirgi hajmni toping (P = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 128,
+      "question": "27°C da 150 ml keladigan gaz 127°C da qanday hajmni (ml) egallaydi?",
+      "options": [
+        "200",
+        "250",
+        "300",
+        "400"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 129,
+      "question": "27°C da 90 ml keladigan gaz -73°C da qanday hajmni (ml) egallaydi?",
+      "options": [
+        "60",
+        "120",
+        "180",
+        "240"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 130,
+      "question": "27°C da 60 litr keladigan X gaz 127°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "20",
+        "40",
+        "80",
+        "160"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 131,
+      "question": "27°C da 2 litr keladigan gaz, qanday temperaturada (°C) 6 litr keladi?",
+      "options": [
+        "327",
+        "437",
+        "573",
+        "627"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 132,
+      "question": "27°C da 2 litr keladigan gaz, qanday temperaturada (°C) 4 litr keladi?",
+      "options": [
+        "327",
+        "437",
+        "573",
+        "627"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 133,
+      "question": "127°C da 20 litr keladigan X gaz, 27°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "15",
+        "22,5",
+        "30",
+        "45"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 134,
+      "question": "27°C da 25 litrli idishga X gaz joylashtirildi. Idish hajmi 40% ga oshirilganda temperatura qanday (°C) boʻladi?",
+      "options": [
+        "54",
+        "97",
+        "117",
+        "147"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 135,
+      "question": "Qaysi holatda gaz hajmi 2 marta ortadi? (P = const)\n1) 27°C → 127°C; 2) 100°C → 200°C; 3) -23°C → 227°C.",
+      "options": [
+        "1 va 3",
+        "faqat 2",
+        "faqat 3",
+        "2 va 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 136,
+      "question": "Vodorod gazi 47°C va 380 mmHg da 20 litr hajmni egallaydi. Idish hajmi 25% ga oshirilganda temperatura qanday (°C) boʻladi?",
+      "options": [
+        "-73",
+        "-23",
+        "27",
+        "127"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 137,
+      "question": "Vodorod gazi 127°C va 760 mmHg da 20 litr hajmni egallaydi. Idish hajmi 50% ga oshirilganda temperatura qanday (°C) boʻladi?",
+      "options": [
+        "-173",
+        "-73",
+        "227",
+        "327"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "Gey-Lyussak qonuni qanday taʼriflanadi?",
+      "options": [
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga toʻgʻri proporsional.",
+        "Oʻzgarmas hajmda gazlarning bosimi temperaturasiga toʻgʻri proporsional.",
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga teskari proporsional.",
+        "Oʻzgarmas hajmda gazlarning bosimi temperaturasiga teskari proporsional."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 139,
+      "question": "127°C da 20 litr keladigan gaz, 327°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 140,
+      "question": "27°C da 6 litr keladigan gaz, 927°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "12",
+        "18",
+        "24",
+        "30"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 141,
+      "question": "27°C da 2 litr keladigan gaz, 927°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 142,
+      "question": "127°C da 4,48 litr keladigan gaz, 527°C da qanday hajmni (litr) egallaydi?",
+      "options": [
+        "2,24",
+        "4,48",
+        "6,72",
+        "8,96"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 143,
+      "question": "27°C da maʼlum miqdordagi gaz boʻlgan idish hajmini 60% oshirib, temperaturani qanchagacha (°C) koʻtarsak idishdagi bosim oʻzgarmaydi?",
+      "options": [
+        "127",
+        "173",
+        "207",
+        "273"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 144,
+      "question": "Idishda maʼlum hajmli gaz -23°C da 4 atm bosim beradi. Temperatura 227°C gacha oshirilganda bosim qancha (atm) boʻladi?",
+      "options": [
+        "1",
+        "2",
+        "8",
+        "16"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 145,
+      "question": "Idishda maʼlum hajmli gaz -73°C da 8 atm bosim beradi. Temperatura 127°C gacha oshirilganda bosim qancha (atm) boʻladi?",
+      "options": [
+        "1",
+        "2",
+        "8",
+        "16"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 146,
+      "question": "Yopiq idishda maʼlum hajmli gaz 27°C da 1,2 atm bosim beradi. Temperatura qanchagacha (°C) oshirilsa, bosim 1,6 atm boʻladi?",
+      "options": [
+        "-73",
+        "-23",
+        "127",
+        "227"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 147,
+      "question": "Yopiq idishda maʼlum hajmli gaz 27°C da 1,8 atm bosim beradi. Temperatura qanchagacha (°C) oshirilsa, bosim 3,0 atm boʻladi?",
+      "options": [
+        "-73",
+        "-23",
+        "127",
+        "227"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 148,
+      "question": "7°C da gaz bosimi yopiq idishda 1,4 atm. Agar temperatura -33°C gacha sovitilsa, bosim qanday (atm) boʻladi?",
+      "options": [
+        "0,6",
+        "0,8",
+        "1,2",
+        "1,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 149,
+      "question": "Yopiq idishda gaz -63°C da 840 mmHg bosimga teng. Bosim normal sharoitdagi qiymatda boʻlishi uchun gazni qanchagacha (°C) sovitish kerak? (V = const)",
+      "options": [
+        "-190",
+        "-83",
+        "83",
+        "190"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 150,
+      "question": "Berk idishda 4 atm bosim ostida kislorod joylashtirilgan. Agar temperatura 0°C dan 273°C gacha oshirilsa, bosim qanday (atm) boʻladi?",
+      "options": [
+        "2",
+        "8",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 151,
+      "question": "Konteynerda 27°C da 100 kPa bosimda turgan gazning bosimini 2 marta kamaytirish uchun temperatura qanchagacha (°C) tushirilishi kerak?",
+      "options": [
+        "-150",
+        "-123",
+        "123",
+        "150"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 152,
+      "question": "-73°C da 60 cmHg bosimni egallaydigan X gaz, 77°C da qanday bosimni (cmHg) egallaydi?",
+      "options": [
+        "105",
+        "110",
+        "115",
+        "120"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 153,
+      "question": "0°C va 0,9 atm da 20 litr keladigan X gaz, qanday temperaturada (°C) 1,2 atm ni egallaydi?",
+      "options": [
+        "91",
+        "182",
+        "273",
+        "546"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 154,
+      "question": "Rezina koptok 2 atm bosimgacha bardosh bera oladi. -33°C dagi koptok bosimi 1,2 atm edi, uni qanday temperaturagacha (°C) qizdirsak yorilib ketadi? (hajm oʻzgarishi va rezina xossalari inobatga olinmasin)",
+      "options": [
+        "27",
+        "127",
+        "300",
+        "400"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "Idishdagi gaz temperaturasi -73°C dan 27°C gacha koʻtarilganda bosim 4 atm oshdi. Dastlabki bosimni aniqlang (V = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 156,
+      "question": "Idishdagi gaz temperaturasi -73°C dan 27°C gacha koʻtarilganda bosim 6 atm oshdi. Dastlabki bosimni aniqlang (V = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 157,
+      "question": "Idishdagi gaz temperaturasi 27°C dan 127°C gacha koʻtarilganda bosim 4 atm oshdi. Oxirgi bosimni aniqlang (V = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 158,
+      "question": "Idishdagi gaz temperaturasi 27°C dan 127°C gacha koʻtarilganda bosim 6 atm oshdi. Oxirgi bosimni aniqlang (V = const).",
+      "options": [
+        "8",
+        "12",
+        "16",
+        "24"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 159,
+      "question": "-73°C da gaz bosimi 800 mmHg ga teng. Bosim 600 mmHg boʻlganda temperatura (°C) qanday boʻladi?",
+      "options": [
+        "-200",
+        "-123",
+        "123",
+        "200"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 160,
+      "question": "27°C da gaz bosimi 600 mmHg ga teng. Bosim 800 mmHg boʻlganda temperatura (°C) qanday boʻladi?",
+      "options": [
+        "-400",
+        "-127",
+        "127",
+        "400"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 161,
+      "question": "127°C da 76 cmHg bosimni egallaydigan X gaz, qanday temperaturada (°C) 2 atm bosimni egallaydi?",
+      "options": [
+        "227",
+        "327",
+        "427",
+        "527"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 162,
+      "question": "27°C da 19 cmHg bosimni egallaydigan X gaz, qanday temperaturada (°C) 0,5 atm bosimni egallaydi?",
+      "options": [
+        "127",
+        "227",
+        "327",
+        "427"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 163,
+      "question": "Maʼlum miqdordagi gaz -73°C da 300 mmHg bosim beradi. Temperatura 400°C ga oshganda bosim qanday (mmHg) boʻladi?",
+      "options": [
+        "100",
+        "200",
+        "600",
+        "900"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 164,
+      "question": "Maʼlum miqdordagi gaz -73°C da 320 mmHg bosim beradi. Temperatura 100°C ga oshganda bosim qanday (mmHg) boʻladi?",
+      "options": [
+        "160",
+        "320",
+        "480",
+        "640"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 165,
+      "question": "Sharl qonuni qanday taʼriflanadi?",
+      "options": [
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga toʻgʻri proporsional.",
+        "Oʻzgarmas hajmda gazlarning bosimi temperaturasiga toʻgʻri proporsional.",
+        "Oʻzgarmas bosimda gazlarning hajmi temperaturasiga teskari proporsional.",
+        "Oʻzgarmas hajmda gazlarning bosimi temperaturasiga teskari proporsional."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 166,
+      "question": "Maʼlum hajmdagi gaz 327°C da 5 atm bosim beradi. Temperatura -33°C gacha sovitilganda bosim qanday (atm) boʻladi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 167,
+      "question": "Maʼlum hajmdagi gaz 627°C da 15 atm bosim beradi. Temperatura -33°C gacha sovitilganda bosim qanday (atm) boʻladi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 168,
+      "question": "Maʼlum hajmdagi gaz 77°C da 1,4 atm bosim hosil qilsa, 147°C da qancha (atm) bosim hosil qiladi?",
+      "options": [
+        "1,68",
+        "2,24",
+        "3,36",
+        "4,48"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 169,
+      "question": "Maʼlum hajmdagi gaz 77°C da 2,8 atm bosim hosil qilsa, 287°C da qancha (atm) bosim hosil qiladi?",
+      "options": [
+        "1,68",
+        "2,24",
+        "3,36",
+        "4,48"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 170,
+      "question": "Maʼlum hajmdagi gaz 227°C da 10 atm bosim bersa, 127°C da qancha (atm) bosim beradi?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 171,
+      "question": "Maʼlum hajmli idishga 27°C va 38 cmHg bosimda geliy gazi joylashtirildi. Bosim 1 atm ga yetganda temperatura qanday (°C) boʻladi?",
+      "options": [
+        "127",
+        "227",
+        "327",
+        "427"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 172,
+      "question": "Maʼlum hajmli idishga 27°C va 152 cmHg bosimda geliy gazi joylashtirildi. Bosim 1 atm ga yetganda temperatura qanday (°C) boʻladi?",
+      "options": [
+        "-150",
+        "-123",
+        "123",
+        "150"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 173,
+      "question": "27°C da turgan gazning bosimi 3 marta oshirilsa, temperatura qanday (°C) boʻladi?",
+      "options": [
+        "327",
+        "427",
+        "527",
+        "627"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 174,
+      "question": "27°C da turgan gazning bosimi 2 marta oshirilsa, temperatura qanday (°C) boʻladi?",
+      "options": [
+        "327",
+        "427",
+        "527",
+        "627"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 175,
+      "question": "Yopiq hajmli idishga 0°C da X gaz joylashtirilganda 380 mmHg bosim hosil boʻldi. Temperatura 273°C gacha oshirilganda bosim qanday (atm) boʻladi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 176,
+      "question": "Idishdagi gazning bosimi 4 atm dan 6 atm gacha oshirilganda temperatura 100°C ga koʻtarildi. Oxirgi temperaturani aniqlang (V = const).",
+      "options": [
+        "-73°C",
+        "-23°C",
+        "+27°C",
+        "+127°C"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
