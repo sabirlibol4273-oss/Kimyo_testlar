@@ -1,1 +1,2856 @@
-{"topicId":15,"title":"Oʻrtacha molyar massa. Absolyut va nisbiy zichlik","description":"","questions":[]}
+{
+  "topicId": 15,
+  "title": "Oʻrtacha molyar massa. Absolyut va nisbiy zichlik",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "1 g H₂ va 16 g O₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "17",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "19 g F₂ va 71 g Cl₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "65",
+        "60",
+        "70",
+        "75"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "23 g NO₂ va 66 g CO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "53",
+        "45",
+        "42"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "80 g SO₂ va 60 g SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "80",
+        "65",
+        "75",
+        "70"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "1,5 g NO va 1,4 g CO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "29",
+        "19",
+        "20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "34 g NH₃, 14 g CO va 32 g O₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "20",
+        "30",
+        "22,86"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "45 g NO, 14 g CO va 12 g He aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "13,2",
+        "15,2",
+        "16,2",
+        "14,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "22 g N₂O, 48 g SiH₄ va 32 g CH₄ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44",
+        "25,5",
+        "16",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "24 g Ar, 12,8 g SO₂ va 8 g He aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "16,8",
+        "16",
+        "11,2",
+        "22,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "0,2 mol H₂ va 0,3 mol Cl₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "46",
+        "28",
+        "43,4",
+        "32"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "0,4 mol CO₂ va 0,6 mol PH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "38",
+        "44",
+        "34"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "3,6 mol NO₂ va 2,4 mol CO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "29,2",
+        "27,6",
+        "46",
+        "38,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "3 mol C₂H₄ va 5 mol C₂H₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "26,75",
+        "27,6",
+        "18,88",
+        "13,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "1,8 mol SiH₄ va 2,2 mol CO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44",
+        "32",
+        "36,8",
+        "38,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "2,8 mol O₂, 3,2 mol Ne va 2 mol SO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "35,2",
+        "32",
+        "38,5",
+        "34,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "2,8 mol F₂, 5 mol C₂H₂ va 2,2 mol Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32,44",
+        "16,88",
+        "22,4",
+        "38,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "4 mol C₃H₆, 1,5 mol N₂O va 2,5 mol Ne aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "34,6",
+        "35,5",
+        "38,2",
+        "26,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "16,8 litr SO₂ va 5,6 litr SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "64",
+        "68",
+        "80",
+        "72"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "5,6 litr CO₂ va 16,8 litr NO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "45,5",
+        "35,8",
+        "28,5",
+        "42,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "112 litr H₂ va 89,6 litr Ne aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "10",
+        "15",
+        "16",
+        "20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "44,8 litr Ar, 5,6 litr He va 2,8 litr N₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "35,5",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "16,8 litr SO₂, 5,6 litr He va 22,4 litr Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44,5",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "16,8 litr SO₂, 22,4 litr He va 44,8 litr Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "35,2",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "56 litr SO₂, 2,24 litr He va 28 litr Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "54,65",
+        "16",
+        "29"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "3,01·10²³ ta Ar va 9,03·10²² ta O₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "38,15",
+        "25"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "6,02·10²³ ta Ar va 9,03·10²³ ta O₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "35,2",
+        "16",
+        "26"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "3,01·10²³ ta N₂ va 9,03·10²³ ta Ne molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "22"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "18,06·10²³ ta CO va 9,03·10²² ta CO₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "33,33",
+        "15",
+        "16",
+        "28,76"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "30,1·10²³ ta H₂ va 6,02·10²³ ta O₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "8",
+        "15",
+        "16",
+        "7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "3,01·10²³ ta CO, 90,3·10²² ta O₂ va 3,01·10²³ ta N₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "30,4",
+        "16",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "12,04·10²³ ta Ne, 9,03·10²² ta Ar va 0,602·10²³ ta CO molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "21,68"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "4,515·10²³ ta CH₄, 12,04·10²² ta N₂ va 3,01·10²³ ta SiH₄ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "23,17"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "24,08·10²³ ta NH₃, 90,3·10²² ta PH₃ va 18,06·10²³ ta H₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "14,7",
+        "16",
+        "27"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "3,01·10²⁴ ta He, 9,03·10²³ ta CH₄ va 6,02·10²³ ta N₂ molekulalari aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "9,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "16 g O₂ va 0,25 mol O₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "37,33",
+        "33,3",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "16 g CH₄ va 0,25 mol NH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16,2",
+        "2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "32 g O₂ va 1 mol O₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "40",
+        "16",
+        "2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "8 g CH₄ va 0,5 mol SiH₄ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "24"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "7 g CO va 0,25 mol CO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "36",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "0,7 g N₂ va 0,28 litr O₂ aralashmasining oʻrtacha molyar massasini hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "29,33"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "4 g Ar va 2,8 litr O₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "35,55",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "8 g SiH₄ va 2,24 litr N₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "30,85"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "20 g Ar va 44,8 litr CO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "43,2",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "11 g CO₂ va 56 litr CO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "29,45",
+        "16",
+        "2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "70 g N₂ va 9,03·10²⁴ ta O₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "31,42",
+        "15",
+        "16",
+        "27"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "20 g Ar va 1,204·10²⁴ ta O₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "3,2",
+        "15",
+        "46,4",
+        "21"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "56 g N₂ va 9,03·10²⁴ ta H₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "12",
+        "5,05",
+        "16",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "20 g He va 6,02·10²³ ta CH₄ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "16 g SiH₄ va 9,03·10²³ ta Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "38",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "0,8 mol N₂O va 22,4 litr H₂S aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "38,44",
+        "15",
+        "16",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "0,5 mol Ne va 44,8 litr CH₄ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16,8",
+        "2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "0,5 mol N₂O va 56 litr NH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "16",
+        "21,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "1 mol Ar va 4,48 litr He aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "34",
+        "16",
+        "28"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "2 mol CH₄ va 112 litr Ne aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "18,85",
+        "2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "0,75 mol O₃ va 18,06·10²² ta F₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "45,1",
+        "42",
+        "35,1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 56,
+      "question": "0,125 mol SO₃ va 52,675·10²² ta Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "35",
+        "46",
+        "45"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "4,75 mol NH₃ va 15,05·10²² ta NO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "16,45",
+        "15,45",
+        "18,45",
+        "17,45"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Mol nisbati 3:1 boʻlgan He va CO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "20",
+        "12",
+        "28",
+        "10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Mol nisbati 4:6 boʻlgan SO₂ va O₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44,8",
+        "34,8",
+        "48",
+        "38"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Mol nisbati 17:3 boʻlgan He va NO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "6,9",
+        "8,9",
+        "7,9",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Mol nisbati 2,5:1,5 boʻlgan Ar va SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Mol nisbati 1,25:3,75 boʻlgan Ne va CO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "48",
+        "30",
+        "38",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "SO₂, SO₃ va O₂ gazlari 2:1:2 mol nisbatda olinganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "23,5",
+        "64,2",
+        "54,4",
+        "52,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "He, H₂ va Ne gazlari 1:4:5 mol nisbatda olinganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "11,2",
+        "12,5",
+        "13",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 65,
+      "question": "CH₄, C₂H₂ va NH₃ gazlari 1:1:3 mol nisbatda olinganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "15,5",
+        "31",
+        "23,4",
+        "18,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "CH₄, SiH₄ va Ar gazlari 2:3:1 mol nisbatda olinganda ularning oʻrtacha molyar massasini toping.",
+      "options": [
+        "24",
+        "26",
+        "30",
+        "28"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "He, Ne va NO gazlari 2:1:1 mol nisbatda olinganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "12",
+        "14,5",
+        "16",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "Teng mol nisbatda olingan He va Ar gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "11",
+        "22",
+        "44",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Teng mol nisbatda olingan CH₄ va NH₃ gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "16,5",
+        "11",
+        "18,4",
+        "15,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "Teng mol nisbatda olingan Ne va Cl₂O gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "45,2",
+        "55,3",
+        "35,7",
+        "53,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 71,
+      "question": "Teng mol nisbatda olingan NH₃ va Ar gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "25,8",
+        "28,5",
+        "34,6",
+        "27,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 72,
+      "question": "Teng mol nisbatda olingan O₂, Ar va He gazlar aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "29",
+        "38",
+        "23,5",
+        "25,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "Teng mol nisbatda olingan H₂, CH₄ va C₂H₂ gazlar aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "22",
+        "14,7",
+        "11",
+        "17,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Teng mol nisbatda olingan NH₃, Ne va SO₂ gazlar aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "37,3",
+        "28,6",
+        "33,7",
+        "32,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "Teng mol nisbatda olingan SO₃, CO va CO₂ gazlar aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "50,7",
+        "57",
+        "76",
+        "45,7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Teng mol nisbatda olingan C₂H₂, Ar va C₂H₆ gazlar aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "28",
+        "32",
+        "30",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 77,
+      "question": "PH₃ va NH₃ gazlari qanday mol nisbatda olinganda ularning oʻrtacha molyar massasi 21,25 g/mol ga teng boʻladi.",
+      "options": [
+        "1:2",
+        "1:3",
+        "1:4",
+        "2:3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "SO₃ va NO gazlari qanday mol nisbatda olinganda ularning oʻrtacha molyar massasi 50 g/mol ga teng boʻladi.",
+      "options": [
+        "1:3",
+        "3:1",
+        "2:3",
+        "3:2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Ne va Ar gazlari qanday mol nisbatda olinganda ularning oʻrtacha molyar massasi 25 g/mol ga teng boʻladi.",
+      "options": [
+        "1:2",
+        "3:1",
+        "4:3",
+        "1:1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "SO₂ va SO₃ gazlari qanday mol nisbatda olinganda ularning oʻrtacha molyar massasi 73,6 g/mol ga teng boʻladi.",
+      "options": [
+        "3:1",
+        "1:3",
+        "3:2",
+        "2:3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "NO₂ va NO gazlari qanday mol nisbatda olinganda ularning oʻrtacha molyar massasi 38 g/mol ga teng boʻladi.",
+      "options": [
+        "1:1",
+        "1:3",
+        "2:1",
+        "2:3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "3:2 mol nisbatda olingan NH₃ va X gazlarining oʻrtacha molyar massasi 27,8 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "N₂O",
+        "NO₂",
+        "O₃",
+        "SO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "2:3 mol nisbatda olingan SO₃ va X gazlarining oʻrtacha molyar massasi 44 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ne",
+        "He",
+        "Ar",
+        "SO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "1:1 mol nisbatda olingan SO₃ va X gazlarining oʻrtacha molyar massasi 48 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "SO₃",
+        "SO₂",
+        "O₃",
+        "CH₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 85,
+      "question": "4:1 mol nisbatda olingan CO va X gazlarining oʻrtacha molyar massasi 28,8 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ar",
+        "CH₄",
+        "Ne",
+        "SiH₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 86,
+      "question": "3:2 mol nisbatda olingan Ne va X gazlarining oʻrtacha molyar massasi 28 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ar",
+        "CH₄",
+        "Ne",
+        "H₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 87,
+      "question": "1:2:2 mol nisbatda olingan NH₃, Ar va X gazlari aralashmasining oʻrtacha molyar massasi 25,8 g/mol boʻlsa, X ni aniqlang.",
+      "options": [
+        "CH₄",
+        "SO₂",
+        "NO₂",
+        "SO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 88,
+      "question": "2:2:1 mol nisbatda olingan X, CH₄ va NO₂ gazlari aralashmasining oʻrtacha molyar massasi 17,2 g/mol boʻlsa, X ni aniqlang.",
+      "options": [
+        "Ne",
+        "H₂",
+        "Ar",
+        "He"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "2:1:1 mol nisbatda olingan NH₃, Ne va X gazlari aralashmasining oʻrtacha molyar massasi 29,5 g/mol boʻlsa, X ni aniqlang.",
+      "options": [
+        "CH₄",
+        "SO₂",
+        "NO₂",
+        "SO₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "2:1:3 mol nisbatda olingan X, C₂H₄ va C₂H₂ gazlari aralashmasining oʻrtacha molyar massasi 31 g/mol boʻlsa, X ni aniqlang.",
+      "options": [
+        "Ne",
+        "H₂",
+        "Ar",
+        "He"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 91,
+      "question": "Ar, NH₃ va PH₃ gazlari aralashmasida argonning mol miqdori ammiak mol miqdoriga teng, fosfinning massasi esa ammiakning massasiga teng boʻlsa, aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "33,7",
+        "29,6",
+        "28,3",
+        "27,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 92,
+      "question": "H₂, SO₂ va CH₄ gazlari aralashmasida sulfit angidridning mol miqdori metanning mol miqdoriga teng, vodorodning massasi esa metanning massasiga teng boʻlsa, aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "9,6",
+        "12,6",
+        "12",
+        "9,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "Ne, Ar va O₂ gazlari aralashmasida neonning mol miqdori kislorodning mol miqdoriga teng, argonning massasi esa neonning massasiga teng boʻlsa, aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "14,4",
+        "24,7",
+        "32,6",
+        "28,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 94,
+      "question": "He, H₂ va CO gazlari aralashmasida geliyning mol miqdori is gazining mol miqdoriga teng, vodorodning massasi esa geliyning massasiga teng boʻlsa, aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "8,8",
+        "11",
+        "9",
+        "12,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "CH₄, SiH₄ va NH₃ gazlari aralashmasida metanning mol miqdori ammiakning mol miqdoriga teng, silanning massasi esa metanning massasiga teng boʻlsa, aralashmaning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "18,4",
+        "19,6",
+        "18,3",
+        "23,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 96,
+      "question": "Oʻrtacha molyar massasi 21 g/mol boʻlgan Ar, He va X gazlari aralashmasida argon va geliy gazlarining mol miqdorlari teng, argon va nomaʼlum gazlarning massalari teng boʻlsa, X gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "20",
+        "16",
+        "24",
+        "40"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 97,
+      "question": "Oʻrtacha molyar massasi 44,8 g/mol boʻlgan X, CH₄ va SO₃ gazlari aralashmasida metan va sulfat angidrid gazlarining mol miqdorlari teng, metan va X gazlari massalari teng boʻlsa, X gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "48",
+        "16",
+        "28",
+        "32"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 98,
+      "question": "Oʻrtacha molyar massasi 41,6 g/mol boʻlgan SO₂, Ne va X gazlari aralashmasida neon va sulfit angidridning mol miqdorlari teng, neon va nomaʼlum gazlarning massalari teng boʻlsa, X gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "2",
+        "16",
+        "40",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "Oʻrtacha molyar massasi 21 g/mol boʻlgan He, Ar va X gazlari aralashmasida geliy va argon gazlarining mol miqdorlari teng, argon va X gazlari massalari teng boʻlsa, Ar va X gazlari teng massada aralashtirilganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "26,67",
+        "16",
+        "28",
+        "20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 100,
+      "question": "Oʻrtacha molyar massasi 32 g/mol boʻlgan X, O₂ va SO₂ gazlari aralashmasida X va kislorod gazlarining mol miqdorlari teng, kislorod va sulfit angidrid gazlari massalari teng boʻlsa, X va sulfit angidrid gazlari teng massada aralashtirilganda ularning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "25,6",
+        "16",
+        "28",
+        "12,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 101,
+      "question": "Ne, H₂ va SiH₄ gazlar aralashmasida neon va vodorodning mol miqdorlari teng, silanning mol miqdori esa ikkala gazning mol miqdoridan 2 marta kam boʻlsa, ushbu gazlarning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "17",
+        "24",
+        "18",
+        "21"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 102,
+      "question": "SO₂, Ne va He gazlar aralashmasida sulfit angidridning va neonning mol miqdorlari teng, geliyning mol miqdori esa ikkala gazning mol miqdoridan 1,5 marta koʻp boʻlsa, ushbu gazlarning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "19,2",
+        "20,4",
+        "21,6",
+        "16,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 103,
+      "question": "Ne, SO₂ va SO₃ gazlar aralashmasida neon va sulfit angidridning mol miqdorlari teng, sulfat angidridning mol miqdori esa ikkala gazning mol miqdoridan 2 marta koʻp boʻlsa, ushbu gazlarning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "63,7",
+        "67,3",
+        "65,4",
+        "62,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 104,
+      "question": "SO₂, He va H₂ gazlar aralashmasida sulfit angidridning va geliyning mol miqdorlari teng, vodorodning mol miqdori esa ikkala gazning mol miqdoridan 5 marta koʻp boʻlsa, ushbu gazlarning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "8,6",
+        "12,4",
+        "8,5",
+        "7,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 105,
+      "question": "CO₂, Ar va Ne gazlar aralashmasida karbonat angidridning va argonning mol miqdorlari teng, neonning mol miqdori esa ikkala gazning mol miqdoridan 1,5 marta koʻp boʻlsa, ushbu gazlarning oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "28,8",
+        "32",
+        "27,8",
+        "43,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 106,
+      "question": "Hajmiy nisbatlari 3:7 boʻlgan N₂ va He aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "20",
+        "11,2",
+        "28",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 107,
+      "question": "Hajmiy nisbatlari 5:4 boʻlgan Cl₂ va PH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "55,55",
+        "56,55",
+        "53,55",
+        "54,56"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 108,
+      "question": "Hajmiy nisbatlari 8:1 boʻlgan He va SO₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "10,67",
+        "11,67",
+        "20,67",
+        "21,67"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 109,
+      "question": "Hajmiy nisbatlari 3:4 boʻlgan CO₂ va C₂H₆ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "35",
+        "36",
+        "38",
+        "37"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 110,
+      "question": "Hajmiy nisbatlari 2:5 boʻlgan Ne va PH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 111,
+      "question": "Massa nisbati 4:5 boʻlgan SO₂ va SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "72",
+        "75",
+        "76",
+        "77"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 112,
+      "question": "Massa nisbati 6:1,5 boʻlgan NO va C₂H₆ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "15",
+        "30",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 113,
+      "question": "Massa nisbati 4:7 boʻlgan N₂H₄ va CO aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "29,33",
+        "28,33",
+        "19,33",
+        "18,33"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 114,
+      "question": "Massa nisbati 2:5,5 boʻlgan SiH₄ va N₂O aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "30",
+        "50",
+        "60",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 115,
+      "question": "Massa nisbati 11,5:6 boʻlgan NO₂ va Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "33,75",
+        "43,75",
+        "44,75",
+        "34,75"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 116,
+      "question": "Teng massada olingan Ne va He gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "9/2",
+        "20/3",
+        "8/5",
+        "13/4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 117,
+      "question": "Teng massada olingan Ar va NO gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "33,4",
+        "28,4",
+        "24,7",
+        "34,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 118,
+      "question": "Teng massada olingan C₂H₆ va Ne gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "24",
+        "16",
+        "20",
+        "64"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 119,
+      "question": "Teng massada olingan SiH₄ va SO₂ gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "30,9",
+        "32,3",
+        "24,7",
+        "42,7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 120,
+      "question": "Teng massada olingan H₂ va O₃ gazlarining oʻrtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "25,6",
+        "3,84",
+        "4,64",
+        "3,55"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 121,
+      "question": "Teng massada olingan SiH₄ va X gazlarining oʻrtacha molyar massasi 7,111 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "CO₂",
+        "Ar",
+        "He",
+        "O₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "Teng massada olingan O₂ va X gazlarining oʻrtacha molyar massasi 35,5 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "CO₂",
+        "Ar",
+        "He",
+        "CH₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 123,
+      "question": "Teng massada olingan Ne va X gazlarining oʻrtacha molyar massasi 24 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "NO",
+        "N₂",
+        "CO₂",
+        "CO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 124,
+      "question": "Teng massada olingan SO₂ va X gazlarining oʻrtacha molyar massasi 25,6 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "NH₃",
+        "Ne",
+        "CH₄",
+        "SO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 125,
+      "question": "Teng massada olingan NH₃ va X gazlarining oʻrtacha molyar massasi 22,7 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "CO",
+        "PH₃",
+        "O₃",
+        "O₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 126,
+      "question": "Teng mol nisbatda olingan Ne va X gazlarining oʻrtacha molyar massasi 30 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "CH₄",
+        "Ar",
+        "O₃",
+        "SiH₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 127,
+      "question": "Teng mol nisbatda olingan He va X gazlarining oʻrtacha molyar massasi 16 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ar",
+        "CH₄",
+        "N₂",
+        "NH₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 128,
+      "question": "Teng mol nisbatda olingan X va CO₂ gazlarining oʻrtacha molyar massasi 46 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "O₃",
+        "N₂",
+        "CH₄",
+        "H₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 129,
+      "question": "Teng mol nisbatda olingan X va CO gazlarining oʻrtacha molyar massasi 28 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ne",
+        "Ar",
+        "N₂",
+        "He"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 130,
+      "question": "Teng mol nisbatda olingan X va NH₃ gazlarining oʻrtacha molyar massasi 24,5 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "SiH₄",
+        "N₂",
+        "Ar",
+        "SO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 131,
+      "question": "Teng hajmiy nisbatda olingan vodorod va is gazining oʻrtacha molyar massasini toping.",
+      "options": [
+        "12",
+        "14,5",
+        "13",
+        "15"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 132,
+      "question": "Teng hajmiy nisbatda olingan CO₂ va Ar gazlarining oʻrtacha molyar massasini (g/mol) toping.",
+      "options": [
+        "38",
+        "42",
+        "35",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 133,
+      "question": "Teng hajmiy nisbatda olingan uglerod(IV) va oltingugurt(VI) oksidlarining oʻrtacha molyar massasini toping.",
+      "options": [
+        "35",
+        "56",
+        "62",
+        "54"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 134,
+      "question": "Teng hajmiy nisbatda olingan metan va ozon gazlarining oʻrtacha molyar massasini (g/mol) toping.",
+      "options": [
+        "30",
+        "32",
+        "35",
+        "12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 135,
+      "question": "Teng hajmiy nisbatda olingan He va X gazlarining oʻrtacha molyar massasi 12 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ne",
+        "O₂",
+        "N₂",
+        "CO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 136,
+      "question": "Teng hajmiy nisbatda olingan N₂O va X gazlarining oʻrtacha molyar massasi 44 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "He",
+        "SO₂",
+        "N₂O₅",
+        "CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 137,
+      "question": "Teng hajmiy nisbatda olingan SO₃ va X gazlarining oʻrtacha molyar massasi 64 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "N₂O₃",
+        "O₃",
+        "NH₃",
+        "CH₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 138,
+      "question": "Teng hajmiy nisbatda olingan SiH₄ va X gazlarining oʻrtacha molyar massasi 29 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "Ar",
+        "SO₃",
+        "C₂H₂",
+        "CH₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 139,
+      "question": "Teng hajmiy nisbatda olingan Ar va X gazlarining oʻrtacha molyar massasi 60 g/mol boʻlsa, X ni toping.",
+      "options": [
+        "SO₃",
+        "SO₂",
+        "N₂O₃",
+        "CO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 140,
+      "question": "Massa ulushlari 76% va 24% boʻlgan F₂ va SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "42,47",
+        "45,74",
+        "44,74",
+        "43,47"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 141,
+      "question": "Massa ulushlari 16% va 84% boʻlgan SiH₄ va C₃H₆ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "30",
+        "40",
+        "35",
+        "45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 142,
+      "question": "Massa ulushlari 56% va 44% boʻlgan C₄H₈ va N₂O aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44",
+        "56",
+        "100",
+        "50"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 143,
+      "question": "Massa ulushlari 36% va 64% boʻlgan H₂O va SiH₄ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "20",
+        "15",
+        "25",
+        "30"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 144,
+      "question": "Massa ulushlari 32% va 68% boʻlgan CH₄ va PH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "25",
+        "15",
+        "20",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 145,
+      "question": "Massa ulushlari 32% CH₄, 40% O₂ va qolgani Ne boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "25,3",
+        "15,7",
+        "21,5",
+        "28,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 146,
+      "question": "Massa ulushlari 48% O₃, 8,5% NH₃ va qolgani Ar boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "38,6",
+        "43,8",
+        "27,4",
+        "39,1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 147,
+      "question": "Massa ulushlari 14% CO, 66% CO₂ va qolgani Ne boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "25,5",
+        "33,3",
+        "46,7",
+        "38,9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 148,
+      "question": "Massa ulushlari 32% SO₂, 40% SO₃ va qolgani He boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "12,5",
+        "31,4",
+        "41,7",
+        "50,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 149,
+      "question": "Mol ulushlari 20% va 80% boʻlgan Cl₂ va F₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "42,6",
+        "47,6",
+        "43,6",
+        "44,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 150,
+      "question": "Mol ulushlari 25% va 75% boʻlgan Ne va He aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "3",
+        "8",
+        "6",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 151,
+      "question": "Mol ulushlari 90% va 10% boʻlgan O₂ va PH₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "42,2",
+        "42,1",
+        "31,2",
+        "32,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 152,
+      "question": "Mol ulushlari 15% va 85% boʻlgan CO₂ va C₃H₈ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32",
+        "44",
+        "46",
+        "36"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 153,
+      "question": "Mol ulushlari 15% He, 60% Ne va qolgani Ar boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32,4",
+        "36,9",
+        "22,6",
+        "23,2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 154,
+      "question": "Mol ulushlari 30% NH₃, 45% CH₄ va qolgani He boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "15,3",
+        "13,3",
+        "12,6",
+        "17,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 155,
+      "question": "Mol ulushlari 22% CO₂, 56% SO₂ va qolgani H₂ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "45,96",
+        "44",
+        "46,72",
+        "36,45"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 156,
+      "question": "Mol ulushlari 25% CO, 15% SO₃ va qolgani O₂ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32,9",
+        "44,1",
+        "46,3",
+        "38,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 157,
+      "question": "Mol ulushlari 60% C₂H₂, 10% Ar va qolgani O₃ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "34",
+        "44",
+        "46",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 158,
+      "question": "Hajmiy ulushlari 30% va 70% boʻlgan CO va H₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "8,8",
+        "6,8",
+        "7,8",
+        "9,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 159,
+      "question": "Hajmiy ulushlari 12,5% va 87,5% boʻlgan Cl₂O va Ar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44,875",
+        "35,875",
+        "45,875",
+        "34,875"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 160,
+      "question": "Hajmiy ulushlari 35% va 65% boʻlgan NH₃ va C₂H₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "22,85",
+        "32,85",
+        "23,85",
+        "33,85"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 161,
+      "question": "Hajmiy ulushlari 24% va 76% boʻlgan CO₂ va F₂ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "32,44",
+        "39,44",
+        "36,44",
+        "35,44"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Hajmiy ulushlari 50% va 50% boʻlgan CH₄ va Ne aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "20",
+        "15",
+        "16",
+        "18"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 163,
+      "question": "Hajmiy ulushlari 55% va 45% boʻlgan NO va SO₃ aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "30",
+        "20",
+        "52,5",
+        "15"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 164,
+      "question": "Hajmiy ulushlari 15% He, 60% Ne va qolgani C₃H₄ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "34,8",
+        "28,7",
+        "24,3",
+        "22,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 165,
+      "question": "Hajmiy ulushlari 30% CH₄, 20% NH₃ va qolgani O₃ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "44,2",
+        "32,2",
+        "36,8",
+        "28,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 166,
+      "question": "Hajmiy ulushlari 25% C₂H₂, 45% O₂ va qolgani Ne boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "23,8",
+        "31,3",
+        "26,9",
+        "25,2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 167,
+      "question": "Hajmiy ulushlari 40% CO, 40% CO₂ va qolgani SO₂ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "41,6",
+        "48,7",
+        "43,9",
+        "38,7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 168,
+      "question": "Hajmiy ulushlari 45% SO₃, 35% NO va qolgani NO₂ boʻlgan aralashmaning oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "52,4",
+        "48,1",
+        "54,3",
+        "55,7"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 169,
+      "question": "Oʻrtacha molyar massasi 67,2 g/mol boʻlgan 5 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning molini toping.",
+      "options": [
+        "4:1",
+        "3:2",
+        "1:4",
+        "2,5:2,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 170,
+      "question": "Oʻrtacha molyar massasi 23,8 g/mol boʻlgan 5 mol PH₃ va NH₃ aralashmasi tarkibidagi har bir gazning molini toping.",
+      "options": [
+        "4:1",
+        "3:2",
+        "2:3",
+        "2,5:2,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 171,
+      "question": "Oʻrtacha molyar massasi 32 g/mol boʻlgan 4 mol CO va CO₂ aralashmasi tarkibidagi har bir gazning molini toping.",
+      "options": [
+        "1,5:2,5",
+        "2:2",
+        "1:3",
+        "3:1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 172,
+      "question": "Oʻrtacha molyar massasi 30 g/mol boʻlgan 2 mol Ne va Ar aralashmasi tarkibidagi har bir gazning molini toping.",
+      "options": [
+        "1:1",
+        "0,8:1,2",
+        "0,5:1,5",
+        "0,7:1,3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 173,
+      "question": "Oʻrtacha molyar massasi 76 g/mol boʻlgan 5 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning molini toping.",
+      "options": [
+        "4:1",
+        "3:2",
+        "1,25:3,75",
+        "2,5:2,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 174,
+      "question": "Oʻrtacha molyar massasi 44,5 g/mol boʻlgan 4 mol N₂O va NO₂ aralashmasi tarkibidagi har bir gazning mol ulushini toping.",
+      "options": [
+        "0,25:0,75",
+        "0,5:0,5",
+        "0,75:0,25",
+        "0,4:0,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 175,
+      "question": "Oʻrtacha molyar massasi 21,6 g/mol boʻlgan 5 mol CH₄ va C₂H₆ aralashmasi tarkibidagi har bir gazning mol ulushini toping.",
+      "options": [
+        "0,75:0,25",
+        "0,6:0,4",
+        "0,7:0,3",
+        "0,5:0,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 176,
+      "question": "Oʻrtacha molyar massasi 72 g/mol boʻlgan 3 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning mol ulushini toping.",
+      "options": [
+        "0,75:0,25",
+        "0,6:0,4",
+        "0,7:0,3",
+        "0,5:0,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 177,
+      "question": "Oʻrtacha molyar massasi 31,2 g/mol boʻlgan 5 mol CO va CO₂ aralashmasi tarkibidagi har bir gazning mol ulushini toping.",
+      "options": [
+        "0,8:0,2",
+        "0,75:0,25",
+        "0,3:0,7",
+        "0,25:0,75"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 178,
+      "question": "Oʻrtacha molyar massasi 10,4 g/mol boʻlgan 5 mol Ne va He aralashmasi tarkibidagi har bir gazning mol ulushini toping.",
+      "options": [
+        "0,75:0,25",
+        "0,6:0,4",
+        "0,7:0,3",
+        "0,4:0,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 179,
+      "question": "Oʻrtacha molyar massasi 20,4 g/mol boʻlgan 5 mol NH₃ va PH₃ aralashmasi tarkibidagi har bir gazning massa ulushini toping.",
+      "options": [
+        "66,7; 33,3",
+        "55,6; 44,4",
+        "37,6; 62,4",
+        "64,6; 35,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 180,
+      "question": "Oʻrtacha molyar massasi 69,3 g/mol boʻlgan 3 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning massa ulushini toping.",
+      "options": [
+        "63,7; 36,3",
+        "58,6; 41,4",
+        "37,8; 62,2",
+        "61,5; 38,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 181,
+      "question": "Oʻrtacha molyar massasi 21 g/mol boʻlgan 2 mol CH₄ va C₂H₂ aralashmasi tarkibidagi har bir gazning massa ulushini toping.",
+      "options": [
+        "47,4; 52,6",
+        "33,6; 66,4",
+        "38,1; 61,9",
+        "69,5; 30,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 182,
+      "question": "Oʻrtacha molyar massasi 36 g/mol boʻlgan 4 mol CO va CO₂ aralashmasi tarkibidagi har bir gazning massa ulushini toping.",
+      "options": [
+        "39,8; 60,2",
+        "38,9; 61,1",
+        "37,8; 62,2",
+        "43,6; 56,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 183,
+      "question": "Oʻrtacha molyar massasi 72 g/mol boʻlgan 2 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning hajmini toping.",
+      "options": [
+        "33,6; 11,2",
+        "22,4; 22,4",
+        "11,2; 33,6",
+        "31,36; 13,44"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 184,
+      "question": "Oʻrtacha molyar massasi 22 g/mol boʻlgan 4 mol SiH₄ va CH₄ aralashmasi tarkibidagi har bir gazning hajmini toping.",
+      "options": [
+        "33,6; 56",
+        "22,4; 44,8",
+        "13,44; 44,8",
+        "56; 28"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 185,
+      "question": "Oʻrtacha molyar massasi 34,4 g/mol boʻlgan 5 mol CO va CO₂ aralashmasi tarkibidagi har bir gazning hajmini toping.",
+      "options": [
+        "44,8; 33,6",
+        "33,6; 22,4",
+        "67,2; 33,6",
+        "67,2; 44,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 186,
+      "question": "Oʻrtacha molyar massasi 21,25 g/mol boʻlgan 4 mol NH₃ va PH₃ aralashmasi tarkibidagi har bir gazning hajmini toping.",
+      "options": [
+        "44,8; 44,8",
+        "44,8; 22,4",
+        "67,2; 22,4",
+        "33,6; 56"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 187,
+      "question": "Oʻrtacha molyar massasi 21,3 g/mol boʻlgan 3 mol CH₄ va SiH₄ aralashmasi tarkibidagi har bir gazning hajmini toping.",
+      "options": [
+        "44,8; 22,4",
+        "22,4; 22,4",
+        "11,2; 33,6",
+        "31,36; 13,44"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 188,
+      "question": "Oʻrtacha molyar massasi 74,7 g/mol boʻlgan 3 mol SO₂ va SO₃ aralashmasi tarkibidagi har bir gazning hajmiy ulushini toping.",
+      "options": [
+        "50; 50",
+        "33,3; 66,7",
+        "27,5; 72,5",
+        "45,5; 54,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 189,
+      "question": "Oʻrtacha molyar massasi 36 g/mol boʻlgan 10 mol CO va CO₂ aralashmasi tarkibidagi har bir gazning hajmiy ulushini toping.",
+      "options": [
+        "50; 50",
+        "33,3; 66,7",
+        "27,5; 72,5",
+        "45,5; 54,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 190,
+      "question": "Oʻrtacha molyar massasi 7,2 g/mol boʻlgan 5 mol He va Ne aralashmasi tarkibidagi har bir gazning hajmiy ulushini toping.",
+      "options": [
+        "54; 46",
+        "33; 67",
+        "80; 20",
+        "25; 75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 191,
+      "question": "Oʻrtacha molyar massasi 34,5 g/mol boʻlgan 4 mol NO va O₃ aralashmasi tarkibidagi har bir gazning hajmiy ulushini toping.",
+      "options": [
+        "75; 25",
+        "33,3; 66,7",
+        "27,5; 72,5",
+        "45,5; 54,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 192,
+      "question": "Kislorodning vodorodga nisbatan zichligini toping.",
+      "options": [
+        "4",
+        "16",
+        "8",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 193,
+      "question": "Argonning azotga nisbatan zichligini toping.",
+      "options": [
+        "3,2",
+        "1,57",
+        "2,25",
+        "1,43"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 194,
+      "question": "Xlorning vodorodga nisbatan zichligini toping.",
+      "options": [
+        "8,875",
+        "17,75",
+        "35,5",
+        "71"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 195,
+      "question": "Ftorning geliyga nisbatan zichligini toping.",
+      "options": [
+        "9,5",
+        "4,75",
+        "19",
+        "6,33"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 196,
+      "question": "Azotning argonga nisbatan zichligini toping.",
+      "options": [
+        "1,43",
+        "2,86",
+        "0,7",
+        "0,35"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 197,
+      "question": "Oltingugurt(IV) oksidning havoga nisbatan zichligini toping.",
+      "options": [
+        "3,7",
+        "2,2",
+        "0,45",
+        "2,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 198,
+      "question": "Azotning ammiakga nisbatan zichligini toping.",
+      "options": [
+        "0,82",
+        "1,21",
+        "1,65",
+        "2,26"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 199,
+      "question": "Oltingugurt(VI) oksidning kislorodga nisbatan zichligini toping.",
+      "options": [
+        "2,5",
+        "2",
+        "3",
+        "1,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 200,
+      "question": "Oltingugurt(II) oksidning kislorodga nisbatan zichligini toping.",
+      "options": [
+        "3,25",
+        "1,55",
+        "2,5",
+        "1,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 201,
+      "question": "Argonning havoga nisbatan zichligini toping.",
+      "options": [
+        "1,38",
+        "1,85",
+        "2,38",
+        "2,15"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 202,
+      "question": "Fosfinning vodorodga nisbatan zichligini toping.",
+      "options": [
+        "9,5",
+        "34",
+        "17",
+        "3,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 203,
+      "question": "Uglerod(IV) oksidning geliyga nisbatan zichligini toping.",
+      "options": [
+        "5,5",
+        "11",
+        "22",
+        "15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 204,
+      "question": "Neonning vodorodga nisbatan zichligini toping.",
+      "options": [
+        "5",
+        "40",
+        "10",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 205,
+      "question": "Fosfinning ammiakka nisbatan zichligini toping.",
+      "options": [
+        "1,5",
+        "2",
+        "3",
+        "2,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 206,
+      "question": "Atsetilenning metanga nisbatan zichligini toping.",
+      "options": [
+        "2,225",
+        "1,125",
+        "1,625",
+        "2,325"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 207,
+      "question": "Oltingugurt(VI) oksidning oltingugurt(II) oksidga nisbatan zichligini toping.",
+      "options": [
+        "1,67",
+        "1,25",
+        "2,25",
+        "2,67"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 208,
+      "question": "Karbonat angidridning havoga nisbatan zichligini toping.",
+      "options": [
+        "2,35",
+        "1,52",
+        "1,43",
+        "1,24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 209,
+      "question": "Azot(I) oksidning geliyga nisbatan zichligini toping.",
+      "options": [
+        "5,5",
+        "11",
+        "22",
+        "15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 210,
+      "question": "Vodorodga nisbatan zichligi 20 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "Ar",
+        "Ne",
+        "CH₄",
+        "CO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 211,
+      "question": "Geliyga nisbatan zichligi 11 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "NH₃",
+        "PH₃",
+        "SO₃",
+        "CO₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 212,
+      "question": "Kislorodga nisbatan zichligi 2,5 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "CO₂",
+        "C₂H₆",
+        "CO",
+        "SO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 213,
+      "question": "Neonga nisbatan zichligi 3,2 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "CO₂",
+        "SO₃",
+        "SO₂",
+        "CO"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 214,
+      "question": "Ammiakka nisbatan zichligi 2,59 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "CO₂",
+        "SO₃",
+        "SO₂",
+        "CO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 215,
+      "question": "Metanga nisbatan zichligi 2 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "N₂O₅",
+        "N₂O₃",
+        "O₂",
+        "CH₄"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 216,
+      "question": "Atsetilenga nisbatan zichligi 1,69 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "N₂O₅",
+        "N₂O₃",
+        "SO₂",
+        "CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 217,
+      "question": "Argonga nisbatan zichligi 1 ga teng boʻlgan gazni aniqlang.",
+      "options": [
+        "CH₄",
+        "C₃H₄",
+        "C₂H₆",
+        "C₂H₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 218,
+      "question": "Kislorodning n.sh. dagi zichligini toping.",
+      "options": [
+        "2,83",
+        "1,43",
+        "0,74",
+        "2,86"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 219,
+      "question": "Argonning n.sh. dagi zichligini toping.",
+      "options": [
+        "1,26",
+        "0,8",
+        "0,89",
+        "1,79"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 220,
+      "question": "Is gazining n.sh. dagi zichligini toping.",
+      "options": [
+        "1,25",
+        "1,96",
+        "1,75",
+        "2,33"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 221,
+      "question": "Metanning n.sh. dagi zichligini toping.",
+      "options": [
+        "0,71",
+        "1,42",
+        "0,74",
+        "0,17"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 222,
+      "question": "Oltingugurt(VI) oksidning n.sh. dagi zichligini toping.",
+      "options": [
+        "2,75",
+        "1,58",
+        "3,57",
+        "2,14"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 223,
+      "question": "Ammiakning n.sh. dagi zichligini toping.",
+      "options": [
+        "0,89",
+        "1,25",
+        "0,76",
+        "0,44"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 224,
+      "question": "Karbonat angidridning n.sh. dagi zichligini toping.",
+      "options": [
+        "1,25",
+        "1,56",
+        "2,85",
+        "1,96"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 225,
+      "question": "Xlorning n.sh. dagi zichligini toping.",
+      "options": [
+        "3,17",
+        "1,58",
+        "2,54",
+        "2,17"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 226,
+      "question": "Azotning n.sh. dagi zichligini toping.",
+      "options": [
+        "1,5",
+        "1,75",
+        "1,25",
+        "2,25"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 227,
+      "question": "Zichligi 0,76 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "CH₄",
+        "CO",
+        "NH₃",
+        "N₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 228,
+      "question": "Zichligi 0,89 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "Ar",
+        "Ne",
+        "F₂",
+        "O₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 229,
+      "question": "Zichligi 1,96 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "N₂O₃",
+        "N₂O₅",
+        "CO₂",
+        "SO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 230,
+      "question": "Zichligi 1,7 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "Ar",
+        "Ne",
+        "F₂",
+        "O₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 231,
+      "question": "Zichligi 1,78 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "Ar",
+        "Ne",
+        "F₂",
+        "O₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 232,
+      "question": "Zichligi 1,96 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "N₂O₃",
+        "N₂O",
+        "CO₂",
+        "SO₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 233,
+      "question": "Zichligi 0,1786 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "N₂O₅",
+        "Ne",
+        "He",
+        "SO₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 234,
+      "question": "Zichligi 3,17 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "Ar",
+        "Ne",
+        "Cl₂",
+        "O₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 235,
+      "question": "Zichligi 2,86 g/l (n.sh.) boʻlgan gazni toping.",
+      "options": [
+        "N₂O₃",
+        "N₂O₅",
+        "CO₂",
+        "SO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 236,
+      "question": "1 g vodorod va 32 g kislorod aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,98",
+        "0,76",
+        "1,47",
+        "0,49"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 237,
+      "question": "71 g xlor va 32 g kislorod aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "4,6",
+        "3,1",
+        "2,3",
+        "1,1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 238,
+      "question": "10 g neon va 60 g argon aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "3,125",
+        "1,5625",
+        "2,08",
+        "1,25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 239,
+      "question": "8 g metan va 8 g kislorod aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,71",
+        "1,43",
+        "2,86",
+        "0,95"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 240,
+      "question": "66 g karbonat angidrid va 34 g ammiak aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "1,38",
+        "1,5",
+        "1,28",
+        "2,23"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 241,
+      "question": "4 g geliy va 10 g neon aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,83",
+        "0,42",
+        "1,47",
+        "0,24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 242,
+      "question": "34 g ammiak va 32 g kislorod aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,98",
+        "0,76",
+        "1,34",
+        "0,49"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 243,
+      "question": "56 g azot va 17 g ammiak aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,89",
+        "1,90",
+        "1,73",
+        "1,09"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 244,
+      "question": "4 g metan va 13 g atsetilen aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,98",
+        "1,01",
+        "1,47",
+        "0,49"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 245,
+      "question": "10 g vodorod va 16 g kislorod aralashmasining n.sh. dagi zichligini aniqlang.",
+      "options": [
+        "0,4",
+        "0,5",
+        "0,2",
+        "0,1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 246,
+      "question": "2 g vodorod va 32 g metan aralashmasining geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "8,5",
+        "4,25",
+        "2,125",
+        "2,83"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 247,
+      "question": "110 g azot(I) oksid va 160 g oltingugurt(IV) oksid aralashmasining vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "13,5",
+        "27",
+        "54",
+        "135"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 248,
+      "question": "30 g neon va 34 g ammiak aralashmasining havoga nisbatan zichligini aniqlang.",
+      "options": [
+        "0,63",
+        "2,2",
+        "0,55",
+        "0,44"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 249,
+      "question": "39 g atsetilen va 24 g metan aralashmasining vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "21",
+        "10,5",
+        "31,5",
+        "5,25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 250,
+      "question": "40 g oltingugurt(VI) oksid va 14 g uglerod(II) oksid aralashmasining ammiakka nisbatan zichligini aniqlang.",
+      "options": [
+        "1,6",
+        "2,45",
+        "3,18",
+        "2,76"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 251,
+      "question": "22 g uglerod(IV) oksid va 28 g uglerod(II) oksid aralashmasining ammiakka nisbatan zichligini aniqlang.",
+      "options": [
+        "1,96",
+        "1,33",
+        "2,18",
+        "2,79"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 252,
+      "question": "57 g ftor va 35,5 g xlor aralashmasining geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "14,3",
+        "11,6",
+        "13,8",
+        "12,76"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 253,
+      "question": "20 g oltingugurt(VI) oksid va 7 g uglerod(II) oksid aralashmasining vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "54",
+        "23",
+        "35,8",
+        "27"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 254,
+      "question": "11 g uglerod(IV) oksid va 7 g uglerod(II) oksid aralashmasining metanga nisbatan zichligini aniqlang.",
+      "options": [
+        "1,65",
+        "2,25",
+        "3,25",
+        "2,75"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 255,
+      "question": "Ne ga nisbatan zichligi 1,6 boʻlgan gazning He ga nisbatan zichligini toping.",
+      "options": [
+        "4",
+        "8",
+        "20",
+        "12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 256,
+      "question": "O₂ ga nisbatan zichligi 2,5 boʻlgan gazning Ar ga nisbatan zichligini toping.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "4,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 257,
+      "question": "NO₂ ga nisbatan zichligi 0,8 boʻlgan gazning H₂ ga nisbatan zichligini toping.",
+      "options": [
+        "14,6",
+        "18,2",
+        "20",
+        "18,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 258,
+      "question": "SiH₄ ga nisbatan zichligi 3,375 boʻlgan gazning Ne ga nisbatan zichligini toping.",
+      "options": [
+        "5,4",
+        "7,6",
+        "4,8",
+        "5,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 259,
+      "question": "O₃ ga nisbatan zichligi 1,67 boʻlgan gazning NO ga nisbatan zichligini toping.",
+      "options": [
+        "1,25",
+        "3,38",
+        "2,67",
+        "3,75"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
