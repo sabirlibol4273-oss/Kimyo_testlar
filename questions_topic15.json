@@ -2851,6 +2851,732 @@
         "3,75"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": 260,
+      "question": "N.sh. da bir idishga etan to‘ldirib o‘lchaganda 36 g, neon to‘ldirib o‘lchaganda 30 g bo‘lsa, idish massasini (g) aniqlang.",
+      "options": [
+        "24",
+        "12",
+        "6",
+        "18"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 261,
+      "question": "N.sh. da bir idishga etan to‘ldirib o‘lchaganda 36 g, neon to‘ldirib o‘lchaganda 30 g bo‘lsa, idish hajmini (l) aniqlang.",
+      "options": [
+        "22,4",
+        "11,2",
+        "13,44",
+        "17,92"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 262,
+      "question": "N.sh. da bir idishga kislorod to‘ldirib o‘lchaganda 24,8 g, ammiak to‘ldirib o‘lchaganda 18,8 g bo‘lsa, idish hajmini (l) aniqlang.",
+      "options": [
+        "8,96",
+        "11,2",
+        "13,44",
+        "17,92"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 263,
+      "question": "N.sh. da bir idishga is gazi to‘ldirib o‘lchanganda massasi 32,8 g, ozon to‘ldirib o‘lchanganda 44,8 g bo‘lsa, metan to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "20,8",
+        "9,6",
+        "31",
+        "25,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 264,
+      "question": "Idishga kislorod to‘ldirib o‘lchanganda 31 g, oltingugurt (IV) oksidi to‘ldirilib o‘lchanganda 47 g keladi, azot (II) oksidi to‘ldirib o‘lchanganda idish necha gramm keladi? (Tajriba n. sh. da bajarilgan)",
+      "options": [
+        "30",
+        "26,9",
+        "33,5",
+        "24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 265,
+      "question": "Idishga etin solinib o‘lchanganda 33,2 g, ammiak solib o‘lchanganda 26,9 g chiqdi. Shu idishga O₂ solib o‘lchanganda necha gramm bo‘lishini toping.",
+      "options": [
+        "22,4",
+        "37,4",
+        "18,2",
+        "6,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 266,
+      "question": "Shisha idish N₂ bilan to‘ldirilganda massasi 206,6 g ga ega. Ushbu idish noma’lum gaz bilan to‘ldirilganda esa 207,2 g massaga ega. Agar bo‘sh idishning massasi 202,4 g ga teng bo‘lsa, noma’lum gazni aniqlang.",
+      "options": [
+        "O₂",
+        "CO₂",
+        "H₂S",
+        "HCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 267,
+      "question": "Idishga propin solinib o‘lchanganda 43 g, ammiak solib o‘lchanganda 26,9 g chiqdi. Shu idishga O₂ solib o‘lchanganda necha gramm bo‘lishini toping.",
+      "options": [
+        "22,4",
+        "37,4",
+        "6,3",
+        "18,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 268,
+      "question": "N.sh. da bir idishga propan to‘ldirib o‘lchanganda massasi 47,2 g, ftor to‘ldirib o‘lchanganda 42,4 g bo‘lsa, azot to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "37,6",
+        "34,4",
+        "23,2",
+        "40,0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 269,
+      "question": "N.sh. da bir idishga oltingugurt (IV) oksid to‘ldirib o‘lchanganda massasi 47 g, kislorod to‘ldirib o‘lchanganda 31 g bo‘lsa, azot (II) oksid to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "24",
+        "26,9",
+        "30",
+        "33,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 270,
+      "question": "N.sh. da bir idishga azot to‘ldirib o‘lchanganda massasi 28,8 g, ammiak to‘ldirib o‘lchanganda 22,2 g bo‘lsa, ftor to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "23,4",
+        "22,8",
+        "35,4",
+        "34,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 271,
+      "question": "N.sh. da bir idishga karbonat angidrid to‘ldirib o‘lchanganda massasi 32,6 g, etan to‘ldirib o‘lchanganda 27 g bo‘lsa, ammiak to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "21,8",
+        "13,6",
+        "19,4",
+        "32,1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 272,
+      "question": "N.sh. da bir idishga kislorod to‘ldirib o‘lchanganda massasi 28,8 g, metan to‘ldirib o‘lchanganda 22,4 g bo‘lsa, ozon to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "32,2",
+        "51,2",
+        "35,2",
+        "25,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 273,
+      "question": "N.sh. da bir idishga neon to‘ldirib o‘lchanganda massasi 30 g, etan to‘ldirib o‘lchanganda 37 g bo‘lsa, karbonat angidrid to‘ldirib o‘lchanganda necha g kelishi mumkin.",
+      "options": [
+        "46,8",
+        "30,8",
+        "42,4",
+        "44"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 274,
+      "question": "Uchta bir xil kolbaning birinchisi havo bilan to‘ldirilganda 214,5 g, ikkinchisi C₂H₂ bilan to‘ldirilganda 213 g keldi. 3-kolba esa teng hajmda CO₂ va X gaz bilan to‘ldirilganda 211,5 g ga teng bo‘ldi. X gazni aniqlang.",
+      "options": [
+        "Ne",
+        "H₂",
+        "He",
+        "NH₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 275,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda O₂, ikkinchisida C₃H₈ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 34,2 g, 41,4 g, 43,8 g, 31,8 g?",
+      "options": [
+        "C₃H₄; CO",
+        "O₃; N₂",
+        "N₂O₃; C₂H₆",
+        "N₂O₃; NO₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 276,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda NO, ikkinchisida NO₂ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 29 g, 40,2 g, 38,8 g, 61,2 g?",
+      "options": [
+        "N₂O; N₂O₃",
+        "C₃H₄; CO",
+        "N₂O₃; C₂H₆",
+        "SO₂; SO₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 277,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda SO₂, ikkinchisida SO₃ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 68,2 g, 81 g, 53,8 g, 73,8 g?",
+      "options": [
+        "N₂O₃; C₂H₆",
+        "SO₂; SO₃",
+        "C₃H₄; CO",
+        "NO₂; Cl₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 278,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda H₂, ikkinchisida O₂ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 13,6 g, 22,6 g, 21,4 g, 24,4 g?",
+      "options": [
+        "N₂; F₂",
+        "SO₂; SO₃",
+        "C₃H₄; CO",
+        "NO₂; Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 279,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda CH₄, ikkinchisida C₂H₂ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 23 g, 28 g, 29 g, 37 g?",
+      "options": [
+        "N₂O₃; C₂H₆",
+        "SO₂; SO₃",
+        "CO; CO₂",
+        "NO₂; Cl₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 280,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda C₂H₂, ikkinchisida C₃H₄ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 17,2 g, 20 g, 15,2 g, 17,6 g?",
+      "options": [
+        "N₂O₃; C₂H₆",
+        "SO₂; SO₃",
+        "C₃H₄; CO",
+        "CH₄; CO"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 281,
+      "question": "Massa va hajmlari bir xil bo‘lgan 4 ta idish gaz bilan to‘ldirildi. Birinchi idishda H₂, ikkinchisida N₂ bo‘lsa, uchinchi va to‘rtinchi idishlar qaysi gazlar bilan to‘ldirilgan. Idishlarning massalari mos ravishda: 20,8 g, 44,2 g, 22,6 g, 37 g?",
+      "options": [
+        "He; Ne",
+        "SO₂; SO₃",
+        "C₃H₄; CO",
+        "NO₂; Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 282,
+      "question": "SO₂ ning hajmiy ulushi SO₃ ning massa ulushiga teng bo‘lgan aralashmaning o‘rtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "69,6",
+        "76,2",
+        "71,6",
+        "79,2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 283,
+      "question": "O₃ ning hajmiy ulushi O₂ ning massa ulushiga teng bo‘lgan aralashmaning o‘rtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "32,93",
+        "38,67",
+        "33,24",
+        "39,2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 284,
+      "question": "Ne ning hajmiy ulushi He ning massa ulushiga teng bo‘lgan aralashmaning o‘rtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "8,98",
+        "9,82",
+        "10,63",
+        "11,92"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 285,
+      "question": "CO ning hajmiy ulushi CO₂ ning massa ulushiga teng bo‘lgan aralashmaning o‘rtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "38,9",
+        "35,1",
+        "33,2",
+        "31,24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 286,
+      "question": "NH₃ ning hajmiy ulushi PH₃ ning massa ulushiga teng bo‘lgan aralashmaning o‘rtacha molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "29",
+        "31",
+        "26",
+        "24"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 287,
+      "question": "C₃H₈ bilan to‘ldirilgan kolba massasidan CH₄ bilan to‘ldirilgan kolba massasidan 1,4 g og‘ir, shu sharoitda noma’lum gaz bilan to‘ldirilgan kolba massasidan esa 0,7 g og‘ir bo‘lsa, noma’lum gazning formulasini toping. (Kolbalar bir xil hajmga va og‘irlikka ega)",
+      "options": [
+        "HCHO",
+        "CO",
+        "N₂H₄",
+        "HCl"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 288,
+      "question": "1 hajm XO va 3 hajm YO₃ aralashmasining vodorodga nisbatan zichligi 33,75 ga teng. Agar gazlar 2:3 hajmda olingan aralashmadagi kislorodning massa ulushi 44/75 ga teng bo‘lsa, noma’lum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; Se",
+        "S; Se",
+        "N; S",
+        "C; S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 289,
+      "question": "3 hajm XH₃ va 1 hajm YH₄ aralashmasining havoga nisbatan zichligi 0,5 ga teng. Agar gazlar 2:1 hajmda olingan aralashmadagi vodorodning massa ulushi 5/22 ga teng bo‘lsa, noma’lum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; Si",
+        "B; Si",
+        "P; Si",
+        "B; C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 290,
+      "question": "1:1,5 hajmiy nisbatda olingan X va Y gazlari aralashmasining o‘rtacha molyar massasi bilan 1,5:1 hajmiy nisbatda olingan X va Y gazi aralashmasining o‘rtacha molyar massasi ayirmasi 3,2 ga teng, yig‘indisi esa ayirmasidan 22,5 marta ko‘p. X va Y gazlarni toping.",
+      "options": [
+        "CH₄, Ne",
+        "O₂, He",
+        "O₂, O₃",
+        "CO, CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 291,
+      "question": "Hajmlar nisbati 1:1:2,5:3 bo‘lgan C₄H₁₀, C₃H₈, C₂H₆ va CH₄ lardan iborat gazlar aralashmasining vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "13",
+        "15",
+        "14",
+        "12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 292,
+      "question": "Karbonat angidrid va geliydan iborat 40 g aralashmaga ma’lum miqdor neon gazi qo‘shilganda aralashmaning zichligi o‘zgarmadi. Dastlabki aralashmadagi geliyning massasini (g) aniqlang.",
+      "options": [
+        "0,4",
+        "4,8",
+        "39,6",
+        "35,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 293,
+      "question": "Etan va argondan iborat 35,2 g aralashmaga ma’lum miqdor silan gazi qo‘shilganda aralashmaning zichligi o‘zgarmadi. Dastlabki aralashmadagi etanning massasini (g) aniqlang.",
+      "options": [
+        "20,8",
+        "8,8",
+        "14,4",
+        "26,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 294,
+      "question": "Is gazi va CO₂ aralashmasiga Ar qo‘shilganda uning zichligi o‘zgarmagan bo‘lsa, dastlabki aralashmadagi CO₂ ning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "17,5",
+        "82,5",
+        "75",
+        "25"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 295,
+      "question": "NO, CO va CO₂ lardan iborat aralashmaning vodorodga nisbatan zichligi 16,7 ga teng. Aralashmadagi CO₂ ning massa ulushi 39,52 % ga teng bo‘lsa, shu aralashmadagi NO ning hajmiy ulushini (%) hisoblang.",
+      "options": [
+        "30",
+        "40",
+        "20",
+        "50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 296,
+      "question": "NO, CO va CO₂ lardan iborat aralashmaning vodorodga nisbatan zichligi 16,7 ga teng. Aralashmadagi azot (II) oksidning hajmiy ulushi 30 % ga teng bo‘lsa, shu aralashmadagi is gazining massa ulushini (%) hisoblang.",
+      "options": [
+        "33,53",
+        "66,47",
+        "26,95",
+        "39,52"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 297,
+      "question": "CH₄, NH₃ va H₂ dan iborat aralashmada metanning hajmiy ulushi 40 % ga teng bo‘lsa, aralashmadagi ammiakning massa ulushini (%) aniqlang. (ω(CH₄) = 60,383)",
+      "options": [
+        "32,07",
+        "7,55",
+        "60,38",
+        "39,62"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 298,
+      "question": "CH₄, NH₃ va H₂ dan iborat aralashmada ammiakning massa ulushi 32,075 % ga teng bo‘lsa, aralashmadagi vodorodning hajmiy ulushini (%) aniqlang. (φ(NH₃) = 0,2)",
+      "options": [
+        "40",
+        "30",
+        "50",
+        "60"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 299,
+      "question": "CH₄, NH₃ va H₂ dan iborat aralashmada vodorodning hajmiy ulushi 40 % ga teng bo‘lsa, aralashmadagi metanning massa ulushini (%) aniqlang. (ω(H₂) = 7,547 %)",
+      "options": [
+        "60,38",
+        "39,62",
+        "7,55",
+        "32,07"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 300,
+      "question": "CH₄, SO₂ va noma’lum X gazdan iborat aralashmaning vodorodga nisbatan zichligi 18 ga teng. Agar aralashmada V(CH₄) = V(SO₂) va m(SO₂) = m(X) bo‘lsa, ushbu shartlarni qanoatlantiradigan X gaz qaysi gazlar bo‘lishi mumkin?",
+      "options": [
+        "etan; azot (II) -oksid",
+        "fosfin, vodorod sulfid",
+        "silan, kislorod",
+        "azot, etilen"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 301,
+      "question": "N₂, O₂ va noma’lum X gazdan iborat gazlar aralashmasining vodorodga nisbatan zichligi 11,5 ga teng. Agar aralashmada V(N₂) = V(O₂) va m(O₂) = m(X) bo‘lsa, aralashmadagi gazlar miqdorlarining (mol) nisbatini aniqlang.",
+      "options": [
+        "3:1:2",
+        "1:2:2",
+        "1:1:2",
+        "1:3:1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 302,
+      "question": "Azot va O₃ aralashmasiga NO₂ qo‘shilganda uning zichligi o‘zgarmagan bo‘lsa, dastlabki aralashmadagi N₂ ning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "6,087",
+        "93,913",
+        "10",
+        "90"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 303,
+      "question": "Tarkibida hajm jihatdan 25 % azot bo‘lgan azot, propan va karbonat angidrid aralashmasining silanga nisbatan zichligini aniqlang.",
+      "options": [
+        "1,15",
+        "1,25",
+        "1,35",
+        "1,48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 304,
+      "question": "Teng hajmdagi etilen va argon gazlari aralashmasining kislorodga nisbatan zichligini toping.",
+      "options": [
+        "1,06",
+        "1,34",
+        "2,12",
+        "1,68"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 305,
+      "question": "Massa ulushi 88 % ga teng bo‘lgan karbonat angidrid va noma’lum gazdan iborat aralashmada noma’lum gazning hajmiy ulushi 60 % ga teng bo‘lsa, uning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "32",
+        "4",
+        "3",
+        "38"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 306,
+      "question": "Massa ulushlari teng bo‘lgan kislorod va vodorod aralashmasining molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "17",
+        "34",
+        "3,76",
+        "7,52"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 307,
+      "question": "CO va O₂ dan iborat gazlar aralashmasining geliyga nisbatan zichligi 7,5 bo‘lib, u yondirildi. Reaksiyadan keyingi gazlar aralashmasining o‘rtacha molyar massasini aniqlang.",
+      "options": [
+        "27",
+        "36",
+        "40",
+        "32"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 308,
+      "question": "Etan va ozondan iborat aralashma tarkibidagi ozonning elektron, proton va neytronlari yig‘indisi shu aralashmadagi etanning proton va neytronlar yig‘indisidan 1,2 marta katta bo‘lsa, aralashmaning kislorodga nisbatan zichligini toping.",
+      "options": [
+        "1,6",
+        "2,25",
+        "1,125",
+        "3,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 309,
+      "question": "2,7 litr (n. sh) CO₂ ga qancha hajm (n. sh) H₂S qo‘shilsa, hosil bo‘lgan aralashmaning o‘rtacha molyar massasi 37 g/mol ga teng bo‘ladi?",
+      "options": [
+        "7,2",
+        "6,8",
+        "6,3",
+        "5,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 310,
+      "question": "Vodorodga nisbatan zichligi 18,2 ga teng bo‘lgan 3 litr (n. sh) azot (II) va azot (IV) oksidlari aralashmasiga 2 litr (n. sh) kislorod qo‘shilsa, boshlang‘ich aralashmaning hajmi necha litr (n. sh) ga kamayadi? (Barcha hajmlar bir xil sharoitda o‘lchangan.)",
+      "options": [
+        "0,5",
+        "2,0",
+        "1,8",
+        "0,9"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 311,
+      "question": "Tarkibi hajm bo‘yicha 30 % karbonat angidrid va noma’lum gazdan iborat aralashmaning vodorodga nisbatan zichligi 17,8 ga teng. Noma’lum gazni toping.",
+      "options": [
+        "O₂",
+        "N₂",
+        "H₂",
+        "Cl₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 312,
+      "question": "Bir aralashma tarkibidagi SO₂ va N₂ hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibidagi SO₂ va N₂ hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma o‘rtacha molyar massalarining farqi 25,2 ga teng bo‘lsa, x va y larni toping.",
+      "options": [
+        "0,2; 0,8",
+        "0,45; 0,55",
+        "0,15; 0,85",
+        "0,35; 0,65"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 313,
+      "question": "0,5 mol litiy va kadmiydan iborat aralashma tarkibidagi litiyning mol ulushi kadmiyning massa ulushiga teng bo‘lsa, kadmiyning miqdorini (mol) hisoblang.",
+      "options": [
+        "0,1",
+        "0,2",
+        "0,4",
+        "0,3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 314,
+      "question": "O₂ va O₃ aralashmasi hajmiga teng hajmda N₂ qo‘shilganda hosil bo‘lgan aralashmaning argonga nisbatan zichligi 0,8 ga teng bo‘lsa, O₂ va O₃ aralashmasidagi O₂ hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "25",
+        "75",
+        "70",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 315,
+      "question": "Havosiz idishga argon to‘ldirilganda, sof idish bilan argonli idish massalarining farqi 0,25 g, argon xlor bilan almashinganda massalar farqi 0,444 g va uni xlorning kislorodli birikmasi bilan almashinganda massalar farqi 0,422 g bo‘lsa, oksid (2,5 mol) tarkibidagi xlor bilan kislorodning massa farqini (g) aniqlang.",
+      "options": [
+        "57,5",
+        "31,25",
+        "8,75",
+        "18,75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 316,
+      "question": "Uglerod monoksid va uglerod dioksid aralashmasining vodorodga nisbatan zichligi 18,8 ga teng. Aralashmadagi is gazining massa ulushi (%) qaysi sonlar oralig‘ida joylashgan?",
+      "options": [
+        "37-54",
+        "21-28",
+        "39-73",
+        "28-32"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 317,
+      "question": "Vodorod va noma’lum gazdan iborat aralashmaning geliyga nisbatan zichligi 2 ga teng bo‘lib, undagi vodorodning hajmiy ulushi noma’lum gazning massa ulushiga teng. Aralashmadagi noma’lum gazning molekulyar massasini toping.",
+      "options": [
+        "32",
+        "44",
+        "30",
+        "28"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 318,
+      "question": "Neytronlar soni bir xil bo‘lgan metan va kisloroddan iborat aralashmaning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "5,1",
+        "11,1",
+        "6,2",
+        "10,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 319,
+      "question": "Gazlar aralashmasidagi bitta vodorod molekulasiga ikkita azot, uchta geliy va to‘rtta kislorod molekulasi to‘g‘ri kelsa, ushbu gazlar aralashmasining zichligi (n. sh) va undagi azotning massa ulushini (%) hisoblang.",
+      "options": [
+        "0,646; 6",
+        "0,884; 28",
+        "0,764; 64",
+        "0,982; 20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 320,
+      "question": "3 hajm XO₂ va 2 hajm YO₂ aralashmasining geliyga nisbatan zichligi 13,3 ga teng. Agar gazlar teng hajmda olingan aralashmada kislorodning massa ulushi 32/55 ga teng bo‘lsa, noma’lum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; S",
+        "P; N",
+        "S; N",
+        "C; Si"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 321,
+      "question": "2 hajm XO₂ va 3 hajm YO aralashmasining vodorodga nisbatan zichligi 21,8 ga teng. Agar gazlar teng hajmda olingan aralashmada kislorodning massa ulushi 51,08 ga teng bo‘lsa, noma’lum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; S",
+        "P; N",
+        "S; N",
+        "C; Si"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 322,
+      "question": "5 hajm XO₂ va 2 hajm YO₂ aralashmasining havoga nisbatan zichligi 1,714 ga teng. Agar gazlar teng hajmda olingan aralashmada X va Y ning massa ulushlari yig‘indisi 40,74 % ga teng bo‘lsa, noma’lum elementlarni qanday tarkibli birikma hosil qilishini aniqlang.",
+      "options": [
+        "XY₂",
+        "XY₃",
+        "XY",
+        "X₂Y"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 323,
+      "question": "3 hajm XH₃ va 4 hajm YH₄ aralashmasining geliyga nisbatan zichligi 4,107 ga teng. Agar gazlar teng hajmda olingan aralashmada vodorodning massa ulushi 21,21 % ga teng bo‘lsa, noma’lum elementlar massa nisbatini mos ravishda aniqlang.",
+      "options": [
+        "1,167:1",
+        "1,66:1",
+        "2:3",
+        "1:1,167"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 324,
+      "question": "X va Y uglevodorodlar 2:5 hajmiy nisbatda olinsa geliyga nisbatan zichligi 12,5 ga, 4:3 nisbatda olinsa vodorod bo‘yicha zichligi 21 ga teng bo‘lgan aralashmani hosil qiladi. Molekulyar massasi katta bo‘lgan uglevodorodni aniqlang.",
+      "options": [
+        "C₄H₁₀",
+        "C₆H₁₂",
+        "C₄H₆",
+        "C₅H₈"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 325,
+      "question": "X va Y uglevodorodlar 4:1 hajmiy nisbatda olinsa kislorodga nisbatan zichligi 1,15 ga, 1:4 nisbatda olinsa kislorod bo‘yicha zichligi 1,975 ga teng bo‘lgan aralashmani hosil qiladi. Molekulyar massasi kichik bo‘lgan uglevodorodni aniqlang.",
+      "options": [
+        "C₄H₈",
+        "C₇H₁₂",
+        "C₂H₄",
+        "C₆H₁₀"
+      ],
+      "correctIndex": 2
     }
   ]
 }
