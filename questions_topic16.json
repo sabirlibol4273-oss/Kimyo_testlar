@@ -1,1 +1,2889 @@
-{"topicId":16,"title":"Gazlar boʻyicha murakkab masalalar","description":"","questions":[]}
+{
+  "topicId": 16,
+  "title": "Gazlar boʻyicha murakkab masalalar",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "SO₂, CO, H₂ dan iborat 16,8 l aralashmani yoqish uchun qancha (l) havo kerak?",
+      "options": [
+        "33,6",
+        "8,4",
+        "75",
+        "42"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Metilamin, etilamin va metandan iborat 17,92 l (n.sh.) aralashma yondirilganda 22,4 l (n.sh.) karbonat angidrid va 6,72 l (n.sh.) azot hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "2,24; 6,72; 8,96",
+        "11,2; 2,24; 4,48",
+        "6,72; 6,72; 4,48",
+        "8,96; 4,48; 4,48"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Metilamin, etilamin va metandan iborat 22,4 l (n.sh.) aralashma yondirilganda 31,36 l (n.sh.) karbonat angidrid va 7,84 l (n.sh.) azot hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "2,24; 6,72; 13,44",
+        "11,2; 5,6; 5,6",
+        "6,72; 8,96; 6,72",
+        "4,48; 6,72; 11,2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "CH₄, C₂H₂ va CO lardan iborat 13,44 l (n.sh.) aralashma yondirilganda 17,92 l (n.sh.) CO₂ va 7,2 g H₂O hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "3,36; 2,24; 7,84",
+        "8,96; 2,24; 2,24",
+        "4,48; 4,48; 4,48",
+        "2,24; 4,48; 6,72"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Is gazi, metan va atsetilendan iborat 40,32 l (n.sh.) aralashma yondirilganda 53,76 l (n.sh.) CO₂ va 43,2 g H₂O hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "8,96; 17,92; 13,44",
+        "11,2; 20,16; 8,96",
+        "6,72; 20,16; 13,44",
+        "8,96; 22,4; 8,96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Metan, is gazi va etilendan iborat 31,36 l (n.sh.) aralashma yondirilganda 38,08 l (n.sh.) CO₂ va 25,2 g suv hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) miqdorini (mol) hisoblang.",
+      "options": [
+        "0,5; 0,5; 0,4",
+        "0,4; 0,7; 0,3",
+        "0,8; 0,4; 0,2",
+        "0,3; 0,6; 0,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "CO, C₂H₂ va CH₄ dan iborat 15,68 l (n.sh.) aralashma yondirilganda 39,6 g karbonat angidrid va 18 g suv hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "2,24; 2,24; 2,24",
+        "1,12; 6,72; 7,84",
+        "2,24; 4,48; 8,96",
+        "4,48; 1,12; 5,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Vodorod, is gazi va metandan iborat 15,68 l (n.sh.) aralashmaning toʻla yonishi uchun 89,6 l (n.sh.) havo (φ(O₂) = 0,2) sarflandi va 13,5 g suv hosil boʻldi. Boshlangʻich aralashmadagi vodorod miqdorini (mol) hisoblang.",
+      "options": [
+        "0,15",
+        "0,25",
+        "0,30",
+        "0,45"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "CH₄, C₂H₆ va CO lardan iborat 33,6 l (n.sh.) aralashma yondirilganda 44,8 l (n.sh.) CO₂ va 48,6 g H₂O hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "10,08; 13,44; 10,08",
+        "6,72; 15,68; 11,2",
+        "13,44; 11,2; 8,96",
+        "7,84; 11,2; 14,58"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Is gazi, atsetilen va metandan iborat 13,44 l (n.sh.) aralashma yondirilganda 20,16 l (n.sh.) CO₂ va 14,4 g H₂O hosil boʻldi. Dastlabki aralashmadagi moddalar (berilgan tartibda) hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "1,68; 5,6; 6,16",
+        "1,12; 6,72; 5,6",
+        "2,24; 6,72; 4,48",
+        "3,36; 2,24; 7,84"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Vodorod bilan kisloroddan iborat 60 l (n.sh.) aralashma portlatilgandan soʻng 9,6 l (n.sh.) kislorod ortib qoldi. Boshlangʻich aralashmadagi kislorodning hajmini (l, n.sh.) aniqlang.",
+      "options": [
+        "34,2",
+        "16,8",
+        "26,4",
+        "33,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Massalari bir xil boʻlgan H₂S, SO₃, CH₄ dan iborat gazlar aralashmasi konsentrlangan kaliy gidroksid eritmasidan oʻtkazilganda aralashma ogʻirligi 20 g ga kamaydi. Vodorod sulfidning hajmini (l, n.sh.) aniqlang.",
+      "options": [
+        "2,8",
+        "10",
+        "6,6",
+        "14"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Massalari bir xil boʻlgan H₂S, SO₃, CH₄ dan iborat gazlar aralashmasi konsentrlangan kaliy gidroksid eritmasidan oʻtkazilganda aralashma ogʻirligi 20 g ga kamaydi. Sulfat angidridning hajmini (l, n.sh.) aniqlang.",
+      "options": [
+        "2,8",
+        "10",
+        "6,6",
+        "14"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Uglerod va oltingugurtdan iborat 8,8 g aralashma yondirilganda 21,6 g oksidlar aralashmasi (RO₂) hosil boʻlsa, boshlangʻich aralashmadagi uglerodning massa ulushini aniqlang.",
+      "options": [
+        "0,27",
+        "0,73",
+        "0,44",
+        "0,56"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Azot(IV) oksid va uglerod(IV) oksiddan iborat 22,4 litr (n.sh.) gazlar aralashmasidagi elektronlar soni Avogadro sonidan 22,4 marta koʻp boʻlsa, aralashmadagi gazlarning hajmiy ulushini mos ravishda hisoblang.",
+      "options": [
+        "0,6; 0,4",
+        "0,7; 0,3",
+        "0,4; 0,6",
+        "0,3; 0,7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "96 litr ammiak bilan kislorod aralashmasi Pt katalizatori ishtirokida oksidlandi. Suv bugʻlari kondensatlangach 8 litr O₂ ortib qoldi. Boshlangʻich aralashmadagi NH₃ ning hajmini litrda toping.",
+      "options": [
+        "39",
+        "32",
+        "40",
+        "56"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "130 litr ammiak bilan kislorod aralashmasi Pt katalizatori ishtirokida oksidlandi. Suv bugʻlari kondensatlangach 20 litr O₂ ortib qoldi. Boshlangʻich aralashmadagi O₂ ning hajmini litrda toping.",
+      "options": [
+        "90",
+        "80",
+        "50",
+        "70"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "70 litr ammiak bilan kislorod aralashmasi Pt katalizatori ishtirokida oksidlandi. Suv bugʻlari kondensatlangach 15 litr O₂ ortib qoldi. Boshlangʻich aralashmadagi NH₃ ning hajmiy ulushini toping.",
+      "options": [
+        "28,57",
+        "50",
+        "71,4",
+        "40"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "120 litr ammiak bilan kislorod aralashmasi Pt katalizatori ishtirokida oksidlandi. Suv bugʻlari kondensatlangach 10 litr O₂ ortib qoldi. Boshlangʻich aralashmadagi NH₃ ning hajmini toping.",
+      "options": [
+        "28,57",
+        "50",
+        "71,4",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Tarkibining 84% i uglerod, 10% i vodorod va 6% i mineral moddalardan iborat boʻlgan 200 g moddani yoqish uchun zarur boʻlgan havoning hajmini (l, n.sh.) hisoblang (φ(O₂) = 0,2).",
+      "options": [
+        "425,6",
+        "2128",
+        "2688",
+        "1128"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "N₂O, N₂O₃, N₂O₅ dan iborat 60 g aralashmasi 16,8 l (n.sh.) keladi. Aralashmadagi kislorodning massasini toping.",
+      "options": [
+        "45",
+        "39",
+        "48",
+        "33"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "C₂H₂, C₂H₄, C₂H₆ dan iborat 15,2 g aralashma 11,2 l keladi. Aralashmadagi vodorodning massasini toping.",
+      "options": [
+        "3,2",
+        "1,3",
+        "1,6",
+        "2,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Cl₂O, Cl₂O₃, Cl₂O₅ dan iborat 50 g aralashma 11,2 litr boʻlsa, aralashmaning kislorodga nisbatan zichligini toping.",
+      "options": [
+        "4,245",
+        "1,75",
+        "3,125",
+        "3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Elektronlar nisbati 1:3:4 boʻlgan N₂, CO, H₂ aralashmasining kislorodga nisbatan zichligini toping?",
+      "options": [
+        "0,24",
+        "0,16",
+        "0,35",
+        "0,67"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Atomlar soni oʻzaro teng boʻlgan NO va NO₂ aralashmasining geliyga nisbatan zichligini toping.",
+      "options": [
+        "9,1",
+        "9,5",
+        "19",
+        "22"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "13,2 g vodorod va oltingugurt(IV) oksid aralashmasidagi vodorodning hajmiy ulushi 50% ni tashkil etsa, vodorodning massasini aniqlang.",
+      "options": [
+        "12,8",
+        "11,8",
+        "0,8",
+        "0,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "CO, CO₂ va nomaʼlum gaz aralashmasi vodorodga nisbatan zichligi 18,8 ga teng, shu aralashmada CO va CO₂ teng hajmda, nomaʼlum gaz massasi CO₂ massasidan ikki marta kam boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "O₂",
+        "CH₄",
+        "C₃H₈",
+        "NH₃"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "CO, He va nomaʼlum gaz aralashmasi geliyga nisbatan zichligi 5 ga teng, shu aralashmada CO va He teng hajmda, CO va nomaʼlum gaz teng massada boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "O₂",
+        "H₂",
+        "N₂",
+        "He"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Ammiakning parchalanish reaksiyasida boshlangʻich va oxirgi gazlar zichligi nisbati 3:2 boʻlib qoldi. Ammiakning necha % qismi parchalanganligini toping.",
+      "options": [
+        "33,33",
+        "66,66",
+        "50,0",
+        "40,0"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Ammiakning parchalanish reaksiyasida boshlangʻich va oxirgi gazlar zichligi nisbati 7:5 boʻlib qoldi. Ammiakning necha % qismi parchalanganligini toping.",
+      "options": [
+        "33,33",
+        "66,66",
+        "50,0",
+        "40,0"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Uchta teng hajmli idish olingan boʻlib, azot bilan toʻlgan 1-idishning massasi 35,6 g, kislorod bilan toʻlgan 2-idishning massasi 36,4 g, teng hajmdagi argon va nomaʼlum gaz bilan toʻlgan 3-idish massasi 36 g keladi. Nomaʼlum gazni toping.",
+      "options": [
+        "O₂",
+        "CO₂",
+        "Ne",
+        "CO"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Uchta teng hajmli idish olingan boʻlib, geliy bilan toʻlgan 1-idishning massasi 23,2 g, neon bilan toʻlgan 2-idishning massasi 28 g, teng hajmdagi argon va nomaʼlum gaz bilan toʻlgan 3-idish massasi 28,6 g keladi. Nomaʼlum gazni toping.",
+      "options": [
+        "O₂",
+        "CO₂",
+        "He",
+        "CO"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Uchta teng hajmli idish olingan boʻlib, neon bilan toʻlgan 1-idishning massasi 40 g, argon bilan toʻlgan 2-idishning massasi 48 g, 1:3 hajmiy nisbatdagi CO va nomaʼlum gaz bilan toʻlgan 3-idish massasi 48 g keladi. Nomaʼlum gazni toping.",
+      "options": [
+        "O₂",
+        "CO₂",
+        "Ne",
+        "CO"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Uchta teng hajmli idish olingan boʻlib, neon bilan toʻlgan 1-idishning massasi 14 g, azot bilan toʻlgan 2-idishning massasi 14,8 g, 2:3 hajmiy nisbatdagi He va nomaʼlum gaz bilan toʻlgan 3-idish massasi 14,8 g keladi. Nomaʼlum gazni toping.",
+      "options": [
+        "O₂",
+        "CO₂",
+        "Ne",
+        "CO"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "3 hajm XH₃ va 1 hajm YH₄ aralashmasining havoga nisbatan zichligi 0,5 ga teng. Agar gazlar 2:1 hajmda olingan aralashmadagi vodorodning massa ulushi 5/22 ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "B; C",
+        "N; C",
+        "B; Si",
+        "N; Si"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "3 hajm XO va 1 hajm YO₂ aralashmasining vodorodga nisbatan zichligi 18,5 ga teng. Agar gazlar teng hajmda olingan aralashmada kislorodning massa ulushi 12/23 ga teng boʻlsa, nomaʼlum element (X va Y) larni aniqlang.",
+      "options": [
+        "C; Si",
+        "N; C",
+        "C; N",
+        "C; S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "3 hajm XO va 1 hajm YO₃ aralashmasining vodorodga nisbatan zichligi 21,25 ga teng. Agar gazlar 1:2 hajmda olingan aralashmadagi kislorodning massa ulushi 56/95 ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; Se",
+        "N; C",
+        "C; S",
+        "N; S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "3 hajm XO₂ va 2 hajm YO₂ aralashmasining geliyga nisbatan zichligi 13,3 ga teng. Agar gazlar teng hajmda olingan aralashmada kislorodning massa ulushi 32/55 ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; Se",
+        "N; C",
+        "C; S",
+        "N; S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "3 hajm XO₂ va 5 hajm YO₂ aralashmasining havoga nisbatan zichligi 1,95 ga teng. Agar gazlar 7:3 hajmda olingan aralashmadagi kislorodning massa ulushi 64% ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "N; Se",
+        "N; C",
+        "C; S",
+        "N; S"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "4 hajm X₂H₆ va 3 hajm YH₄ aralashmasining vodorodga nisbatan zichligi 14,86 ga teng. Agar gazlar 1:2 hajmda olingan aralashmadagi vodorodning massa ulushi 7/46 ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "B; C",
+        "N; C",
+        "B; Si",
+        "N; Si"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "4 hajm XF₃ va 1 hajm YF₄ aralashmasining vodorodga nisbatan zichligi 37,6 ga teng. Agar gazlar teng hajmda olingan aralashmada ftorning massa ulushi 133/172 ga teng boʻlsa, nomaʼlum elementlarni mos ravishda aniqlang.",
+      "options": [
+        "B; C",
+        "N; C",
+        "B; Si",
+        "N; Si"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Vodorod, metan va is gazidan iborat gaz aralashmasining 2 atm bosim 0°C temperaturadagi zichligi 1,715 g/litr ga teng. 4 hajm shunday aralashmani toʻliq yondirish uchun 19 hajm havo (n.sh) kerak. Olingan aralashmaning hajmiy (%) tarkibini aniqlang.",
+      "options": [
+        "30; 40; 30",
+        "20; 30; 50",
+        "10; 40; 50",
+        "20; 40; 40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Vodorod, metan va is gazidan iborat gaz aralashmasining 1,6 atm bosim 17°C temperaturadagi zichligi 1,103 g/litr ga teng. 5 hajm shunday aralashmani toʻliq yondirish uchun 16,25 hajm havo (n.sh) kerak. Olingan aralashmaning hajmiy (%) tarkibini aniqlang.",
+      "options": [
+        "30; 40; 30",
+        "30; 50; 20",
+        "40; 50; 10",
+        "20; 40; 40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Vodorod, metan va is gazidan iborat gaz aralashmasining 1,5 atm bosim 27°C temperaturadagi zichligi 1,0237 g/litr ga teng. 2 hajm shunday aralashmani toʻliq yondirish uchun 9,5 hajm havo (n.sh) kerak. Olingan aralashmaning hajmiy (%) tarkibini aniqlang.",
+      "options": [
+        "30; 40; 30",
+        "20; 50; 30",
+        "40; 50; 10",
+        "40; 20; 40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "2 l SO₂ va O₂ aralashmasi bor. Aralashmadagi moddalarning oʻzaro taʼsirlashuvidan 0,178 g SO₃ hosil boʻldi. Agar SO₂ ning hammasi reaksiyaga kirishgan boʻlsa, boshlangʻich aralashmadagi moddalarning hajmlarini toping.",
+      "options": [
+        "0,2; 1,8",
+        "1,82; 0,18",
+        "0,05; 0,195",
+        "1,5; 0,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 46,
+      "question": "17,92 litr N₂ va NH₃ dan iborat aralashma yondirilganda oddiy moddaning hajmi 2,5 marta ortgan boʻlsa, boshlangʻich aralashmadagi gazlarning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "40; 60",
+        "55; 45",
+        "60; 40",
+        "75; 25"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "CH₄, NH₃ va H₂ dan iborat aralashmada vodorodning hajmiy ulushi 40% ga teng boʻlsa, aralashmadagi metanning massa ulushini (%) aniqlang. (ω(H₂) = 7,547%)",
+      "options": [
+        "60,38",
+        "39,62",
+        "7,55",
+        "32,07"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Azotga oʻz massasidan 51 g ga kam boʻlgan metan qoʻshilganda aralashmani geliyga nisbatan zichligi 6,25 ga teng boʻldi. Aralashtirish uchun necha l (n.sh) azot olingan?",
+      "options": [
+        "16,8",
+        "20,16",
+        "56",
+        "50,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Kislorodga oʻz massasidan 30 g ga kam geliy qoʻshilganda aralashmani vodorodga nisbatan zichligi 5,5 ga teng boʻldi. Aralashmani massasini (g) aniqlang.",
+      "options": [
+        "33",
+        "66",
+        "22",
+        "12"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Kislorodga oʻz massasidan 24 g ga kam azot qoʻshilganda aralashmani geliyga nisbatan zichligi 7,6 ga teng boʻldi. Aralashtirish uchun necha l (n.sh) kislorod olingan?",
+      "options": [
+        "40,32",
+        "20,16",
+        "56",
+        "28"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Karbonat angidrid nomaʼlum alkan bilan aralashtirildi. Karbonat angidridning hajmiy ulushi 50%, alkanning massa ulushi 26,7% boʻlsa, alkanni aniqlang.",
+      "options": [
+        "metan",
+        "etan",
+        "propan",
+        "butan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Geliyga nisbatan zichligi 2,6 ga teng boʻlgan CO₂ va H₂ gazlari aralashmasining 2 hajmiga 1 hajm X gaz aralashtirilganda hosil boʻlgan yangi aralashmadagi H₂ ning massa ulushi X gaznikidan 36,5% ga kam ekanligi aniqlandi. Hosil boʻlgan yangi aralashmadagi X gazning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "33,33",
+        "16,67",
+        "25",
+        "75"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 53,
+      "question": "O₂, N₂ va CO₂ dan iborat aralashmada CO₂ ning massa ulushi 0,11 ga, mol ulushi esa 0,08 ga tengligi maʼlum boʻlsa, qolgan gazlarning mol ulushini aniqlang.",
+      "options": [
+        "O₂ − 0,6; N₂ − 0,2",
+        "O₂ − 0,68; N₂ − 0,24",
+        "O₂ − 0,4; N₂ − 0,25",
+        "O₂ − 0,8; N₂ − 0,1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Hajmi 1 l boʻlgan azot(II) oksid 5 l havo bilan aralashtirildi. Azot(II) oksid batamom azot(IV) oksidga aylangandan keyin azot(IV) oksid, kislorod va azotning hajmlarini (l) koʻrsating.",
+      "options": [
+        "1; 1; 4",
+        "1 : 1,5 : 3",
+        "1,5 : 0,5 : 4",
+        "1; 0,5; 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "D(N₂) = 1,1 boʻlgan NO va O₂ dan iborat 33,6 litr aralashma katalizator ishtirokida reaksiyaga kirishdi va D(CO₂) = 0,875 boʻlgan aralashma hosil boʻldi. Shu aralashmadagi NO₂ ning massa ulushini aniqlang.",
+      "options": [
+        "59,7",
+        "85,5",
+        "90",
+        "50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Molekulalar soni atomlar sonidan 2,4 marta kam boʻlgan SO₂ va O₂ dan iborat aralashma katalizator orqali oʻtkazilganda molekulalar soni atomlar sonidan 2,5 marta kam boʻlgan gazlar aralashmasi hosil boʻldi. Hosil boʻlgan gazlar aralashmasining D(He) ni aniqlang.",
+      "options": [
+        "11,67",
+        "13,87",
+        "11,11",
+        "11,3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Molekulalar soni atomlar sonidan 2,625 marta kam boʻlgan SO₂ va O₂ dan iborat aralashma katalizator orqali oʻtkazilganda molekulalar soni atomlar sonidan 2,8 marta kam boʻlgan gazlar aralashmasi hosil boʻldi. Hosil boʻlgan gazlar aralashmasining D(He) ni aniqlang.",
+      "options": [
+        "11,67",
+        "13,87",
+        "11,11",
+        "11,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Cl₂ va SO₂ dan iborat gazlar aralashmasining oʻrtacha molyar massasi 66,1 ga teng. Shu aralashmaning 1 moliga 2 mol A va B gazlari (mol nisbati Cl₂ va SO₂ kabi) qoʻshildi. Hosil boʻlgan gazlar aralashmasining oʻrtacha molekulyar massasi 33,5 ga teng boʻldi. A va B gazlarni toping. Mr(A) − Mr(B) = 4.",
+      "options": [
+        "O₂, N₂",
+        "CO₂, Ar",
+        "O₃, CO₂",
+        "Ne, CH₄"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "NO₂ va Ar dan iborat gazlar aralashmasining oʻrtacha molyar massasi 42,4 ga teng. Shu aralashmaning 1 moliga 3 mol A va B gazlari (mol nisbati NO₂ va Ar kabi) qoʻshildi. Hosil boʻlgan gazlar aralashmasining oʻrtacha molekulyar massasi 32,8 ga teng boʻldi. A va B gazlarni toping. Mr(A) − Mr(B) = 4.",
+      "options": [
+        "O₂, N₂",
+        "CO₂, Ar",
+        "O₃, CO₂",
+        "Ne, CH₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Cl₂ va SO₂ dan iborat gazlar aralashmasining oʻrtacha molyar massasi 66,1 ga teng. Shu aralashmaning 1 moliga 2 mol A va B gazlari (mol nisbati Cl₂ va SO₂ kabi) qoʻshildi. Hosil boʻlgan gazlar aralashmasining oʻrtacha molekulyar massasi 49,5 ga teng boʻldi. A va B gazlarni toping. Mr(A) − Mr(B) = 4.",
+      "options": [
+        "O₂, N₂",
+        "CO₂, Ar",
+        "O₃, CO₂",
+        "Ne, CH₄"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "Bir aralashma tarkibidagi CO₂ va SO₂ hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibida CO₂ va SO₂ hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 4 ga teng boʻlsa, x va y ni aniqlang.",
+      "options": [
+        "0,15; 0,85",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,4; 0,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Bir aralashma tarkibidagi N₂O va CO hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibida N₂O va CO hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 2 ga teng boʻlsa, x va y ni aniqlang.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,4; 0,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 63,
+      "question": "Bir aralashma tarkibida N₂O va CO ning hajmiy ulushlari mos ravishda x va y ga teng. Ikkinchi xuddi shunday aralashma tarkibidagi N₂O va CO ning hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashmaning oʻrtacha molyar massalarining farqi 6,4 ga teng boʻlsa, x va y ni aniqlang.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,4; 0,6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "Molekulalar soni atomlar sonidan 2,25 marta kam boʻlgan SO₂ va O₂ dan iborat aralashma katalizator orqali oʻtkazilganda molekulalar soni atomlar sonidan 2,5 marta kam boʻlgan gazlar aralashmasi hosil boʻldi. Hosil boʻlgan gazlar aralashmasining D(He) ni aniqlang.",
+      "options": [
+        "11,67",
+        "13,87",
+        "11,11",
+        "11,3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Molekulalar soni atomlar sonidan 2,3 marta kam boʻlgan SO₂ va O₂ dan iborat aralashma katalizator orqali oʻtkazilganda molekulalar soni atomlar sonidan 2,5 marta kam boʻlgan gazlar aralashmasi hosil boʻldi. Hosil boʻlgan gazlar aralashmasining D(He) ni aniqlang.",
+      "options": [
+        "11,67",
+        "13,4",
+        "11,11",
+        "11,3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "CH₄, H₂ va O₂ dan iborat aralashma yondirildi. Suv bugʻi kondensatlanganidan soʻng idishdagi bosim 2,8 marta kamaydi. Qolgan gazlar ishqor eritmasidan oʻtkazilganda idishdagi bosim boshlangʻich bosimga nisbatan 7 marta kamaydi. Suv bugʻlari kondensatsiyalangandan keyin hosil boʻlgan aralashmaning oʻrtacha molyar massasini (g) aniqlang.",
+      "options": [
+        "39,2",
+        "42",
+        "38",
+        "40"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Hajmiy nisbatlari 1:2:1 boʻlgan ammiak, kislorod va azotdan iborat gazlar aralashmasi yondirildi va boshlangʻich sharoitga keltirildi. Reaksiyadan keyingi gazlar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "30,0",
+        "29,8",
+        "29,0",
+        "28,7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "Hajmiy nisbatlari 1:3:2 boʻlgan ammiak, kislorod va azotdan iborat gazlar aralashmasi yondirildi va boshlangʻich sharoitga keltirildi. Reaksiyadan keyingi gazlar aralashmasining oʻrtacha molyar massasini (g/mol) hisoblang.",
+      "options": [
+        "28,57",
+        "29,9",
+        "29,25",
+        "31,2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Hajmlari 3:1 nisbatda boʻlgan vodorod va azot aralashmasi kontakt apparati orqali oʻtkazilganda vodorodning 20% foizi (hajmiy ulushi) ammiakka aylangan boʻlsa, kontakt apparatdan chiqqan gazlarning hajmiy ulushlarini (%) hisoblang.",
+      "options": [
+        "66,7; 22,2; 11,1",
+        "54,3; 36,6; 9,1",
+        "70,2; 20,4; 4,8",
+        "58,5; 30,5; 11"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "D(CH₄) = 1,925 boʻlgan NO va O₂ dan iborat aralashma reaksiyaga kirishganda D(N₂) = 1,25 boʻlgan gazlar aralashmasi hosil boʻldi. Hosil boʻlgan aralashmadagi kislorodning massa ulushini (%) aniqlang?",
+      "options": [
+        "12,8",
+        "29,3",
+        "38,4",
+        "30,72"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Geliyga nisbatan zichligi 1,8 boʻlgan N₂ va H₂ dan iborat 22,4 l aralashma katalizator ishtirokida reaksiyaga kirishgandan soʻng vodorodga nisbatan zichligi 5 boʻlgan gazlar aralashmasi hosil boʻldi. Aralashmadagi NH₃ ning hajmiy ulushini toping.",
+      "options": [
+        "0,61",
+        "0,7",
+        "0,39",
+        "0,3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "SiO₂ va suvdan iborat 26 g aralashma ftor atmosferasidan oʻtkazilganda 11,2 litr O₂ hosil boʻlgan boʻlsa, reaksiya natijasida hosil boʻlgan murakkab moddalarning geliyga nisbatan zichligini toping.",
+      "options": [
+        "6,3",
+        "10,2",
+        "12,4",
+        "15,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "D(CH₄) = 3,2 boʻlgan SO₂ va O₂ dan iborat aralashma reaksiyaga kirishdi va D(havo) = 2,323 boʻlgan aralashma hosil boʻldi. Shu aralashmadagi SO₂ ning hajmiy ulushini (%) aniqlang?",
+      "options": [
+        "15,8",
+        "21",
+        "35,5",
+        "62,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "CO₂ va CO dan iborat 22,4 l (n.sh.) aralashmada 10,67 mg elektron mavjud boʻlsa, undagi gazlarning hajmiy ulushini (%) hisoblang (elektronning massasi proton massasidan 1836 marta kichik).",
+      "options": [
+        "80; 20",
+        "60; 40",
+        "70; 30",
+        "50; 50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "Metan va etandan iborat 22,4 l (n.sh.) aralashmada 8,06 mg elektron mavjud boʻlsa, undagi gazlarning hajmiy ulushini (%) hisoblang (elektronning massasi proton massasidan 1836 marta kichik).",
+      "options": [
+        "15; 85",
+        "30; 70",
+        "40; 60",
+        "25; 75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "CO₂ va CO dan iborat 22,4 l (n.sh.) aralashmada 8,932 mg elektron mavjud boʻlsa, undagi gazlarning hajmiy ulushini (%) hisoblang (elektronning massasi proton massasidan 1836 marta kichik).",
+      "options": [
+        "85; 15",
+        "60; 40",
+        "30; 70",
+        "55; 45"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 77,
+      "question": "Oltingugurt(IV) va oltingugurt(VI) oksidlaridan iborat 11,2 l (n.sh.) gazlar aralashmasida 115,584·10²³ ta elektron bor boʻlsa, shu aralashmadagi gazlarning hajmiy ulushini hisoblang.",
+      "options": [
+        "0,34; 0,66",
+        "0,40; 0,60",
+        "0,25; 0,75",
+        "0,20; 0,80"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "Oltingugurt(IV) va oltingugurt(VI) oksidlaridan iborat 8,96 l (n.sh.) gazlar aralashmasida 81,87·10²³ ta elektron bor boʻlsa, shu aralashmadagi gazlarning hajmiy ulushini hisoblang.",
+      "options": [
+        "0,34; 0,66",
+        "0,40; 0,60",
+        "0,75; 0,25",
+        "0,20; 0,80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "2 litr CO ni 10 litr havoda yondirildi. Yonish mahsulotlari tarkibidagi barcha gazlarning hajmiy ulushini toping.",
+      "options": [
+        "91,5% O₂; 7,27% N₂; 1,23% CO₂",
+        "10% O₂; 72% N₂; 18% CO₂",
+        "9,1% O₂; 72,7% N₂; 18,2% CO₂",
+        "9,15% O₂; 72,7% N₂; 18,2% CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "CO, CO₂ va N₂ dan iborat aralashma yetarli miqdordagi kislorodda yondirilib, soʻng Ca(OH)₂ eritmasi orqali oʻtkazilganda 20 g choʻkma tushdi va 11,2 l (n.sh.) oddiy modda ortib qoldi. Boshlangʻich aralashma hajmini (l, n.sh.) toping.",
+      "options": [
+        "13,44",
+        "15,68",
+        "6,72",
+        "17,92"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "CO, CO₂ va N₂ dan iborat aralashmani toʻla yondirish uchun 1,12 l (n.sh.) kislorod sarflandi. Hosil boʻlgan gazlar aralashmasi Ca(OH)₂ eritmasi orqali oʻtkazilganda 25 g choʻkma tushdi va 1,12 l (n.sh.) oddiy modda ortib qoldi. Boshlangʻich aralashmadagi gazlarning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "33; 50; 17",
+        "25; 25; 50",
+        "26; 61; 13",
+        "29; 42; 29"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Formaldegid va vodorod aralashmasining geliyga nisbatan zichligi 6,1 boʻlib, u qizdirilgan nikel katalizatori ustidan oʻtkazilganda vodorodning barchasi sarflansa, hosil boʻlgan gazlar aralashmasining havoga nisbatan zichligini aniqlang.",
+      "options": [
+        "3,58",
+        "4,66",
+        "1,05",
+        "0,37"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Formaldegid va vodorod aralashmasining geliyga nisbatan zichligi 3,3 boʻlib, u qizdirilgan nikel katalizatori ustidan oʻtkazilganda aldegidning 50% i sarflansa, hosil boʻlgan gazlar aralashmasining propanga nisbatan zichligini aniqlang.",
+      "options": [
+        "0,518",
+        "0,466",
+        "0,105",
+        "0,375"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Yopiq idishda 2 mol is gazi 10 mol havoda yondirilishidan hosil boʻlgan aralashma tarkibidagi moddalarni va ularning miqdorini (mol) aniqlang (φ(O₂) = 0,2; φ(N₂) = 0,8).",
+      "options": [
+        "CO₂, 2; O₂, 1; CO, 1",
+        "CO₂, 1; O₂, 2; N₂, 8",
+        "CO₂, 1; O₂, 1; CO, 2",
+        "CO₂, 2; O₂, 1; N₂, 8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 85,
+      "question": "Vodorod va is gazidan iborat 100 ml aralashmaga 90 ml kislorod qoʻshilib portlatildi. Harorati tajribadan oldingi sharoitga keltirilganda hajm 140 ml gacha kamaygan. Suv bugʻlari kondensatlangandan soʻng esa 100 ml ga teng boʻlib qolgan boʻlsa, undagi gazlarning hajmiy ulushlarini hisoblang.",
+      "options": [
+        "0,2; 0,8",
+        "0,3; 0,7",
+        "0,4; 0,6",
+        "0,5; 0,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Vodorod va is gazidan iborat 100 ml aralashmaga 80 ml kislorod qoʻshilib portlatildi. Harorati tajribadan oldingi sharoitga keltirilganda hajm 130 ml gacha kamaygan. Suv bugʻlari kondensatlangandan soʻng esa 100 ml ga teng boʻlib qolgan boʻlsa, undagi gazlarning hajmiy ulushlarini hisoblang.",
+      "options": [
+        "0,2; 0,8",
+        "0,3; 0,7",
+        "0,4; 0,6",
+        "0,5; 0,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "Vodorod va is gazidan iborat 100 ml aralashmaga 70 ml kislorod qoʻshilib portlatildi. Harorati tajribadan oldingi sharoitga keltirilganda hajm 120 ml gacha kamaygan. Suv bugʻlari kondensatlangandan soʻng esa 100 ml ga teng boʻlib qolgan boʻlsa, undagi gazlarning hajmiy ulushlarini hisoblang.",
+      "options": [
+        "0,2; 0,8",
+        "0,3; 0,7",
+        "0,4; 0,6",
+        "0,5; 0,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 88,
+      "question": "Vodorod va is gazidan iborat 60 ml aralashmaga 70 ml kislorod qoʻshilib portlatildi. Harorati tajribadan oldingi sharoitga keltirilganda hajm 100 ml gacha kamaygan. Suv bugʻlari kondensatlangandan soʻng esa 80 ml ga teng boʻlib qolgan boʻlsa, undagi gazlarning hajmiy ulushlarini hisoblang.",
+      "options": [
+        "0,2; 0,8",
+        "0,3; 0,7",
+        "0,4; 0,6",
+        "0,5; 0,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "CO va CO₂ dan iborat aralashmadagi uglerod va kislorodning massa nisbati 1:2 ga teng boʻlsa, aralashmadagi gazlarning hajmiy ulushini (%) hisoblang.",
+      "options": [
+        "39; 61",
+        "50; 50",
+        "45; 55",
+        "35; 65"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "Vodorod va kislorod aralashmasining geliyga nisbatan zichligi 2,75 ga teng boʻlsa, aralashmadagi gazlarning massa ulushlarini (%) aniqlang.",
+      "options": [
+        "21,4; 78,6",
+        "2,7; 87,3",
+        "70; 30",
+        "14,5; 85,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "Katalizator ustidan 6,02·10²³ molekula oltingugurt(IV) oksid va 26,88 l (n.sh.) kisloroddan iborat aralashma oʻtkazilganda 64 g oltingugurt(VI) oksid hosil boʻldi. Reaksiyada ishtirok etmagan oltingugurt(IV) oksidning molekulalar sonini va kislorodning massasini (g) hisoblang.",
+      "options": [
+        "1,204·10²³; 0,8",
+        "12,04·10²²; 25,6",
+        "6,02·10²³; 32",
+        "3,01·10²³; 6,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 92,
+      "question": "CO va CO₂ dan iborat aralashmadagi uglerod va kislorod massalari nisbati 1:2 ga teng. Aralashmadagi gazlarning massa ulushini (%) aniqlang.",
+      "options": [
+        "39; 61",
+        "50; 50",
+        "45; 55",
+        "35; 65"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "CO va CO₂ dan iborat aralashmadagi uglerod va kislorod massalari nisbati 3:5 ga teng. Aralashmadagi gazlarning massa ulushini (%) aniqlang.",
+      "options": [
+        "30; 70",
+        "50; 50",
+        "25; 75",
+        "66; 34"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 94,
+      "question": "CO va CO₂ dan iborat 37,6 g aralashma yetarli miqdordagi kislorodda yondirilganda 44 g mahsulot hosil boʻlsa, boshlangʻich aralashmadagi karbonat angidridning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "60",
+        "40",
+        "70",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 95,
+      "question": "Uglerod yonishi natijasida 11,2 l (n.sh.) uglerod oksidlarining aralashmasi hosil boʻlib, uning geliyga nisbatan zichligi 9 boʻlsa, reaksiya uchun sarflangan kislorod hajmini (l, n.sh.) hisoblang.",
+      "options": [
+        "8,4",
+        "5,6",
+        "11,2",
+        "8,96"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 96,
+      "question": "Vodorodga nisbatan zichligi 12 ga teng boʻlgan metan va propan aralashmasini 28 litrini toʻla yondirish uchun tarkibida hajm jihatdan 40% ozon boʻlgan kislorod-ozon aralashmasidan qancha hajm (l) sarflangan?",
+      "options": [
+        "200/3",
+        "120",
+        "110/3",
+        "115"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 97,
+      "question": "Oltingugurt(VI) oksidini sintez qilishda yopiq idishda oltingugurt(IV) oksidi va kislorodning reaksion aralashmasida bosim 20% ga kamaydi (doimiy temperaturada). Boshlangʻich aralashmada hajm boʻyicha 50% oltingugurt(IV) oksid boʻlsa hosil boʻlgan aralashmadagi moddalarni hajmiy ulushini aniqlang?",
+      "options": [
+        "50; 12,5; 37,5",
+        "12,5; 37,5; 50",
+        "12,5; 50; 37,5",
+        "37,5; 50; 12,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 98,
+      "question": "O₂ va H₂ aralashmasining (hajmiy ulushi 40% va 60%) havoga nisbatan zichligini aniqlang.",
+      "options": [
+        "0,48",
+        "0,37",
+        "0,42",
+        "0,21"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "N₂O, N₂O₃, N₂O₅ dan iborat 20 g aralashma 5,6 l keladi. Aralashmadagi kislorodning massasini toping.",
+      "options": [
+        "12",
+        "13",
+        "16",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 100,
+      "question": "C₂H₂, C₂H₄, C₂H₆ dan iborat 11 g aralashma 8,96 l keladi. Ushbu aralashmani yoqish uchun vodorodga nisbatan zichligi 18,4 boʻlgan ozon va kislorod aralashmasidan necha litr kerak boʻladi?",
+      "options": [
+        "33,6",
+        "13,44",
+        "20,16",
+        "22,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 101,
+      "question": "Vodorod va nomaʼlum gazdan iborat aralashmaning geliyga nisbatan zichligi 2 ga teng boʻlib, undagi vodorodning hajmiy ulushi nomaʼlum gazning massa ulushiga teng. Aralashmadagi nomaʼlum gazning molekulyar massasini toping.",
+      "options": [
+        "32",
+        "28",
+        "30",
+        "44"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 102,
+      "question": "Vodorod va is gazidan iborat 70 ml aralashmaga 70 ml O₂ qoʻshib portlatildi. Reaksiya tugagach, sistema dastlabki sharoitga keltirilganda hajm 105 ml gacha kamaydi. Suv bugʻlari kondensatlangandan soʻng esa hajm 70 ml ga teng boʻldi. Boshlangʻich gazlar aralashmasidagi gazlarning massa ulushini aniqlang.",
+      "options": [
+        "0,08; 0,92",
+        "0,067; 0,933",
+        "0,5; 0,5",
+        "0,4; 0,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "Propin va siklobutandan iborat 49,6 g gazlar aralashmasini Ni katalizatorida toʻla gidrogenlanganda 52,4 g alkanlar aralashmasi hosil boʻlsa, hosil boʻlgan gazlar aralashmasining zichligini (g/l) toping?",
+      "options": [
+        "2,34",
+        "2,32",
+        "2,24",
+        "3,34"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 104,
+      "question": "Hajmi 21 litr boʻlgan metan, propan va kisloroddan iborat aralashma qoldiqsiz reaksiyaga kirishganda, 23 litr gazlar aralashmasi hosil boʻldi (suv bugʻi kondensatlanmagan). Boshlangʻich aralashmadagi kislorodning hajmini toping.",
+      "options": [
+        "12",
+        "14",
+        "16",
+        "15"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 105,
+      "question": "CH₄, NH₃, H₂ aralashmasida ammiakning massa ulushi 32,075%, hajmiy ulushi esa 20% boʻlsa vodorodning hajmiy ulushini toping?",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "45"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 106,
+      "question": "Cl₂ va SO₂ dan iborat gazlar aralashmasining oʻrtacha molyar massasi 66,1 ga teng. Shu aralashmaning 1 moliga 2 mol A va B gazlar (mol nisbati Cl₂ va SO₂ kabi) qoʻshildi. Hosil boʻlgan gazlar aralashmasining oʻrtacha molyar massasi 41,5 ga teng boʻldi. A va B gazlarni toping. Mr(A) − Mr(B) = 4.",
+      "options": [
+        "O₂, N₂",
+        "CO₂, Ar",
+        "CO₂, O₃",
+        "Ne, CH₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "Nomaʼlum gaz, metan va karbonat angidriddan iborat aralashmada CH₄ va CO₂ ning massa ulushi 29,63% va 40,74%. Shu aralashmada CO₂ ning hajmiy ulushi 25% ekanligi maʼlum boʻlsa, nomaʼlum gazni toping?",
+      "options": [
+        "O₂",
+        "CH₄",
+        "N₂O",
+        "CO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 108,
+      "question": "Koks gazi tozalangandan keyin quyidagi tarkibga ega boʻladi: vodorodning hajmiy ulushi − 60%, CH₄ − 25%, CO − 5%, C₂H₄ − 2%, N₂ − 4%, CO₂ − 2%, yonmaydigan boshqa gazlar − 2%. 200 m³ hajmdagi koks gazidan qancha hajm NH₃ sintez qilish mumkin?",
+      "options": [
+        "12 m³",
+        "14 m³",
+        "16 m³",
+        "18 m³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 109,
+      "question": "Kislorod va nomaʼlum gaz aralashmasining geliy boʻyicha zichligi 2,75 ga teng boʻlib, aralashmadagi kislorodning massasi nomaʼlum gaznikidan 8,2 g ga koʻp, hajmi esa 8,96 l ga kam ekanligi maʼlum. Nomaʼlum gazni toping.",
+      "options": [
+        "CH₄",
+        "H₂",
+        "He",
+        "Ne"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 110,
+      "question": "Azot va nomaʼlum gaz aralashmasining vodorod boʻyicha zichligi 11,6 ga teng boʻlib, aralashmadagi azotning massasi nomaʼlum gaznikidan 0,2 g ga, hajmi esa 1,12 l ga kam. Nomaʼlum gazni toping.",
+      "options": [
+        "CH₄",
+        "H₂",
+        "He",
+        "Ne"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 111,
+      "question": "Metanning miqdori propannikidan 3 marta koʻp boʻlgan metan, propan va yetarli miqdordagi kisloroddan iborat aralashma yondirilganda, hosil boʻlgan gazlar aralashmasini hajmi boshlangʻich aralashma hajmidan 2,24 l (n.sh) ga ortiq boʻlsa, boshlangʻich aralashmadagi kislorodning miqdorini (mol) aniqlang.",
+      "options": [
+        "1,1",
+        "0,6",
+        "0,4",
+        "0,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 112,
+      "question": "Vodorod va kislorod aralashmasida D(He) necha boʻlganda ω(O₂) = φ(H₂) boʻladi.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 113,
+      "question": "Silanni xlorlash natijasida argonga nisbatan zichligi 4,25 boʻlgan moddadan 1,7 g hosil boʻldi. Reaksiyaga kirishgan silan va xlorning hajmiy nisbati 1:8 boʻlsa, shuncha xlor olish uchun qancha (g) bertole tuzi kerak?",
+      "options": [
+        "4,22",
+        "2,81",
+        "1,63",
+        "3,27"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 114,
+      "question": "Teng hajmda olingan uchta gazning oʻrtacha molekulyar massasi 33,33 g/mol boʻlsa, shu aralashmaga nomaʼlum gaz qoʻshilgandan soʻng oʻrtacha molekulyar massasi 41 g/mol boʻlgan aralashmada barcha gazlarning hajmiy ulushlari oʻzaro tenglashdi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "SO₂",
+        "SO₃",
+        "CO₂",
+        "NO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 115,
+      "question": "Teng hajmda olingan uchta gazning oʻrtacha molekulyar massasi 28 g/mol boʻlsa, shu aralashmaga nomaʼlum gaz qoʻshilgandan soʻng oʻrtacha molekulyar massasi 25 g/mol boʻlgan aralashmada barcha gazlarning hajmiy ulushlari oʻzaro tenglashdi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ar",
+        "SO₃",
+        "CH₄",
+        "N₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 116,
+      "question": "Teng hajmda olingan uchta gazning oʻrtacha molekulyar massasi 40 g/mol boʻlsa, shu aralashma massasiga teng massada nomaʼlum gaz qoʻshilgandan soʻng oʻrtacha molekulyar massasi 160/3 g/mol boʻlgan boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ar",
+        "SO₃",
+        "CH₄",
+        "N₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 117,
+      "question": "Teng hajmda olingan uchta gazning oʻrtacha molekulyar massasi 30 g/mol boʻlsa, shu aralashma massasiga teng massada nomaʼlum gaz qoʻshilgandan soʻng oʻrtacha molekulyar massasi 24 g/mol boʻlgan boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ar",
+        "SO₂",
+        "CH₄",
+        "Ne"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 118,
+      "question": "Teng hajmda olingan uchta gazning oʻrtacha molekulyar massasi 30 g/mol boʻlsa, shu aralashma hajmiga teng hajmda nomaʼlum gaz qoʻshilgandan soʻng oʻrtacha molekulyar massasi 23 g/mol boʻlgan boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ar",
+        "SO₂",
+        "CH₄",
+        "Ne"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 119,
+      "question": "N₂, O₂ va NO₂ aralashmasi (D(H₂) = 17,25) ishqor eritmasidan oʻtkazilganda D(He) = 84/11 boʻlgan aralashma hosil boʻldi. Dastlabki aralashmadagi N₂ ning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "16,667",
+        "33,33",
+        "25",
+        "75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 120,
+      "question": "Hajmlari teng boʻlgan ikkita gazlar aralashmasi bor. Birinchi aralashma tarkibida NO₂ va O₂ gazlari, ikkinchisining tarkibida SO₂ va N₂ gazlari bor. Har qaysi aralashmadagi komponentlarning massalari ham oʻzaro teng. Yopiq hajmda 400 K haroratda gazlarning hammasi aralashtirildi. Oxirgi aralashmadagi azotning hajmiy ulushini % da toping.",
+      "options": [
+        "22%",
+        "38%",
+        "16%",
+        "24%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 121,
+      "question": "Kislorod va PH₃ ni elektron, proton, neytronlar yigʻindisi kislorodning proton va neytronlar yigʻindisidan 4,75 marta katta boʻlsa, aralashmadagi PH₃ ni massa ulushini toping.",
+      "options": [
+        "17",
+        "68",
+        "34",
+        "51"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 122,
+      "question": "Is gazi, karbonat angidrid, sulfit angidridlardan iborat aralashmaning zichligi 2,036 g/l (n.sh) ga teng. Agar shu aralashmaning toʻliq oksidlanishi uchun 44,8 l havo sarflansa, dastlabki gazlarning hajmiy ulushlarini (%) aniqlang. (Havodagi kislorodning ulushi 20%)",
+      "options": [
+        "0,4; 0,2; 0,4",
+        "40, 20, 40",
+        "25, 19, 56",
+        "0,25; 0,19; 0,56"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 123,
+      "question": "80 litr ammiak bilan kislorod aralashmasi Pt katalizatori ishtirokida oksidlandi. Suv bugʻlari kondensatlangach 25 litr O₂ ortib qoldi. Boshlangʻich aralashmadagi NH₃ ning hajmini (l) toping.",
+      "options": [
+        "20",
+        "50",
+        "25",
+        "40"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 124,
+      "question": "1:1,5 hajmiy nisbatda olingan X va Y gazlari aralashmasining oʻrtacha molyar massasi bilan 1,5:1 hajmiy nisbatda olingan X va Y gazi aralashmasining oʻrtacha molyar massasi ayirmasi 3,2 ga teng, yigʻindisi esa ayirmasidan 22,5 marta koʻp. X va Y gazlarni toping.",
+      "options": [
+        "CO, CO₂",
+        "NO, NO₂",
+        "N₂, O₂",
+        "O₂, O₃"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 125,
+      "question": "1:2 hajmiy nisbatda olingan X va Y gazlari aralashmasining oʻrtacha molyar massasi bilan 2:1 hajmiy nisbatda olingan X va Y gazi aralashmasining oʻrtacha molyar massasi ayirmasi 8 ga teng, yigʻindisi esa ayirmasidan 13 marta katta. X va Y gazlarni toping.",
+      "options": [
+        "NO, CO₂",
+        "Ar, SO₂",
+        "N₂, O₂",
+        "O₂, O₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 126,
+      "question": "CH₄, N₂O va nomaʼlum gaz aralashmasi ρ = 1,375 g/l, shu aralashmada CH₄ va N₂O teng hajmda, N₂O va nomaʼlum gaz teng massada boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "O₂",
+        "H₂",
+        "NH₃",
+        "He"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 127,
+      "question": "CO₂, H₂ va nomaʼlum gaz aralashmasi vodorodga nisbatan zichligi 11,334 ga teng, shu aralashmada CO₂ va H₂ teng hajmda, H₂ va nomaʼlum gaz teng massada boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "O₂",
+        "N₂",
+        "NH₃",
+        "He"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 128,
+      "question": "Hajmiy ulushlari 40% H₂ va 60% C₃H₄ dan iborat aralashmani yondirish uchun 145,6 litr (n.sh) havo sarflandi. Aralashmaning massasini aniqlang.",
+      "options": [
+        "13,2",
+        "12,4",
+        "9,4",
+        "16"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 129,
+      "question": "Is gazi va vodoroddan iborat 80 ml aralashma 60 ml kislorod qoʻshib, portlatildi. Suv bugʻlari kondensatlangandan soʻng, gazlar hajmi 40 ml boʻlib qoldi. Boshlangʻich aralashmadagi gazlarning hajmiy ulushlarini aniqlang.",
+      "options": [
+        "0,5; 0,5",
+        "0,25; 0,75",
+        "0,4; 0,6",
+        "0,3; 0,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 130,
+      "question": "Is gazi va vodoroddan iborat 90 ml aralashma 60 ml kislorod qoʻshib, portlatildi. Suv bugʻlari kondensatlangandan soʻng, gazlar hajmi 60 ml boʻlib qoldi. Hosil boʻlgan aralashmadagi gazlarning hajmiy ulushlarini aniqlang.",
+      "options": [
+        "0,5; 0,5",
+        "0,25; 0,75",
+        "0,4; 0,6",
+        "0,3; 0,7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 131,
+      "question": "Is gazi va vodoroddan iborat 40 ml aralashma 30 ml kislorod qoʻshib, portlatildi. Suv bugʻlari kondensatlangandan soʻng, gazlar hajmi 20 ml boʻlib qoldi. Boshlangʻich (1) va hosil boʻlgan (2) aralashmadagi gazlarning hajmiy ulushlarini aniqlang.\na) 40:60; b) 20:80; c) 50:50; d) 30:70; e) 25:75.",
+      "options": [
+        "1-a; 2-b",
+        "1-e; 2-c",
+        "1-d; 2-c",
+        "1-b; 2-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 132,
+      "question": "Is gazi va metandan iborat 40 ml aralashma 50 ml kislorod qoʻshib, portlatildi. Suv bugʻlari kondensatlangandan soʻng, gazlar hajmi 55 ml boʻlib qoldi. Boshlangʻich aralashmadagi gazlarning hajmiy ulushlarini aniqlang.",
+      "options": [
+        "0,5; 0,5",
+        "0,25; 0,75",
+        "0,4; 0,6",
+        "0,3; 0,7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 133,
+      "question": "Is gazi va metandan iborat 60 ml aralashma 115 ml kislorod qoʻshib, portlatildi. Suv bugʻlari kondensatlangandan soʻng, gazlar hajmi 100 ml boʻlib qoldi. Hosil boʻlgan aralashmadagi gazlarning hajmiy ulushlarini aniqlang.",
+      "options": [
+        "0,5; 0,5",
+        "0,25; 0,75",
+        "0,4; 0,6",
+        "0,3; 0,7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 134,
+      "question": "CO va CO₂ dan iborat 100 ml aralashma 100 ml kislorod qoʻshilganda, gazlar hajmi 180 ml boʻlib qoldi. Boshlangʻich aralashmadagi gazlarning massa ulushlarini aniqlang.",
+      "options": [
+        "0,5; 0,5",
+        "0,298; 0,702",
+        "0,4; 0,6",
+        "0,443; 0,557"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 135,
+      "question": "100 ml propan va (moʻl miqdordagi) kislorod aralashmasi yondirildi. Reaksiya tugagandan soʻng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 70 ml ga teng boʻlsa, dastlabki aralashmaning geliyga nisbatan zichligini aniqlang.",
+      "options": [
+        "8,3",
+        "6,4",
+        "5,6",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 136,
+      "question": "100 ml propan va (moʻl miqdordagi) kislorod aralashmasi yondirildi. Reaksiya tugagandan soʻng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 70 ml ga teng boʻlsa, dastlabki aralashmadagi propanning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "8,3",
+        "6,4",
+        "5,6",
+        "10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 137,
+      "question": "Vodorod va is gazidan iborat 70 ml aralashmaga 70 ml O₂ qoʻshib portlatildi. Reaksiya tugagach, sistema dastlabki sharoitga keltirilganda hajm 105 ml gacha kamaydi. Suv bugʻlari kondensatlangandan soʻng esa hajm 70 ml ga teng boʻldi. Boshlangʻich aralashmadagi gazlarning massa nisbatini aniqlang.",
+      "options": [
+        "1:14",
+        "2:7",
+        "1:7",
+        "1:3,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 138,
+      "question": "80 ml is gazi va vodorod aralashmasiga 60 ml kislorod qoʻshib yondirildi. Suv bugʻlari kondensatlanib, sistema avvalgi holatga keltirilganda hosil boʻlgan 50 ml aralashmadagi yengil gazning massa ulushini hisoblang.",
+      "options": [
+        "59,3",
+        "32,6",
+        "43,2",
+        "48,9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 139,
+      "question": "Metan va is gazidan iborat 50 ml aralashmani yondirish uchun 75 ml kislorod qoʻshib yondirildi. Suv bugʻlari kondensatlangandan keyin, aralashma hajmi 70 ml boʻlib qolgan boʻlsa, metanning dastlabki aralashmadagi hajmiy ulushini toping.",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 140,
+      "question": "13,4 g C₂H₆, CH₄ va C₃H₈ aralashmasi yondirilganda 20,16 l CO₂ hosil boʻlsa, necha g suv hosil boʻlganligini hisoblang.",
+      "options": [
+        "18,6",
+        "23,4",
+        "19,2",
+        "24,3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 141,
+      "question": "16,4 g C₂H₆, CH₄ va C₃H₈ aralashmasi yondirilganda 28,8 g suv hosil boʻldi. Bunda ajralgan CO₂ hajmini hisoblang.",
+      "options": [
+        "24,64",
+        "22,4",
+        "20,16",
+        "29,12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 142,
+      "question": "C₂H₆, C₃H₆ va C₄H₆ gazlaridan hosil boʻlgan 16,8 l aralashma 32 g keladi. Aralashma tarkibida necha dona uglerod atomi bor?",
+      "options": [
+        "3,28·10²⁴",
+        "6,24·10²³",
+        "1,38·10²⁴",
+        "4,48·10²³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 143,
+      "question": "C₂H₂, C₂H₄ va C₂H₆ dan iborat 8,96 l aralashma 11,4 g keladi. Aralashma tarkibidagi vodorod atomlari sonini toping.",
+      "options": [
+        "1,0836·10²⁴",
+        "3,2435·10²³",
+        "2,408·10²⁴",
+        "1,3845·10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 144,
+      "question": "C₂H₄, CH₄ va C₃H₄ dan iborat 13,44 l aralashma 19,2 g kelsa, aralashma tarkibidagi uglerod atomlari sonini toping.",
+      "options": [
+        "7,826·10²³",
+        "8,428·10²³",
+        "7,224·10²³",
+        "9,632·10²³"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 145,
+      "question": "100 ml atsetilen va azotdan iborat aralashma 300 ml kislorod qoʻshib portlatildi. Reaksiyadan soʻng normal sharoitda gazlar hajmi 280 ml boʻlib qoldi. Boshlangʻich aralashmadagi azot hajmiy ulushini hisoblang.",
+      "options": [
+        "0,2",
+        "0,4",
+        "0,3",
+        "0,5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 146,
+      "question": "12 l havoga 3 l azot(II) oksid qoʻshildi va maʼlum hajmli gazlar aralashmasi hosil boʻldi. Ushbu aralashma ishqordan oʻtkazilganda uning hajmi necha foizga kamayadi?",
+      "options": [
+        "10,5",
+        "16,8",
+        "22,2",
+        "31,9"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 147,
+      "question": "10 l havoga 4 l is gazi qoʻshildi va maʼlum hajmli gazlar aralashmasi hosil boʻldi. Ushbu aralashma ishqordan oʻtkazilganda uning hajmi necha foizga kamayadi?",
+      "options": [
+        "33,33",
+        "22,22",
+        "44,44",
+        "11,11"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 148,
+      "question": "CO₂, N₂ va O₂ aralashmasidagi CO₂ hajmi azot hajmidan 2 marta koʻp, azot hajmi esa kislorod hajmidan 3 marta koʻp boʻlsa, aralashmaning oʻrtacha molyar massasini hisoblang.",
+      "options": [
+        "38",
+        "36",
+        "37,2",
+        "39,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 149,
+      "question": "CO₂, N₂ va O₂ aralashmasidagi CO₂ hajmi N₂ hajmidan 2 marta koʻp, O₂ hajmidan esa 4 marta koʻp boʻlsa, aralashmaning oʻrtacha molyar massasini hisoblang.",
+      "options": [
+        "36,2",
+        "35,4",
+        "37,7",
+        "38,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 150,
+      "question": "CO, H₂ va O₂ dan iborat aralashma yondirildi. Suv bugʻlari kondensatlangandan keyin idishdagi bosim 2 marta kamaydi. Qolgan gazlar ishqor eritmasidan oʻtkazilgandan keyin esa idishdagi bosim boshlangʻich bosimga nisbatan 10 marta kamaydi. Boshlangʻich aralashma foiz tarkibini toping.",
+      "options": [
+        "30; 30; 40",
+        "30; 20; 50",
+        "40; 10; 50",
+        "40; 20; 40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 151,
+      "question": "CO, H₂ va O₂ dan iborat aralashma yondirildi. Suv bugʻlari kondensatlangandan keyin idishdagi bosim 2 marta kamaydi. Qolgan gazlar ishqor eritmasidan oʻtkazilgandan keyin esa idishdagi bosim boshlangʻich bosimga nisbatan 4 marta kamaydi. Boshlangʻich aralashma foiz tarkibini toping.",
+      "options": [
+        "30; 30; 40",
+        "30; 20; 50",
+        "25; 25; 50",
+        "40; 20; 40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 152,
+      "question": "CH₄, H₂ va O₂ dan iborat aralashma yondirildi. Suv bugʻlari kondensatlangandan keyin idishdagi bosim 2,8 marta kamaydi. Qolgan gazlar ishqor eritmasidan oʻtkazilgandan keyin esa idishdagi bosim boshlangʻich bosimga nisbatan 7 marta kamaydi. Boshlangʻich aralashma foiz tarkibini toping. (CH₄ va H₂ toʻliq yongan)",
+      "options": [
+        "21,43; 33,33; 45,2",
+        "33,33; 22,22; 44,45",
+        "21,43; 14,28; 64,29",
+        "44,23; 22,22; 33,55"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 153,
+      "question": "CO, H₂ va O₂ dan iborat aralashma yondirildi. Suv bugʻlari kondensatlangandan keyin idishdagi bosim 3 marta kamaydi. Qolgan gazlar ishqor eritmasidan oʻtkazilgandan keyin esa idishdagi bosim boshlangʻich bosimga nisbatan 10 marta kamaydi. Boshlangʻich aralashma foiz tarkibini toping. (CH₄ va H₂ toʻliq yongan)",
+      "options": [
+        "23,33; 36,67; 40",
+        "33,33; 22,22; 44,45",
+        "23,33; 33,33; 43,34",
+        "44,34; 22,23; 33,43"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 154,
+      "question": "NO va N₂ aralashmasining 50 ml miqdori 25 ml havo bilan aralashtirilgandan keyin gazlarning hajmi 70 ml ni tashkil qildi. Olingan aralashmaga 145 ml havo qoʻshildi. Shundan keyin aralashma hajmi 200 ml boʻldi. Boshlangʻich gazlar, 1-aralashtirishdan keyingi gazlar, 2-aralashtirishdan keyingi gazlar aralashmasining oʻrtacha molyar massasini toping.",
+      "options": [
+        "29,6; 31,42; 31,88",
+        "28,4; 30,57; 31,1",
+        "29,6; 32,123; 30,03",
+        "31,1; 28,9; 31,12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 155,
+      "question": "Mol nisbatlari 1:3:1 boʻlgan silan, kislorod va azotdan iborat aralashma yoqildi va 20°C ga qadar sovutildi. Oxirgi aralashmadagi gazlar aralashmasining oʻrtacha molyar massasini aniqlang.",
+      "options": [
+        "32",
+        "28",
+        "30",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 156,
+      "question": "Karbonat angidrid, azot va metandan iborat oʻrtacha massasi 32 boʻlgan aralashma ishqor eritmasidan oʻtkazilishi natijasida hosil boʻlgan gazlar aralashmasining vodorodga nisbatan zichligi 12 boʻlib qoldi. Boshlangʻich aralashmadagi oksidning hajmiy ulushini toping.",
+      "options": [
+        "0,25",
+        "0,5",
+        "0,75",
+        "0,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 157,
+      "question": "Karbonat angidrid, azot va metandan iborat geliyga nisbatan zichligi 7,375 boʻlgan aralashma ishqor eritmasidan oʻtkazilishi natijasida hosil boʻlgan gazlar aralashmasining vodorodga nisbatan zichligi 10,4 boʻlib qoldi. Boshlangʻich aralashmadagi oksidning hajmiy ulushini toping.",
+      "options": [
+        "0,25",
+        "0,5",
+        "0,375",
+        "0,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 158,
+      "question": "Karbonat angidrid, azot va metandan iborat oʻrtacha massasi 26 boʻlgan aralashma ishqor eritmasidan oʻtkazilishi natijasida hosil boʻlgan gazlar aralashmasining vodorodga nisbatan zichligi 10 boʻlib qoldi. Boshlangʻich aralashmadagi oddiy moddaning massa ulushini toping.",
+      "options": [
+        "0,25",
+        "0,2692",
+        "0,75",
+        "0,731"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "Geliyga nisbatan zichligi 7,7 boʻlgan NO va O₂ dan iborat aralashmasidagi moddalar reaksiyaga kirishgandan keyin hosil boʻlgan aralashmaning vodorodga nisbatan zichligi 19,25 boʻlib qoldi. Hosil boʻlgan aralashmadagi azot(IV) oksidining hajmiy ulushini (%) toping.",
+      "options": [
+        "25",
+        "40",
+        "50",
+        "75"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 160,
+      "question": "Geliyga nisbatan zichligi 7,2 boʻlgan CO va O₂ dan iborat aralashmasidagi moddalar reaksiyaga kirishgandan keyin hosil boʻlgan aralashmaning vodorodga nisbatan zichligi 16 boʻlib qoldi. Hosil boʻlgan aralashmadagi uglerod(IV) oksidining hajmiy ulushini (%) toping.",
+      "options": [
+        "22,22",
+        "66,66",
+        "11,11",
+        "33,33"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 161,
+      "question": "C₃H₈, CH₄ va CO dan iborat 15,68 l (n.sh) aralashmada kislorod atomi 12,04·10²² ta boʻlib, vodorod atomlari undan 12 marta koʻp, dastlabki aralashma yondirilganda qancha hajm (l; n.sh) CO₂ hosil boʻladi?",
+      "options": [
+        "16,8",
+        "20,16",
+        "13,44",
+        "22,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Odatda havo tarkibida hajm jihatdan 0,04% CO₂ boʻladi. Agar uning havodagi miqdori 0,1% gacha koʻtarilsa, bosh ogʻrigʻi va nafas olish qiyinlashuvi vujudga keladi. 19 ta oʻquvchidan iborat, havo almashtirgich tizimi boʻlmagan 5×8×3 m³ oʻlchamli oʻquv zalida qancha vaqt (min) dan soʻng yuqoridagi holat kuzatila boshlaydi? (1 ta oʻquvchi har soat 20 l CO₂ ajratadi deb hisoblang)",
+      "options": [
+        "15",
+        "16",
+        "12",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 163,
+      "question": "Odatda havo tarkibida 0,04% CO₂ boʻladi. Agar uning havodagi miqdori 0,1% gacha koʻtarilsa, bosh ogʻrigʻi va nafas olish qiyinlashuvi vujudga keladi. 15 ta oʻquvchidan iborat, havo almashtirgich tizimi boʻlmagan 4×5×2,5 m³ oʻlchamli oʻquv zalida qancha vaqt (min) dan soʻng yuqoridagi holat kuzatila boshlaydi? (1 ta oʻquvchi har soat 20 l CO₂ ajratadi deb hisoblang)",
+      "options": [
+        "6",
+        "4",
+        "9",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 164,
+      "question": "Ar va O₂ aralashmasining vodorodga nisbatan zichligi 39 ga teng. Aralashma orqali oʻzgarmas elektr toki oʻtkazildi. Natijada olingan yangi aralashmaning vodorodga nisbatan zichligi 40 ga teng boʻldi. Yangi aralashmadagi argonning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "78,95",
+        "20,75",
+        "82,5",
+        "70"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 165,
+      "question": "MnO₂ ni 30% li HCl ning 100 ml miqdordagi eritmasi (1,15 g/ml) bilan ishlanganda xlor ajralib chiqqan va eritmada kislotaning massa ulushi 4,74% gacha kamaygan. Hosil boʻlgan xlorni boshqa nomaʼlum gaz bilan aralashtirib massasi 15,8 g va normal sharoitda 6,72 l hajmni egallaydigan aralashma olingan. Nomaʼlum gazning molekulyar massasini aniqlang.",
+      "options": [
+        "4",
+        "2",
+        "16",
+        "32"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 166,
+      "question": "Argonning hajmiy ulushi x boʻlgan argon va neondan iborat aralashmaning oʻrtacha molekulyar massasi neonning hajmiy ulushi x boʻlgan shunday tarkibli aralashmaning oʻrtacha molekulyar massasidan 8 birlikka kichik. Dastlabki aralashmadagi argonning massa ulushini (%) aniqlang.",
+      "options": [
+        "58,81",
+        "23,55",
+        "46,15",
+        "53,84"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 167,
+      "question": "Azotning hajmiy ulushi x boʻlgan azot va metandan iborat aralashmaning oʻrtacha molekulyar massasi metanning hajmiy ulushi x boʻlgan shunday tarkibli aralashmaning oʻrtacha molekulyar massasidan 2,4 birlikka kichik. Dastlabki aralashmadagi azotning massa ulushini (%) aniqlang.",
+      "options": [
+        "58,81",
+        "23,55",
+        "46,15",
+        "53,84"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 168,
+      "question": "Azot, vodorod va metandan iborat 130 ml aralashmaga 200 ml kislorod qoʻshildi va yondirildi. Hosil boʻlgan gazlar aralashmasida suv bugʻlari kondensatlangandan soʻng, aralashmaning hajmi 144 ml ni tashkil qildi. Qolgan gazlar aralashmasi ishqor eritmasidan oʻtkazilgandan soʻng aralashmaning hajmi 50% ga kamaydi. Dastlabki aralashmadagi azotning hajmini aniqlang.",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 169,
+      "question": "Azot, vodorod va metandan iborat 200 ml aralashmaga 290 ml kislorod qoʻshildi va yondirildi. Hosil boʻlgan gazlar aralashmasida suv bugʻlari kondensatlangandan soʻng, aralashmaning hajmi 200 ml ni tashkil qildi. Qolgan gazlar aralashmasi ishqor eritmasidan oʻtkazilgandan soʻng aralashmaning hajmi 50% ga kamaydi. Dastlabki aralashmaning oʻrtacha molekulyar massasini aniqlang.",
+      "options": [
+        "16,8",
+        "20,4",
+        "14,2",
+        "9,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 170,
+      "question": "Azot, vodorod va metandan iborat 100 ml aralashmaga 185 ml kislorod qoʻshildi va yondirildi. Hosil boʻlgan gazlar aralashmasida suv bugʻlari kondensatlangandan soʻng, aralashmaning hajmi 137,5 ml ni tashkil qildi. Qolgan gazlar aralashmasi ishqor eritmasidan oʻtkazilgandan soʻng aralashmaning hajmi 40% ga kamaydi. Dastlabki aralashmaning oʻrtacha molekulyar massasini aniqlang.",
+      "options": [
+        "16,8",
+        "21,8",
+        "14,9",
+        "12,5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 171,
+      "question": "Azot, vodorod va metandan iborat 160 ml aralashmaga 200 ml kislorod qoʻshildi va yondirildi. Hosil boʻlgan gazlar aralashmasida suv bugʻlari kondensatlangandan soʻng, aralashmaning hajmi 150 ml ni tashkil qildi. Qolgan gazlar aralashmasi ishqor eritmasidan oʻtkazilgandan soʻng aralashmaning hajmi 40% ga kamaydi. Dastlabki aralashmadagi azotning hajmini aniqlang.",
+      "options": [
+        "20",
+        "30",
+        "40",
+        "50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 172,
+      "question": "Etilen va atsetilen gazlari aralashmasi yetarli miqdordagi kislorodda yondirilganda hosil boʻlgan gazlar aralashmasi tarkibidagi CO₂ va H₂O larning hajmiy ulushlari mos ravishda 60% va 40% ga teng boʻlsa, dastlabki aralashmadagi etilenning massa ulushini aniqlang.",
+      "options": [
+        "65",
+        "40",
+        "35",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 173,
+      "question": "Etilen va atsetilen gazlari aralashmasi yetarli miqdordagi kislorodda yondirilganda hosil boʻlgan gazlar aralashmasi tarkibidagi CO₂ va H₂O larning hajmiy ulushlari mos ravishda 60% va 40% ga teng boʻlsa, dastlabki aralashmadagi etilenning massa ulushini aniqlang.",
+      "options": [
+        "50",
+        "45,45",
+        "26,66",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 174,
+      "question": "Propen va eten gazlari aralashmasi yondirilganda hosil boʻlgan gazlar aralashmasi tarkibidagi CO₂ va H₂O larning hajmiy ulushlari mos ravishda 50% va 50% ga teng boʻlsa, dastlabki aralashmaning oʻrtacha molyar massasini aniqlang.",
+      "options": [
+        "25,2",
+        "35",
+        "39,6",
+        "28"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 175,
+      "question": "Propen va metandan iborat 11,2 l (n.sh) aralashmasini yoqish uchun O₂ va O₃ aralashmasidan (φ(O₃) = 0,4) 1,25 mol sarflandi. Hosil boʻlgan CO₂ ni nordon tuzga aylantirish uchun 17,5% li (ρ = 1,2 g/ml) KOH eritmasidan necha ml kerak?",
+      "options": [
+        "300",
+        "240",
+        "280",
+        "200"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 176,
+      "question": "Etan va atsetilen gazlari aralashmasi yondirilganda hosil boʻlgan gazlar aralashmasi tarkibidagi CO₂ va H₂O larning hajmiy ulushlari mos ravishda 62,5% va 37,5% ga teng boʻlsa, dastlabki aralashmaning oʻrtacha molyar massasini aniqlang.",
+      "options": [
+        "25,2",
+        "26,4",
+        "30,8",
+        "28"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 177,
+      "question": "20 ml atsetilen va azotdan iborat aralashmaga 60 ml kislorod qoʻshildi. Reaksiyadan keyingi aralashma hajmi 56 ml ga teng boʻldi. Boshlangʻich aralashmaning havoga nisbatan zichligini aniqlang.",
+      "options": [
+        "0,91",
+        "1,1",
+        "0,84",
+        "1,15"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 178,
+      "question": "Havoga nisbatan zichligi 1,18 ga teng boʻlgan CO₂, N₂ va O₂ dan iborat 20 litr aralashma ishqoriy eritma orqali oʻtkazilganda aralashma hajmi 15 litrgacha kamaydi. Aralashmaning hajmiy tarkibini (%) mos ravishda aniqlang.",
+      "options": [
+        "40; 19,5; 40,5",
+        "20; 24,5; 55,5",
+        "25; 19,5; 55,5",
+        "25; 25; 50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 179,
+      "question": "Vodorodga nisbatan zichligi 10,5 ga teng boʻlgan NH₃ va CO dan iborat 55 l gazlar aralashmasini yondirish uchun tarkibida hajm jihatdan 50% O₃ boʻlgan kislorod-ozon aralashmasidan qancha hajm (l; n.sh) kerak boʻladi?",
+      "options": [
+        "20,16",
+        "29",
+        "32",
+        "22,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 180,
+      "question": "8,96 l ammiak yetarli miqdordagi kislorodda toʻliq yondirilganda 1 ta oddiy va 2 ta murakkab gazdan iborat (D(He) = 49/9) yangi aralashma hosil boʻlsa, necha foiz ammiak katalizator ishtirokida yondirilgan?",
+      "options": [
+        "66,6",
+        "75",
+        "60",
+        "50"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 181,
+      "question": "Vodorod va azot reaksiyasi natijasida bosim 20% ga kamaydi. Hosil boʻlgan ammiak hajmi ortib qolgan vodorodning hajmiga teng boʻlsa, reaksiya uchun olingan vodorod va azotning mol nisbatini toping. (reaksiyadan soʻng ikkita oddiy va bitta murakkab modda bor)",
+      "options": [
+        "1:2",
+        "2:1",
+        "1:1",
+        "3:1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 182,
+      "question": "Yopiq idishda 150°C haroratda teng hajmda vodorod va kislorod bor edi. Vodorod yonib boʻlgandan keyin idish harorati yana dastlabki haroratgacha keltirilganda idishdagi bosim qanday oʻzgaradi?",
+      "options": [
+        "25% kamayadi",
+        "75% ga kamayadi",
+        "40% ga ortadi",
+        "60% ga ortadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 183,
+      "question": "Hajmlari 3:1 nisbatda boʻlgan vodorod va azot aralashmasi kontakt apparati orqali oʻtkazilganda vodorodning 20% foizi (hajmiy ulushi) ammiakka aylangan boʻlsa, kontakt apparatdan chiqqan gazlarning hajmiy ulushlarini (%) hisoblang.",
+      "options": [
+        "66,7; 22,2; 11,1",
+        "54,3; 36,6; 9,1",
+        "70,2; 20,4; 4,8",
+        "58,5; 30,5; 11"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 184,
+      "question": "60 ml azot va metan aralashmasi 60 ml kislorodda (moʻl miqdorda) yondirildi. Reaksiya tugaganidan soʻng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 80 ml ga teng boʻlsa, dastlabki aralashmadagi azotning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "66,67",
+        "33,33",
+        "25",
+        "75"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 185,
+      "question": "2 ta bir xil kolbaning birida havo, ikkinchisida neon gazi mavjud. Kolbalar tarozida tortilganda 1-idishning massasi 2-idishning massasidan 0,54 g ga ogʻirligi maʼlum boʻldi. Kolbalarning hajmini (l, n.sh.) aniqlang.",
+      "options": [
+        "1,344",
+        "0,336",
+        "0,672",
+        "0,896"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 186,
+      "question": "Uchta bir xil kolbaning birinchisiga havo, ikkinchisiga neon, uchinchisiga nomaʼlum gaz toʻldirilgan. Birinchi kolbaning massasi ikkinchisidan 0,54 g ga ogʻir, uchinchisidan esa 0,9 g ga yengil boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "C₃H₈",
+        "C₄H₁₀",
+        "C₂H₆",
+        "C₃H₆"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 187,
+      "question": "Idish boʻshatildi va tortib koʻrilganda 158 g keldi. Maʼlum harorat va bosimda O₂ bilan toʻldirildi va qayta oʻlchanganda 162 g keldi. Idish boʻshatildi va nomaʼlum gaz va He teng hajmli aralashmasi avvalgi sharoitda toʻldirilib oʻlchanganda 163,25 g keldi. Nomaʼlum gazning molyar massasini toping.",
+      "options": [
+        "64",
+        "80",
+        "44",
+        "48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 188,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish O₂, 2-idish N₂, 3-idish tarkibida 25% (massa boʻyicha) X gaz saqlagan 1:1,5 mol nisbatda olingan X va Y gazlari aralashmasi bilan toʻldirilgan. 1- va 2-idishlarning massalari mos ravishda 29,2 va 26,8 g ga teng boʻlsa, Y gazni aniqlang. (m(1-idish) − m(3-idish) = 3,84)",
+      "options": [
+        "O₃",
+        "SiH₄",
+        "NO",
+        "N₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 189,
+      "question": "Propan bilan toʻldirilgan kolba massasi metan bilan toʻldirilgan kolba massasidan 1,4 g ga ogʻir, nomaʼlum gaz bilan toʻldirilgan kolba massasidan esa 0,7 g ga ogʻir boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "NO",
+        "CO",
+        "BH₃",
+        "SiH₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 190,
+      "question": "Azot bilan toʻldirilgan kolba massasi kislorod bilan toʻldirilgan kolba massasidan 0,8 g ga yengil, nomaʼlum gaz bilan toʻldirilgan kolba massasidan esa 4 g ga yengil boʻlsa, nomaʼlum gazni aniqlang.",
+      "options": [
+        "O₃",
+        "SO₂",
+        "PH₃",
+        "SiH₄"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 191,
+      "question": "Vodorod, is gazi va metandan iborat aralashma (D(H₂) = 8,4) ning 1 hajmini toʻliq yondirish uchun 6,25 hajm havo sarf boʻlsa, yonishdan soʻng hosil boʻlgan aralashmaning vodorodga nisbatan zichligini (n.sh) aniqlang.",
+      "options": [
+        "15,1",
+        "20",
+        "17,5",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 192,
+      "question": "Vodorod, is gazi va metandan iborat aralashmaning 1 hajmini toʻliq yondirish uchun 6,25 hajm havo sarflandi. Agar yonishdan soʻng hosil boʻlgan aralashmaning vodorodga nisbatan zichligi 15,1 ga (n.sh da) teng boʻlsa, dastlabki aralashmaning vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "10,2",
+        "8,4",
+        "7,8",
+        "12,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 193,
+      "question": "Vodorod, is gazi va metandan iborat aralashma (D(H₂) = 7,8) ning 1 hajmini toʻliq yondirish uchun 7,8 hajm havo sarf boʻlsa, yonishdan soʻng hosil boʻlgan aralashmaning vodorodga nisbatan zichligini (n.sh) aniqlang.",
+      "options": [
+        "15",
+        "20",
+        "17,5",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 194,
+      "question": "Etilen 300°C harorat qizdirilganda, metan va atsetilen hosil boʻldi. Gazlarning oʻrtacha molyar massasi 24 g/mol ga teng boʻlsa, aralashmadagi atsetilenning massa ulushini (%) aniqlang.",
+      "options": [
+        "31",
+        "50",
+        "19",
+        "54"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 195,
+      "question": "Etilen 300°C harorat qizdirilganda, metan va atsetilen hosil boʻldi. Gazlarning oʻrtacha molyar massasi 26,25 g/mol ga teng boʻlsa, aralashmadagi reaksiya unumi (%) aniqlang.",
+      "options": [
+        "12,5",
+        "20",
+        "75",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 196,
+      "question": "Etilen 300°C harorat qizdirilganda, metan va atsetilen hosil boʻldi. Gazlarning oʻrtacha molyar massasi 22,4 g/mol ga teng boʻlsa, aralashmadagi atsetilenning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "40",
+        "20",
+        "75",
+        "25"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 197,
+      "question": "Uchta gazdan iborat aralashmada NO va NO₂ larning molyar ulushlari 45% va 15% ga, aralashmadagi NO ning massa ulushi 23,6% ga teng boʻlsa, nomaʼlum gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "92",
+        "44",
+        "40",
+        "20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 198,
+      "question": "Uchta gazdan iborat aralashmada NO va Ar larning molyar ulushlari 25% va 25% ga, aralashmadagi NO ning massa ulushi 19% ga teng boʻlsa, nomaʼlum gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "92",
+        "44",
+        "40",
+        "20"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 199,
+      "question": "Uchta gazdan iborat aralashmada NO va CO larning molyar ulushlari 45% va 15% ga, aralashmadagi NO ning massa ulushi 40,06% ga teng boʻlsa, nomaʼlum gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "92",
+        "44",
+        "40",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 200,
+      "question": "Uchta gazdan iborat aralashmada NO va NO₂ larning molyar ulushlari 10% va 15% ga, aralashmadagi NO ning massa ulushi 12,05% ga teng boʻlsa, nomaʼlum gazning molyar massasini (g/mol) aniqlang.",
+      "options": [
+        "92",
+        "44",
+        "40",
+        "20"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 201,
+      "question": "860 ml N₂ va H₂ gazlari aralashmasi oʻzaro taʼsir ettirildi. Reaksiyadan soʻng hosil boʻlgan gazlar ammiakning suvli eritmasidan oʻtkazilganda hajm 380 ml ga kamaydi. Ammiakli suvdan oʻtkazilgan gaz FeO bilan reaksiyaga kirishmaydi. Dastlabki gazlar aralashmasining tarkibini aniqlang.",
+      "options": [
+        "290; 570",
+        "170; 510",
+        "190; 670",
+        "270; 610"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 202,
+      "question": "780 ml H₂ va N₂ gazlari aralashmasi reaksiyaga kirishtirildi. Hosil boʻlgan gazlar ammiakning suvli eritmasidan oʻtkazilganda hajm 340 ml ga kamaydi. Ammiakli suvdan oʻtkazilgan gaz FeO bilan reaksiyaga kirishmaydi. Dastlabki gazlar aralashmasining tarkibini aniqlang.",
+      "options": [
+        "290; 570",
+        "170; 510",
+        "190; 670",
+        "270; 510"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 203,
+      "question": "740 ml H₂ va N₂ gazlari aralashmasi reaksiyaga kirishtirildi. Hosil boʻlgan gazlar ammiakning suvli eritmasidan oʻtkazilganda hajm 320 ml ga kamaydi. Ammiakli suvdan oʻtkazilgan gaz FeO bilan reaksiyaga kirishmaydi. Dastlabki gazlar aralashmasining tarkibini aniqlang.",
+      "options": [
+        "160; 580",
+        "260; 480",
+        "140; 520",
+        "240; 420"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 204,
+      "question": "660 ml H₂ va N₂ gazlari aralashmasi reaksiyaga kirishtirildi. Hosil boʻlgan gazlar ammiakning suvli eritmasidan oʻtkazilganda hajm 280 ml ga kamaydi. Ammiakli suvdan oʻtkazilgan gaz FeO bilan reaksiyaga kirishmaydi. Dastlabki gazlar aralashmasining tarkibini aniqlang.",
+      "options": [
+        "160; 580",
+        "260; 480",
+        "140; 520",
+        "240; 420"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 205,
+      "question": "Ammiakning parchalanishi natijasida hosil boʻlgan gazlar aralashmasining geliyga nisbatan zichligi 2,55 ga teng. Ammiakning necha foiz qismi parchalanganligini toping.",
+      "options": [
+        "40",
+        "33,33",
+        "66,66",
+        "50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 206,
+      "question": "CO va CO₂ ning 200 ml aralashmasiga 800 ml havo aralashtirildi. CO yondirilgandan keyin azotning hosil boʻlgan aralashmadagi miqdori 3,37% ga ortdi. Dastlabki aralashmadagi is gazining hajmiy ulushini toping.",
+      "options": [
+        "25",
+        "50",
+        "33,3",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 207,
+      "question": "D(N₂) = 1,1 boʻlgan NO va O₂ dan iborat 33,6 litr aralashma katalizator ishtirokida reaksiyaga kirishdi va D(CO₂) = 0,875 boʻlgan aralashma hosil boʻldi. Shu aralashmadagi NO₂ ning hajmiy ulushini aniqlang.",
+      "options": [
+        "66,7",
+        "50",
+        "85,7",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 208,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish kislorod, 2-idish He, 3-idish tarkibida 20% (hajm boʻyicha) He saqlagan He va nomaʼlum gaz aralashmasi bilan toʻldirilgan. Idishlarning massalari mos ravishda 33,45; 27,85; 27,53 g ga teng boʻlsa, nomaʼlum gazning molekulyar massasini aniqlang?",
+      "options": [
+        "2",
+        "32",
+        "4",
+        "16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 209,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish C₂H₆, 2-idish CO₂, 3-idish tarkibida 40% (hajm boʻyicha) H₂ saqlagan H₂ va nomaʼlum gaz aralashmasi bilan toʻldirilgan. Idishlarning massalari mos ravishda 34; 45,2; 26 g ga teng boʻlsa, nomaʼlum gazning molekulyar massasini aniqlang?",
+      "options": [
+        "26",
+        "32",
+        "28",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 210,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish O₂, 2-idish SO₂, 3-idish tarkibida 30% (hajm boʻyicha) ozon saqlagan ozon va nomaʼlum gaz aralashmasi bilan toʻldirilgan. Idishlarning massalari mos ravishda 37,4; 45,8; 38,8 g ga teng boʻlsa, nomaʼlum gazning molekulyar massasini aniqlang?",
+      "options": [
+        "26",
+        "32",
+        "28",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 211,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish kislorod, 2-idishda argon, 3-idish tarkibida 70% (hajm boʻyicha) vodorod saqlagan vodorod va nomaʼlum gaz aralashmasi bilan toʻldirilgan. Idishlarning massalari mos ravishda 37,4; 43; 21,86 g ga teng boʻlsa, nomaʼlum gazning molekulyar massasini aniqlang?",
+      "options": [
+        "2",
+        "32",
+        "28",
+        "17"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 212,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish O₂, 2-idish N₂, 3-idish tarkibida 25% (massa boʻyicha) X gaz saqlagan 1:1,5 mol nisbatda olingan X va Y gazlari aralashmasi bilan toʻldirilgan. 1- va 2-idishlarning massalari mos ravishda 29,2 va 26,8 g ga teng boʻlsa, X gazni massasini aniqlang. (m(1-idish) − m(3-idish) = 3,84)",
+      "options": [
+        "3,84",
+        "11,52",
+        "15,36",
+        "25,36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 213,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish CO₂, 2-idish O₂, 3-idish tarkibida 40% (massa boʻyicha) X gaz saqlagan 1:1,2 mol nisbatda olingan X va Y gazlari aralashmasi bilan toʻldirilgan. 1- va 2-idishlarning massalari mos ravishda 55,2 va 45,6 g ga teng boʻlsa, X gazning molekulyar massasini aniqlang. (m(3-idish) − m(1-idish) = 23)",
+      "options": [
+        "80",
+        "64",
+        "44",
+        "73"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 214,
+      "question": "Massa va hajmlari bir xil boʻlgan 3 ta idish gazlar bilan toʻldirilgan. 1-idish Ar, 2-idish Ne, 3-idish tarkibida 50% (massa boʻyicha) X gaz saqlagan 4:1 mol nisbatda olingan X va Y gazlari aralashmasi bilan toʻldirilgan. 1- va 2-idishlarning massalari mos ravishda 44 va 32 g ga teng boʻlsa, Y gazning molekulyar massasini aniqlang. (m(1-idish) − m(3-idish) = 8,64)",
+      "options": [
+        "80",
+        "64",
+        "44",
+        "16"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 215,
+      "question": "He, Ne va Ar dan iborat 17,92 litr (n.sh.) aralashma tarkibidagi neonning hajmi geliy va argon hajmlari yigʻindisidan uch marta kichik boʻlsa, geliyning massasini (g) hisoblang. (φ(Ar) = 0,4)",
+      "options": [
+        "1,12",
+        "8,96",
+        "6,72",
+        "0,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 216,
+      "question": "D(CH₄) = 1,85 boʻlgan CO va O₂ dan iborat 44,8 litr aralashma reaksiyaga kirishdi va D(Ne) = 1,85 boʻlgan aralashma hosil boʻldi. Shu aralashmadagi CO₂ ning hajmiy ulushini aniqlang.",
+      "options": [
+        "66,7",
+        "60",
+        "50",
+        "40"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 217,
+      "question": "50 ml butan va (moʻl miqdordagi) kislorod aralashmasi yondirildi. Reaksiya tugagandan soʻng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 17,5 ml ga kamaygan boʻlsa, hosil boʻlgan gazlar aralashmasidagi kislorodning hajmiy ulushini (%) aniqlang.",
+      "options": [
+        "42,21",
+        "28,96",
+        "66,72",
+        "38,46"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 218,
+      "question": "Azot va metanning 60 ml aralashmasi 60 ml (moʻl miqdordagi) kislorodda yondirildi. Reaksiya tugagandan soʻng reaksion aralashma dastlabki sharoitga keltirilganda aralashmaning hajmi 80 ml ga teng boʻlsa, hosil boʻlgan aralashmaning vodorodga nisbatan zichligini aniqlang.",
+      "options": [
+        "17",
+        "12",
+        "10,2",
+        "16,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 219,
+      "question": "Bir aralashma tarkibidagi CH₄ va Ar hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibidagi CH₄ va Ar hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 9,6 ga teng boʻlsa, x va y larni toping.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,2; 0,8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 220,
+      "question": "Bir aralashma tarkibidagi CO₂ va SO₂ hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibidagi CO₂ va SO₂ hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 2 ga teng boʻlsa, x va y larni toping.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,2; 0,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 221,
+      "question": "Bir aralashma tarkibidagi Ne va N₂ hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibidagi Ne va N₂ hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 2,4 ga teng boʻlsa, x va y larni toping.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,2; 0,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 222,
+      "question": "Bir aralashma tarkibidagi NO₂ va SO₂ hajmiy ulushlari mos ravishda x va y ga teng, ikkinchi xuddi shunday aralashma tarkibidagi NO₂ va SO₂ hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashma oʻrtacha molyar massalarining farqi 10,8 ga teng boʻlsa, x va y larni toping.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,2; 0,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 223,
+      "question": "2H₂S·3SO₃·CH₄ dan iborat gazlar aralashmasi konsentrlangan kaliy gidroksid eritmasidan oʻtkazilganda aralashma ogʻirligi 30,8 g ga kamaydi. Metanning hajmini aniqlang.",
+      "options": [
+        "1,6",
+        "2,24",
+        "6,8",
+        "4,48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 224,
+      "question": "3H₂S·SO₃·2CH₄ dan iborat gazlar aralashmasi konsentrlangan kaliy gidroksid eritmasidan oʻtkazilganda aralashma ogʻirligi 36,4 g ga kamaydi. Boshlangʻich aralashmadagi vodorod atomlari sonini aniqlang.",
+      "options": [
+        "16,856·10²³",
+        "7,224·10²³",
+        "9,632·10²³",
+        "15,56·10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 225,
+      "question": "400 g 33,4% li natriy gidroksid eritmasi orqali qancha hajm SO₂ va N₂ aralashmasi oʻtkazilganda hosil boʻlgan eritmadagi tuzlarning foiz konsentratsiyalari bir xil boʻladi. Gazlar aralashmasidagi azotning hajmiy ulushi 54%.",
+      "options": [
+        "112",
+        "44,8",
+        "22,4",
+        "56"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 226,
+      "question": "500 g 13,36% li natriy gidroksid eritmasi orqali qancha hajm SO₂ va N₂ aralashmasi oʻtkazilganda hosil boʻlgan eritmadagi tuzlarning foiz konsentratsiyalari bir xil boʻladi. Gazlar aralashmasidagi azotning hajmiy ulushi 54%.",
+      "options": [
+        "112",
+        "44,8",
+        "22,4",
+        "56"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 227,
+      "question": "Hajmiy ulushlari 25% vodorod, 10% kislorod qolgani qismi azotdan iborat 80 ml gazlar aralashmasi portlatilgandan soʻng mahsulot kondensatsiyalangan, qolgan aralashmaning hajmini (ml) aniqlang?",
+      "options": [
+        "16",
+        "56",
+        "24",
+        "4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 228,
+      "question": "12,8 g oltingugurtning 11,2 litr kislorodda yonishidan ajralib chiqqan gazlar aralashmasi katalizator ustidan oʻtkazildi va choʻkma hosil boʻlishi tugaguncha Ba(OH)₂ ning 0,4M li eritmasiga shimdirildi. Choʻkma ajratib olinib 400 g (ρ = 1,16), 1,16 M li HCl eritmasi bilan ishlov berilganda necha gramm choʻkma erimaydi va eritmadagi tuzning konsentratsiyasi (%) qanday boʻladi.",
+      "options": [
+        "46,6; 20",
+        "43,4; 9",
+        "46,6; 9,7",
+        "43,4; 10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 229,
+      "question": "60 litr azot va kislorod aralashmasida azotning hajmiy ulushi 20% ga teng. Shu aralashmadan X litr olib, uni oʻrniga X litr kislorod gazi qoʻshiladi. Yana X litr olib, uni oʻrniga X litr kislorod gazi qoʻshiladi. Hosil boʻlgan aralashmada azotning hajmiy ulushi 7,2% boʻlsa X ni aniqlang.",
+      "options": [
+        "4",
+        "34",
+        "30",
+        "24"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 230,
+      "question": "40 litr azot va kislorod aralashmasida azotning hajmiy ulushi 30% ga teng. Shu aralashmadan X litr olib, uni oʻrniga X litr kislorod gazi qoʻshiladi. Yana X litr olib, uni oʻrniga X litr kislorod gazi qoʻshiladi. Hosil boʻlgan aralashmada azotning hajmiy ulushi 10,8% boʻlsa, X ni aniqlang.",
+      "options": [
+        "16",
+        "32",
+        "8",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 231,
+      "question": "Azot, vodorod va metan aralashmasining 170 ml miqdori 220 ml kislorod aralashtirib yondirildi. Reaksiya tugagandan soʻng va suv bugʻlari kondensatsiyalangandan soʻng mahsulotlar hajmi reaksiyadan oldingi sharoitda 170 ml boʻlgan uni moʻl miqdordagi ishqor eritmasi orqali oʻtkazilgandan keyingi hajm esa 90 ml gacha kamaygan. Boshlangʻich aralashmadagi azot hajmini (ml) aniqlang.",
+      "options": [
+        "30",
+        "40",
+        "50",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 232,
+      "question": "80 ml CO va CO₂ aralashmasiga 60 ml kislorod qoʻshilganda, gazlar hajmi 120 ml boʻlib qoldi. Boshlangʻich (1) va keyingi (2) aralashmadagi gazlarning hajmiy ulushlarini (%) aniqlang.\na) 50; 50; b) 40; 60; c) 25; 75; d) 66,67; 33,33; e) 57,38; 42,62.",
+      "options": [
+        "1-a, 2-d",
+        "1-b, 2-c",
+        "1-d, 2-e",
+        "1-a, 2-e"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 233,
+      "question": "Azot, vodorod va kisloroddan iborat gazlar aralashmasidan 20 ml hajmi yondirildi. Aralashmaning vodorod boʻyicha zichligi 14,0 ga teng. Suv kondensatlanib, gazlar aralashmasi dastlabki sharoitga keltirilgandan keyin, uning hajmi 17 ml boʻlib qoldi. Hosil boʻlgan aralashmaga 50 ml havo qoʻshib, qaytadan yondirildi. Bunda hajm oʻzgarmay qoldi. Dastlabki gazlar hajmiy tarkibini toping.",
+      "options": [
+        "25; 10; 65",
+        "25; 45; 30",
+        "20; 30; 50",
+        "35; 10; 55"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 234,
+      "question": "Azot, vodorod va kisloroddan iborat gazlar aralashmasidan 40 ml hajmi yondirildi. Aralashmaning vodorod boʻyicha zichligi 11,75 ga teng. Suv kondensatlanib, gazlar aralashmasi dastlabki sharoitga keltirilgandan keyin, uning hajmi 25 ml boʻlib qoldi. Hosil boʻlgan aralashmaga 20 ml havo qoʻshib, qaytadan yondirildi. Bunda hajm oʻzgarmay qoldi. Dastlabki gazlar hajmiy tarkibini toping.",
+      "options": [
+        "25; 50; 25",
+        "30; 40; 30",
+        "20; 30; 50",
+        "40; 40; 20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 235,
+      "question": "Vodorod olish uchun ishlatiladigan kontakt apparatiga CO va H₂O bugʻining 1:5 nisbatdagi 600 m³ aralashmasi yuborildi. Suv bugʻi kondensatlangandan keyin, aralashmaning hajmi 160 m³ boʻlib qoldi. CO ning necha foizi reaksiyaga kirishganligini aniqlang.",
+      "options": [
+        "20",
+        "40",
+        "60",
+        "80"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 236,
+      "question": "Vodorod olish uchun ishlatiladigan kontakt apparatiga CO va H₂O bugʻining 1:4 nisbatdagi 200 m³ aralashmasi yuborildi. Suv bugʻi kondensatlangandan keyin, aralashmaning hajmi 60 m³ boʻlib qoldi. CO ning necha foizi reaksiyaga kirishganligini aniqlang.",
+      "options": [
+        "20",
+        "50",
+        "60",
+        "70"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 237,
+      "question": "Vodorod olish uchun ishlatiladigan kontakt apparatiga CO va H₂O bugʻining 1:3 nisbatdagi 300 m³ aralashmasi yuborildi. Suv bugʻi kondensatlangandan keyin aralashmaning hajmi 100 m³ boʻlib qoldi. CO ning necha foizi reaksiyaga kirishganligini aniqlang.",
+      "options": [
+        "33,33",
+        "44,44",
+        "60",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 238,
+      "question": "Vodorod olish uchun ishlatiladigan asbobga CO va H₂O bugʻi 2:3 nisbatda yuborildi. Asbobdan chiqayotgan gazlardan 20 foizi CO ligi maʼlum boʻlsa, qolgan gazlar hajmiy ulushlarini toping.",
+      "options": [
+        "20; 40; 20",
+        "10; 20; 50",
+        "15; 25; 40",
+        "13,33; 22,55; 44,12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 239,
+      "question": "Azot(II) oksidning havo bilan aralashmasida 64% azot bor edi. Reaksiyadan keyin azot miqdori 71,11% ga yetdi. Reaksiyadan oldingi (a) va keyingi (b) aralashmaning qolgan gazlarining foiz tarkibini hisoblang.",
+      "options": [
+        "a-20; 16; b-22,22; 6,67",
+        "a-22,2; 62,23; b-5; 25",
+        "a-15; 35; b-15; 25",
+        "a-22,2; 33,3; b-5; 35"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 240,
+      "question": "Azot(II) oksidning havo bilan aralashmasida 60% azot bor edi. Reaksiyadan keyin azot miqdori 68,57% ga yetdi. Reaksiyadan oldingi aralashmaning oʻrtacha molyar massasini hisoblang.",
+      "options": [
+        "29,1",
+        "28,58",
+        "30,33",
+        "27,65"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 241,
+      "question": "H₂, CH₄ va O₂ dan iborat 100 ml aralashma yondirildi. Suv bugʻlari kondensatlanib, dastlabki sharoitga keltirilganda aralashma hajmi 35 ml boʻlib qoldi. Aralashma ishqor eritmasidan oʻtkazilgandan keyin qoldiq hajmi 25 ml ga teng boʻldi. Boshlangʻich aralashma tarkibini toping.",
+      "options": [
+        "30; 10; 60",
+        "20; 20; 60",
+        "25; 35; 40",
+        "12,5; 37,5; 50"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 242,
+      "question": "H₂, CH₄ va O₂ dan iborat 100 ml aralashma yondirildi. Suv bugʻlari kondensatlanib, dastlabki sharoitga keltirilganda aralashma hajmi 30 ml boʻlib qoldi. Aralashma ishqor eritmasidan oʻtkazilgandan keyin, qoldiq hajmi 10 ml ga teng boʻldi. Boshlangʻich aralashma tarkibini toping.",
+      "options": [
+        "30; 10; 60",
+        "20; 20; 60",
+        "25; 35; 40",
+        "12,5; 37,5; 50"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 243,
+      "question": "D(He) = 7,7 boʻlgan NO va O₂ dan iborat 33,6 l aralashma katalizator ishtirokida reaksiyaga kirishdi va D(CO₂) = 0,875 boʻlgan aralashma hosil boʻldi. Shu aralashmadagi NO ning hajmiy ulushini aniqlang.",
+      "options": [
+        "66,7",
+        "50",
+        "25",
+        "35"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 244,
+      "question": "H₂, CO va O₂ dan iborat 80 ml aralashma yondirildi. Suv bugʻlari kondensatlanib, dastlabki sharoitga keltirilganda aralashma hajmi 50 ml boʻlib qoldi. Aralashma ishqor eritmasidan oʻtkazilgandan keyin qoldiq hajmi 20 ml ga teng boʻldi. Boshlangʻich aralashma tarkibini toping.",
+      "options": [
+        "30; 10; 60",
+        "20; 20; 60",
+        "25; 35; 40",
+        "12,5; 37,5; 50"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 245,
+      "question": "Vodorodga nisbatan zichligi 3,6 boʻlgan azot va vodoroddan iborat aralashma kontakt apparatidan oʻtkazilishi natijasida olingan aralashma sulfat kislota eritmasi orqali oʻtkazilganda qolgan aralashmaning vodorodga nisbatan zichligi 3,15 boʻlib qoldi. Agar boshlangʻich aralashma hajmi 200 l boʻlsa, hosil boʻlgan ammiak hajmini aniqlang (l).",
+      "options": [
+        "20,45",
+        "40,9",
+        "33,5",
+        "15,65"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 246,
+      "question": "Vodorodga nisbatan zichligi 2,625 boʻlgan azot va vodoroddan iborat aralashma kontakt apparatidan oʻtkazilishi natijasida olingan aralashma sulfat kislota eritmasi orqali oʻtkazilganda qolgan aralashmaning vodorodga nisbatan zichligi 2,3 boʻlib qoldi. Agar boshlangʻich aralashma hajmi 180 l boʻlsa, hosil boʻlgan ammiak hajmini (l) aniqlang.",
+      "options": [
+        "7,5",
+        "15",
+        "22,5",
+        "30"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 247,
+      "question": "Metan, vodorod va azotdan iborat 110 ml aralashmaga 180 ml kislorod qoʻshildi. Reaksiyadan keyin aralashma hajmi 104 ml boʻlib qoldi. Reaksiya mahsulotlari natriy gidroksid eritmasi orqali oʻtkazilganda uning hajmi 32 ml gacha kamaydi. Dastlabki aralashmadagi gazlar hajmini (l) toping.",
+      "options": [
+        "72; 28; 10",
+        "72; 32; 6",
+        "36; 28; 46",
+        "40; 32; 38"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 248,
+      "question": "Atsetilen, karbonat angidrid va azotdan iborat 100 ml aralashmaga 200 ml kislorod qoʻshildi. Reaksiyadan keyin aralashma hajmi 210 ml boʻlib qoldi. Reaksiya mahsulotlari natriy gidroksid eritmasi orqali oʻtkazilganda uning hajmi 60 ml gacha kamaydi. Dastlabki aralashmadagi gazlar hajmini (l) toping.",
+      "options": [
+        "30; 40; 30",
+        "60; 30; 10",
+        "40; 20; 40",
+        "30; 30; 40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 249,
+      "question": "Evdiometrda 100 ml vodorod, metan va kislorod portlatilib, normal sharoitga keltirilganda hosil boʻlgan gaz aralashmasining hajmi 35 ml boʻldi. Ushbu aralashma ishqor eritmasi orqali oʻtkazilganda 25 ml yonishga yordam beruvchi gaz qoldi. Boshlangʻich aralashmadagi gazlar hajmiy ulushini toping.",
+      "options": [
+        "0,3; 0,1; 0,6",
+        "0,3; 0,3; 0,4",
+        "0,2; 0,3; 0,5",
+        "0,2; 0,4; 0,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 250,
+      "question": "Vodorod (a), is gazi (b), karbonat angidrid (c) va azot (d) dan iborat 30 ml aralashma ishqor eritmasi orqali oʻtkazilganda aralashma hajmi 28,5 ml boʻlib qoldi. Ushbu aralashmaga 15 ml kislorod qoʻshilib, portlatilgandan soʻng hosil boʻlgan aralashma dastlabki sharoitga keltirilganda hajmi 13,5 ml boʻldi. Ushbu aralashmani ishqor eritmasi orqali oʻtkazilganda 1,5 ml gaz qoldi. Boshlangʻich aralashmadagi gazlar hajmini toping.",
+      "options": [
+        "a-15; b-12; c-1,5; d-1,5",
+        "a-18; b-9; c-1,5; d-1,5",
+        "a-15; b-10; c-1,5; d-3,5",
+        "a-16; b-12; c-1,5; d-0,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 251,
+      "question": "Vodorod (a), is gazi (b), karbonat angidrid (c) va azot (d) dan iborat 40 ml aralashma ishqor eritmasi orqali oʻtkazilganda aralashma hajmi 35 ml boʻlib qoldi. Ushbu aralashmaga 15 ml kislorod qoʻshilib, portlatilgandan soʻng hosil boʻlgan aralashma hajmi 27,5 ml boʻldi. Ushbu aralashmani ishqor eritmasi orqali oʻtkazilganda 12,5 ml gaz qoldi. Boshlangʻich aralashmadagi gazlar hajmini toping.",
+      "options": [
+        "a-10; b-12; c-5; d-13",
+        "a-10; b-10; c-5; d-15",
+        "a-15; b-10; c-5; d-10",
+        "a-10; b-15; c-5; d-10"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 252,
+      "question": "Vodorod (a), is gazi (b), karbonat angidrid (c) va azot (d) dan iborat 30 ml aralashma ishqor eritmasi orqali oʻtkazilganda aralashma hajmi 28,5 ml boʻlib qoldi. Ushbu aralashmaga 15 ml kislorod qoʻshilib, portlatilgandan soʻng hosil boʻlgan aralashma hajmi 12 ml boʻldi. Ushbu aralashmani ishqor eritmasi orqali oʻtkazilganda 3 ml gaz qoldi. Boshlangʻich aralashmadagi gazlar hajmini toping.",
+      "options": [
+        "a-15; b-12; c-1,5; d-1,5",
+        "a-18; b-9; c-1,5; d-1,5",
+        "a-15; b-10; c-1,5; d-3,5",
+        "a-16; b-12; c-1,5; d-0,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 253,
+      "question": "Ammiak va vodorod aralashmasi maydalangan mis(II) oksid boʻlgan naycha orqali oʻtkazilgandan keyin naycha massasi 0,16 g ga kamaydi. Keyin hosil boʻlgan aralashma fosfat angidridi ustidan oʻtkazilganda 22,4 ml gaz qoldi. Boshlangʻich gazlar aralashmasining havoga nisbatan zichligini toping.",
+      "options": [
+        "0,184",
+        "0,223",
+        "0,344",
+        "0,292"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 254,
+      "question": "Ammiak va vodorod aralashmasi maydalangan mis(II) oksid boʻlgan naycha orqali oʻtkazilgandan keyin naycha massasi 8 g ga kamaydi. Keyin hosil boʻlgan aralashma fosfat angidridi ustidan oʻtkazilganda 2,24 l gaz qoldi. Boshlangʻich gazlar aralashmasining havoga nisbatan zichligini toping.",
+      "options": [
+        "0,284",
+        "0,327",
+        "0,144",
+        "0,192"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 255,
+      "question": "Azot va vodorod ammiak sintez qiluvchi kontakt apparatiga kiritildi. Apparatdan chiqayotgan 1,344 l gazlar aralashmasi qizdirilgan mis(II) oksid tutgan naycha orqali oʻtkazilgandan keyin, naycha massasi 0,96 g ga kamaydi. Qolgan gazlar aralashmasi fosfor(V) oksidi saqlagan nay ustidan oʻtkazilgach, naydan 0,448 l (n.sh) gaz chiqdi. Ammiak sintez qilish uchun olingan azotning miqdorini (mol) va ammiakning chiqish unumini (%) aniqlang.",
+      "options": [
+        "0,06; 60%",
+        "0,02; 50%",
+        "0,03; 40%",
+        "0,03; 75%"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 256,
+      "question": "Karbonat angidrid, is gazi va ammiakdan iborat aralashmaning vodorodga nisbatan zichligi 13 boʻlgan aralashmasi xlorid kislota eritmasi orqali oʻtkazilganda hosil boʻlgan aralashmaning vodorodga nisbatan zichligi 16 boʻlib qoldi. Boshlangʻich aralashmadagi gazlar hajmiy tarkibini aniqlang.",
+      "options": [
+        "18,36; 36,74; 44,9",
+        "15; 45; 40",
+        "23,68; 23,68; 52,64",
+        "20; 20; 40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 257,
+      "question": "C₂H₄, CH₄ va C₃H₈ dan iborat vodorodga nisbatan zichligi 13,8 boʻlgan 30 ml aralashmaga 15 ml vodorod qoʻshildi. Bunda reaksiyadan keyin idish hajmi 15 ml ga kamaydi. Boshlangʻich aralashma tarkibini aniqlang (%).",
+      "options": [
+        "50; 30; 20",
+        "50; 25; 25",
+        "40; 40; 20",
+        "40; 30; 30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 258,
+      "question": "Bir aralashma tarkibida NO₂ va CO₂ ning hajmiy ulushlari mos ravishda x va y ga teng. Ikkinchi xuddi shunday aralashma tarkibidagi NO₂ va CO₂ ning hajmiy ulushlari mos ravishda y va x ga teng. Agar ikkala aralashmaning oʻrtacha molyar massalarining farqi 1,2 ga teng boʻlsa, x va y ni aniqlang.",
+      "options": [
+        "0,3; 0,7",
+        "0,35; 0,65",
+        "0,45; 0,55",
+        "0,2; 0,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 259,
+      "question": "Massasi 2000 g 14% li kaliy gidroksid eritmasi orqali qanday massadagi karbonat angidrid gazi oʻtkazilsa, eritmadagi tuzlarning massa ulushlari oʻzaro teng boʻladi.",
+      "options": [
+        "144",
+        "155",
+        "166",
+        "177"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 260,
+      "question": "Gidrazinni parchalanishida reaksiya unumi x% ni tashkil etdi, hosil boʻlgan gazlar aralashmasining oʻrtacha molekulyar massasi ham x ga tengligi aniqlandi. Shu gazlar aralashmasidagi azotning hajmiy ulushini toping? (3N₂H₄ → N₂ + 4NH₃)",
+      "options": [
+        "27,103",
+        "6,715",
+        "11,915",
+        "7,651"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 261,
+      "question": "2 mol SO₃ gazi bilan toʻldirilgan koptokdagi barcha gazni kichik bir teshik orqali chiqib ketishi uchun 2 minut vaqt kerak boʻladi. Agar shu koptok neon gazi bilan toʻldirilsa, kichik teshik orqali neon gazining hammasi chiqib ketishi uchun necha sekund kerak boʻladi?",
+      "options": [
+        "60",
+        "30",
+        "45",
+        "15"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 262,
+      "question": "2 mol neon gazi bilan toʻldirilgan koptokdagi barcha gazni kichik bir teshik orqali chiqib ketishi uchun 100 sekund vaqt kerak boʻladi. Shu teshik orqali necha mol SO₃ gazi 200 sekundda chiqib ketadi?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
