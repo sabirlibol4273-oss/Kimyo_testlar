@@ -1,0 +1,1844 @@
+{
+  "topicId": 13,
+  "title": "Ideal gaz qonunlari",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Massasi 240 g boʻlgan havo 17°C haroratda va 166,2 kPa bosimda qanday hajmni egallaydi?",
+      "options": [
+        "100",
+        "140",
+        "120",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Hajmi 20 l boʻlgan idishda (T = −23°C, P = 249,3 kPa) vodorod toʻldirilgan, idishdagi vodorodning massasini toping?",
+      "options": [
+        "8",
+        "2,4",
+        "4,8",
+        "6,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Idishda (V = 32 l, T = 47°C, P = 99,72 kPa) argon bilan toʻldirilgan, idishdagi argonning massasini toping?",
+      "options": [
+        "24",
+        "48",
+        "20",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "30 g gaz 249,3 kPa bosim, 7°C da 10 l hajmni egallaydi. Nomaʼlum gazni toping.",
+      "options": [
+        "kislorod",
+        "vodorod",
+        "is gazi",
+        "karbonat angidrid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Massasi 600 g boʻlgan xlor (T = 11°C, P = 249,3 kPa) qanday hajmni (l) egallaydi?",
+      "options": [
+        "64",
+        "40",
+        "28",
+        "80"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "27°C da 75 l hajmli idishda 48 g kislorod boʻlsa, gazning bosimini (kPa) aniqlang?",
+      "options": [
+        "49,88",
+        "24,93",
+        "41,55",
+        "58,17"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Sigʻimi 15 l boʻlgan idishga massasi 16 g boʻlgan gazlar aralashmasi toʻldirilgan. Agar idishdagi temperatura 57°C va bosim 66,48 kPa boʻlsa, shu gazlar aralashmasining oʻrtacha molyar massasini aniqlang?",
+      "options": [
+        "30",
+        "28",
+        "40",
+        "44"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "14 l vodorodning 7°C va 74,79 kPa bosimdagi massasini (g) aniqlang?",
+      "options": [
+        "0,75",
+        "0,45",
+        "0,9",
+        "0,3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Suv bugʻining 47°C da bosimi 66480 Pa ga teng boʻlganda 1 ml hajmida nechta molekula boʻladi?",
+      "options": [
+        "3,01·10¹⁸",
+        "1,505·10¹⁹",
+        "1,204·10¹⁸",
+        "3,01·10²¹"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Hajmi 5 l boʻlgan poʻlat idishda 166,2 kPa bosim ostida 27°C dagi ammiakda nechta vodorod atomi mavjud?",
+      "options": [
+        "6,02·10²³",
+        "54,18·10²³",
+        "42,14·10²³",
+        "48,16·10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Hajmi 800 ml boʻlgan gaz 7°C va bosim 58,17 kPa boʻlganda, 1,16 g massaga ega. Gazning molyar massasini toping?",
+      "options": [
+        "48",
+        "58",
+        "68",
+        "78"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Massasi 16 g toʻrt valentli element oksidining xlorid kislota bilan reaksiyasida ECl₂ tuzi va 27°C, bosim 24,93 kPa boʻlganda 20 l xlor yigʻib olindi. Reaksiya uchun olingan oksid tarkibidagi metallni aniqlang?",
+      "options": [
+        "germaniy",
+        "marganes",
+        "qoʻrgʻoshin",
+        "titan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Massasi 0,288 g boʻlgan gazning 27°C, 120 kPa bosimdagi hajmi 150 ml boʻladi. Shu gazning molyar massasini hisoblang?",
+      "options": [
+        "34",
+        "60",
+        "64",
+        "40"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Uglerod(IV) oksid 57°C da va 24,93 kPa bosimda hajmi 20 l idishda saqlanadi. Uning massasini (g) hisoblang?",
+      "options": [
+        "8",
+        "6,4",
+        "4,8",
+        "3,2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Tarkibi CO+3CO₂ dan iborat 45 g gazlar aralashmasining 47°C va 74,79 kPa bosimdagi hajmini hisoblang?",
+      "options": [
+        "25",
+        "20",
+        "40",
+        "50"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "2CO+3NO₂+He aralashmasining 16,5 g massasi 27°C va 249,3 kPa bosimni qanday hajmni egallaydi?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Agar bosim 66,48 kPa ga teng boʻlsa, hajmi 1 l boʻlgan xlor qanday temperaturada (°C) 1 g massaga ega boʻladi?",
+      "options": [
+        "147",
+        "295",
+        "127",
+        "117"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Hajmi 1 ml boʻlgan metan molekulalari sonini aniqlang? (P = 66,48 kPa, T = 320 K)",
+      "options": [
+        "3,01·10¹⁸",
+        "2,408·10¹⁹",
+        "1,505·10¹⁹",
+        "1,204·10¹⁸"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "273°C da hajmi 4,48·10⁻² m³ boʻlgan idishga 0,042 kg azot va 0,008 kg metan toʻldirilgan. Idishdagi bosimni (kPa) aniqlang?",
+      "options": [
+        "303,9",
+        "101,3",
+        "405,3",
+        "202,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Qaysi gazlarning 1,6 g mi 57°C va 49,86 kPa bosimda 20·10⁻⁴ m³ hajmni egallaydi.\n1) N₂O; 2) N₂; 3) CO; 4) CO₂; 5) O₂; 6) CH₄; 7) SiH₄.",
+      "options": [
+        "1, 4",
+        "2, 3",
+        "5, 7",
+        "6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "273°C va 101,325 kPa bosimda 11,2 l vodorod ajralib chiqishi uchun kislotada necha g Zn eritilishi kerak?",
+      "options": [
+        "16,25",
+        "32,5",
+        "13",
+        "65"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Massasi 1 g boʻlgan xlor hajmi 10 ml boʻlgan ampulaga toʻldirilgan. Ampula 0°C dan 273°C gacha qizdirilganda, undagi bosim qanday oʻzgaradi?",
+      "options": [
+        "2 marta ortadi",
+        "4 marta ortadi",
+        "4 marta kamayadi",
+        "2 marta kamayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Normal sharoitda 448 ml keladigan gaz 127°C va 80 kPa da qanday hajmni (ml) egallaydi.",
+      "options": [
+        "166,2",
+        "831",
+        "332,4",
+        "664,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "4 g metan 273°C da necha litrli idishda 202,65 kPa bosim hosil qiladi?",
+      "options": [
+        "2,8",
+        "4,48",
+        "5,6",
+        "8,96"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "16 g XO₂ ning 27°C va 83,1 kPa bosimdagi hajmi 7,5 litr. X elementni aniqlang?",
+      "options": [
+        "C",
+        "Si",
+        "N",
+        "S"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Miqdori m/M = 2/3 ga teng boʻlgan gaz (273 K; 202,65 kPa) da qanday hajmni egallaydi?",
+      "options": [
+        "2,24",
+        "4,48",
+        "1,12",
+        "3,36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Miqdori m/M = 2/4 ga teng boʻlgan gaz (546 K; 101,325 kPa) da qanday hajmni egallaydi?",
+      "options": [
+        "6,72",
+        "13,44",
+        "33,6",
+        "16,8"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Miqdori m/M = 8/20 ga teng boʻlgan gaz (546 K; 202,65 kPa) da qanday hajmni egallaydi?",
+      "options": [
+        "26,88",
+        "13,44",
+        "3,36",
+        "16,8"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "25 l idishga gazning hajmi 20 litrgacha kamaytirilganda bosim 2 kPa ga ortdi. Dastlabki bosimni (kPa) aniqlang? (T = const)",
+      "options": [
+        "6",
+        "8",
+        "4",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "60 l idishga gazning hajmi 50 litrgacha kamaytirilganda bosim 3 kPa ga ortdi. Dastlabki bosimni (kPa) aniqlang? (T = const)",
+      "options": [
+        "12",
+        "9",
+        "15",
+        "18"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "50 l idishga gazning hajmi 40 litrgacha kamaytirilganda bosim 3 kPa ga ortdi. Dastlabki bosimni (kPa) aniqlang? (T = const)",
+      "options": [
+        "12",
+        "9",
+        "15",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "45 l idishga gazning hajmi 40 litrgacha kamaytirilganda bosim 3 kPa ga ortdi. Dastlabki bosimni (kPa) aniqlang? (T = const)",
+      "options": [
+        "24",
+        "27",
+        "21",
+        "18"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "12 l idishga gazning hajmi 8 litrgacha kamaytirilganda bosim 2 kPa ga ortdi. Dastlabki bosimni (kPa) aniqlang? (T = const)",
+      "options": [
+        "4",
+        "10",
+        "6",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "12,8 g kislorod bilan toʻldirilgan 4,48 l hajmli idish qanday haroratgacha (K) qizdirilganda 405,3 kPa bosim paydo boʻladi?",
+      "options": [
+        "546",
+        "273",
+        "27",
+        "127"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "12,8 g kislorod bilan toʻldirilgan 4,48 l hajmli idish qanday haroratgacha (°C) qizdirilganda 405,3 kPa bosim paydo boʻladi?",
+      "options": [
+        "546",
+        "273",
+        "27",
+        "127"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "11 g propan bilan toʻldirilgan 5,6 l hajmli idish qanday haroratgacha (K) qizdirilganda 202,65 kPa bosim paydo boʻladi?",
+      "options": [
+        "546",
+        "273",
+        "27",
+        "127"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "11 g propan bilan toʻldirilgan 5,6 l hajmli idish qanday haroratgacha (°C) qizdirilganda 202,65 kPa bosim paydo boʻladi?",
+      "options": [
+        "546",
+        "273",
+        "27",
+        "127"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Qaysi gazning 47°C va 166,2 kPa bosimda 40 litrda 5·N_A ta atom boʻladi?",
+      "options": [
+        "metan",
+        "etan",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Qaysi gazning 127°C va 83,1 kPa bosimda 20 litrda 2·N_A ta atom boʻladi?",
+      "options": [
+        "metan",
+        "etan",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Qaysi gazning 27°C va 33,24 kPa bosimda 30 litrda 2·N_A ta atom boʻladi?",
+      "options": [
+        "metan",
+        "etan",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Qaysi gazning 47°C va 33,24 kPa bosimda 40 litrda 4·N_A ta atom boʻladi?",
+      "options": [
+        "metan",
+        "etan",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "2 g argon bilan toʻldirilgan idish 27°C da qizdirilganda idishda 99,72 kPa bosim hosil boʻlsa, gaz egallagan hajmni (l) toping.",
+      "options": [
+        "1",
+        "1,25",
+        "1,5",
+        "2,15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "4 g kislorod bilan toʻldirilgan 3 litrli idish necha gradusgacha qizdirilganda 1,2 atm bosim paydo boʻladi?",
+      "options": [
+        "351",
+        "78",
+        "273",
+        "122"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Necha gramm azotni 1,5 litrli idishga solib 27°C gacha qizdirilganda idishda 199,536 kPa bosim hosil boʻladi?",
+      "options": [
+        "5,6",
+        "8,4",
+        "2,8",
+        "3,36"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "32°C harorat va 101,325 kPa bosimda 31,6 g kaliy permanganat qizdirilganda hosil boʻlgan gaz qanday hajm egallaydi?",
+      "options": [
+        "2,1",
+        "2,5",
+        "2,7",
+        "2,9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "15 litrli idishda 30,3 g gaz bor. 18°C va 122 kPa bosimdagi gazning molyar massasini hisoblang.",
+      "options": [
+        "30",
+        "28",
+        "40",
+        "44"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Sigʻimi 40 l li poʻlat ballonda 150 atm bosim va 27°C haroratda kislorod bor. Ballondagi gazning massasini (kg) aniqlang.",
+      "options": [
+        "78",
+        "7800",
+        "7,8",
+        "0,78"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "273 K da hajmi 11,2 l boʻlgan idishga 0,042 kg azot va 0,008 kg metan toʻldirilgan idishdagi bosimni (kPa) aniqlang.",
+      "options": [
+        "303,8",
+        "101,3",
+        "405,1",
+        "325,6"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Natriy gidroksidga kremniy(IV) oksid qoʻshib suyuqlantirilganda 127°C va 66,48 kPa da 4,5 l suv bugʻlari ajralib chiqdi, bunda hosil boʻlgan natriy silikatning mol miqdorini hisoblang?",
+      "options": [
+        "0,03",
+        "0,06",
+        "0,09",
+        "0,02"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "4 mol Bertole tuzi toʻliq parchalansa, 27°C va 90 kPa boʻlgan sharoitda ajralib chiqqan gazning hajmini (l) aniqlang?",
+      "options": [
+        "166,2",
+        "249,3",
+        "91,41",
+        "41,55"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Hajmi 10 l boʻlgan poʻlat idishda 49,86 kPa bosim ostida 27°C sharoitidagi ammiakda nechta vodorod atomi mavjud?",
+      "options": [
+        "3,612·10²³",
+        "2,408·10²³",
+        "9,03·10²³",
+        "5,418·10²³"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Gaz holdagi uglerod(IV) oksid 50 kPa bosimda va −23°C da hajmi 16,62 l boʻlgan poʻlat ballonda saqlanadi. Shu gazning massasini (kg) hisoblang?",
+      "options": [
+        "22",
+        "17,6",
+        "8,8",
+        "11"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Massasi 273 g boʻlgan gaz 33°C va normal bosimda 201,6 l hajmni egallasa, uning vodorodga nisbatan zichligini toping?",
+      "options": [
+        "16",
+        "17",
+        "32",
+        "14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Yarim mol miqdordagi ammiak 25°C va 247,64 kPa bosim ostida 5 l hajmli idishga joylashtirilgan. Shu gaz tarkibidagi vodorod atomlar sonini hisoblang?",
+      "options": [
+        "3,01·10²³",
+        "12,04·10²³",
+        "9,03·10²³",
+        "6,02·10²³"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "1,6 g miqdordagi metan 27°C va 250 kPa bosim ostida 2 litr hajmli idishga joylashtirilgan. Shu gaz tarkibidagi vodorod atomlar sonini hisoblang?",
+      "options": [
+        "3,01·10²²",
+        "12,04·10²²",
+        "24,08·10²²",
+        "6,02·10²²"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Hajmi 4 l boʻlgan idishga 27°C va 250 kPa bosim ostida 2,3 g NO₂ gazi joylashtirildi. Shu gaz tarkibidagi atomlar sonini aniqlang?",
+      "options": [
+        "24,08·10²²",
+        "3,01·10²²",
+        "6,02·10²²",
+        "9,03·10²²"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "49,86 kPa va −23°C da geliy va is gazlari aralashmasining zichligi 0,24 g/l. Aralashmadagi is gazining massa ulushini (%) toping?",
+      "options": [
+        "70",
+        "25",
+        "30",
+        "75"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Azot bilan qaysi vodorod galogenid aralashmasining 16,62 kPa bosim va 47°C dagi zichligi 0,75 g/l boʻladi?",
+      "options": [
+        "HI",
+        "HCl",
+        "HBr",
+        "HF"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Argon bilan qaysi uglevodorod aralashmasining 415,5·10² Pa va −23°C dagi zichligi 0,4 g/l boʻladi?",
+      "options": [
+        "CH₄",
+        "C₂H₆",
+        "C₃H₄",
+        "C₂H₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "CO₂ bilan qaysi uglevodorod aralashmasining 747,9·10² Pa bosim va 27°C dagi zichligi 0,6 g/l boʻladi?",
+      "options": [
+        "CH₄",
+        "C₂H₆",
+        "C₃H₄",
+        "C₂H₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Uglerod oksidlari aralashmasining 47°C va 33,24 kPa bosimdagi zichligi 0,5 g/l. Shu sharoitdagi 50 l aralashmadagi is gazining hajmini (l) toping?",
+      "options": [
+        "12,5",
+        "25",
+        "37,5",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Kislorod va qanday gazning teng hajmli aralashmasining 127°C 66,48 kPa dagi zichligi 0,76 g/l keladi?",
+      "options": [
+        "boran",
+        "kuldiruvchi gaz",
+        "fosfin",
+        "sulfit angidrid"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "27°C da 49,86 kPa da zichligi 0,28 g/l boʻlgan gazning 11,2 g massasi n.sh da qanday hajmni (l) egallaydi.",
+      "options": [
+        "13,44",
+        "17,92",
+        "6,72",
+        "8,96"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Kislorodning nomaʼlum gaz bilan aralashmasi 166,2 kPa va 47°C da zichligi 1,25 g/l keladi. Nomaʼlum gaz quyidagilardan qaysilari boʻlishi mumkin?\n1) metan; 2) fosfin; 3) is gazi; 4) ammiak; 5) vodorod xlorid.",
+      "options": [
+        "1, 3, 4",
+        "1, 4",
+        "2, 3, 5",
+        "2, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "49,86 kPa va −23°C da is gazi, geliy va azotdan iborat aralashmaning zichligi 0,24 g/l ga teng. Aralashmadagi geliyning massa ulushini toping?",
+      "options": [
+        "75",
+        "30",
+        "25",
+        "70"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Modda tarkibida 40% C, 6,67% H va 53,33% O boʻlib, bugʻlarining 127°C va 83,1 kPa bosimdagi zichligi 1,5 g/l boʻlsa, uning molekulyar formulasini aniqlang?",
+      "options": [
+        "C₂H₄O₂",
+        "C₃H₆O₂",
+        "C₃H₆O₃",
+        "HCOH"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Modda tarkibida 38,7% C, 9,63% H va 51,64% O boʻlib, bugʻlarining 227°C va 166,2 kPa bosimdagi zichligi 2,48 g/l boʻlsa, uning molekulyar formulasini aniqlang?",
+      "options": [
+        "C₂H₄O₂",
+        "C₂H₆O₂",
+        "C₂H₆O",
+        "C₃H₉O₃"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "Qanday temperatura (°C da) va 166,2 kPa bosimda kislorodning zichligi 2 g/l boʻladi?",
+      "options": [
+        "27",
+        "37",
+        "17",
+        "47"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "Gaz 96 kPa va 17°C da 870 ml keladi. 100 kPa va 21°C da qanday hajmni (ml) egallaydi?",
+      "options": [
+        "52",
+        "70",
+        "350",
+        "847"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "4 g kislorod 40 kPa bosim ostida 400 ml keladi. Agar temperatura oʻzgarmasa, konteynerga 12 g kislorod qoʻshilsa va hajm 600 ml ga keltirilganda yangi bosim qanday (kPa) boʻladi?",
+      "options": [
+        "101,3",
+        "106,6",
+        "202,6",
+        "83,1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Quyidagi fikrlardan qaysi biri toʻgʻri?\n1) Izotermik jarayonda bosim hajmga teskari proporsional;\n2) Izotermik jarayonda bosim hajmga toʻgʻri proporsional;\n3) Izobarik jarayonda harorat hajmga teskari proporsional;\n4) Izobarik jarayonda harorat hajmga toʻgʻri proporsional;\n5) Izoxorik jarayonda harorat bosimga teskari proporsional;\n6) Izoxorik jarayonda harorat bosimga toʻgʻri proporsional.",
+      "options": [
+        "1, 3, 6",
+        "2, 4, 5",
+        "2, 3, 5",
+        "1, 4, 6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "120 kPa bosim ostida gazning hajmi 200 ml keladi. Bosim 80 kPa ga oʻzgarganda hajmni aniqlang. (T = const)",
+      "options": [
+        "100",
+        "200",
+        "300",
+        "400"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "12 litr idishdagi gazning hajmi 8 litrgacha kamaytirilganda bosim 2 kPa ga ortdi. Dastlabki bosimni aniqlang. (T = const)",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "24 litr idishdagi gazning hajmi 8 litrgacha kamaytirilganda bosim 12 kPa ga ortdi. Dastlabki bosimni aniqlang. (T = const)",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "273°C da CO₂ ning hajmi 120 ml keladi. Normal sharoitda uning hajmi (ml) qanday boʻladi?",
+      "options": [
+        "40",
+        "60",
+        "80",
+        "100"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 76,
+      "question": "Gaz 27°C da 150 ml kelsa, 127°C da qanday hajmni egallaydi?",
+      "options": [
+        "250",
+        "200",
+        "300",
+        "400"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 77,
+      "question": "Idishdagi gazning harorati −73°C dan 27°C gacha koʻtarilganda gazning bosimi 6 kPa ga ortdi. Dastlabki bosimni aniqlang. (V = const)",
+      "options": [
+        "18",
+        "16",
+        "12",
+        "10"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Idishdagi gazning harorati −73°C dan 27°C gacha koʻtarilganda gazning bosimi 4 kPa ga ortdi. Oxirgi bosimni aniqlang. (V = const)",
+      "options": [
+        "8",
+        "16",
+        "12",
+        "20"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Idishdagi gazning harorati 27°C dan 127°C gacha koʻtarilganda gazning bosimi 6 kPa ga ortdi. Oxirgi bosimni aniqlang. (V = const)",
+      "options": [
+        "24",
+        "16",
+        "18",
+        "10"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 80,
+      "question": "Quyidagi jadvaldan foydalangan holda geliy gazining miqdorlari oʻrtasidagi munosabatni aniqlang.\nTajriba | Bosim (atm) | Hajm (l) | Harorat (°C) | Miqdor (mol)\n1 | 1 | 22,4 | 0 | x\n2 | 2 | 22,4 | 273 | y\n3 | 4 | 44,8 | 0 | z",
+      "options": [
+        "x > y > z",
+        "x = y < z",
+        "x = y > z",
+        "x < y < z"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "Quyidagi jadvaldan foydalangan holda geliy gazining miqdorlari oʻrtasidagi munosabatni aniqlang.\nTajriba | Bosim (atm) | Hajm (l) | Harorat (°C) | Miqdor (mol)\n1 | 1 | 22,4 | 0 | x\n2 | 2 | 22,4 | 273 | y\n3 | 1 | 22,4 | 546 | z",
+      "options": [
+        "x > y > z",
+        "x = y < z",
+        "x = y > z",
+        "x < y < z"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 82,
+      "question": "Quyidagi jadvaldan foydalangan holda geliy gazining miqdorlari oʻrtasidagi munosabatni aniqlang.\nTajriba | Bosim (atm) | Hajm (l) | Harorat (°C) | Miqdor (mol)\n1 | 4 | 44,8 | 0 | x\n2 | 2 | 22,4 | 273 | y\n3 | 1 | 22,4 | 0 | z",
+      "options": [
+        "x > y = z",
+        "x = y < z",
+        "x = y > z",
+        "x < y = z"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "Quyidagi jadvaldan foydalangan holda geliy gazining miqdorlari oʻrtasidagi munosabatni aniqlang.\nTajriba | Bosim (atm) | Hajm (l) | Harorat (°C) | Miqdor (mol)\n1 | 1 | 22,4 | 546 | x\n2 | 2 | 22,4 | 273 | y\n3 | 1 | 22,4 | 0 | z",
+      "options": [
+        "x < y = z",
+        "x = y < z",
+        "x = y > z",
+        "x > y = z"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "Normal sharoitda turgan inert gazning zichligini ikki marta kamaytirish uchun haroratni qanday oʻzgartirish kerak?",
+      "options": [
+        "273°C ga oshirish kerak",
+        "273°C ga kamaytirish kerak",
+        "136,5°C ga oshirish kerak",
+        "136,5°C ga kamaytirish kerak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Normal sharoitda turgan inert gazning harorati 204,75°C ga kamaytirilganda zichligi qanday oʻzgaradi?",
+      "options": [
+        "ikki marta kamayadi",
+        "ikki marta ortadi",
+        "toʻrt marta kamayadi",
+        "toʻrt marta ortadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 86,
+      "question": "Normal sharoitda turgan inert gazning harorati 819°C ga oshirilganda zichligi qanday oʻzgaradi?",
+      "options": [
+        "ikki marta kamayadi",
+        "ikki marta ortadi",
+        "toʻrt marta kamayadi",
+        "toʻrt marta ortadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "Normal sharoitda turgan ideal gaz sovutilganda hajmi 1120 marta kamayib, zichligi 0,8 g/ml ga teng boʻldi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "metan",
+        "neon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "Normal sharoitda turgan ideal gaz sovutilganda hajmi 1120 marta kamayib, zichligi 1,0 g/ml ga teng boʻldi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "metan",
+        "neon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "Normal sharoitda turgan ideal gaz sovutilganda hajmi 560 marta kamayib, zichligi 0,7 g/ml ga teng boʻldi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "azot",
+        "kislorod",
+        "metan",
+        "neon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "Normal sharoitda turgan ideal gazning bosimi 4 marta, harorati esa 2,5 marta oshirilganda uning molyar hajmi qanday oʻzgaradi?",
+      "options": [
+        "1,6 marta ortadi",
+        "1,6 marta kamayadi",
+        "10 marta ortadi",
+        "10 marta kamayadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "Normal sharoitda turgan ideal gazning bosimi 2,5 marta, harorati esa 4 marta oshirilganda uning molyar hajmi qanday oʻzgaradi?",
+      "options": [
+        "1,6 marta ortadi",
+        "1,6 marta kamayadi",
+        "10 marta ortadi",
+        "10 marta kamayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 92,
+      "question": "Normal sharoitda turgan ideal gazning bosimi 3 marta, harorati esa 2,5 marta oshirilganda uning molyar hajmi qanday oʻzgaradi?",
+      "options": [
+        "1,2 marta ortadi",
+        "1,2 marta kamayadi",
+        "7,5 marta ortadi",
+        "7,5 marta kamayadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 93,
+      "question": "6,4 g geliy joylangan idishga necha gramm neon qoʻshilganda idishdagi bosim 3/2 marta ortib, harorat 5/4 marta kamayadi?",
+      "options": [
+        "7",
+        "14",
+        "28",
+        "56"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 94,
+      "question": "8 g geliy joylangan idishga necha gramm neon qoʻshilganda idishdagi bosim 3/2 marta, harorat 5/4 marta ortadi?",
+      "options": [
+        "32",
+        "4",
+        "8",
+        "16"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "32 g neon joylangan idishga necha gramm geliy qoʻshilganda idishdagi bosim 3/2 marta ortib, harorat 5/4 marta kamayadi?",
+      "options": [
+        "11,2",
+        "8,4",
+        "2,8",
+        "5,6"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 96,
+      "question": "Maʼlum sharoitda turgan gazning miqdori 2 marta, hajm 5 marta oshirilib, harorat 4 marta kamaytirilsa, bosim qanday oʻzgaradi?",
+      "options": [
+        "2,5 marta ortadi",
+        "2,5 marta kamayadi",
+        "10 marta kamayadi",
+        "10 marta ortadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 97,
+      "question": "Qandaydir idishda 20°C da turgan 16 g kislorod gazi mavjud. Quyidagi amallardan qaysi biri bosimni ikki marta orttirmaydi?",
+      "options": [
+        "8 g CH₄ qoʻshilsa",
+        "hajmni ikki marta kamaytirish",
+        "haroratni 40°C ga orttirish",
+        "3,01·10²³ dona CO₂ molekulasi qoʻshish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 98,
+      "question": "33,8 g xlorat kislotani sulfit angidrid bilan vodorod xloridgacha qaytarish uchun −23°C va 49,86 kPa bosim ostida boʻlgan sharoitda talab etiladigan qaytaruvchining hajmini hisoblang?",
+      "options": [
+        "50",
+        "25",
+        "40",
+        "20"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 99,
+      "question": "5 g bariy xlorid kristallogidrati hajmi 2 l li kolbada 287°C da ushlab turilganda, kolbada 166,2 kPa ga teng bosim hosil boʻldi. Kristallogidratdagi suv molekulalari sonini toping?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 100,
+      "question": "10 g magniy sulfat kristallogidrati 2 litrli idishda 147°C gacha qizdirilganda 415500 Pa bosim hosil boʻldi. Kristallogidrat tarkibidagi suv molekulalari sonini toping?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 101,
+      "question": "7°C va 332400 Pa bosimda hajmi 5,6 l boʻlgan gazning n.sh dagi hajmini (l) hisoblang?",
+      "options": [
+        "44,8",
+        "22,4",
+        "11,2",
+        "17,92"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 102,
+      "question": "300 K da turgan yopiq idishga 4 g vodorod gazi joylashtirilgan. Unga yana 8 g He qoʻshilib temperatura 127°C gacha qizdirildi. Hosil boʻlgan bosimning dastlabki bosimga nisbati qanday?",
+      "options": [
+        "3/8",
+        "8/3",
+        "5/2",
+        "3/5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 103,
+      "question": "−23°C da turgan yopiq idishga 112 g azot gazi joylashtirilgan. Unga yana 20 g Ne qoʻshilib temperatura 127°C gacha qizdirildi. Hosil boʻlgan bosimning dastlabki bosimga nisbati qanday?",
+      "options": [
+        "1/2",
+        "3/4",
+        "3/2",
+        "2"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 104,
+      "question": "Mineral suvli idish ochilsa, nima uchun CO₂ gazi shiddatli ajrala boshlaydi?",
+      "options": [
+        "temperatura kamayganligi uchun",
+        "bosim kamayganligi uchun",
+        "temperatura oshganligi uchun",
+        "bosim oshganligi uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 105,
+      "question": "120 kPa va 7°C dagi azot gazining zichligi va 47°C da turgan neon gazining zichliklari oʻzaro teng boʻlsa, inert gazning bosimini (kPa) aniqlang?",
+      "options": [
+        "135",
+        "185",
+        "125",
+        "192"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 106,
+      "question": "40 kPa va 7°C dagi azot gazining zichligi va 25 kPa bosimda turgan ozon gazining zichliklari oʻzaro teng boʻlsa, ozon gazining temperaturasini (°C) aniqlang?",
+      "options": [
+        "27",
+        "7",
+        "17",
+        "37"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 107,
+      "question": "Yopiq konteynerda 5 g vodorod 600 mm.Hg.ust va 7°C da turibdi. 47°C da bosimni ikki marta oshirish uchun necha gramm kislorod qoʻshish kerak?",
+      "options": [
+        "30",
+        "15",
+        "140",
+        "60"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 108,
+      "question": "Qandaydir idishda 20°C da turgan 16 g kislorod gazi mavjud. Quyidagi amallardan qaysi biri bosimni ikki marta orttirmaydi?",
+      "options": [
+        "10 g neon qoʻshish",
+        "hajmni ikki marta kamaytirish",
+        "temperaturani 40°C gacha qizdirish",
+        "3,01·10²³ dona CO₂ molekulasi qoʻshish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 109,
+      "question": "Qaysi gazning 47°C va 166,2 kPa bosimda 5 litrdagi atomlar soni Avogadro sonidan 1,25 marta koʻp boʻladi?",
+      "options": [
+        "metan",
+        "karbonat angidrid",
+        "fosfin",
+        "kislorod"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 110,
+      "question": "Koʻchada harorat −13°C, ichkarida esa 22°C. Agar koʻchada turgan gaz balonni ichkariga olib kirilsa, undagi bosim qanchaga (atm) boʻladi? Koʻchada ballondagi manometr koʻrsatkichi 10,4 atm.",
+      "options": [
+        "10,8",
+        "5,9",
+        "2,95",
+        "11,8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 111,
+      "question": "6 litr idishda 332,4 kPa va 127°C da turgan argonga, 5 litr 166,2 kPa va −23°C da turgan metan qoʻshildi. Aralashma hajmi 3 litrga keltirildi va temperatura 27°C ga tenglashtirildi. Hosil boʻlgan bosimni (kPa) aniqlang?",
+      "options": [
+        "960",
+        "166,28",
+        "831,4",
+        "687"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 112,
+      "question": "17°C va 166,2 kPa bosimda 14,5 l keladigan metanga qanday temperatura (°C) va 249,3 kPa bosimdagi 40 l oltingugurt(IV) oksid qoʻshilganda aralashmadagi elektronlar soni Avogadro sonidan 50 marta koʻp boʻladi?",
+      "options": [
+        "960",
+        "447",
+        "720",
+        "687"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 113,
+      "question": "Maʼlum hajmli kolbaga normal bosimda neon gazi toʻldirilgan, xuddi shunday hajmli boshqa kolba esa 72,375 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang?",
+      "options": [
+        "N₂",
+        "CH₄",
+        "O₂",
+        "CO₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 114,
+      "question": "Maʼlum hajmli kolbaga normal bosimda argon gazi toʻldirilgan, xuddi shunday hajmli boshqa kolba esa 253,31 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang?",
+      "options": [
+        "N₂",
+        "CH₄",
+        "O₂",
+        "CO₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 115,
+      "question": "Maʼlum hajmli kolbaga normal bosimda argon gazi toʻldirilgan, xuddi shunday hajmli boshqa kolba esa 126,66 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang?",
+      "options": [
+        "N₂",
+        "CH₄",
+        "O₂",
+        "CO₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 116,
+      "question": "Maʼlum hajmli kolbaga normal bosimda neon gazi toʻldirilgan, xuddi shunday hajmli boshqa kolba esa 46 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang?",
+      "options": [
+        "N₂",
+        "CH₄",
+        "O₂",
+        "CO₂"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 117,
+      "question": "Qanday harorat (°C) dagi azotning zichligi normal sharoitdagi kislorodning zichligiga teng boʻladi. (P = const)",
+      "options": [
+        "−34,125",
+        "−136,5",
+        "−17",
+        "−102,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 118,
+      "question": "Qanday harorat (°C) dagi metanning zichligi normal sharoitdagi kislorodning zichligiga teng boʻladi. (P = const)",
+      "options": [
+        "−34,1",
+        "−136,5",
+        "−17",
+        "−102,4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 119,
+      "question": "Qanday harorat (°C) dagi etanning zichligi normal sharoitdagi kislorodning zichligiga teng boʻladi. (P = const)",
+      "options": [
+        "−34,1",
+        "−136,5",
+        "−17",
+        "−102,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 120,
+      "question": "Qanday harorat (°C) dagi neonning zichligi normal sharoitdagi kislorodning zichligiga teng boʻladi. (P = const)",
+      "options": [
+        "−34,1",
+        "−136,5",
+        "−17",
+        "−102,4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 121,
+      "question": "Azotning normal sharoitdagi zichligi 1,25 g/l. Qanday temperaturada (K) kislorodning zichligi xuddi shunday bosimda 1,25 g/l ga teng boʻladi?",
+      "options": [
+        "312",
+        "546",
+        "294",
+        "273"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 122,
+      "question": "Metanning normal sharoitdagi zichligi 0,714 g/l. Qanday temperaturada (K) kislorodning zichligi xuddi shunday bosimda 0,714 g/l ga teng boʻladi?",
+      "options": [
+        "312",
+        "546",
+        "294",
+        "273"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 123,
+      "question": "Suv osti kemasidan ajralib chiqqan 1 litrli havo pufagi 75 metr yuqorilagandan keyin suv yuzasiga chiqadi. Agar dengiz tubiga har bir metr tushganda bosim 10 kPa ga ortsa havo pufagining oxirgi hajmini (l) toping. (Yuzada bosim 1 atm).",
+      "options": [
+        "8,4",
+        "16",
+        "18",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 124,
+      "question": "150 metr suv ostida vodorodning hajmi oʻlchanganda 5 litr hajmni egalladi. Agar har bir metrga suv ostidagi bosim 0,1 atm ga ortadigan boʻlsa, vodorodning suv yuzasidagi hajmini (l) aniqlang. (Suv yuzasida bosim normal sharoitda).",
+      "options": [
+        "80",
+        "75",
+        "60",
+        "16"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 125,
+      "question": "Suv osti kemasidan ajralib chiqqan 1,5 litrli havo pufagi 100 metr yuqorilagandan keyin suv yuzasiga chiqadi. Agar dengiz tubiga har bir metr tushganda bosim 0,15 atm ga ortsa havo pufagining oxirgi hajmini (l) toping. (Yuzada bosim 1 atm).",
+      "options": [
+        "24",
+        "16",
+        "18",
+        "36"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 126,
+      "question": "15 g etanning suv ostida 70 metr chuqurlikdagi hajmini (l) toping. Har bir metrga suv ostidagi bosim 0,1 atm ga ortadi. (Suv yuzasida bosim normal sharoitda)",
+      "options": [
+        "1,4",
+        "2,8",
+        "5,6",
+        "2,24"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 127,
+      "question": "8 g kislorodning suv ostida 60 metr chuqurlikdagi hajmini (l) toping. Har bir metrga suv ostidagi bosim 0,15 atm ga ortadi. (Suv yuzasida bosim normal sharoitda)",
+      "options": [
+        "0,224",
+        "0,56",
+        "0,28",
+        "0,14"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 128,
+      "question": "Etan va nomaʼlum gazdan iborat 13,6 g aralashmaning hajmi 5 l (−23°C va 166,2 kPa) ga teng boʻlsa, nomaʼlum gazni aniqlang. (Aralashmadagi nomaʼlum gazning hajmiy ulushi 40% ni tashkil etadi)",
+      "options": [
+        "Ar",
+        "C₂H₂",
+        "CO₂",
+        "C₄H₈"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 129,
+      "question": "Metan va nomaʼlum gazdan iborat 10 g aralashmaning hajmi 4 l (47°C va 332,4 kPa) ga teng boʻlsa, nomaʼlum gazni aniqlang. (Aralashmadagi nomaʼlum gazning hajmiy ulushi 25% ni tashkil etadi)",
+      "options": [
+        "PH₃",
+        "SiH₄",
+        "NH₃",
+        "C₄H₈"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 130,
+      "question": "16 g kislorod 150 kPa da 27°C da 10 l li idishda joylashtirilgan. Unga necha mol kislorod qoʻshilganda harorat va bosim 4/3 marta, hajm esa 3/2 marta ortadi?",
+      "options": [
+        "0,75",
+        "0,25",
+        "3",
+        "1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 131,
+      "question": "8 g geliy 160 kPa da 17°C da 10 l ni tashkil etadi. Unga necha mol geliy qoʻshilganda harorat va bosim 5/3 marta, hajm esa 3/2 marta ortadi?",
+      "options": [
+        "0,75",
+        "0,25",
+        "3",
+        "1"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 132,
+      "question": "12 g metan 18 l keladigan sharoitda 12 l karbonat angidriddagi kislorod atomlari massasini (g) toping?",
+      "options": [
+        "16",
+        "24",
+        "32",
+        "48"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 133,
+      "question": "24 g SO₂ 12 l keladigan sharoitda 18 l karbonat angidriddagi kislorod atomlari massasini (g) toping?",
+      "options": [
+        "16",
+        "18",
+        "32",
+        "48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 134,
+      "question": "Kolbada harorat 300 K va atmosfera bosim ostida azot gazi bor. Xuddi shunday kolbani qanday bosim (atm) ostida kislorod gazi bilan toʻldirsak, gazlarning massalari teng boʻladi.",
+      "options": [
+        "8/7",
+        "7/8",
+        "7/3",
+        "9/7"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 135,
+      "question": "Kolbada harorat 320 K va atmosfera bosim ostida geliy gazi bor. Xuddi shunday kolbani qanday bosim (atm) ostida vodorod gazi bilan toʻldirsak, geliy gazining massasi vodorod gazi massasidan 2 marta kam boʻladi?",
+      "options": [
+        "2",
+        "1/2",
+        "4",
+        "3/4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 136,
+      "question": "Uglerod va vodorod atomlari nisbati 1:3 boʻlgan metan va propan aralashmasining qanday massasi (kg) 27°C va 166,2 kPa bosimda 12 m³ keladi?",
+      "options": [
+        "26",
+        "24",
+        "13",
+        "48"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 137,
+      "question": "Uglerod va kislorod atomlari nisbati 5:6 boʻlgan karbonat angidrid va is gazi aralashmasining qanday massasi (kg) 47°C va 249,3 kPa bosimda 7,2 m³ keladi?",
+      "options": [
+        "24",
+        "30",
+        "36",
+        "19,5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 138,
+      "question": "Atomlar soni teng boʻlgan metan va karbonat angidrid aralashmasiga vodorod va kislorod atomlari teng boʻlgunga qadar kuldiruvchi gaz qoʻshildi. Olingan aralashmaning havoga nisbatan zichligini toping?",
+      "options": [
+        "1,45",
+        "1,23",
+        "2,23",
+        "1,78"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 139,
+      "question": "Atomlar soni teng boʻlgan fosfin va kislorod gazlari aralashmasiga vodorod va kislorod atomlari soni teng boʻlgunga qadar 1/4 mol X gaz qoʻshildi. Olingan aralashmaning kislorodga nisbatan zichligi 0,981 ga teng boʻlsa, X gazni neytronlar sonini toping?",
+      "options": [
+        "6",
+        "7",
+        "16",
+        "12"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 140,
+      "question": "SO₂, Ne, NO va O₂ gazlari aralashmasida SO₂ va O₂ ning hajmiy ulushlari Ne va NO gazlarining massa ulushlari oʻzaro teng. Aralashmaning neonga nisbatan zichligi 1,65 ga teng boʻlsa, aralashmadagi SO₂ ning hajmiy ulushini toping?",
+      "options": [
+        "3/7",
+        "4/9",
+        "3/16",
+        "2/7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 141,
+      "question": "Metan, suv bugʻi va is gazi aralashmasining atomlar soni teng. Shu aralashmaga vodorod va kislorod atomlari soni teng boʻlguncha NO qoʻshildi. Hosil boʻlgan aralashmaning 25,32 g mi qanday hajmni (l, n.sh) egallashini toping?",
+      "options": [
+        "112",
+        "22,4",
+        "56",
+        "33,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 142,
+      "question": "x litr ammiak parchalanganda aralashmaning hajmi 5/4 marta oshdi. Hosil boʻlgan aralashmaning hajmi dastlabki hajmdan 8 litr ga koʻp ekanligi maʼlum boʻlsa, hosil boʻlgan aralashmadagi azotning hajmiy ulushini (%) aniqlang?",
+      "options": [
+        "10",
+        "60",
+        "20",
+        "30"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 143,
+      "question": "Gaz 4 l sigʻimli idishda 420 kPa bosim ostida joylashtirilgan. Shu gaz oʻsha haroratda 12 l sigʻimli idishga joylashtirildi. Gazning keyingi idishdagi bosimini (kPa) aniqlang.",
+      "options": [
+        "140",
+        "404",
+        "244",
+        "220"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 144,
+      "question": "4,92 litr (t = 27°C, P = 1,5 atm) hajmdagi nomaʼlum modda bugʻining massasi 8,4 g ga teng. Moddaning metanga nisbatan zichligini aniqlang.",
+      "options": [
+        "1,875",
+        "1,5",
+        "1,75",
+        "2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 145,
+      "question": "Azot oksidining zichligi 1,788 g/l, 1 atm bosim va 27°C boʻlsa, azot oksidining formulasini toping.",
+      "options": [
+        "N₂O",
+        "N₂O₃",
+        "N₂O₅",
+        "NO"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 146,
+      "question": "Azot oksidining zichligi 2,87 g/l, 1,5 atm bosim va 20°C boʻlsa, azotning shu oksididagi ekvivalent massasini toping.",
+      "options": [
+        "3,5",
+        "2,8",
+        "4,67",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 147,
+      "question": "N₂ va O₃ aralashmasiga NO₂ qoʻshilganda uning zichligi oʻzgarmagan boʻlsa dastlabki aralashmadagi N₂ ning massa ulushini (%) aniqlang.",
+      "options": [
+        "6,087",
+        "93,913",
+        "10",
+        "90"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 148,
+      "question": "Qaysi gazning 47°C va 166,2 kPa bosimda 40 litridagi atomlari soni Avogadro sonidan 5 marta koʻp boʻladi?",
+      "options": [
+        "metan",
+        "etan",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 149,
+      "question": "Qaysi gazning 27°C va 166,2 kPa bosimda 60 litridagi atomlari soni Avogadro sonidan 12 marta koʻp boʻladi?",
+      "options": [
+        "ozon",
+        "kislorod",
+        "fosfin",
+        "xlor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 150,
+      "question": "207,75 kPa bosim va 50°C haroratdagi gazlar aralashmasining zichligi 2 g/l boʻlsa, azot bilan aralashgan galogenovodorodni aniqlang.",
+      "options": [
+        "HCl",
+        "HBr",
+        "HI",
+        "HF"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 151,
+      "question": "Suv osti kemasidan ajralib chiqqan 2,5 litrli havo pufagi 173 metr yuqorilagandan keyin suv yuzasiga chiqdi. Havo pufagining oxirgi hajmini aniqlang. (Yuzada bosim 1 atm. Dengiz tubiga har bir metr tushganda bosim 10 kPa ga ortadi deb olinsin)",
+      "options": [
+        "29,6",
+        "45,2",
+        "42,5",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 152,
+      "question": "Suv osti kemasidan ajralib chiqqan 2 litrli havo pufagi 150 metr yuqorilagandan keyin suv yuzasiga chiqdi. Havo pufagining oxirgi hajmini aniqlang. (Yuzada bosim 1 atm, dengiz tubiga har bir metr tushganda bosim 10 kPa ga ortadi deb olinsin)",
+      "options": [
+        "29,6",
+        "31,6",
+        "30",
+        "32"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 153,
+      "question": "Suv osti kemasidan ajralib chiqqan 1,5 litrli havo pufagi 170 metr yuqorilagandan keyin suv yuzasiga chiqdi. Havo pufagining oxirgi hajmini aniqlang. (Yuzada bosim 1 atm, dengiz tubiga har bir metr tushganda bosim 10 kPa ga ortadi deb olinsin)",
+      "options": [
+        "27",
+        "25,5",
+        "26,67",
+        "25,17"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 154,
+      "question": "Suv osti kemasidan ajralib chiqqan 1,5 litrli havo pufagi 100 metr yuqorilagandan keyin suv yuzasiga chiqadi. Agar dengiz tubiga har bir metr tushganda bosim 0,1 atm ga ortsa, havo pufagining oxirgi hajmini (l) aniqlang. (Yuzada bosim 1 atm)",
+      "options": [
+        "16,5",
+        "25,5",
+        "10,87",
+        "12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 155,
+      "question": "Maʼlum hajmli kolbaga normal bosimda N₂ gazi toʻldirilgan, xuddi shunday hajmli boshqa kolbaga esa 141,86 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ne",
+        "CH₄",
+        "CO₂",
+        "O₂"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 156,
+      "question": "Maʼlum hajmli kolbaga normal bosimda Ne gazi toʻldirilgan, xuddi shunday hajmli boshqa kolbaga esa 46 kPa bosimda nomaʼlum gaz bilan toʻldirilganda har ikkala kolbalarning massalari tenglashdi. Nomaʼlum gazni aniqlang.",
+      "options": [
+        "Ne",
+        "CH₄",
+        "CO₂",
+        "O₂"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 157,
+      "question": "Maʼlum hajmli kolbaga normal bosimda Ne gazi toʻldirilgan, xuddi shunday hajmli boshqa kolbaga qanday bosimda (kPa) C₃H₈ gazi bilan toʻldirilganda kolbalarning massalari tenglashadi?",
+      "options": [
+        "65",
+        "46",
+        "35",
+        "27"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 158,
+      "question": "27°C da va 1,3 atm bosimda nomaʼlum gazning zichligi 3,75 g/l ga teng. Nomaʼlum gaz formulasini aniqlang?",
+      "options": [
+        "N₂",
+        "Cl₂",
+        "Ar",
+        "O₂"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 159,
+      "question": "Azotning n.sh. dagi zichligi 1,25 g/l ga teng. Qanday temperaturada (K) kislorodning zichligi 1,25 g/l ga teng boʻladi? (P = const)",
+      "options": [
+        "312",
+        "546",
+        "294",
+        "273"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 160,
+      "question": "Tarkibi 3CO·2CO₂ dan iborat 100 g gazlar aralashmasining 47°C va 99,72 kPa bosimdagi hajmini hisoblang.",
+      "options": [
+        "66",
+        "72",
+        "75",
+        "84"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 161,
+      "question": "Tarkibi 2CO·3N₂·5O₂ dan iborat 15 g aralashmaning 47°C da egallagan bosimini (mm.Hg.ust) toping. (Idish hajmi 6,24 l)",
+      "options": [
+        "1350",
+        "1600",
+        "975,4",
+        "760,0"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 162,
+      "question": "Sistema hajmi 2 marta oshirilib, temperatura ham 4 marta oshirildi. Idishdagi bosim qanday oʻzgaradi?",
+      "options": [
+        "2 marta kamayadi",
+        "2 marta ortadi",
+        "4 marta kamayadi",
+        "4 marta ortadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 163,
+      "question": "Sistema hajmi 4 marta kamaytirilib, gaz massasi 2 marta orttirildi. Idishdagi bosim qanday oʻzgaradi?",
+      "options": [
+        "8 marta ortadi",
+        "4 marta ortadi",
+        "2 marta kamayadi",
+        "16 marta kamayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 164,
+      "question": "69 g azot(IV) oksidi 27°C va 120 kPa da ushlab turilganda uning 40% qismi dimerga aylandi. Hosil boʻlgan aralashma hajmini aniqlang.",
+      "options": [
+        "33,24",
+        "12,47",
+        "24,93",
+        "26,88"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 165,
+      "question": "73,6 g NO₂ 27°C va 110 kPa da ushlab turilganda hosil boʻlgan aralashma hajmi 32,65 l boʻlib qoldi. NO₂ ning necha foizi dimerga aylanganligini toping.",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "40"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 166,
+      "question": "27°C da turgan qandaydir hajmli konteynerdagi havoning 1/3 qismi konteynerdan chiqib ketishi uchun temperatura qanchagacha (°C) koʻtarilishi kerak? (bosim oʻzgarishsiz deb hisoblang)",
+      "options": [
+        "450",
+        "177",
+        "223",
+        "40,5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 167,
+      "question": "27°C da turgan qandaydir hajmli konteynerdagi havoning 1/5 qismi konteynerdan chiqib ketishi uchun temperatura qanchagacha (°C) koʻtarilishi kerak? (bosim oʻzgarishsiz deb hisoblang)",
+      "options": [
+        "102",
+        "375",
+        "273",
+        "77"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
