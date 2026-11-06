@@ -1,0 +1,422 @@
+{
+  "topicId": 4,
+  "title": "6-sinf Botanika 4-Mavzu",
+  "description": "4-§. O'simlik hujayrasining tuzilishi",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tirik organizmning eng mayda tarkibiy qismi nima?",
+      "options": [
+        "Organ",
+        "Yadro",
+        "Hujayra",
+        "To'qima"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Hujayraning tuzilishini o'rganadigan fan qanday ataladi?",
+      "options": [
+        "Anatomiya",
+        "Sitologiya",
+        "Morfologiya",
+        "Embriologiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "«Sitologiya» so'zidagi «sitos» va «logos» qismlari nimani anglatadi?",
+      "options": [
+        "O'simlik – fan",
+        "Hujayra – tuzilish",
+        "To'qima – ta'limot",
+        "Hujayra – ta'limot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Hujayrani kim va qachon kashf etgan?",
+      "options": [
+        "Yunon olimi Teofrast, miloddan avval",
+        "Ingliz fizigi Robert Guk, 1665-yilda",
+        "Robert Guk, 1682-yilda",
+        "Ingliz botanigi N. Gryu, 1682-yilda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Hujayralarini oddiy ko'z bilan ko'rish mumkin bo'lgan mevalar qatorini toping.",
+      "options": [
+        "Olma, nok, behi, o'rik",
+        "Bug'doy, arpa, sholi, mosh",
+        "Limon, mandarin, pomidor, tarvuz",
+        "Yong'oq, olcha, o'rik, nok"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Bir hujayrali o'simliklarga misol bo'la oladigan qatorni toping.",
+      "options": [
+        "Elodeya, xlorella",
+        "Xlorella, xlamidomonada",
+        "Yo'sin, xlorella",
+        "Xlamidomonada, nilufar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "O'simlik hujayrasi qanday asosiy qismlardan tashkil topgan?",
+      "options": [
+        "Yadro, vakuol va xloroplast",
+        "Hujayra qobig'i, vakuol va plastidalar",
+        "Sitoplazma, plastidalar va vakuol",
+        "Hujayra qobig'i, sitoplazma va yadro"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Hujayra qobig'i qanday moddadan iborat?",
+      "options": [
+        "Kraxmaldan",
+        "Oqsildan",
+        "Suberindan",
+        "Kletchatkadan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Hujayra qobig'ining vazifalari to'g'ri ko'rsatilgan javobni toping.",
+      "options": [
+        "Zaxira moddalarni saqlaydi",
+        "Hujayrani tashqi ta'sirdan himoya qiladi, shaklini saqlaydi va tashqi muhit bilan bog'laydi",
+        "Fotosintez jarayonini amalga oshiradi",
+        "Irsiy belgilarni yangi avlodga o'tkazadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Hujayraning doimo harakatlanib turadigan, rangsiz, tiniq, suyuq yoki shilimshiq asosiy tarkibiy qismi qaysi?",
+      "options": [
+        "Yadro",
+        "Hujayra qobig'i",
+        "Vakuol",
+        "Sitoplazma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Hujayraning eng muhim tarkibiy qismi bo'lib, hujayra bo'linishida katta rol o'ynaydigan organoid qaysi?",
+      "options": [
+        "Leykoplast",
+        "Xloroplast",
+        "Vakuol",
+        "Yadro"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Irsiy belgilarning yangi avlodga o'tishida muhim ahamiyatga ega bo'lgan hujayra qismi qaysi?",
+      "options": [
+        "Vakuol",
+        "Yadro",
+        "Sitoplazma",
+        "Xromoplast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Yadrosi shakllanmagan, yadro moddalari sitoplazmada tarqoq holda joylashgan organizmlar qaysilar?",
+      "options": [
+        "Ko'k-yashil suvo'tlar va bakteriyalar",
+        "Elodeya va bakteriyalar",
+        "Xlorella va xlamidomonada",
+        "Zamburug'lar va yo'sinlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Qaysi organizmlarda plastidalar bo'lmaydi?",
+      "options": [
+        "Zamburug'lar, bakteriyalar, ko'k-yashil suvo'tlar",
+        "Bakteriyalar, elodeya, piyoz",
+        "Zamburug'lar, xlorella, yo'sinlar",
+        "Xlorella, xlamidomonada, elodeya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Plastidalar necha xil bo'ladi?",
+      "options": [
+        "4 xil",
+        "3 xil",
+        "2 xil",
+        "5 xil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Fotosintez jarayoni hujayraning qaysi qismida boradi?",
+      "options": [
+        "Leykoplastlarda",
+        "Xloroplastlarda",
+        "Xromoplastlarda",
+        "Vakuolda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Xloroplastlar yashil rangini qaysi pigment beradi?",
+      "options": [
+        "Kraxmal",
+        "Suberin",
+        "Xlorofill",
+        "Kletchatka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Gul va mevalarga rang beruvchi plastidalar qaysilar?",
+      "options": [
+        "Xromoplastlar",
+        "Xloroplastlar",
+        "Vakuollar",
+        "Leykoplastlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Rangsiz bo'lib, zaxira moddalar saqlanadigan plastidalar qaysilar?",
+      "options": [
+        "Leykoplastlar",
+        "Xromoplastlar",
+        "Xloroplastlar",
+        "Vakuollar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Mosligini toping: 1) leykoplast; 2) xromoplast; 3) xloroplast. a) yashil; b) rangsiz; c) zarg'aldoq, qizg'ish",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Vakuol nima?",
+      "options": [
+        "Sitoplazma ichidagi hujayra shirasi bilan to'lgan bo'shliq",
+        "Hujayrani o'rab turuvchi kletchatkali parda",
+        "Yashil pigmentli plastida",
+        "Irsiy belgilarni saqlovchi tana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Hujayra shirasi tarkibida necha foiz suv bo'ladi?",
+      "options": [
+        "96–99%",
+        "10–30%",
+        "70–95%",
+        "40–60%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Mevalarning shirin, nordon yoki achchiq ta'mi nimaga bog'liq?",
+      "options": [
+        "Xloroplastlar soniga",
+        "Yadroning kattaligiga",
+        "Hujayra qobig'ining qalinligiga",
+        "Vakuoldagi hujayra shirasining tarkibiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Piyoz pardasi hujayralari boshqa o'simlik hujayralaridan nimasi bilan farq qiladi?",
+      "options": [
+        "Plastidalari qizil rangli bo'ladi",
+        "Shakli yumaloq, siyrak joylashgan va plastidalari yashil",
+        "Yadrosi bo'lmaydi",
+        "Shakli cho'ziq, zich joylashgan va plastidalari rangsiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Chigit yuzasidagi tola (tuk) haqidagi to'g'ri fikrni toping.",
+      "options": [
+        "Bitta hujayradan iborat, uzunligi 3–4 sm ga yetadi",
+        "O'lik to'qimadan iborat, uzunligi 30–40 sm",
+        "Ko'p hujayradan iborat, uzunligi 3–4 sm",
+        "Bitta hujayradan iborat, uzunligi 3–4 mm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Hujayra tarkibidagi organik moddalar qatorini toping.",
+      "options": [
+        "Mineral tuzlar, oqsil, suv",
+        "Suv, uglevod, yog'lar",
+        "Suv, mineral tuzlar, oqsil",
+        "Oqsil, uglevod, yog'lar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Hujayra tarkibidagi anorganik moddalar qaysilar?",
+      "options": [
+        "Suv va mineral tuzlar",
+        "Oqsil va yog'lar",
+        "Kletchatka va mineral tuzlar",
+        "Uglevod va suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Hujayralar haqidagi NOTO'G'RI fikrni toping.",
+      "options": [
+        "Hujayralar shakli va vazifasiga qarab xilma-xil bo'ladi",
+        "Hujayralar shakl jihatidan farq qilsa-da, ichki tuzilishi o'xshash",
+        "Bir tup o'simlikning turli organlaridagi hujayralar doim bir xil shaklda bo'ladi",
+        "Barcha yuksak o'simliklar ko'p hujayrali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Piyoz pardasidan preparat tayyorlashning to'g'ri ketma-ketligini toping: 1) qoplagich oyna bilan yopiladi; 2) etli po'stdan yupqa shaffof parda ajratiladi; 3) buyum oynasidagi suv tomchisiga qo'yiladi; 4) mikroskopda ko'riladi",
+      "options": [
+        "2, 1, 3, 4",
+        "2, 3, 1, 4",
+        "1, 2, 3, 4",
+        "3, 2, 1, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Rasmda o'simlik hujayrasi tasvirlangan. 1 raqami bilan nima ko'rsatilgan?",
+      "options": [
+        "Hujayra qobig'i",
+        "Yadro",
+        "Sitoplazma",
+        "Vakuol"
+      ],
+      "correctIndex": 0,
+      "image": "https://apk-admin-production.up.railway.app/media/72.webp"
+    },
+    {
+      "id": 31,
+      "question": "Rasmdagi o'simlik hujayrasida 4 raqami bilan qaysi qism ko'rsatilgan?",
+      "options": [
+        "Xromoplast",
+        "Xloroplast",
+        "Yadro",
+        "Vakuol"
+      ],
+      "correctIndex": 2,
+      "image": "https://apk-admin-production.up.railway.app/media/72.webp"
+    },
+    {
+      "id": 32,
+      "question": "Rasmdagi o'simlik hujayrasida 6 raqami bilan qaysi qism ko'rsatilgan?",
+      "options": [
+        "Yadro",
+        "Vakuol",
+        "Xloroplast",
+        "Sitoplazma"
+      ],
+      "correctIndex": 1,
+      "image": "https://apk-admin-production.up.railway.app/media/72.webp"
+    },
+    {
+      "id": 33,
+      "question": "Rasmdagi hujayrada fotosintez jarayoni qaysi raqam bilan belgilangan qismlarda boradi?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "image": "https://apk-admin-production.up.railway.app/media/72.webp"
+    },
+    {
+      "id": 34,
+      "question": "Rasmdagi hujayrada 5 raqami bilan ko'rsatilgan, gul va mevalarga rang beruvchi qism qaysi?",
+      "options": [
+        "Xromoplast",
+        "Vakuol",
+        "Leykoplast",
+        "Xloroplast"
+      ],
+      "correctIndex": 0,
+      "image": "https://apk-admin-production.up.railway.app/media/72.webp"
+    },
+    {
+      "id": 35,
+      "question": "Rasmda mikroskop ostida ko'rinayotgan, shakli cho'ziq, zich joylashgan va plastidalari rangsiz hujayralar nimaga tegishli?",
+      "options": [
+        "Chigit tolasiga",
+        "Pomidor mevasiga",
+        "Piyoz po'sti (pardasi)ga",
+        "Elodeya bargiga"
+      ],
+      "correctIndex": 2,
+      "image": "https://apk-admin-production.up.railway.app/media/73.webp"
+    },
+    {
+      "id": 36,
+      "question": "Rasmda qanday ish tasvirlangan?",
+      "options": [
+        "Chigit tuklaridan preparat tayyorlash",
+        "Elodeya bargini mikroskopda ko'rish",
+        "Piyoz po'stidan preparat tayyorlash",
+        "Hujayraga yod eritmasi o'tishini kuzatish"
+      ],
+      "correctIndex": 2,
+      "image": "https://apk-admin-production.up.railway.app/media/74.webp"
+    },
+    {
+      "id": 37,
+      "question": "Rasmda mikroskop ostida chigit tolalari ko'rsatilgan. Ular haqidagi to'g'ri fikrni toping.",
+      "options": [
+        "Tolalar o'lik to'qima bo'lib, uzunligi 3–4 mm",
+        "Har bir tola minglab hujayradan iborat",
+        "Har bir tola bitta hujayradan iborat, uzunligi 3–4 sm ga yetadi",
+        "Tolalarda xloroplastlar ko'p bo'ladi"
+      ],
+      "correctIndex": 2,
+      "image": "https://apk-admin-production.up.railway.app/media/75.webp"
+    }
+  ]
+}
