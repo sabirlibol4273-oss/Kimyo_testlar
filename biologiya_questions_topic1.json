@@ -2,5 +2,17 @@
   "topicId": 1,
   "title": "6-sinf Botanika 1-Mavzu",
   "description": "Doniyorbek Xayitboyev",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Namatakning ikkinchi nomi nima?",
+      "options": [
+        "olma",
+        "shuvoq",
+        "rano",
+        "itsiygak"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
