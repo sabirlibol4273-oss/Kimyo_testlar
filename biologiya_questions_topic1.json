@@ -5,14 +5,345 @@
   "questions": [
     {
       "id": 1,
-      "question": "Namatakning ikkinchi nomi nima?",
+      "question": "Hozirgi vaqtda yer yuzida o'simliklarning nechta turi borligi aniqlangan?",
       "options": [
-        "olma",
-        "shuvoq",
-        "rano",
-        "itsiygak"
+        "100 000 ga yaqin",
+        "4 500 dan ortiq",
+        "250 000 dan ortiq",
+        "500 000 dan ortiq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "O'zbekistonda tabiiy holda o'sadigan yuksak o'simliklarning nechta turi ma'lum?",
+      "options": [
+        "1 500",
+        "4 500",
+        "250 000",
+        "500 000"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "«Botanika» so'zi qaysi tildan olingan va qanday ma'noni bildiradi?",
+      "options": [
+        "Lotincha «vegetatio» – o'sish, rivojlanish",
+        "Lotincha «botanicus» – daraxt, buta",
+        "Yunoncha «botane» – ko'kat, o't, o'simlik",
+        "Yunoncha «sitos» – hujayra"
       ],
       "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "O'simlik organlarining tashqi tuzilishini botanikaning qaysi bo'limi o'rganadi?",
+      "options": [
+        "Morfologiya",
+        "Embriologiya",
+        "Fiziologiya",
+        "Anatomiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "O'simliklarning ichki tuzilishini o'rganadigan bo'lim qaysi?",
+      "options": [
+        "Anatomiya",
+        "Geobotanika",
+        "Morfologiya",
+        "Sistematika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Nafas olish, fotosintez, mineral moddalarning qabul qilinishi va suv bug'latish jarayonlarini qaysi bo'lim o'rganadi?",
+      "options": [
+        "O'simliklar fiziologiyasi",
+        "O'simliklar morfologiyasi",
+        "O'simliklar ekologiyasi",
+        "O'simliklar anatomiyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "O'simliklarni kelib chiqishi va belgilari asosida guruhlarga birlashtiruvchi (klassifikatsiya qiluvchi) bo'lim qaysi?",
+      "options": [
+        "Paleobotanika",
+        "Geobotanika",
+        "Sistematika",
+        "Embriologiya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "O'simliklarning ko'payish a'zolari tuzilishi va ko'payish bilan bog'liq jarayonlarni qaysi bo'lim o'rganadi?",
+      "options": [
+        "Morfologiya",
+        "Fiziologiya",
+        "Embriologiya",
+        "Sitologiya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "O'simliklarning Yer sharida tarqalish qonuniyatlarini o'rganadigan bo'lim qanday ataladi?",
+      "options": [
+        "Sistematika",
+        "Paleobotanika",
+        "Ekologiya",
+        "Geobotanika"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Tashqi muhit omillarining o'simlikka ta'sirini qaysi bo'lim o'rganadi?",
+      "options": [
+        "Geobotanika",
+        "O'simliklar ekologiyasi",
+        "O'simliklar fiziologiyasi",
+        "O'simliklar anatomiyasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Paleobotanika nimani o'rganadi?",
+      "options": [
+        "Yo'sinlarni",
+        "Dorivor o'simliklarni",
+        "Suvo'tlarni",
+        "Qazilma o'simliklarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Lixenologiya nimani o'rganadi?",
+      "options": [
+        "Yo'sinlarni",
+        "Suvo'tlarni",
+        "Zamburug'larni",
+        "Lishayniklarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Mosligini toping: 1) algologiya; 2) briologiya; 3) lixenologiya. a) lishayniklar; b) suvo'tlar; c) yo'sinlar",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Quyidagilardan qaysi biri o'simliklar fiziologiyasining o'rganish obyektiga kirmaydi?",
+      "options": [
+        "Fotosintez",
+        "Mineral moddalarning qabul qilinishi",
+        "Suv bug'latish",
+        "Organlarning tashqi tuzilishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Darslikda o'simliklarning tirik organizm sifatidagi belgilari qatorida sanalmagan xususiyatni toping.",
+      "options": [
+        "Joyidan ko'chib yuradi",
+        "Ko'payadi",
+        "Ta'sirlanadi",
+        "Rivojlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "O'simliklarning tabiatdagi ahamiyatiga oid NOTO'G'RI fikrni toping.",
+      "options": [
+        "Havodagi kislorodni yutib, karbonat angidrid bilan boyitadi",
+        "Tuproqni yemirilishdan saqlaydi",
+        "Tuproq hosil bo'lishida ishtirok etadi",
+        "Fotosintezda organik moddalar hosil qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Darslikda chorva mollari uchun to'yimli ozuqa sifatida keltirilgan o'simliklar qatorini toping.",
+      "options": [
+        "Beda, chakanda, nilufar, saksovul",
+        "Shuvoq, isiriq, g'o'za, lola",
+        "Shuvoq, izen, keyreuk, saksovul",
+        "Yantoq, sallagul, pista, javdar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Darslikdagi rasmda O'zbekiston Respublikasi «Qizil kitob»iga kiritilgan o'simliklar sifatida qaysilar ko'rsatilgan?",
+      "options": [
+        "Xolmon, lola, nilufar",
+        "Shirach, bodom, pista",
+        "Xolmon, shirach, sallagul",
+        "Lola, ko'zagul, chinnigul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "O'simliklarni o'rganishning boshlanishi qaysi olim nomi bilan bog'liq?",
+      "options": [
+        "Abu Rayhon Beruniy",
+        "Robert Guk",
+        "Teofrast",
+        "Abu Ali ibn Sino"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "«Kitob as-Saydana fit-tibb» asarining muallifi kim?",
+      "options": [
+        "Q. Z. Zokirov",
+        "Abu Ali ibn Sino",
+        "Teofrast",
+        "Abu Rayhon Beruniy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "«Kitob al-qonun fit-tibb» va «Kitob ush-shifo» asarlarining muallifi kim?",
+      "options": [
+        "Abu Rayhon Beruniy",
+        "Abu Ali ibn Sino",
+        "Teofrast",
+        "A. M. Muzaffarov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Abu Ali ibn Sino yashagan yillarni ko'rsating.",
+      "options": [
+        "1908–1992",
+        "980–1037",
+        "1895–1979",
+        "973–1048"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Abu Rayhon Beruniy yashagan yillarni ko'rsating.",
+      "options": [
+        "973–1048",
+        "1909–1987",
+        "973–1037",
+        "980–1037"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "O'zbekistonda «Botanika» fanining rivojlanishiga hissa qo'shgan olimlar qatorini toping.",
+      "options": [
+        "Teofrast, R. Guk, N. Gryu",
+        "Q. Z. Zokirov, A. M. Muzaffarov, Ye. P. Korovin",
+        "Q. Z. Zokirov, R. Guk, Teofrast",
+        "N. Gryu, A. I. Vvedenskiy, R. Guk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Qodir Zokirovich Zokirov yashagan yillar qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "1909–1987",
+        "1895–1979",
+        "1908–1992",
+        "1908–1987"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Yashil o'simliklar fotosintez jarayonida nimalarni hosil qiladi?",
+      "options": [
+        "Organik moddalar va karbonat angidrid",
+        "Karbonat angidrid va suv",
+        "Organik moddalar va kislorod",
+        "Mineral tuzlar va kislorod"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "O'zbekistonda tabiatni muhofaza qilish maqsadida qanday davlat tashkiloti tashkil etilgan?",
+      "options": [
+        "Qizil kitob jamg'armasi",
+        "O'simliklar sistematikasi instituti",
+        "Botanika akademiyasi",
+        "Tabiatni muhofaza qilish Davlat qo'mitasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "O'simliklarning tirik organizm ekanligini ko'rsatuvchi asosiy belgi qaysi?",
+      "options": [
+        "Barcha tirik organizmlar kabi hujayralardan tashkil topgan",
+        "Hayoti davomida gullaydi",
+        "Tuproqqa birikkan holda o'sadi",
+        "Faqat fotosintez qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "F. N. Rusanov yashagan yillar qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "1895–1987",
+        "1895–1979",
+        "1909–1987",
+        "1908–1992"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "O'simliklarni o'rganishni boshlab bergan Teofrast qaysi xalqning olimi bo'lgan?",
+      "options": [
+        "O'rta osiyolik",
+        "Qadimgi yunon",
+        "Ingliz",
+        "Qadimgi rim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Rasmda tasvirlangan o'simliklar (xolmon, shirach, sallagul) umumiy holda qaysi guruhga mansub?",
+      "options": [
+        "Chorva uchun to'yimli ozuqa o'simliklari",
+        "O'zbekiston Respublikasi «Qizil kitob»iga kiritilgan o'simliklar",
+        "Cho'llarda o'sadigan yarimbutalar",
+        "Qishloq xo'jaligida o'stiriladigan bir yillik o'simliklar"
+      ],
+      "correctIndex": 1,
+      "image": "https://apk-admin-production.up.railway.app/media/63.webp"
     }
   ]
 }
