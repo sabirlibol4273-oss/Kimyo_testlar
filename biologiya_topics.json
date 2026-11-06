@@ -5,6 +5,30 @@
       "title": "6-sinf Botanika 1-Mavzu",
       "description": "Doniyorbek Xayitboyev",
       "unlocked": true
+    },
+    {
+      "id": 2,
+      "title": "6-sinf Botanika 2-Mavzu",
+      "description": "2-§. Gulli o'simliklar bilan umumiy tanishish",
+      "unlocked": true
+    },
+    {
+      "id": 3,
+      "title": "6-sinf Botanika 3-Mavzu",
+      "description": "3-§. O'simliklarning hayotiy shakllari",
+      "unlocked": true
+    },
+    {
+      "id": 4,
+      "title": "6-sinf Botanika 4-Mavzu",
+      "description": "4-§. O'simlik hujayrasining tuzilishi",
+      "unlocked": true
+    },
+    {
+      "id": 5,
+      "title": "6-sinf Botanika 5-Mavzu",
+      "description": "5-§. Hujayralarning hayotiy faoliyati",
+      "unlocked": true
     }
   ]
 }
