@@ -1,0 +1,377 @@
+{
+  "topicId": 3,
+  "title": "6-sinf Botanika 3-Mavzu",
+  "description": "3-§. O'simliklarning hayotiy shakllari",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hayotiy shakl deb nimaga aytiladi?",
+      "options": [
+        "O'simliklarning kelib chiqishi bo'yicha guruhlanishiga",
+        "O'simlikning bir yil ichidagi rivojlanishiga",
+        "O'simliklarning tashqi muhitga har xil shaklda moslashishiga",
+        "O'simlik hujayralarining shakliga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Gulli o'simliklar hayotiy shakllariga ko'ra nechta guruhga bo'linadi?",
+      "options": [
+        "6 ta",
+        "3 ta",
+        "4 ta",
+        "5 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Shox-shabbasi yoyiq bo'lgan daraxtlar qatorini toping.",
+      "options": [
+        "Qarag'ay, terak, olma, o'rik",
+        "Olma, o'rik, yong'oq, shaftoli",
+        "Sadaqayrag'och, terak, yong'oq",
+        "Qarag'ay, sadaqayrag'och, shaftoli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Shox-shabbasi g'uj va tik bo'lgan daraxtlar qaysilar?",
+      "options": [
+        "Shaftoli va qarag'ay",
+        "Sadaqayrag'och va yong'oq",
+        "Qarag'ay va terak",
+        "Olma va o'rik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Shox-shabbasi sharsimon bo'lgan daraxt qaysi?",
+      "options": [
+        "Yong'oq",
+        "Sadaqayrag'och",
+        "Terak",
+        "Qarag'ay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Tog'larning eng baland qismida o'sadigan archaning yerdan atigi 0,5–1 m ko'tarilib o'sishi nimaga moslanish?",
+      "options": [
+        "Ko'proq yorug'lik olishga",
+        "Doimiy esadigan shamol va qishning qattiq sovuqlaridan saqlanishga",
+        "Yer osti suvlaridan foydalanishga",
+        "Hasharotlar bilan changlanishga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Butalarning daraxtlardan asosiy farqi nimada?",
+      "options": [
+        "Yerusti qismi har yili qurib qoladi",
+        "Ko'p yillik emas, bir yillik bo'ladi",
+        "Poyasi yog'ochlashmaydi",
+        "Bir nechta yog'ochlashgan poya – tanaga ega"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Butalarda yangi yosh novdalar qayerdan o'sib chiqadi?",
+      "options": [
+        "Yog'ochlashgan tananing uchidan",
+        "Barg qo'ltig'idagi gullardan",
+        "Faqat urug'dan",
+        "Ildizdagi qo'shimcha kurtaklardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Faqat butalar berilgan qatorni toping.",
+      "options": [
+        "Nastarin, teresken, qoraqat, lola",
+        "Irg'ay, izen, beda, zirk",
+        "Zirk, terak, na'matak, shuvoq",
+        "Irg'ay, zirk, na'matak, nastarin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Darslikka ko'ra anor va limon qaysi hayotiy shaklga kiradi?",
+      "options": [
+        "Yarimbuta",
+        "Buta",
+        "Daraxt",
+        "Ko'p yillik o't"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Yarimbutalarga xos belgini toping.",
+      "options": [
+        "Poyasining pastki qismi yog'ochlashgan, yuqori yashil qismini qishda sovuq uradi",
+        "Yerusti qismi butunlay qurib, kurtaklari tuproq ostida qishlaydi",
+        "Birinchi yili vegetativ organ hosil qilib, ikkinchi yili gullaydi",
+        "Bir nechta to'liq yog'ochlashgan tanaga ega"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Cho'llarda keng tarqalgan yarimbutalar qatorini toping.",
+      "options": [
+        "Teresken, zirk, uchqat, shuvoq",
+        "Izen, keyreuk, teresken, sarsazan",
+        "Keyreuk, lola, qamish, izen",
+        "Izen, beda, ajriq, sarsazan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Ko'p yillik o'tlarning o'ziga xos belgisi nima?",
+      "options": [
+        "Ikkinchi yili gullab meva tugadi",
+        "Yerusti qismi qishda qurib, o'sish kurtaklari tuproq ostida qishlaydi",
+        "Bir yil ichida unib, gullab, meva tugib, hayotini tugatadi",
+        "Poyasining pastki qismi yog'ochlashgan bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Faqat ko'p yillik o'tlar berilgan qatorni toping.",
+      "options": [
+        "Beda, ajriq, lola, yalpiz",
+        "Beda, sabzi, lola, yalpiz",
+        "Ajriq, g'o'za, qamish, andiz",
+        "Lola, shuvoq, kovrak, ajriq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Darslikka ko'ra lola, sallagul va gulsafsar qaysi hayotiy shaklga kiradi?",
+      "options": [
+        "Bir yillik o'tlar",
+        "Yarimbutalar",
+        "Ko'p yillik o'tlar",
+        "Ikki yillik o'tlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Ikki yillik o'tlarning birinchi yilidagi hayoti to'g'ri ko'rsatilgan javobni toping.",
+      "options": [
+        "Vegetativ organlar hosil qiladi, ildizi va barglarida oziq moddalar to'playdi",
+        "Gullaydi, lekin meva tugmaydi",
+        "Faqat urug' holida tinim davrini o'tkazadi",
+        "Gullab, meva tugadi va qurib qoladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Faqat ikki yillik o'tlar berilgan qatorni toping.",
+      "options": [
+        "Sigirquyruq, mosh, sabzi, lola",
+        "Lavlagi, sabzi, bug'doy, karam",
+        "Lavlagi, sabzi, sholg'om, sigirquyruq",
+        "Sholg'om, beda, sabzi, lavlagi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Qishloq xo'jaligida o'stiriladigan madaniy o'simliklarning ko'pchiligi qaysi hayotiy shaklga kiradi?",
+      "options": [
+        "Ikki yillik o'tlar",
+        "Bir yillik o'tlar",
+        "Butalar",
+        "Ko'p yillik o'tlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Faqat bir yillik o'tlar berilgan qatorni toping.",
+      "options": [
+        "G'o'za, bug'doy, sholi, rayhon",
+        "G'o'za, beda, sholi, rayhon",
+        "Bug'doy, sabzi, mosh, no'xat",
+        "Qovun, tarvuz, lavlagi, arpa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Yer yuzidan atigi 5–20 sm ko'tarilib o'sadigan mayda bir yillik o'tlar qaysilar?",
+      "options": [
+        "Zubturum, kungaboqar",
+        "Makkajo'xori, kanakunjut",
+        "Kanakunjut, kanop",
+        "Momaqaltiroq, qo'ytikan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Bo'yi 1 m dan ham oshadigan bir yillik o'tlar qatorini toping.",
+      "options": [
+        "Rayhon, mosh, momaqaltiroq",
+        "Momaqaltiroq, qo'ytikan, kanop",
+        "Kanakunjut, makkajo'xori, kanop",
+        "Sabzi, lavlagi, makkajo'xori"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Mosligini toping: 1) shuvoq; 2) qoraqat; 3) qoqio't; 4) karam. a) buta; b) ko'p yillik o't; c) yarimbuta; d) ikki yillik o't",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Darslik rasmlarida maymunjon qaysi hayotiy shakl namunasi sifatida berilgan?",
+      "options": [
+        "Yarimbuta",
+        "Daraxt",
+        "Buta",
+        "Ko'p yillik o't"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Darslik rasmlarida qulupnay qaysi hayotiy shakl namunasi sifatida berilgan?",
+      "options": [
+        "Ko'p yillik o't",
+        "Bir yillik o't",
+        "Ikki yillik o't",
+        "Yarimbuta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Darslik rasmlarida kungaboqar va zubturum qaysi guruhga misol qilib berilgan?",
+      "options": [
+        "Bir yillik o'tlar",
+        "Ikki yillik o'tlar",
+        "Ko'p yillik o'tlar",
+        "Yarimbutalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Itsigek va teresken darslikda qaysi hayotiy shaklga misol qilib berilgan?",
+      "options": [
+        "Ko'p yillik o'tlar",
+        "Butalar",
+        "Bir yillik o'tlar",
+        "Yarimbutalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Rasmda tasvirlangan o'simliklar qaysi hayotiy shaklga kiradi va bu shaklga xos belgi qaysi?",
+      "options": [
+        "Yarimbuta – faqat poyaning pastki qismi yog'ochlashgan",
+        "Daraxt – bitta yo'g'on yog'ochlashgan tanaga ega",
+        "Buta – bir nechta yog'ochlashgan poyaga ega",
+        "Ko'p yillik o't – yerusti qismi qishda quriydi"
+      ],
+      "correctIndex": 1,
+      "image": "https://apk-admin-production.up.railway.app/media/65.webp"
+    },
+    {
+      "id": 28,
+      "question": "Rasmda shox-shabbasi sharsimon bo'lgan daraxt tasvirlangan. Bu qaysi daraxt?",
+      "options": [
+        "Sadaqayrag'och",
+        "Terak",
+        "Qarag'ay",
+        "Baobab"
+      ],
+      "correctIndex": 0,
+      "image": "https://apk-admin-production.up.railway.app/media/66.webp"
+    },
+    {
+      "id": 29,
+      "question": "Rasmda tasvirlangan o'simliklar qaysi hayotiy shaklga mansub?",
+      "options": [
+        "Yarimbutalar",
+        "Ikki yillik o'tlar",
+        "Butalar",
+        "Daraxtlar"
+      ],
+      "correctIndex": 2,
+      "image": "https://apk-admin-production.up.railway.app/media/67.webp"
+    },
+    {
+      "id": 30,
+      "question": "Rasmda cho'llarda o'sadigan o'simliklar tasvirlangan. Ular qaysi hayotiy shaklga kiradi?",
+      "options": [
+        "Yarimbutalar",
+        "Daraxtlar",
+        "Butalar",
+        "Bir yillik o'tlar"
+      ],
+      "correctIndex": 0,
+      "image": "https://apk-admin-production.up.railway.app/media/68.webp"
+    },
+    {
+      "id": 31,
+      "question": "Rasmda o'simlikning kuz, qish va bahordagi holati tasvirlangan. Bu qaysi hayotiy shakl?",
+      "options": [
+        "Yarimbuta",
+        "Ikki yillik o't",
+        "Bir yillik o't",
+        "Ko'p yillik o't"
+      ],
+      "correctIndex": 3,
+      "image": "https://apk-admin-production.up.railway.app/media/69.webp"
+    },
+    {
+      "id": 32,
+      "question": "Rasmda qaysi hayotiy shakldagi o'simlikning rivojlanishi tasvirlangan?",
+      "options": [
+        "Ko'p yillik o't",
+        "Bir yillik o't",
+        "Buta",
+        "Ikki yillik o't"
+      ],
+      "correctIndex": 3,
+      "image": "https://apk-admin-production.up.railway.app/media/70.webp"
+    },
+    {
+      "id": 33,
+      "question": "Rasmda 1 – urug', 2 – voyaga yetgan o'simlik ko'rsatilgan. Bu qaysi hayotiy shakl?",
+      "options": [
+        "Ikki yillik o't",
+        "Ko'p yillik o't",
+        "Yarimbuta",
+        "Bir yillik o't"
+      ],
+      "correctIndex": 3,
+      "image": "https://apk-admin-production.up.railway.app/media/71.webp"
+    }
+  ]
+}
