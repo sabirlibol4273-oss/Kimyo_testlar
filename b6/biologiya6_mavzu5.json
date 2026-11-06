@@ -1,0 +1,351 @@
+{
+  "topicId": 5,
+  "title": "Hujayralarning hayotiy faoliyati",
+  "description": "5-§. Sitoplazma harakati, moddalarning hujayraga kirishi, hujayralarning o'sishi va bo'linishi",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tirik hujayralarda sitoplazma harakatini qaysi o'simlik bargida kuzatish qulay?",
+      "options": [
+        "Piyoz",
+        "Xlorella",
+        "Nilufar",
+        "Elodeya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Elodeya bargini mikroskopda butunligicha ko'rish mumkinligining sababi nima?",
+      "options": [
+        "Barglarida xloroplast bo'lmagani uchun",
+        "Barglari shaffof bo'lgani uchun",
+        "Barglari juda yirik bo'lgani uchun",
+        "Hujayralarida yadro bo'lmagani uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Nima uchun elodeya bargi mikroskopdagi suv tomchisida tirik holda qoladi?",
+      "options": [
+        "Bargi po'kak bilan qoplangani uchun",
+        "Bargida xloroplast ko'p bo'lgani uchun",
+        "Hujayra qobig'i juda qalin bo'lgani uchun",
+        "Elodeya suvda o'sgani uchun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Sitoplazma harakati davomida bir hujayradagi oziq moddalar va kislorod ikkinchi hujayraga qanday o'tadi?",
+      "options": [
+        "Vakuol orqali",
+        "Hujayra qobig'idagi teshikchalar orqali",
+        "Yadro orqali",
+        "Faqat hujayra bo'linganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Hujayra qobig'i orqali moddalar o'tishini isbotlovchi tajribada sellofan xaltacha nimaning vazifasini o'taydi?",
+      "options": [
+        "Sitoplazmaning",
+        "Yadroning",
+        "Hujayra qobig'ining",
+        "Vakuolning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Tajribada sellofan xaltachaga solingan bug'doy uni xamiri yodli suvga tushirilganda qanday o'zgarish kuzatiladi?",
+      "options": [
+        "Xamir ko'kish rangga kiradi",
+        "Xamir qizil rangga kiradi",
+        "Hech qanday o'zgarish bo'lmaydi",
+        "Xamir rangsizlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Sellofan–xamir–yodli suv tajribasidan qanday xulosa chiqariladi?",
+      "options": [
+        "Sitoplazma doimo harakatlanadi",
+        "Yadro irsiy belgilarni o'tkazadi",
+        "Hujayra qobig'i orqali hujayra ichiga moddalar o'tadi",
+        "Hujayralar bo'linish yo'li bilan ko'payadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Darslikka ko'ra hujayralarning nafas olishi va oziqlanishi qanday sharoitda amalga oshadi?",
+      "options": [
+        "Quyosh nuri ta'sirida, suv, unda erigan moddalar va kislorod bo'lganda",
+        "Faqat qorong'ida va kislorodsiz",
+        "Faqat yuqori haroratda",
+        "Faqat tuproqdagi tuzlar ta'sirida, suvsiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Hujayra qobig'i va sitoplazma moddalarni o'tkazishi haqidagi to'g'ri fikrni toping.",
+      "options": [
+        "Hamma moddalarni ham o'tkazavermaydi",
+        "Barcha moddalarni bir xil o'tkazadi",
+        "Faqat havoni o'tkazadi",
+        "Hech qanday moddani o'tkazmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Tuproqdan hujayralar ichiga nimalar kiradi?",
+      "options": [
+        "Faqat organik moddalar",
+        "Faqat karbonat angidrid",
+        "Suv va unda erigan moddalar",
+        "Kraxmal va oqsillar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Hujayra ichiga tashqaridan kirgan turli eritmalar bilan nima sodir bo'ladi?",
+      "options": [
+        "Qayta ishlanib, hayotiy zarur moddalarga aylanadi",
+        "Darhol tashqariga chiqarib yuboriladi",
+        "O'zgarmasdan vakuolda to'planadi",
+        "Yadroni yemiradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Hujayraning yoshi ortishi bilan uning qobig'ida qanday o'zgarish bo'ladi?",
+      "options": [
+        "Qalinlashadi",
+        "O'zgarmaydi",
+        "Butunlay yo'qoladi",
+        "Yupqalashadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Qari hujayralarda qaysi qism sitoplazmaga qaraganda ko'proq joy egallaydi?",
+      "options": [
+        "Yadro",
+        "Xloroplast",
+        "Vakuol",
+        "Hujayra qobig'i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Vaqt o'tishi bilan qari hujayralarda sitoplazma va yadro yo'qolgach, ularning o'rnini nima egallaydi?",
+      "options": [
+        "Yangi yadro",
+        "Kletchatka",
+        "Xloroplastlar",
+        "Suv yoki havo"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Qaysi to'qima hujayralarigina bo'linish xususiyatiga ega?",
+      "options": [
+        "Mexanik to'qima hujayralari",
+        "Qoplovchi to'qima hujayralari",
+        "Barcha hujayralar bir xil bo'linadi",
+        "Hosil qiluvchi to'qima hujayralari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Hujayra bo'linishida qaysi qism katta rol o'ynaydi?",
+      "options": [
+        "Vakuol",
+        "Yadro",
+        "Hujayra qobig'i",
+        "Leykoplast"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Hujayra bo'linishi bosqichlarining to'g'ri ketma-ketligini toping: 1) sitoplazmada to'siq paydo bo'ladi; 2) yadro kattalashadi; 3) yadro ikkiga bo'linib, maxsus parda bilan qoplanadi; 4) ikkita yosh hujayra hosil bo'ladi",
+      "options": [
+        "1, 2, 3, 4",
+        "3, 2, 1, 4",
+        "2, 3, 1, 4",
+        "2, 1, 3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Bo'linishda ona hujayradan nechta yosh hujayra hosil bo'ladi?",
+      "options": [
+        "Bitta katta va bitta kichik",
+        "Sakkizta",
+        "To'rtta",
+        "Teng ikkita"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Hujayra bo'linganda undagi plastidalar bilan nima sodir bo'ladi?",
+      "options": [
+        "Faqat bitta yosh hujayraga o'tadi",
+        "Hammasi ona hujayrada qoladi",
+        "Teng ikkiga bo'linib, yosh hujayralarga o'tadi",
+        "Butunlay yo'qoladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Hosil bo'lgan yosh hujayralar nima hisobiga o'sishda davom etadi?",
+      "options": [
+        "Faqat suv yutish hisobiga",
+        "O'zidagi oziq moddalar hisobiga",
+        "Ona hujayra yadrosi hisobiga",
+        "Qo'shni hujayralarni yutish hisobiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Yosh hujayralar qachon yana bo'linadi?",
+      "options": [
+        "Vakuoli yo'qolganda",
+        "Faqat qariganda",
+        "Ona hujayra o'lchamiga yetgach",
+        "Darhol, hosil bo'lgan zahoti"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "O'simliklarning o'sishi nima hisobiga boradi?",
+      "options": [
+        "Faqat vakuollarning kattalashishi hisobiga",
+        "Hujayra qobig'ining qalinlashishi hisobiga",
+        "Faqat hujayralarning kattalashishi hisobiga",
+        "Hujayralarning bo'linib ko'payishi va o'sishi hisobiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Yosh va qari hujayralarni taqqoslang. To'g'ri fikrni toping.",
+      "options": [
+        "Yosh hujayralarda vakuol sitoplazmadan ko'p joy egallaydi",
+        "Yosh hujayralar kichik bo'ladi, qari hujayralarda vakuol katta joy egallaydi",
+        "Yosh hujayralarning qobig'i qari hujayralarnikidan qalin",
+        "Qari hujayralar tez-tez bo'linadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Hujayralar haqidagi NOTO'G'RI fikrni toping.",
+      "options": [
+        "O'simlikning barcha hujayralari bo'linish xususiyatiga ega",
+        "Yosh hujayralar o'sgan sari kattalashadi",
+        "Har bir tirik hujayra nafas oladi va oziqlanadi",
+        "Har bir hujayra ma'lum o'lchamgacha o'sadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Darslikda elodeya bilan qanday amaliy kuzatish o'tkazish taklif qilingan?",
+      "options": [
+        "Ildiz tukchalarini sanash",
+        "Chigit tolasining uzunligini o'lchash",
+        "Sitoplazma harakatining harorat ta'sirida o'zgarishini kuzatish",
+        "Bargdagi xlorofill miqdorini o'lchash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Hujayra qobig'i orqali moddalar o'tishini isbotlovchi tajribada xamir nimadan tayyorlanadi?",
+      "options": [
+        "Guruch unidan",
+        "Bug'doy unidan",
+        "Kraxmal va shakardan",
+        "Makkajo'xori unidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Salobatli yong'oq, chinor, terak kabi daraxtlarning barcha organlari nima hisobiga vujudga kelgan?",
+      "options": [
+        "Hujayralar sonining kamayishi hisobiga",
+        "Hujayralarning bo'linib ko'payishi hisobiga",
+        "Faqat vakuollarning kattalashishi hisobiga",
+        "Hujayra qobig'ining yupqalashishi hisobiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Darslikka ko'ra elodeya o'simligi qayerda o'stiriladi?",
+      "options": [
+        "Akvariumda",
+        "Cho'lda",
+        "Issiqxona tuprog'ida",
+        "Tog' yonbag'rida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Rasmdagi suv o'simligi bargida mikroskop yordamida nimani kuzatish qulay?",
+      "options": [
+        "Hujayralardagi sitoplazmaning uzluksiz harakatini",
+        "Ildiz tukchalarining o'sishini",
+        "Hujayra qobig'ining qalinlashishini",
+        "Gulning changlanishini"
+      ],
+      "correctIndex": 0,
+      "image": "@img:elodeya"
+    },
+    {
+      "id": 30,
+      "question": "Hujayra qariganda rasmdagi 6 raqami bilan ko'rsatilgan qism qanday o'zgaradi?",
+      "options": [
+        "Ikkiga bo'linadi",
+        "Sitoplazmaga qaraganda ko'proq joy egallaydi",
+        "Butunlay yo'qoladi",
+        "Xloroplastga aylanadi"
+      ],
+      "correctIndex": 1,
+      "image": "@img:hujayra"
+    },
+    {
+      "id": 31,
+      "question": "Hujayra bo'linganda rasmdagi 3 raqami bilan ko'rsatilgan qismlar bilan nima sodir bo'ladi?",
+      "options": [
+        "Ona hujayrada qoladi",
+        "Vakuolga aylanadi",
+        "Butunlay yo'qoladi",
+        "Teng ikkiga bo'linib, yosh hujayralarga o'tadi"
+      ],
+      "correctIndex": 3,
+      "image": "@img:hujayra"
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "topicId": 2,
+  "title": "Gulli o'simliklar bilan umumiy tanishish",
+  "description": "2-§. Gulli o'simliklarning xilma-xilligi, vegetativ va generativ organlar",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yer yuzida gulli o'simliklarning nechta turi ma'lum?",
+      "options": [
+        "100 mingga yaqin",
+        "250 mingdan ortiq",
+        "4 500 dan ortiq",
+        "500 mingdan ortiq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Barcha gulli o'simliklar uchun umumiy bo'lgan belgi qaysi?",
+      "options": [
+        "Barchasi ko'p yillik bo'ladi",
+        "Hayoti davomida gullab meva tugadi",
+        "Barchasining ildizi o'q ildiz bo'ladi",
+        "Barchasi suvda o'sadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Darslikka ko'ra gulli o'simlik qaysi qismlardan tashkil topgan?",
+      "options": [
+        "Ildiz, novda, kurtak, spora",
+        "Ildiz, poya, barg, gul, meva",
+        "Ildiz, poya, barg, spora",
+        "Ildiz, barg, gul, spora, urug'"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "O'n yillar mobaynida pishib yetiladigan, og'irligi 25 kg ga yetadigan yong'oq qaysi o'simlikka tegishli?",
+      "options": [
+        "Rafleziya",
+        "Baobab",
+        "Seyshel palmasi",
+        "Ajdar daraxti"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Tanasida 200 litrgacha suv saqlaydigan o'simlik qaysi?",
+      "options": [
+        "Saksovul",
+        "Seyshel palmasi",
+        "Meksika kaktuslari",
+        "Nilufar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "6000 yilgacha umr ko'radigan ajdar daraxtlari qayerda o'sadi?",
+      "options": [
+        "Seyshel orolida",
+        "Kanar orollarida",
+        "Sumatra orolida",
+        "Meksikada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Diametri 1 m ga yetadigan ulkan gul – rafleziya qayerda o'sadi?",
+      "options": [
+        "Kanar orollarida",
+        "Madagaskarda",
+        "Sumatra orolida",
+        "Seyshel orolida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Mosligini toping: 1) seyshel palmasi; 2) ajdar daraxti; 3) rafleziya. a) Kanar orollari; b) Sumatra oroli; c) Seyshel oroli",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Ajdar daraxtining umri qancha bo'lishi mumkin?",
+      "options": [
+        "600 yilgacha",
+        "25 yilgacha",
+        "200 yilgacha",
+        "6000 yilgacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Hasharotlar bilan oziqlanadigan o'simlik qaysi?",
+      "options": [
+        "Suvqalampir",
+        "Qandim",
+        "Nilufar",
+        "Suv qaroqchisi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Poyasi suv tagida bo'lib, guli suv yuzasida ochiladigan o'simlik qaysi?",
+      "options": [
+        "Elodeya",
+        "Qamish",
+        "Nilufar",
+        "Suv qaroqchisi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Jazirama issiqqa bardosh berib, qum uyumlarida o'sadigan, barglari arang ko'rinadigan o'simliklar qaysilar?",
+      "options": [
+        "Saksovul va qandim",
+        "Pista va bodom",
+        "Lola va ko'zagul",
+        "Nilufar va suv qaroqchisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Darslikda tabobatda ko'p ishlatiladigan o'simliklar qatori qaysi javobda berilgan?",
+      "options": [
+        "Chakanda, isiriq, na'matak, suvqalampir",
+        "Saksovul, qandim, nilufar, chakanda",
+        "Lola, ko'zagul, sallagul, chinnigul",
+        "Pista, bodom, safsan, isiriq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Darslikda noyob mevali o'simliklar sifatida qaysilar keltirilgan?",
+      "options": [
+        "Saksovul, qandim, yantoq",
+        "Olma, o'rik, shaftoli",
+        "Pista, bodom, safsan",
+        "Chakanda, na'matak, isiriq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Darslikda «jumagul» o'simligining yana qanday nomi keltirilgan?",
+      "options": [
+        "Ko'zagul",
+        "Sallagul",
+        "Shirach",
+        "Xolmon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Gulli o'simliklarning xilma-xilligi nima bilan bog'liq?",
+      "options": [
+        "Hujayralar sonining kamayishi bilan",
+        "Ekologik sharoitning o'zgarishi bilan",
+        "Faqat inson faoliyati bilan",
+        "Faqat tuproq tarkibi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Sharoit o'zgarishi bilan paydo bo'lgan yangi belgilarning vaqt o'tishi bilan sekin-asta mustahkamlanishi darslikda qanday atalgan?",
+      "options": [
+        "Klassifikatsiya",
+        "Irsiylashish",
+        "Assimilatsiya",
+        "Metamorfoz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Yangi sharoitga moslasha olmagan o'simliklar bilan nima sodir bo'lgan?",
+      "options": [
+        "Faqat suvda yashashga o'tgan",
+        "Generativ organlarini yo'qotgan",
+        "Yangi turlarga aylangan",
+        "Yo'qolib ketgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "«Vegetativ» so'zi qaysi tildan olingan va qanday ma'noni bildiradi?",
+      "options": [
+        "Yunoncha – ko'kat, o't",
+        "Lotincha – yaratmoq, tuzmoq",
+        "Lotincha – o'sish, rivojlanish",
+        "Yunoncha – hujayra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "«Generativ» so'zining ma'nosi qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "Himoya qilmoq",
+        "Oziqlanmoq",
+        "Yaratmoq, tuzmoq",
+        "O'sish, rivojlanish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Generativ organlar qatorini toping.",
+      "options": [
+        "Gul, meva, urug'",
+        "Gul, ildiz, urug'",
+        "Poya, meva, urug'",
+        "Ildiz, poya, barg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Faqat vegetativ organlar berilgan qatorni toping.",
+      "options": [
+        "Ildiz va poya",
+        "Meva va poya",
+        "Urug' va ildiz",
+        "Gul va ildiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Quyidagilardan qaysi biri generativ organ EMAS?",
+      "options": [
+        "Gul",
+        "Urug'",
+        "Meva",
+        "Poya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "O'simliklar tashqi muhit sharoitiga moslashib, asta-sekin murakkablashib borishi natijasida ularda necha xil organlar paydo bo'lgan?",
+      "options": [
+        "2 xil",
+        "3 xil",
+        "4 xil",
+        "5 xil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Darslikda tabiat ko'rki bo'lgan o'simliklar sifatida qaysilar keltirilgan?",
+      "options": [
+        "Saksovul, qandim, nilufar, ko'zagul",
+        "Qizil lola, ko'zagul, sallagul, chinnigul",
+        "Pista, bodom, safsan, lola",
+        "Chakanda, isiriq, na'matak, chinnigul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Seyshel palmasi yong'og'i qancha vaqtda pishib yetiladi?",
+      "options": [
+        "O'n yillar mobaynida",
+        "Ming yillar mobaynida",
+        "Bir yilda",
+        "Bir oyda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Rafleziya gulining diametri qanchaga yetadi?",
+      "options": [
+        "5 m ga",
+        "10 sm ga",
+        "25 sm ga",
+        "1 m ga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "O'simliklarning maxsus sharoitlarga moslashishi natijasida nimalar paydo bo'lgan?",
+      "options": [
+        "Faqat yangi hujayralar",
+        "Yangi o'simliklar – turlar, turkumlar, oilalar",
+        "Yangi tirik organizm bo'lmagan moddalar",
+        "Faqat yangi organlar, turlar emas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Rasmda gulli o'simlikning umumiy ko'rinishi berilgan. Undagi qaysi organlar generativ organlarga kiradi?",
+      "options": [
+        "Barg va poya",
+        "Gul va ildiz",
+        "Ildiz va poya",
+        "Gul va meva"
+      ],
+      "correctIndex": 3,
+      "image": "@img:gulli"
+    },
+    {
+      "id": 30,
+      "question": "Rasmda ko'rsatilgan organlardan qaysi juftlik darslikka ko'ra vegetativ organlar hisoblanadi?",
+      "options": [
+        "Ildiz va poya",
+        "Gul va poya",
+        "Meva va barg",
+        "Gul va meva"
+      ],
+      "correctIndex": 0,
+      "image": "@img:gulli"
+    }
+  ]
+}
