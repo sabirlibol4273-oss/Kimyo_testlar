@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 10,
-      "question": "Bandsiz barglar poyaga qanday birikadi?",
-      "options": [
-        "Yaprog'ining uchi bilan",
-        "Yon bargchalar bilan",
-        "Yaprog'ining pastki (ostki) qismi bilan",
-        "Barg bandi bilan"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 11,
       "question": "Qaysi qatorda bandli bargli o'simliklar berilgan?",
       "options": [
