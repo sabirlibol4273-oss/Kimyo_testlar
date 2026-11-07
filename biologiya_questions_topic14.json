@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 6,
-      "question": "Bargning asosiy qismlari qaysilar?",
-      "options": [
-        "Yon bargcha va kurtak",
-        "Barg bandi va bo'g'im",
-        "Barg yaprog'i va barg bandi",
-        "Barg yaprog'i va kurtak"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 7,
       "question": "Ayrim o'simliklarda barg bandining pastki qismida nima bo'ladi?",
       "options": [
