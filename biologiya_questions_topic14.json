@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 37,
-      "question": "Qaysi o'simlik bargi ham bandli, ham to'rsimon tomirlangan?",
-      "options": [
-        "O'rik",
-        "Bug'doy",
-        "Makkajo'xori",
-        "Arpa"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 38,
       "question": "To'g'ri fikrlarni toping: 1) Barg novdaning yon vegetativ organi; 2) Bandsiz barg poyaga yaprog'ining ostki qismi bilan birikadi; 3) Lolaning bargi bandli; 4) Bir urug'pallalilar bargi parallel tomirlangan.",
       "options": [
