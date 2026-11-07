@@ -2,5 +2,468 @@
   "topicId": 11,
   "title": "6-sinf Botanika 11-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Poyalar nimaga qarab turli xil bo'ladi?",
+      "options": [
+        "O'simlik turi va o'sish sharoitiga qarab",
+        "Faqat tuproq rangiga qarab",
+        "Faqat gul rangiga qarab",
+        "Faqat barglar soniga qarab"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Ichki tuzilishiga ko'ra poyalar qanday turlarga bo'linadi?",
+      "options": [
+        "Shoxlangan va shoxlanmagan poya",
+        "O'rmalovchi va yoyiluvchi poya",
+        "Tik va o'raluvchi poya",
+        "Yog'och poya va o't poya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Qaysi qatorda yog'och poyali o'simliklar berilgan?",
+      "options": [
+        "Arpa, ituzum",
+        "Terak, arpa",
+        "Ituzum, qayrag'och",
+        "Terak, qayrag'och"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Qaysi qatorda o't poyali o'simliklar berilgan?",
+      "options": [
+        "Terak, ituzum",
+        "Arpa, ituzum",
+        "Terak, qayrag'och",
+        "Qayrag'och, arpa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Yog'och poyali o'simliklarda har yili nima hosil bo'ladi?",
+      "options": [
+        "Yangi ildizmevalar",
+        "Yangi kurtaklar",
+        "Yangi ildiz tukchalari",
+        "Yangi urug'pallalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Yog'och poyali o'simliklarda har yili yangi kurtak hosil bo'lishi natijasida nima vujudga keladi?",
+      "options": [
+        "O'rmalovchi poya",
+        "Ildizmeva",
+        "Ko'p yillik yerustki poya",
+        "Bir mavsumlik poya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "O'tsimon o'simliklarning yerustki poyasi ko'pincha qancha yashaydi?",
+      "options": [
+        "Ikki yil",
+        "Bir mavsum",
+        "Ko'p yil",
+        "10 yil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Juda kalta poyaga ega o'simlik qaysi?",
+      "options": [
+        "Mirzaterak",
+        "Evkalipt",
+        "Piyoz",
+        "Rotang palmasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Mirzaterakning balandligi qanchaga yetadi?",
+      "options": [
+        "20-25 m",
+        "400 m",
+        "150-155 m",
+        "110-140 m"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Kaliforniyadagi sekvoyadendronlarning balandligi qancha?",
+      "options": [
+        "400 m",
+        "150-155 m",
+        "110-140 m",
+        "20-25 m"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Avstraliyadagi evkaliptlarning balandligi qancha?",
+      "options": [
+        "110-140 m",
+        "20-25 m",
+        "400 m",
+        "150-155 m"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Rotang palmasi poyasining uzunligi qanchaga yetadi?",
+      "options": [
+        "110-140 m",
+        "20-25 m",
+        "400 m",
+        "150-155 m"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Sekvoyadendronlar qayerda o'sadi?",
+      "options": [
+        "Avstraliyada",
+        "O'zbekistonda",
+        "Kaliforniyada",
+        "Janubiy Osiyoda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Evkaliptlar qayerda o'sadi?",
+      "options": [
+        "Afrikada",
+        "Avstraliyada",
+        "Janubiy Osiyoda",
+        "Kaliforniyada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Rotang palmasi qayerda o'sadi?",
+      "options": [
+        "Avstraliya cho'llarida",
+        "Janubiy Osiyoning tropik o'rmonlarida",
+        "Kaliforniyada",
+        "O'rta Osiyo tog'larida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Rotang palmasi qanday o'sadi?",
+      "options": [
+        "Palak yoyib",
+        "Boshqa daraxtlarga chirmashib",
+        "Yer bag'irlab o'rmalab",
+        "Tik, shoxlanmay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Balandligi (uzunligi) bo'yicha o'simliklarni o'sish tartibida joylashtiring.",
+      "options": [
+        "Evkalipt → sekvoyadendron → Rotang palmasi → mirzaterak",
+        "Mirzaterak → sekvoyadendron → evkalipt → Rotang palmasi",
+        "Mirzaterak → evkalipt → sekvoyadendron → Rotang palmasi",
+        "Sekvoyadendron → mirzaterak → evkalipt → Rotang palmasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Moslang: 1) mirzaterak, 2) sekvoyadendron, 3) evkalipt, 4) Rotang palmasi; a) 400 m, b) 150-155 m, c) 20-25 m, d) 110-140 m.",
+      "options": [
+        "1a, 2d, 3b, 4c",
+        "1c, 2d, 3b, 4a",
+        "1d, 2c, 3b, 4a",
+        "1c, 2b, 3d, 4a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Shoxlangan poyali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Faqat palma",
+        "Palma, olma",
+        "Olma, yong'oq",
+        "Palma, yong'oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Shoxlanmagan poyali o'simlik qaysi?",
+      "options": [
+        "Palma",
+        "Terak",
+        "Olma",
+        "Yong'oq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Tik o'suvchi poyali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qovun, tarvuz, bodring",
+        "Sebarga, qo'ypechak, kamaygul",
+        "Terak, olma, qayrag'och, bug'doy",
+        "Qulupnay, g'ozpanja"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Ko'tarilib o'suvchi poyali o'simlik qaysi?",
+      "options": [
+        "Terak",
+        "Sebarga",
+        "Qo'ypechak",
+        "Qulupnay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "O'raluvchi poyali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qulupnay, g'ozpanja",
+        "Olma, yong'oq",
+        "Sebarga, bug'doy",
+        "Qo'ypechak, kamaygul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "O'raluvchi poyali o'simlik qanday o'sadi?",
+      "options": [
+        "Tik o'sadi",
+        "Atrofdagi o'simlik yoki tayanchga o'ralib oladi",
+        "Yer yuzasida qo'shimcha ildiz chiqaradi",
+        "Gajaklari bilan ilashadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Qaysi o'simliklar gajaklari yordamida ilashib o'sadi?",
+      "options": [
+        "Tok, qovoq, no'xat",
+        "Qulupnay, g'ozpanja",
+        "Qo'ypechak, kamaygul",
+        "Terak, olma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Tok qanday yordamida ilashib o'sadi?",
+      "options": [
+        "Tikanlari yordamida",
+        "Barglari yordamida",
+        "Qo'shimcha ildizlari yordamida",
+        "Gajaklari yordamida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Yoyilib (palak yoyib) o'suvchi o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qulupnay, g'ozpanja",
+        "Qovun, tarvuz, bodring, temirtikan",
+        "Qo'ypechak, kamaygul",
+        "Terak, olma, bug'doy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "O'rmalovchi poyalarning xususiyati nima?",
+      "options": [
+        "Gajaklari bilan ilashadi",
+        "Tayanchga o'raladi",
+        "Tik o'sadi",
+        "Yer yuzasida qo'shimcha ildizlar chiqarib o'sadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "O'rmalovchi poyali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qulupnay, g'ozpanja",
+        "Qovun, tarvuz",
+        "Tok, no'xat",
+        "Qo'ypechak, kamaygul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Ipsimon poyalar qaysi o'simliklarga xos?",
+      "options": [
+        "Evkaliptga",
+        "Pechaklarga",
+        "Yong'oqqa",
+        "Chinorga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Yong'oq poyasi aylanasining uzunligi qanchaga yetadi?",
+      "options": [
+        "1-2 m",
+        "4-6 m",
+        "8-10 m",
+        "20-25 m"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Chinor poyasi aylanasining uzunligi qanchaga yetadi?",
+      "options": [
+        "4-6 m",
+        "20-25 m",
+        "8-10 m",
+        "1-2 m"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Poyalarning xilma-xil ko'rinishlari nimaga imkon beradi?",
+      "options": [
+        "Ma'lum maydonda ko'p sondagi o'simlik turlari o'sishiga",
+        "O'simliklarning faqat bo'yiga o'sishiga",
+        "O'simliklarning tez qurishiga",
+        "Barcha o'simliklarning bir xil bo'lishiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Moslang: 1) tik o'suvchi, 2) ko'tarilib o'suvchi, 3) o'raluvchi, 4) o'rmalovchi; a) sebarga, b) qulupnay, c) bug'doy, d) kamaygul.",
+      "options": [
+        "1c, 2a, 3d, 4b",
+        "1c, 2d, 3a, 4b",
+        "1b, 2a, 3d, 4c",
+        "1a, 2c, 3d, 4b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Moslang: 1) yog'och poya, 2) o't poya; a) terak, b) arpa, c) qayrag'och, d) ituzum.",
+      "options": [
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c",
+        "1 – a, b; 2 – c, d",
+        "1 – a, c; 2 – b, d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Ortiqchasini toping (o'sishiga ko'ra): terak, olma, bug'doy, qo'ypechak.",
+      "options": [
+        "Terak",
+        "Bug'doy",
+        "Qo'ypechak",
+        "Olma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Ortiqchasini toping (o'sishiga ko'ra): qovun, tarvuz, bodring, qulupnay.",
+      "options": [
+        "Qulupnay",
+        "Bodring",
+        "Tarvuz",
+        "Qovun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Ortiqchasini toping (ichki tuzilishiga ko'ra): terak, qayrag'och, arpa.",
+      "options": [
+        "Terak",
+        "Qayrag'och",
+        "Arpa",
+        "Hammasi bir xil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "To'g'ri fikrlarni toping: 1) Palma shoxlanmagan poyali; 2) Qulupnay o'rmalovchi poyali; 3) Sebarga o'raluvchi poyali; 4) Evkaliptlar Avstraliyada o'sadi.",
+      "options": [
+        "1, 2, 3",
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Noto'g'ri fikrlarni toping: 1) O'tsimon yerustki poyalar ko'pincha bir mavsum yashaydi; 2) Piyozning poyasi juda uzun; 3) Rotang palmasi 400 m ga yetadi; 4) Qo'ypechak gajaklari bilan ilashib o'sadi.",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Chinor poyasi aylanasi 4-6 m ga yetadi",
+        "G'ozpanja o'rmalovchi poyali o'simlik",
+        "Yong'oq shoxlangan poyali o'simlik",
+        "Ituzum o't poyali o'simlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Qaysi javobda o'simlik va uning poya turi to'g'ri berilgan?",
+      "options": [
+        "Bug'doy – ko'tarilib o'suvchi",
+        "Qulupnay – tik o'suvchi",
+        "Kamaygul – o'raluvchi",
+        "Sebarga – o'rmalovchi"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
