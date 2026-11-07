@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 16,
-      "question": "Ortiqchasini toping (barg bandi bo'yicha): lola, bug'doy, sholi, o'rik.",
-      "options": [
-        "Sholi",
-        "O'rik",
-        "Lola",
-        "Bug'doy"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 17,
       "question": "Barg tomirlari nimaga qarab turlicha shoxlanadi?",
       "options": [
