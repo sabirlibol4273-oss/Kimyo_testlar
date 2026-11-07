@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 26,
-      "question": "G'umay qaysi guruh o'simliklariga kiradi?",
-      "options": [
-        "Tuban o'simliklar",
-        "Ildizmevali",
-        "Ikki urug'pallali",
-        "Bir urug'pallali"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 27,
       "question": "G'o'za qaysi guruh o'simliklariga kiradi?",
       "options": [
