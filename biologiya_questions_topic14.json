@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 32,
-      "question": "Bargdagi moddalar harakati to'g'ri berilgan javobni toping.",
-      "options": [
-        "Organik moddalar poyadan bargga, suv bargdan poyaga",
-        "Faqat suv bargdan poyaga",
-        "Suv va oziq moddalar poyadan bargga, organik moddalar bargdan poyaga",
-        "Moddalar bargda harakatlanmaydi"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 33,
       "question": "Moslang: 1) bandli barg, 2) bandsiz barg; a) olma, b) lola, c) tok, d) makkajo'xori.",
       "options": [
