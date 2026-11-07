@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 14,
-      "question": "Quyidagilardan qaysi birining bargi bandsiz?",
-      "options": [
-        "Yong'oq",
-        "Shirach",
-        "Bodring",
-        "Tok"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 15,
       "question": "Ortiqchasini toping (barg bandi bo'yicha): olma, nok, qovun, arpa.",
       "options": [
