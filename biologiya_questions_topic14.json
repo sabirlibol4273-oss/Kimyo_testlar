@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 24,
-      "question": "Quyidagilardan qaysi birining bargi to'rsimon tomirlangan?",
-      "options": [
-        "Bug'doy",
-        "G'o'za",
-        "G'umay",
-        "Oqjo'xori"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 25,
       "question": "Quyidagilardan qaysi birining bargi parallel tomirlangan?",
       "options": [
