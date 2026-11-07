@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 22,
-      "question": "To'rsimon tomirlanish qaysi qatordagi o'simliklarda yaxshi ko'rinadi?",
-      "options": [
-        "Bug'doy, arpa, makkajo'xori",
-        "Terak, chinor, olma, o'rik",
-        "Oqjo'xori, g'umay, arpa",
-        "Makkajo'xori, terak, g'umay"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 23,
       "question": "Parallel va yoysimon tomirlanish qaysi qatordagi o'simliklarga xos?",
       "options": [
