@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 35,
-      "question": "Moslang: 1) ikki urug'pallali, 2) bir urug'pallali; a) parallel va yoysimon tomirlanish, b) patsimon va panjasimon tomirlanish.",
-      "options": [
-        "1b, 2b",
-        "1a, 2a",
-        "1a, 2b",
-        "1b, 2a"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 36,
       "question": "Qaysi o'simlik bargi ham bandsiz, ham parallel tomirlangan?",
       "options": [
