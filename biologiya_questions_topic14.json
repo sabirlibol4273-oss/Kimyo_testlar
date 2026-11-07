@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 18,
-      "question": "Bir va ikki urug'pallali o'simliklarni farqlashda bargning asosan nimasiga e'tibor beriladi?",
-      "options": [
-        "Hidiga",
-        "Tomirlanishiga",
-        "Rangiga",
-        "Kattaligiga"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 19,
       "question": "Ikki urug'pallali o'simliklarning bargi qanday tomirlangan?",
       "options": [
