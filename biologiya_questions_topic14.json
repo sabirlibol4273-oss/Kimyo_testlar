@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 27,
-      "question": "G'o'za qaysi guruh o'simliklariga kiradi?",
-      "options": [
-        "Bandsiz bargli",
-        "Ikki urug'pallali",
-        "Tuban o'simliklar",
-        "Bir urug'pallali"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 28,
       "question": "Ortiqchasini toping (tomirlanish bo'yicha): terak, chinor, tut, arpa.",
       "options": [
