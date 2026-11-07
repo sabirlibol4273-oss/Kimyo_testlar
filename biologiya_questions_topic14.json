@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 20,
-      "question": "Bir urug'pallali o'simliklarning bargi qanday tomirlangan?",
-      "options": [
-        "Parallel va yoysimon",
-        "Faqat patsimon",
-        "Patsimon va panjasimon",
-        "Faqat to'rsimon"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 21,
       "question": "Panjasimon tomirlanishning boshqa nomi nima?",
       "options": [
