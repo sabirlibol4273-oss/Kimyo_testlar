@@ -35,6 +35,12 @@
       "title": "6-sinf Botanika 6-Mavzu",
       "description": "BoburObidov",
       "unlocked": true
+    },
+    {
+      "id": 7,
+      "title": "6-sinf Botanika 7-Mavzu",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
