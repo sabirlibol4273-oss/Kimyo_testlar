@@ -4,28 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 2,
-      "question": "Bargning funksiyalari qaysi javobda to'g'ri berilgan?",
-      "options": [
-        "Gul va meva hosil qilish",
-        "Faqat zaxira oziq to'plash",
-        "Tuproqdan suv shimish va tayanch",
-        "Fotosintez, transpiratsiya, gaz almashinuvi, vegetativ ko'payish"
-      ],
-      "correctIndex": 3
-    },
-    {
-      "id": 3,
-      "question": "Bargning suv bug'latish funksiyasi qanday ataladi?",
-      "options": [
-        "Fotosintez",
-        "Metamorfoz",
-        "Faza",
-        "Transpiratsiya"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 4,
       "question": "Transpiratsiya nima?",
       "options": [
