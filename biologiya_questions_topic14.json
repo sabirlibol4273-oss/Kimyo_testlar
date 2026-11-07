@@ -2,17 +2,5 @@
   "topicId": 14,
   "title": "6-sinf Botanika 14-Mavzu",
   "description": "",
-  "questions": [
-    {
-      "id": 41,
-      "question": "Qaysi javobda o'simlik va uning bargi to'g'ri tavsiflangan?",
-      "options": [
-        "Gulsafsar – bandsiz barg",
-        "Anjir – bandsiz barg",
-        "Gulsafsar – bandli barg",
-        "Qovun – bandsiz barg"
-      ],
-      "correctIndex": 0
-    }
-  ]
+  "questions": []
 }
