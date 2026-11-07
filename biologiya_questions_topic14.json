@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 7,
-      "question": "Ayrim o'simliklarda barg bandining pastki qismida nima bo'ladi?",
-      "options": [
-        "Ildizlar",
-        "Yon bargchalar",
-        "Kurtaklar",
-        "Gajaklar"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 8,
       "question": "Barglar poyaga odatda nima bilan birikadi?",
       "options": [
