@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 28,
-      "question": "Ortiqchasini toping (tomirlanish bo'yicha): terak, chinor, tut, arpa.",
-      "options": [
-        "Chinor",
-        "Terak",
-        "Tut",
-        "Arpa"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 29,
       "question": "Ortiqchasini toping (tomirlanish bo'yicha): bug'doy, makkajo'xori, g'umay, nok.",
       "options": [
