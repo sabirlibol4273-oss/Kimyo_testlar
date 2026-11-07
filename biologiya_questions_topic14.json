@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 8,
-      "question": "Barglar poyaga odatda nima bilan birikadi?",
-      "options": [
-        "Yon bargchalar bilan",
-        "Barg yaprog'ining uchi bilan",
-        "Barg bandi bilan",
-        "Tomirlar bilan"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 9,
       "question": "Bandi bo'lmagan barglar qanday ataladi?",
       "options": [
