@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 12,
-      "question": "Qaysi qatorda bandsiz bargli o'simliklar berilgan?",
-      "options": [
-        "Yong'oq, anjir, tok",
-        "Bodring, qovun, terak",
-        "Lola, shirach, gulsafsar, bug'doy",
-        "Olma, o'rik, nok"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 13,
       "question": "Quyidagilardan qaysi birining bargi bandli?",
       "options": [
