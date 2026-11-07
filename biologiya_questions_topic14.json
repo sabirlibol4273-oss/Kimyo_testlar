@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 31,
-      "question": "Bargda fotosintez natijasida hosil bo'lgan organik moddalar qayerga o'tadi?",
-      "options": [
-        "Faqat kurtakka",
-        "Poyaga",
-        "Tuproqqa",
-        "Havoga"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 32,
       "question": "Bargdagi moddalar harakati to'g'ri berilgan javobni toping.",
       "options": [
