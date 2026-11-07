@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 5,
-      "question": "Barg asosan nechta qismdan tashkil topgan?",
-      "options": [
-        "Uch qismdan",
-        "Ikki qismdan",
-        "To'rt qismdan",
-        "Bir qismdan"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 6,
       "question": "Bargning asosiy qismlari qaysilar?",
       "options": [
