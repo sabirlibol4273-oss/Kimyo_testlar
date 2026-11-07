@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 4,
-      "question": "Transpiratsiya nima?",
-      "options": [
-        "Vegetativ ko'payish",
-        "Suv bug'latish",
-        "Gaz almashinuvi",
-        "Organik modda hosil qilish"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 5,
       "question": "Barg asosan nechta qismdan tashkil topgan?",
       "options": [
