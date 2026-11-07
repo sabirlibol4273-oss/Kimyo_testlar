@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 21,
-      "question": "Panjasimon tomirlanishning boshqa nomi nima?",
-      "options": [
-        "Bandsiz",
-        "Parallel",
-        "To'rsimon",
-        "Yoysimon"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 22,
       "question": "To'rsimon tomirlanish qaysi qatordagi o'simliklarda yaxshi ko'rinadi?",
       "options": [
