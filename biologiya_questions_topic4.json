@@ -417,6 +417,281 @@
       ],
       "correctIndex": 2,
       "image": "https://apk-admin-production.up.railway.app/media/75.webp"
+    },
+    {
+      "id": 38,
+      "question": "Hujayra haqida to'liq ta'limot beradigan fan qanday nomlanadi?",
+      "options": [
+        "Botanika",
+        "Sitologiya",
+        "Ekologiya",
+        "Fiziologiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Yunoncha \"sitos\" so'zi nimani anglatadi?",
+      "options": [
+        "Ta'limot",
+        "Hujayra",
+        "Yadro",
+        "To'qima"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Yunoncha \"logos\" so'zi nimani anglatadi?",
+      "options": [
+        "Hujayra",
+        "Hayot",
+        "Ta'limot",
+        "Organ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Hujayra kim tomonidan va qaysi yilda kashf etilgan?",
+      "options": [
+        "Robert Guk, 1665-yil",
+        "Charlz Darvin, 1859-yil",
+        "Karl Linney, 1735-yil",
+        "Robert Guk, 1865-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Robert Guk kasbi bo'yicha kim bo'lgan?",
+      "options": [
+        "Kimyogar",
+        "Ingliz fizigi",
+        "Shifokor",
+        "Astronom"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Hujayra qanday asosiy tarkibiy qismlardan tashkil topgan?",
+      "options": [
+        "Qobiq, to'qima, organ",
+        "Hujayra qobig'i, sitoplazma, yadro",
+        "Yadro, vakuol, plastida",
+        "Suv, tuz, oqsil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Hujayra qobig'i nimadan iborat?",
+      "options": [
+        "Oqsildan",
+        "Kletchatkadan",
+        "Sitoplazmadan",
+        "Mineral tuzdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Hujayra qobig'ining vazifasi qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Faqat oziq to'playdi",
+        "Hujayrani himoya qiladi va shaklini saqlaydi",
+        "Faqat bo'linishni boshqaradi",
+        "Rang beradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Hujayraning asosiy tarkibiy qismi hisoblanadigan, rangsiz, tiniq, doimo harakatlanib turadigan qism qaysi?",
+      "options": [
+        "Yadro",
+        "Vakuol",
+        "Sitoplazma",
+        "Plastida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Hujayraning bo'linishida katta rol o'ynaydigan eng muhim tarkibiy qism qaysi?",
+      "options": [
+        "Sitoplazma",
+        "Yadro",
+        "Qobiq",
+        "Vakuol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Qaysi organizmlarning yadrosi shakllanmagan bo'ladi?",
+      "options": [
+        "Yuksak o'simliklar",
+        "Ko'k-yashil suvo'tlar va bakteriyalar",
+        "Barcha hayvonlar",
+        "Zamburug'lar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Irsiy belgilarning yangi avlodga o'tishida qaysi qism muhim ahamiyatga ega?",
+      "options": [
+        "Vakuol",
+        "Plastida",
+        "Yadro",
+        "Qobiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Plastidalar necha xil bo'ladi?",
+      "options": [
+        "Ikki xil",
+        "Uch xil",
+        "To'rt xil",
+        "Besh xil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Qaysi organizmlarda plastidalar bo'lmaydi?",
+      "options": [
+        "Yuksak o'simliklarda",
+        "Zamburug', bakteriya va ko'k-yashil suvo'tlarda",
+        "Bargli o'simliklarda",
+        "Mevali o'simliklarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Fotosintez jarayoni qaysi plastidada boradi?",
+      "options": [
+        "Leykoplastda",
+        "Xromoplastda",
+        "Xloroplastda",
+        "Vakuolda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Yashil xlorofill pigmentiga ega plastida qaysi?",
+      "options": [
+        "Xromoplast",
+        "Leykoplast",
+        "Xloroplast",
+        "Sitoplazma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "Gul va mevalarga rang beradigan plastida qaysi?",
+      "options": [
+        "Xloroplast",
+        "Xromoplast",
+        "Leykoplast",
+        "Yadro"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Rangsiz plastida qaysi va unda nima saqlanadi?",
+      "options": [
+        "Xloroplast, suv",
+        "Xromoplast, pigment",
+        "Leykoplast, zaxira moddalar",
+        "Vakuol, shira"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Vakuol nima?",
+      "options": [
+        "Hujayra qobig'i",
+        "Hujayra shirasi bilan to'lgan bo'shliq",
+        "Yashil pigment",
+        "Yadro qobig'i"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 57,
+      "question": "Hujayra shirasi tarkibida qancha foiz suv bo'ladi?",
+      "options": [
+        "30-50%",
+        "50-70%",
+        "70-95%",
+        "95-100%"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Bir hujayrali o'simliklarga qaysi vakillar misol bo'ladi?",
+      "options": [
+        "Xlorella va xlamidomonada",
+        "Piyoz va limon",
+        "Tarvuz va pomidor",
+        "Zamburug' va bakteriya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Chigit yuzasidagi bitta hujayradan iborat tola (tuk) uzunligi qanchaga yetadi?",
+      "options": [
+        "1-2 sm",
+        "3-4 sm",
+        "5-6 sm",
+        "0,5 sm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "Preparat tayyorlash uchun qaysi o'simlik pardasidan foydalanish ancha oson?",
+      "options": [
+        "Tarvuz",
+        "Limon",
+        "Piyoz",
+        "Pomidor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Hujayra tarkibidagi anorganik moddalarga nimalar kiradi?",
+      "options": [
+        "Oqsil va yog'",
+        "Suv va mineral tuzlar",
+        "Uglevod va oqsil",
+        "Shakar va moy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Hujayra tarkibidagi organik moddalarga nimalar kiradi?",
+      "options": [
+        "Suv va mineral tuzlar",
+        "Oqsil, uglevod, yog'lar",
+        "Faqat suv",
+        "Mineral tuzlar"
+      ],
+      "correctIndex": 1
     }
   ]
 }
