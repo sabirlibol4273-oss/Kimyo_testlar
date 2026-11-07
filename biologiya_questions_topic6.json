@@ -2,5 +2,710 @@
   "topicId": 6,
   "title": "6-sinf Botanika 6-Mavzu",
   "description": "BoburObidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "To'qima deb nimaga aytiladi?",
+      "options": [
+        "O'simlikning tashqi qismiga",
+        "Bitta yirik hujayraga",
+        "Har xil hujayralar aralashmasiga",
+        "Tuzilishi va vazifasi o'xshash hujayralar yig'indisiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "O'simlikning bir yoki bir nechta vazifani bajaruvchi qismi nima deyiladi?",
+      "options": [
+        "To'qima",
+        "Hujayra",
+        "Plastida",
+        "Organ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "\"To'qima\" tushunchasini fanga birinchi bo'lib kim kiritgan?",
+      "options": [
+        "N. Gryu",
+        "Robert Guk",
+        "Karl Linney",
+        "Charlz Darvin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "\"To'qima\" tushunchasi fanga qaysi yilda kiritilgan?",
+      "options": [
+        "1859-yil",
+        "1665-yil",
+        "1682-yil",
+        "1735-yil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "N. Gryu \"to'qima\" tushunchasini qaysi kitobida kiritgan?",
+      "options": [
+        "\"Mikrografiya\"",
+        "\"Turlarning kelib chiqishi\"",
+        "\"O'simliklar anatomiyasi\"",
+        "\"Tabiat tizimi\""
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Matnda o'simliklarda necha xil to'qima ko'rsatilgan?",
+      "options": [
+        "5 xil",
+        "4 xil",
+        "3 xil",
+        "6 xil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Hosil qiluvchi to'qimaning boshqa nomi nima?",
+      "options": [
+        "Sklerenxima",
+        "Kollenxima",
+        "Parenxima",
+        "Meristema"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Hosil qiluvchi to'qima hujayralariga xos belgi qaysi?",
+      "options": [
+        "Suberin shimilgan",
+        "Yadrosiz, cho'ziq",
+        "O'lik, qalin qobiqli",
+        "Yirik yadroli, yupqa po'stli, tirik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Hosil qiluvchi to'qima hujayralari qanday xususiyatga ega?",
+      "options": [
+        "O'lik bo'ladi",
+        "Tez-tez bo'linadi",
+        "Suv o'tkazmaydi",
+        "Nektar ajratadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Hosil qiluvchi to'qimalar qayerda joylashgan?",
+      "options": [
+        "Novda va ildizlarning uchki qismlarida",
+        "Meva etida",
+        "Po'stloqda",
+        "Barg epidermasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Uchki hosil qiluvchi to'qima nimani ta'minlaydi?",
+      "options": [
+        "Eniga o'sishni",
+        "Himoyani",
+        "Moddalar harakatini",
+        "Bo'yiga o'sishni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Uchki hosil qiluvchi to'qima qayerda joylashgan?",
+      "options": [
+        "Urug' qobig'ida",
+        "Kurtakning o'sish konusi va ildizning bo'linuvchi zonasida",
+        "Barg bandida",
+        "Po'kak qavatida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Novda va ildizning ichki qismidagi hosil qiluvchi to'qima nima deb ataladi?",
+      "options": [
+        "Ajratuvchi to'qima",
+        "Uchki hosil qiluvchi to'qima",
+        "Asosiy to'qima",
+        "Yon hosil qiluvchi to'qima"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Yon hosil qiluvchi to'qima poya va ildizda qanday shaklda joylashadi?",
+      "options": [
+        "Halqa shaklida",
+        "Yulduz shaklida",
+        "Nuqta shaklida",
+        "Tasma shaklida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Yon hosil qiluvchi to'qima nimani ta'minlaydi?",
+      "options": [
+        "Suv bug'latishni",
+        "Eniga o'sishni (yo'g'onlashuvni)",
+        "Bo'yiga o'sishni",
+        "Fotosintezni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Kambiy qayerda joylashgan?",
+      "options": [
+        "Epiderma ustida",
+        "Urug' ichida",
+        "Barg uchida",
+        "Floema va ksilema orasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "O'simlik poyasi va ildizi qaysi to'qima hisobiga eniga o'sadi?",
+      "options": [
+        "Kollenxima",
+        "Epiderma",
+        "Po'kak",
+        "Kambiy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Poya va ildizning po'stlog'i qanday nomlanadi?",
+      "options": [
+        "Ksilema",
+        "Floema",
+        "Epiderma",
+        "Kambiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Poya va ildizning yog'ochligi qanday nomlanadi?",
+      "options": [
+        "Periderma",
+        "Ksilema",
+        "Floema",
+        "Kambiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Hosil qiluvchi to'qimadan qaysi to'qimalar hosil bo'ladi?",
+      "options": [
+        "Hech qanday to'qima",
+        "Asosiy, qoplovchi, o'tkazuvchi, mexanik va boshqa",
+        "Faqat mexanik",
+        "Faqat qoplovchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Asosiy to'qima hujayralari qayerda joylashadi?",
+      "options": [
+        "Faqat ildiz uchida",
+        "Faqat barg sirtida",
+        "Faqat urug' qobig'ida",
+        "Qoplovchi, mexanik, o'tkazuvchi to'qimalar oralig'ida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Assimilatsion to'qimaning boshqa nomi nima?",
+      "options": [
+        "Meristema",
+        "Kollenxima",
+        "Sklerenxima",
+        "Xlorenxima"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Assimilatsion to'qima hujayralari qayerda bo'ladi?",
+      "options": [
+        "Yashil barglarda, novdalarda",
+        "Urug' qobig'ida",
+        "Ildizda",
+        "Po'kakda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Jamg'aruvchi to'qima qanday hujayralardan iborat?",
+      "options": [
+        "Po'kak hujayralaridan",
+        "Parenxima hujayralaridan",
+        "Sklereid hujayralaridan",
+        "Elaksimon naylardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Jamg'aruvchi to'qimada nimalar to'planadi?",
+      "options": [
+        "Suberin",
+        "Kauchuk",
+        "Uglevod, oqsil va boshqa moddalar",
+        "Faqat kislorod"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Jamg'aruvchi to'qima qayerda yaxshi rivojlangan?",
+      "options": [
+        "Ildizmeva, tugunak, piyozbosh, urug'larda",
+        "Barg epidermasida",
+        "Og'izchalarda",
+        "Po'kakda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Kaktus tanasida qanday parenxima hujayralari bor?",
+      "options": [
+        "Smola ajratuvchi",
+        "O'lik",
+        "Moy ajratuvchi",
+        "Suv to'plovchi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Qoplovchi to'qima qanday vazifani bajaradi?",
+      "options": [
+        "Tayanch",
+        "O'tkazish",
+        "Jamg'arish",
+        "Himoya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Qoplovchi to'qima nechaga bo'linadi?",
+      "options": [
+        "4 ga",
+        "3 ga",
+        "2 ga",
+        "5 ga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Qoplovchi to'qima turlari qaysi javobda to'g'ri?",
+      "options": [
+        "Epiderma, periderma, po'stloq",
+        "Kollenxima, sklerenxima, parenxima",
+        "Ksilema, floema, kambiy",
+        "Meristema, kambiy, po'kak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Barg va yosh novdalarni qaysi to'qima qoplab turadi?",
+      "options": [
+        "Periderma",
+        "Po'stloq",
+        "Epiderma",
+        "Po'kak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Epiderma qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Bir qavat zich joylashgan shaffof hujayralardan",
+        "Halqa shaklidagi hujayralardan",
+        "Ko'p qavat o'lik hujayralardan",
+        "Qalin qobiqli tolalardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Epiderma tashqi tomondan nima bilan qoplanadi?",
+      "options": [
+        "Kauchuk",
+        "Smola",
+        "Kutikula yoki mum",
+        "Suberin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Kutikula yoki mum qanday moslanish hisoblanadi?",
+      "options": [
+        "Nektar ajratuvchi",
+        "Bo'linishni tezlatuvchi",
+        "Fotosintezni kuchaytiruvchi",
+        "Suv bug'lanishini kamaytiruvchi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Epidermadagi og'izchalar qaysi jarayonlarda ishtirok etadi?",
+      "options": [
+        "Gaz almashinuvi va suv bug'latishda",
+        "Moddalarni jamg'arishda",
+        "Tayanch berishda",
+        "Hujayra bo'linishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Ko'p yillik o'simliklarda epiderma nima bilan almashinadi?",
+      "options": [
+        "Periderma",
+        "Kollenxima",
+        "Ksilema",
+        "Kambiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Periderma qanday to'qima?",
+      "options": [
+        "Ikkilamchi qoplovchi to'qima",
+        "Asosiy to'qima",
+        "Hosil qiluvchi to'qima",
+        "Ajratuvchi to'qima"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Periderma nimalardan tarkib topgan?",
+      "options": [
+        "Po'kak va boshqa hujayralardan",
+        "Faqat epidermadan",
+        "Elaksimon naylardan",
+        "Traxeidlardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Po'kak hujayralari qanday bo'ladi?",
+      "options": [
+        "Yashil, xloroplastli",
+        "O'lik",
+        "Tirik, bo'linuvchi",
+        "Shaffof, bir qavat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Po'kak qobig'iga shimilgan yog'simon modda nima?",
+      "options": [
+        "Suberin",
+        "Xlorofill",
+        "Kletchatka",
+        "Kauchuk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Po'kak nima sababdan suv va gazlarni o'tkazmaydi?",
+      "options": [
+        "Qobig'iga suberin shimilgan",
+        "Tirik hujayralardan iborat",
+        "Yadrosi yirik",
+        "Xloroplasti bor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Po'kakning asosiy vazifasi nima?",
+      "options": [
+        "Issiq, sovuq va mikroorganizmlardan saqlash",
+        "Nektar ajratish",
+        "Suv o'tkazish",
+        "Fotosintez qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Po'kak hujayralari orasida nima shakllanadi?",
+      "options": [
+        "Yasmiqchalar",
+        "Sklereidlar",
+        "Og'izchalar",
+        "Traxeidlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Po'stloq qanday hosil bo'ladi?",
+      "options": [
+        "Epidermaning bo'linishidan",
+        "Har yili po'kakning yangi qavati shakllanishidan",
+        "Kollenximadan",
+        "Floemadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Daraxt yo'g'onlashgan sari po'stloqda yoriqlar paydo bo'lishiga sabab nima?",
+      "options": [
+        "Suberin yo'qoladi",
+        "Po'stloq hujayralari cho'zilmaydi",
+        "Og'izchalar ko'payadi",
+        "Kambiy yo'qoladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "O'tkazuvchi to'qimaning vazifasi nima?",
+      "options": [
+        "Himoya qilish",
+        "Tayanch berish",
+        "Moddalar harakatini ta'minlash",
+        "Bo'yiga o'stirish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "O'tkazuvchi to'qimalar qaysilar?",
+      "options": [
+        "Epiderma va periderma",
+        "Meristema va kambiy",
+        "Kollenxima va sklerenxima",
+        "Ksilema va floema"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 48,
+      "question": "Ksilemadagi naylar va traxeidlar qanday hujayralardan iborat?",
+      "options": [
+        "O'lik hujayralardan",
+        "Yo'ldosh hujayralardan",
+        "Tirik hujayralardan",
+        "Yashil hujayralardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Ksilema orqali nima harakatlanadi?",
+      "options": [
+        "Organik moddalar",
+        "Efir moylari",
+        "Smola",
+        "Suv va erigan mineral tuzlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 50,
+      "question": "Ksilemada moddalar qayerdan qayerga harakatlanadi?",
+      "options": [
+        "Bargdan ildizga",
+        "Ildizdan barcha organlarga",
+        "Guldan urug'ga",
+        "Mevadan bargga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Floemada qanday naylar bor?",
+      "options": [
+        "Tirik hujayralardan iborat elaksimon naylar",
+        "O'lik traxeidlar",
+        "Po'kak naylari",
+        "Sklereid naylari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Floema orqali nima yetkaziladi?",
+      "options": [
+        "Suberin",
+        "Kauchuk",
+        "Suv va mineral tuzlar",
+        "Fotosintezda hosil bo'lgan organik moddalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Elaksimon nay hujayralarining xususiyati qaysi?",
+      "options": [
+        "Xloroplastli",
+        "O'lik, qalin qobiqli",
+        "Yirik yadroli",
+        "Yadrosiz, yonida yo'ldosh hujayralar bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Mexanik to'qima qanday vazifani bajaradi?",
+      "options": [
+        "Moddalar o'tkazadi",
+        "Mustahkamlik (tayanch) beradi",
+        "Fotosintez qiladi",
+        "Moddalar ajratadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Mexanik to'qimaning turlari qaysilar?",
+      "options": [
+        "Ksilema va floema",
+        "Meristema va kambiy",
+        "Kollenxima va sklerenxima",
+        "Epiderma va periderma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Kollenxima hujayralari qanday bo'ladi?",
+      "options": [
+        "O'lik, qalin qobiqli",
+        "Shaffof, bir qavat",
+        "Yadrosiz, yupqa",
+        "Tirik, cho'ziq, qalin qobiqli, xloroplastli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Kollenxima qayerda tayanch vazifasini bajaradi?",
+      "options": [
+        "Po'kakda",
+        "Urug' qobig'ida",
+        "Meva etida",
+        "Barg bandida, yosh novdalarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Sklerenxima hujayralari qanday bo'ladi?",
+      "options": [
+        "Tirik, xloroplastli",
+        "O'lik, qalin qobiqli",
+        "Yupqa po'stli, tez bo'linadi",
+        "Shaffof, bir qavat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Sklerenxima necha turga bo'linadi?",
+      "options": [
+        "3 turga",
+        "5 turga",
+        "4 turga",
+        "2 turga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Uzun ingichka sklerenxima hujayralari qaysilar?",
+      "options": [
+        "Traxeidlar",
+        "Sklereidlar",
+        "Elaksimon naylar",
+        "Lub tolalari va yog'ochlik tolalari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Yumaloq sklerenxima hujayralari nima deyiladi?",
+      "options": [
+        "Kollenxima",
+        "Sklereidlar",
+        "Lub tolalari",
+        "Traxeidlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Sklereid hujayralar qaysi urug'lar qobig'ida bo'ladi?",
+      "options": [
+        "Loviya, no'xat, mosh",
+        "Kungaboqar, paxta, zig'ir",
+        "Yong'oq, olcha, o'rik",
+        "Bug'doy, arpa, makka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Sklereid hujayralar qaysi mevalar etida bo'ladi?",
+      "options": [
+        "Nok, behi",
+        "Tarvuz, qovun",
+        "Olma, uzum",
+        "Pomidor, bodring"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "Ajratuvchi to'qima hujayralari nimalarni ajratib chiqaradi?",
+      "options": [
+        "Oqsil va uglevod",
+        "Efir moylari, kauchuk, nektar, smola, fitonsid",
+        "Suberin va kletchatka",
+        "Suv va mineral tuzlar"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
