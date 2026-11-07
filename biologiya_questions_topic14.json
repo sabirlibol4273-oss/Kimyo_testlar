@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 30,
-      "question": "Poyadan tomirlar bo'ylab barglarga nima keladi?",
-      "options": [
-        "Faqat yorug'lik",
-        "Suv va unda erigan oziq moddalar",
-        "Fotosintezda hosil bo'lgan organik moddalar",
-        "Faqat kislorod"
-      ],
-      "correctIndex": 1
-    },
-    {
       "id": 31,
       "question": "Bargda fotosintez natijasida hosil bo'lgan organik moddalar qayerga o'tadi?",
       "options": [
