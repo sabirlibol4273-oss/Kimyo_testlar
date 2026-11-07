@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 23,
-      "question": "Parallel va yoysimon tomirlanish qaysi qatordagi o'simliklarga xos?",
-      "options": [
-        "Olma, nok, g'o'za",
-        "O'rik, tut, arpa",
-        "Terak, chinor, tut",
-        "Bug'doy, arpa, makkajo'xori, oqjo'xori, g'umay"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 24,
       "question": "Quyidagilardan qaysi birining bargi to'rsimon tomirlangan?",
       "options": [
