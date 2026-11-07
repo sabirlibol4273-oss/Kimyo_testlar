@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 25,
-      "question": "Quyidagilardan qaysi birining bargi parallel tomirlangan?",
-      "options": [
-        "G'umay",
-        "Nok",
-        "Tut",
-        "Chinor"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 26,
       "question": "G'umay qaysi guruh o'simliklariga kiradi?",
       "options": [
