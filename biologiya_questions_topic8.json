@@ -2,5 +2,578 @@
   "topicId": 8,
   "title": "6-sinf Botanika 8-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ildizning ichki tuzilishini ko'rish uchun preparat qanday tayyorlanadi?",
+      "options": [
+        "Ildizdan ko'ndalangiga yupqa parrak kesib olinadi",
+        "Ildiz qaynatib olinadi",
+        "Ildiz quritib maydalanadi",
+        "Ildiz butunligicha oynaga qo'yiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Ildiz kesmasi buyum oynasida nimaga qo'yiladi?",
+      "options": [
+        "Moyga",
+        "Spirtga",
+        "Suv tomchisi yoki glitseringa",
+        "Yodli suvga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Ildiz preparatini tayyorlash bosqichlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Rang berish → kesish → qoplagich oyna yopish → suvga qo'yish",
+        "Qoplagich oyna yopish → kesish → rang berish → suvga qo'yish",
+        "Suvga qo'yish → qoplagich oyna yopish → kesish → rang berish",
+        "Kesish → suv yoki glitseringa qo'yish → rang berish → qoplagich oyna yopish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Har bir ildiz tukchasi nechta hujayradan tashkil topgan?",
+      "options": [
+        "Ko'p hujayradan",
+        "Bitta uzun hujayradan",
+        "Hujayrasiz tuzilma",
+        "Ikkita hujayradan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Ildiz tukchasi hujayrasi qanday qismlardan tashkil topgan?",
+      "options": [
+        "Yupqa qobiq, sitoplazma va yirik yadro",
+        "Faqat sitoplazma",
+        "Qalin qobiq va vakuol",
+        "Qalin qobiq va mayda yadro"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Ildiz tukchalari orqali tuproqdan nima shimib olinadi?",
+      "options": [
+        "Organik moddalar",
+        "Suv va unda erigan oziq moddalar",
+        "Faqat havo",
+        "Faqat kislorod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Ildiz tukchalarining faoliyati necha kun davom etadi?",
+      "options": [
+        "20-25 kun",
+        "2-3 kun",
+        "10-12 kun",
+        "30 kun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Yangi ildiz tukchalari ildizning qaysi qismidan o'sib chiqadi?",
+      "options": [
+        "Ildiz qinchasidan",
+        "Poyaga yaqin qismidan",
+        "Uchidagi shimuvchi qismidan",
+        "O'tkazuvchi qismidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Ildiz tukchalari qaysi hujayralardan hosil bo'ladi?",
+      "options": [
+        "Ildizni qoplovchi hujayralardan",
+        "Markaziy naychalardan",
+        "Bo'linuvchi qism hujayralaridan",
+        "Ildiz qinchasi hujayralaridan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Ildiz tukchalarining uzluksiz yangilanishi natijasida nima sodir bo'ladi?",
+      "options": [
+        "Yon ildizlar nobud bo'ladi",
+        "Ildiz o'sishdan to'xtaydi",
+        "Ildiz qinchasi yo'qoladi",
+        "Tukchalar tuproqning ichkari qatlamlariga kirib boradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Makkajo'xorining 1 mm² so'rish qismida nechta ildiz tukchasi bo'ladi?",
+      "options": [
+        "7000 ta",
+        "70 ta",
+        "300 ta",
+        "700 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Ildiz po'sti hujayralari qanday bo'ladi?",
+      "options": [
+        "O'lik, qalin qobiqli",
+        "Cho'ziq, yadrosiz",
+        "Tirik, yumaloq, yupqa qobiqli",
+        "Tirik, qalin devorli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Ildiz po'sti hujayralari orasida nima bor?",
+      "options": [
+        "Suv bilan to'lgan naylar",
+        "Qalin devorli teshikchalar",
+        "Havo bilan to'lgan bo'shliqlar",
+        "Ildiz tukchalari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Ildizdagi hujayralar nima bilan nafas oladi?",
+      "options": [
+        "Barglardan kelgan havo bilan",
+        "Po'st hujayralari orasidagi havo bilan",
+        "Suvdagi tuzlar bilan",
+        "Organik moddalar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Ko'ndalang kesilgan ildizning o'rta qismida nima ko'rinadi?",
+      "options": [
+        "Ildiz qinchasi",
+        "Qalin devorli yirik teshikchalar",
+        "Havo bo'shliqlari",
+        "Ildiz tukchalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Ildiz o'rta qismidagi qalin devorli yirik teshikchalar nimadan iborat?",
+      "options": [
+        "Havo bo'shliqlaridan",
+        "Po'st hujayralaridan",
+        "Ildiz tukchalaridan",
+        "Markaziy qismdagi naychalardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Ildizning uchki qismida qaysi qism joylashgan?",
+      "options": [
+        "Bo'linuvchi qism",
+        "O'suvchi qism",
+        "O'tkazuvchi qism",
+        "So'ruvchi qism"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Bo'linuvchi qism qanday to'qima hujayralaridan iborat?",
+      "options": [
+        "Hosil qiluvchi to'qima",
+        "O'tkazuvchi to'qima",
+        "Qoplovchi to'qima",
+        "Mexanik to'qima"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Bo'linish qismini tashqi tomondan nima himoya qiladi?",
+      "options": [
+        "Ildiz tukchalari",
+        "Po'st hujayralari",
+        "Ildiz qinchasi",
+        "Markaziy naychalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Qaysi qismda hujayralar bo'linmaydi, balki o'sib ixtisoslashadi?",
+      "options": [
+        "Ildiz qinchasida",
+        "Bo'linuvchi qismda",
+        "So'ruvchi qismda",
+        "O'suvchi qismda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Ildiz tukchalari ildizning qaysi qismida hosil bo'ladi?",
+      "options": [
+        "So'ruvchi qismda",
+        "O'suvchi qismda",
+        "O'tkazuvchi qismda",
+        "Bo'linuvchi qismda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Suv va mineral moddalar poyaga ildizning qaysi qismi orqali ko'tariladi?",
+      "options": [
+        "Bo'linuvchi qism",
+        "O'tkazuvchi qism",
+        "O'suvchi qism",
+        "So'ruvchi qism"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "O'suvchi qism ildizning qayerida joylashgan?",
+      "options": [
+        "Bo'linish qismidan yuqorida",
+        "Ildiz qinchasidan pastda",
+        "O'tkazuvchi qismdan yuqorida",
+        "So'ruvchi qismdan yuqorida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "So'ruvchi qism ildizning qayerida joylashgan?",
+      "options": [
+        "Bo'linish qismidan pastda",
+        "Ildiz qinchasi ostida",
+        "O'tkazuvchi qismdan yuqorida",
+        "O'sish qismidan yuqorida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "O'tkazuvchi qism ildizning qayerida joylashgan?",
+      "options": [
+        "O'sish qismidan pastda",
+        "Ildiz qinchasi ichida",
+        "So'ruvchi qismdan yuqorida",
+        "Bo'linish qismidan pastda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Ildiz uchidan boshlab qismlar to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "O'tkazuvchi → so'ruvchi → o'suvchi → bo'linuvchi → ildiz qinchasi",
+        "Ildiz qinchasi → bo'linuvchi → o'suvchi → so'ruvchi → o'tkazuvchi",
+        "Bo'linuvchi → so'ruvchi → o'suvchi → o'tkazuvchi → ildiz qinchasi",
+        "Ildiz qinchasi → o'suvchi → bo'linuvchi → o'tkazuvchi → so'ruvchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "O'tkazuvchi qism orqali moddalar qanday yo'nalishda harakatlanadi?",
+      "options": [
+        "Faqat organik moddalar ildizga o'tadi",
+        "Suv ildizga, organik moddalar poyaga",
+        "Suv va mineral moddalar poyaga, organik moddalar ildizga",
+        "Faqat suv poyaga ko'tariladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Ildizga poya va barglardan qanday moddalar o'tadi?",
+      "options": [
+        "Organik moddalar",
+        "Faqat havo",
+        "Mineral tuzlar",
+        "Faqat suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Moslang: 1) bo'linuvchi qism, 2) o'suvchi qism, 3) so'ruvchi qism, 4) o'tkazuvchi qism; a) tukchalar hosil bo'ladi, b) hujayralar tinmay bo'linadi, c) moddalar poyaga ko'tariladi, d) hujayralar o'sib ixtisoslashadi.",
+      "options": [
+        "1b, 2a, 3d, 4c",
+        "1d, 2b, 3a, 4c",
+        "1b, 2d, 3a, 4c",
+        "1c, 2d, 3a, 4b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Makkajo'xori ildizi poyadan atrofga qancha masofaga yoyiladi?",
+      "options": [
+        "60-70 sm",
+        "30 m",
+        "10 m",
+        "2 m"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Bosh piyoz ildizi qancha masofagacha yoyiladi?",
+      "options": [
+        "30 m gacha",
+        "10-12 sm gacha",
+        "60-70 sm gacha",
+        "2 m gacha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "G'o'za nihollarining ildizi bir kecha-kunduzda qancha o'sadi?",
+      "options": [
+        "60-70 sm",
+        "10-12 sm",
+        "0,5 sm",
+        "2-3 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Yantoq ildizi yerga qancha chuqurlikkacha kirib boradi?",
+      "options": [
+        "10 m gacha",
+        "2 m gacha",
+        "30 m gacha",
+        "60-70 sm gacha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "\"Yantoq bor joyda suv bor\" deyilishiga sabab nima?",
+      "options": [
+        "Uning bargi suv to'playdi",
+        "U ariq bo'yida o'sadi",
+        "Uning ildizi 30 m gacha kirib, yerosti suvlaridan foydalanadi",
+        "U faqat suv ichida o'sadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Raqamlarni moslang: 1) makkajo'xori ildizining yoyilishi, 2) yantoq ildizining chuqurligi, 3) g'o'za nihollari ildizining sutkalik o'sishi; a) 30 m, b) 2-3 sm, c) 2 m.",
+      "options": [
+        "1c, 2a, 3b",
+        "1b, 2a, 3c",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Ildizlar qanday tezlikda o'sadi?",
+      "options": [
+        "Barcha o'simliklarda bir xil",
+        "Faqat kun uzunligiga qarab",
+        "Faqat tuproq rangiga qarab",
+        "O'simlik turi va o'sish muhitiga qarab turlicha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "Ildiz bo'yiga nima hisobiga o'sadi?",
+      "options": [
+        "Ildiz tukchalarining uzayishi",
+        "Bo'linish qismidagi hujayralarning bo'linib ko'payishi",
+        "O'tkazuvchi qismning cho'zilishi",
+        "Po'st hujayralarining qalinlashishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Ildiz ham nafas oladimi?",
+      "options": [
+        "Yo'q, faqat barglar nafas oladi",
+        "Faqat kechasi nafas oladi",
+        "Faqat suvda nafas oladi",
+        "Ha, boshqa organlar singari nafas oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Urug' nima uchun yumshoq yerga ekiladi?",
+      "options": [
+        "Ildiz tukchalari yo'qolishi uchun",
+        "Ildiz tez chirishi uchun",
+        "Ildiz yetarli havo olishi uchun",
+        "Suv bug'lanishi uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "G'o'za, sabzavot va poliz ekinlarini chopiq qilishdan maqsad nima?",
+      "options": [
+        "Tuproqni zichlashtirish",
+        "Ildizga havo yetkazish",
+        "Ildiz tukchalarini kamaytirish",
+        "Ildizni kesib tashlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Qatqaloq tuproqning kamchiligi nima?",
+      "options": [
+        "Harorat juda yuqori bo'ladi",
+        "Mineral tuzlar ko'p bo'ladi",
+        "Havo kam bo'ladi",
+        "Suv juda ko'p bo'ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Daraxt va butalarning tagini nima uchun vaqti-vaqti bilan yumshatish tavsiya etiladi?",
+      "options": [
+        "Tuproqni qotirish uchun",
+        "Ildiz havo bilan ta'minlanishi uchun",
+        "Ildiz o'sishini to'xtatish uchun",
+        "Ildiz tukchalarini olib tashlash uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Ildizning uchki qismi shikastlansa nima sodir bo'ladi?",
+      "options": [
+        "Bo'yiga o'sishi to'xtaydi, yon ildizlar hosil bo'lishi kuchayadi",
+        "O'simlik darhol quriydi",
+        "Ildiz tezroq bo'yiga o'sadi",
+        "Yon ildizlar nobud bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Ildiz uchi chilpilgach, ildiz tizimi tuproqning qaysi qismida baquvvat o'sadi?",
+      "options": [
+        "Tuproq ustida",
+        "Chuqur qatlamlarda pastga",
+        "Unumdor yuza qismida yon tomonga",
+        "Faqat yerosti suvlarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Dehqonlar qaysi o'simliklarni ko'chirib o'tqazishdan avval ildiz uchini chilpib tashlaydilar?",
+      "options": [
+        "Qovun, tarvuz, g'o'za",
+        "Yantoq, saksovul, terak",
+        "Pomidor, karam, bulg'or qalampiri",
+        "Bug'doy, arpa, makkajo'xori"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 46,
+      "question": "Pomidor ko'chatlarini o'tqazishdan avval ildiz uchini chilpishdan maqsad nima?",
+      "options": [
+        "Ildiz tukchalarini yo'qotish",
+        "O'simlikni bo'yiga o'stirish",
+        "Yon ildizlarni ko'paytirib, mo'l hosil olish",
+        "Ildiz o'sishini butunlay to'xtatish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "O'simlikka tuproq tortilganda nima hosil bo'ladi?",
+      "options": [
+        "Ildiz qinchasi",
+        "Qo'shimcha ildiz",
+        "Asosiy ildiz",
+        "Yangi barg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "To'g'ri fikrlarni toping: 1) Ildiz tukchasi bitta uzun hujayradan iborat; 2) Tukchalar faoliyati 10-12 kun davom etadi; 3) O'suvchi qismda hujayralar tinmay bo'linadi; 4) Ildiz qinchasi bo'linish qismini himoya qiladi.",
+      "options": [
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 3",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Noto'g'ri fikrlarni toping: 1) Ildiz po'sti hujayralari o'lik bo'ladi; 2) Tukchalar so'ruvchi qismda hosil bo'ladi; 3) Organik moddalar ildizdan poyaga ko'tariladi; 4) Qatqaloq tuproqda havo kam bo'ladi.",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "2, 4",
+        "3, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "To'g'ri fikrlarni toping: 1) Yantoq ildizi 30 m gacha kirib boradi; 2) Bosh piyoz ildizi 2 m gacha yoyiladi; 3) Ildiz uchi shikastlansa yon ildizlar kuchayadi; 4) Ildiz nafas olmaydi.",
+      "options": [
+        "2, 4",
+        "1, 2",
+        "1, 3",
+        "3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Ildiz hujayralari po'st orasidagi havo bilan nafas oladi",
+        "Ildiz tukchalari bo'linuvchi qismda hosil bo'ladi",
+        "O'suvchi qism bo'linish qismidan yuqorida joylashgan",
+        "Ildiz qinchasi bo'linish qismini himoya qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Ortiqchasini toping (ildiz uchini chilpish qo'llaniladigan o'simliklar): pomidor, karam, bulg'or qalampiri, yantoq.",
+      "options": [
+        "Pomidor",
+        "Yantoq",
+        "Karam",
+        "Bulg'or qalampiri"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
