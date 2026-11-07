@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 13,
-      "question": "Quyidagilardan qaysi birining bargi bandli?",
-      "options": [
-        "Lola",
-        "Gulsafsar",
-        "Anjir",
-        "Sholi"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 14,
       "question": "Quyidagilardan qaysi birining bargi bandsiz?",
       "options": [
