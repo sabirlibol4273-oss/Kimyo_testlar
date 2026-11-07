@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 29,
-      "question": "Ortiqchasini toping (tomirlanish bo'yicha): bug'doy, makkajo'xori, g'umay, nok.",
-      "options": [
-        "Nok",
-        "Bug'doy",
-        "G'umay",
-        "Makkajo'xori"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 30,
       "question": "Poyadan tomirlar bo'ylab barglarga nima keladi?",
       "options": [
