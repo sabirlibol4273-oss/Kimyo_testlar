@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 36,
-      "question": "Qaysi o'simlik bargi ham bandsiz, ham parallel tomirlangan?",
-      "options": [
-        "Olma",
-        "Nok",
-        "Bug'doy",
-        "Terak"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 37,
       "question": "Qaysi o'simlik bargi ham bandli, ham to'rsimon tomirlangan?",
       "options": [
