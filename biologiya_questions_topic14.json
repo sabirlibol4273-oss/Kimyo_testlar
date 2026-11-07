@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 34,
-      "question": "Moslang: 1) to'rsimon tomirlanish, 2) parallel tomirlanish; a) chinor, b) arpa, c) o'rik, d) oqjo'xori.",
-      "options": [
-        "1 – a, c; 2 – b, d",
-        "1 – a, b; 2 – c, d",
-        "1 – a, d; 2 – b, c",
-        "1 – b, d; 2 – a, c"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 35,
       "question": "Moslang: 1) ikki urug'pallali, 2) bir urug'pallali; a) parallel va yoysimon tomirlanish, b) patsimon va panjasimon tomirlanish.",
       "options": [
