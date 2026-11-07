@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 39,
-      "question": "Noto'g'ri fikrlarni toping: 1) Transpiratsiya – suv bug'latish; 2) Makkajo'xori bargi to'rsimon tomirlangan; 3) Barg asosan ikki qismdan iborat; 4) Organik moddalar poyadan bargga o'tadi.",
-      "options": [
-        "3, 4",
-        "1, 3",
-        "1, 2",
-        "2, 4"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 40,
       "question": "Noto'g'ri fikrni toping.",
       "options": [
