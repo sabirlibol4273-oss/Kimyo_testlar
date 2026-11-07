@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 11,
-      "question": "Qaysi qatorda bandli bargli o'simliklar berilgan?",
-      "options": [
-        "Lola, shirach, gulsafsar",
-        "Bug'doy, arpa, sholi",
-        "Makkajo'xori, lola, olma",
-        "Olma, o'rik, nok, terak"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 12,
       "question": "Qaysi qatorda bandsiz bargli o'simliklar berilgan?",
       "options": [
