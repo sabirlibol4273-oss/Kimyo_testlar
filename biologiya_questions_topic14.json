@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 1,
-      "question": "Barg qanday organ hisoblanadi?",
-      "options": [
-        "Novdaning yon vegetativ organi",
-        "Novdaning o'zak organi",
-        "Yerosti organi",
-        "Generativ organ"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 2,
       "question": "Bargning funksiyalari qaysi javobda to'g'ri berilgan?",
       "options": [
