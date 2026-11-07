@@ -2,5 +2,633 @@
   "topicId": 13,
   "title": "6-sinf Botanika 13-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Poya qanday organ hisoblanadi?",
+      "options": [
+        "Yuksak o'simliklarning generativ organi",
+        "Tuban o'simliklarning organi",
+        "Yerostidagi asosiy organ",
+        "Yuksak o'simliklarning yer ustidagi asosiy vegetativ organi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Poyaning funksiyalari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "Tayanch, moddalar transporti, zaxira to'plash, vegetativ ko'payish",
+        "Faqat suv shimish",
+        "Gul va meva hosil qilish",
+        "Faqat fotosintez"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Poya nimadan hosil bo'ladi?",
+      "options": [
+        "Boshlang'ich ildizdan",
+        "Urug' murtagidagi boshlang'ich poyachadan",
+        "Ildiz tukchalaridan",
+        "Urug'palladan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Poya qaysi hujayralarning bo'linishi va yiriklashishi hisobiga o'sadi?",
+      "options": [
+        "O'zak hujayralari",
+        "Po'kak hujayralari",
+        "Meristema hujayralari",
+        "Epiderma hujayralari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Poyaning ichki tuzilishi nimaga qarab turlicha bo'ladi?",
+      "options": [
+        "Sistematik birligi va hayotiy shakliga qarab",
+        "Faqat barg shakliga qarab",
+        "Faqat tuproq turiga qarab",
+        "Faqat gul rangiga qarab"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Matnda o'simliklarning qaysi hayotiy shakllari keltirilgan?",
+      "options": [
+        "Vegetativ, generativ",
+        "Tik, o'raluvchi, o'rmalovchi",
+        "Ildizmeva, tayanch, havo",
+        "O't, buta, daraxt"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Matnda qaysi daraxtning yosh poyasi ichki tuzilishi misolida o'rganilgan?",
+      "options": [
+        "Terak",
+        "Yong'oq",
+        "Chinor",
+        "Tut"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Poyaning yuzasi nima bilan qoplangan?",
+      "options": [
+        "Ko'p qavat po'kak",
+        "Kambiy",
+        "O'zak",
+        "Bir qavat hujayralardan iborat epiderma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Epiderma ostida nima joylashgan?",
+      "options": [
+        "Yog'ochlik",
+        "Po'st parenximasi (asosiy to'qima)",
+        "Kambiy",
+        "O'zak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Po'st parenximasi qanday hujayralardan hosil bo'lgan?",
+      "options": [
+        "Yadrosiz hujayralardan",
+        "Faqat naylardan",
+        "Bir qavat o'lik hujayralardan",
+        "Ko'p qavatli tirik hujayralardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Po'st ostidagi qavat qaysi?",
+      "options": [
+        "O'zak",
+        "Kambiy",
+        "Yog'ochlik (ksilema)",
+        "Lub (floema)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Lubdan ichkarida qaysi qavat joylashgan?",
+      "options": [
+        "Kambiy",
+        "O'zak",
+        "Epiderma",
+        "Po'st"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Kambiydan keyin (ichkarida) qaysi qavat joylashgan?",
+      "options": [
+        "Yog'ochlik (ksilema)",
+        "Po'st",
+        "Epiderma",
+        "Lub (floema)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Poyaning eng o'rtasida nima joylashgan?",
+      "options": [
+        "Po'st",
+        "O'zak",
+        "Floema",
+        "Kambiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Tut yosh poyasidagi qavatlarni tashqaridan ichkariga tartiblang.",
+      "options": [
+        "O'zak → ksilema → kambiy → floema → po'st → epiderma",
+        "Epiderma → po'st → floema → kambiy → ksilema → o'zak",
+        "Epiderma → po'st → ksilema → kambiy → floema → o'zak",
+        "Epiderma → kambiy → floema → ksilema → po'st → o'zak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Lubning boshqa nomi nima?",
+      "options": [
+        "Kambiy",
+        "O'zak",
+        "Floema",
+        "Ksilema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Yog'ochlikning boshqa nomi nima?",
+      "options": [
+        "Epiderma",
+        "Floema",
+        "Kambiy",
+        "Ksilema"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Tut poyasi po'stining sirtida yasmiqchalar qachon hosil bo'ladi?",
+      "options": [
+        "Kech kuzda",
+        "Qishda",
+        "Erta bahorda",
+        "Yozning ikkinchi yarmida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Yasmiqchalar qanday rangda bo'ladi?",
+      "options": [
+        "Qizil",
+        "Yashil",
+        "Oq",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Poya ichidagi tirik hujayralar nima orqali nafas oladi?",
+      "options": [
+        "Yasmiqchalar orqali",
+        "O'zak orqali",
+        "Elaksimon naylar orqali",
+        "Kambiy orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Po'st asta-sekin po'kaklashib nima hosil qiladi?",
+      "options": [
+        "Floema",
+        "O'zak",
+        "Po'stloq",
+        "Kambiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Po'kak qalinlashgan sari po'stloqdagi tirik hujayralar qanday o'zgaradi?",
+      "options": [
+        "O'zgarmaydi",
+        "Ko'payadi",
+        "Yashil rangga kiradi",
+        "Kamaya boradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Po'stloq qavati qayerda qalin bo'ladi?",
+      "options": [
+        "Barglarda",
+        "Tanada va eski shoxlarda",
+        "Yosh novdalarda",
+        "Ildiz uchida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Qalin po'stloq ichkaridagi tirik hujayralarni nimalardan himoya qiladi?",
+      "options": [
+        "Faqat hasharotlardan",
+        "Faqat suvdan",
+        "Qishki sovuq, yozgi issiq va mikroblardan",
+        "Faqat yorug'likdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Floema qanday to'qima hujayralaridan tashkil topadi?",
+      "options": [
+        "Asosiy (parenxima), mexanik (lub tolalari), o'tkazuvchi (elaksimon naylar)",
+        "Epiderma va kambiydan",
+        "Faqat o'tkazuvchi naylardan",
+        "Faqat po'kakdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Floemadagi mexanik to'qima qaysi?",
+      "options": [
+        "Yog'ochlik tolalari",
+        "Lub tolalari",
+        "Parenxima",
+        "Elaksimon naylar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Floemadagi o'tkazuvchi to'qima qaysi?",
+      "options": [
+        "Elaksimon naylar",
+        "Yog'ochlik tolalari",
+        "Lub tolalari",
+        "Naylar va traxeidlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Tut novdasining egiluvchan va pishiq bo'lishi nimaga bog'liq?",
+      "options": [
+        "O'zakning kattaligiga",
+        "Lub tolalarining ko'pligiga",
+        "Yasmiqchalar soniga",
+        "Kambiyning yo'qligiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Lub tolalari qaysi o'simliklar poyasida yaxshi rivojlangan?",
+      "options": [
+        "Saksovul, yulg'un",
+        "Tol, terak",
+        "Sabzi, lavlagi",
+        "Kanop, zig'ir"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Kanop va zig'irning lub tolalaridan nimalar tayyorlanadi?",
+      "options": [
+        "Qog'oz va karton",
+        "Mebel",
+        "Ip, arqon, qop, gazlama",
+        "Uy-ro'zg'or buyumlari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Elaksimon naychalar qanday tuzilgan?",
+      "options": [
+        "Bir qavat shaffof hujayralar",
+        "Yumaloq o'lik hujayralar",
+        "Qalin devorli yirik teshikchalar",
+        "Teshikli to'siqlar bilan bo'lingan cho'ziq, ingichka naychalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Elaksimon naychalar qayerda joylashgan?",
+      "options": [
+        "Epiderma ustida",
+        "O'zakda",
+        "Yasmiqchalarda",
+        "Lub tolalari orasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Elaksimon naychalar orqali nima o'tadi?",
+      "options": [
+        "Ildizdan suv va mineral tuzlar",
+        "Faqat suv",
+        "Barglardan boshqa organlarga organik moddalar",
+        "Havo"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Floema ostida novdaning qanday qismi ko'rinadi?",
+      "options": [
+        "Yashil epiderma",
+        "Chirigan o'zak",
+        "Yog'ochlashgan oq rangli qism",
+        "Qo'ng'ir yasmiqchalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Yog'ochligi qattiq daraxtlar qaysi qatorda berilgan?",
+      "options": [
+        "Tol, eman, terak",
+        "Qayrag'och, eman, yong'oq, o'rik",
+        "Tol, terak, jiyda",
+        "Kanop, zig'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Yog'ochligi yumshoq daraxtlar qaysi qatorda berilgan?",
+      "options": [
+        "Tol, terak, jiyda",
+        "Qayrag'och, tol, eman",
+        "Yong'oq, o'rik, yulg'un",
+        "Eman, zarang, saksovul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Quyidagilardan qaysi birining yog'ochligi qattiq?",
+      "options": [
+        "Terak",
+        "Jiyda",
+        "Tol",
+        "Saksovul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Quyidagilardan qaysi birining yog'ochligi yumshoq?",
+      "options": [
+        "Yulg'un",
+        "Eman",
+        "Zarang",
+        "Jiyda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Yog'ochi qattiq daraxtlardan nimada foydalaniladi?",
+      "options": [
+        "Qop to'qishda",
+        "Ip va arqon tayyorlashda",
+        "Gazlama to'qishda",
+        "Mebel va uy-ro'zg'or buyumlari tayyorlashda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Ksilema qanday to'qima hujayralaridan tashkil topgan?",
+      "options": [
+        "Epiderma va kambiydan",
+        "Faqat elaksimon naylardan",
+        "O'tkazuvchi (naylar), mexanik (yog'ochlik tolalari), asosiy (parenxima)",
+        "Lub tolalari va po'kakdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Ksilemadagi mexanik to'qima qaysi?",
+      "options": [
+        "Lub tolalari",
+        "Po'kak",
+        "Yog'ochlik tolalari",
+        "Elaksimon naylar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Ksilemadagi o'tkazuvchi naylar orqali nima tarqaladi?",
+      "options": [
+        "Organik moddalar barglardan",
+        "Suv va erigan mineral tuzlar ildizdan barcha organlarga",
+        "Faqat organik moddalar ildizga",
+        "Havo yasmiqchalardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Kambiy qavati qayerda joylashgan?",
+      "options": [
+        "O'zak markazida",
+        "Epiderma ostida",
+        "Po'stloq ustida",
+        "Lub bilan yog'ochlik orasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Kambiy qanday hujayralardan iborat?",
+      "options": [
+        "O'lik, qalin devorli hujayralardan",
+        "Yosh, nozik, doimo bo'linib turadigan hujayralardan",
+        "Po'kaklashgan hujayralardan",
+        "Yadrosiz hujayralardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Poya qaysi qavat hujayralari hisobiga eniga o'sadi?",
+      "options": [
+        "Kambiy",
+        "O'zak",
+        "Po'stloq",
+        "Epiderma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "O'zak qanday to'qima hujayralaridan tashkil topgan?",
+      "options": [
+        "Asosiy (parenxima) to'qima",
+        "Mexanik to'qima",
+        "Qoplovchi to'qima",
+        "O'tkazuvchi to'qima"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 47,
+      "question": "Ayrim daraxtlarning o'zagi qanday bo'ladi?",
+      "options": [
+        "Faqat naylardan iborat",
+        "Bo'sh, yumshoq yoki chirigan",
+        "Doimo yashil",
+        "Lub tolalari bilan to'la"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Yosh novdalarning o'zak hujayralari qanday bo'ladi?",
+      "options": [
+        "Faqat suv bilan to'la",
+        "Po'kaklashgan",
+        "Tirik, ularda organik moddalar to'planadi",
+        "O'lik, bo'sh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Xulosaga ko'ra poya ichki tuzilishiga ko'ra nimalardan iborat?",
+      "options": [
+        "Epiderma, ildiz, barg, kurtak",
+        "Ildiz qinchasi, bo'linuvchi, o'suvchi qism",
+        "Po'st yoki po'kak, floema, kambiy, yog'ochlik, o'zak",
+        "Faqat floema va ksilema"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Moslang: 1) floema, 2) ksilema; a) elaksimon naylar, b) yog'ochlik tolalari, c) lub tolalari, d) suv o'tkazuvchi naylar.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Moslang: 1) kambiy, 2) o'zak, 3) yasmiqcha; a) nafas olish, b) eniga o'sish, c) organik moddalar to'planishi.",
+      "options": [
+        "1b, 2c, 3a",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a",
+        "1b, 2a, 3c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Moslang: 1) qattiq yog'och, 2) yumshoq yog'och; a) eman, b) tol, c) zarang, d) terak.",
+      "options": [
+        "1 – a, d; 2 – b, c",
+        "1 – a, c; 2 – b, d",
+        "1 – a, b; 2 – c, d",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Ortiqchasini toping (yog'ochligi bo'yicha): qayrag'och, eman, o'rik, terak.",
+      "options": [
+        "Eman",
+        "Terak",
+        "Qayrag'och",
+        "O'rik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Elaksimon naylar va ksilema naylarining farqi qaysi javobda to'g'ri?",
+      "options": [
+        "Elaksimon naylar suv, ksilema naylari organik moddalar o'tkazadi",
+        "Elaksimon naylar organik moddalarni, ksilema naylari suv va mineral tuzlarni o'tkazadi",
+        "Ikkalasi ham faqat suv o'tkazadi",
+        "Ikkalasi ham faqat organik moddalar o'tkazadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "To'g'ri fikrlarni toping: 1) Kambiy lub va yog'ochlik orasida joylashgan; 2) Lub tolalari kanop va zig'irda yaxshi rivojlangan; 3) Elaksimon naylar orqali suv ildizdan ko'tariladi; 4) O'zak parenxima hujayralaridan iborat.",
+      "options": [
+        "1, 2, 3",
+        "1, 3",
+        "1, 2, 4",
+        "2, 3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Noto'g'ri fikrlarni toping: 1) Epiderma bir qavat hujayralardan iborat; 2) Po'kak qalinlashgan sari tirik hujayralar ko'payadi; 3) Tol yog'ochligi qattiq daraxt; 4) Poya kambiy hisobiga eniga o'sadi.",
+      "options": [
+        "2, 3",
+        "1, 2",
+        "1, 4",
+        "3, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Yosh novdalarning o'zak hujayralari tirik bo'ladi",
+        "Tut novdasi lub tolalari ko'pligi tufayli pishiq bo'ladi",
+        "Yasmiqchalar erta bahorda hosil bo'ladi",
+        "Ksilema naylari suv va mineral tuzlarni o'tkazadi"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
