@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 19,
-      "question": "Ikki urug'pallali o'simliklarning bargi qanday tomirlangan?",
-      "options": [
-        "Faqat yoysimon",
-        "Parallel va yoysimon",
-        "Patsimon va panjasimon (to'rsimon)",
-        "Faqat parallel"
-      ],
-      "correctIndex": 2
-    },
-    {
       "id": 20,
       "question": "Bir urug'pallali o'simliklarning bargi qanday tomirlangan?",
       "options": [
