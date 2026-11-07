@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 40,
-      "question": "Noto'g'ri fikrni toping.",
-      "options": [
-        "Tutning bargi to'rsimon tomirlangan",
-        "Sholining bargi bandsiz bo'ladi",
-        "Barg gaz almashinuvida ishtirok etadi",
-        "Yong'oqning bargi bandsiz bo'ladi"
-      ],
-      "correctIndex": 3
-    },
-    {
       "id": 41,
       "question": "Qaysi javobda o'simlik va uning bargi to'g'ri tavsiflangan?",
       "options": [
