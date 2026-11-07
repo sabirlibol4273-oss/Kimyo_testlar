@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 9,
-      "question": "Bandi bo'lmagan barglar qanday ataladi?",
-      "options": [
-        "Bandsiz barg",
-        "Tangacha barg",
-        "Yon bargcha",
-        "Bandli barg"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 10,
       "question": "Bandsiz barglar poyaga qanday birikadi?",
       "options": [
