@@ -4,17 +4,6 @@
   "description": "",
   "questions": [
     {
-      "id": 33,
-      "question": "Moslang: 1) bandli barg, 2) bandsiz barg; a) olma, b) lola, c) tok, d) makkajo'xori.",
-      "options": [
-        "1 – a, c; 2 – b, d",
-        "1 – b, d; 2 – a, c",
-        "1 – a, d; 2 – b, c",
-        "1 – a, b; 2 – c, d"
-      ],
-      "correctIndex": 0
-    },
-    {
       "id": 34,
       "question": "Moslang: 1) to'rsimon tomirlanish, 2) parallel tomirlanish; a) chinor, b) arpa, c) o'rik, d) oqjo'xori.",
       "options": [
