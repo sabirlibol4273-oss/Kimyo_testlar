@@ -2,5 +2,446 @@
   "topicId": 3,
   "title": "3-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "O'simliklarning tashqi muhitga har xil shaklda moslashishi biologiyada nima deyiladi?",
+      "options": [
+        "Hayotiy shakl",
+        "Modifikatsion o'zgaruvchanlik",
+        "Sistematik birlik",
+        "Ekologik faza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Gulli o'simliklar o'zlarining hayotiy shakllariga ko'ra necha va qanday asosiy guruhlarga bo'linadi?",
+      "options": [
+        "3 ta: daraxt, buta, o'tlar",
+        "6 ta: daraxt, buta, yarimbuta, ko'p yillik, ikki yillik va bir yillik o'tlar",
+        "4 ta: daraxt, chala buta, bir yillik va ko'p yillik o'simliklar",
+        "5 ta: lianalar, daraxtlar, butalar, suvo'tlar, yo'sinlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Daraxtlarning eng asosiy biologik va morfologik belgilari to'liq ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Bir nechta yog'ochlashgan poya-tanali, poyasi qishda sovuq uradigan",
+        "Bitta yo'g'on yog'ochlashgan tanali, baquvvat ildizli, keng shox-shabbali, baland bo'yli ko'p yillik o'simliklar",
+        "O'sish kurtaklari tuproq ostida qishlaydigan, poyasi bir yilda quriydigan",
+        "Birinchi yili vegetativ organ, ikkinchi yili meva tugadigan yog'och tanali o'simliklar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Quyidagi daraxtlar va ularning shox-shabbasi tuzilish shakllarini to'g'ri moslashtiring:\n1) Olma, o'rik, yong'oq, shaftoli\n2) Qarag'ay va terak\n3) Sadaqayrag'och\na) Sharsimon; b) G'uj va tik; c) Yoyiq",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Shox-shabbasi g'uj va tik bo'lgan daraxtlar juftligini toping.",
+      "options": [
+        "Olma va shaftoli",
+        "Qarag'ay va terak",
+        "Sadaqayrag'och va yong'oq",
+        "O'rik va olma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Shox-shabbasi sharsimon shaklga ega bo'lgan daraxt qaysi javobda keltirilgan?",
+      "options": [
+        "Qarag'ay",
+        "Terak",
+        "Sadaqayrag'och",
+        "Yong'oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Tog'larning eng baland qismlarida o'sadigan archalarning yerdan atigi 0,5–1 metr ko'tarilib o'sishiga asosiy sabab nima?",
+      "options": [
+        "Tuproqda namlik va ozuqa moddalarning me'yoridan ortiq bo'lishi",
+        "Doimiy esib turadigan shamoldan va qishning qattiq sovuqlaridan saqlanish",
+        "Quyosh nurlarining kuchli ta'sirida poyaning kuyib ketishining oldini olish",
+        "Yirtqich hayvonlar iste'mol qilishidan himoyalanish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Tog'ning o'rta qismi hamda eng balandliklarida o'sadigan archalar o'rtasidagi asosiy farq nimada ifodalanadi?",
+      "options": [
+        "O'rta qismdagi archa bir yillik, balandlikdagisi ko'p yillik bo'ladi",
+        "O'rta qismdagisi bo'ydor bo'lib o'sadi, eng balandliklardagisi yerdan 0,5–1 m ko'tariladi, xolos",
+        "Balandlikdagi archa buta hisoblanmaydi, o'rta qismdagisi o't hisoblanadi",
+        "O'rta qismdagi archa meva tugmaydi, yuqoridagisi har yili mevalaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Butalarning daraxtlardan eng asosiy morfologik farqi nimada?",
+      "options": [
+        "Butalarda bitta yo'g'on yog'ochlashgan tana bo'ladi",
+        "Butalar bir nechta yog'ochlashgan poya-tanaga ega bo'ladi",
+        "Butalar bir yillik o'simlik hisoblanadi",
+        "Butalarda ildiz tizimi umuman bo'lmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Butalarda yangi yosh novdalar qayerdan va qanday kurtaklardan rivojlanib chiqadi?",
+      "options": [
+        "Ildizdagi qo'shimcha kurtaklardan",
+        "Faqat uchi kurtaklardan",
+        "Gulkurtaklardan",
+        "Barg qo'ltig'idagi generativ kurtaklardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Matnda berilgan faqat butalardan tashkil topgan qatorni aniqlang.",
+      "options": [
+        "Irg'ay, singirtak, na'matak, zirk, bodomcha, uchqat, anor, limon, qoraqat, ligustrum, nastarin",
+        "Izen, keyreuk, teresken, sarsazan, shuvoq",
+        "Beda, ajriq, g'umay, sachratqi, piskom piyozi",
+        "Lavlagi, sabzi, sholg'om, sigirquyruq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Quyidagi o'simliklardan qaysilari butalar guruhiga mansub emas?\n1) Bodomcha; 2) Sarsazan; 3) Ligustrum; 4) Keyreuk; 5) Nastarin; 6) Izen",
+      "options": [
+        "1, 3, 5",
+        "2, 4, 6",
+        "2, 3, 4",
+        "1, 4, 6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Yarimbutalarning morfologik tuzilishi va qishlash biologiyasining o'ziga xosligi nimada?",
+      "options": [
+        "Butun tana va ildizi qishda sovuq urib butkul quriydi",
+        "Poyasining pastki qismi yog'ochlashgan, yuqori yashil qismini esa qishda sovuq urib ketadi",
+        "Bitta baland tanasi qishda muzlab qolib, bahorda yangidan unadi",
+        "Faqat tuproq ostidagi tugunaklari qishlaydi, poyasi yog'ochlashmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Cho'llarda keng tarqalgan yarimbutalar to'g'ri ko'rsatilgan javobni toping.",
+      "options": [
+        "Olma, o'rik, yong'oq, shaftoli",
+        "Izen, keyreuk, teresken, sarsazan, shuvoq",
+        "Ajriq, g'umay, sachratqi, beda",
+        "Irg'ay, nastarin, ligustrum, qoraqat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Yarimbutalar qanday ekologik sharoitda (hududda) keng tarqalganligi matnda qayd etilgan?",
+      "options": [
+        "Baland tog' cho'qqilarida",
+        "Cho'llarda",
+        "Botqoqlik va botqoq o'rmonlarida",
+        "Suv havzalarining tubida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Ko'p yillik o'tlarning biologik xususiyati to'g'ri ko'rsatilgan javobni aniqlang.",
+      "options": [
+        "Yerusti qismi qishda qurib, o'sish kurtaklari tuproq ostida qishlaydi",
+        "Butun tanasi ko'p yillar davomida doim yog'ochlashgan holda saqlanadi",
+        "Birinchi yili urug' hosil qilib, butunlay o'ladi",
+        "Poyasining faqat uchi yog'ochlashib, qolgan qismi quriydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Quyidagi o'simliklardan qaysilari ko'p yillik o'tlar hisoblanadi?\n1) Beda; 2) Sigirquyruq; 3) G'umay; 4) Sachratqi; 5) Lavlagi; 6) Shirinmiya",
+      "options": [
+        "1, 3, 4, 6",
+        "2, 5, 6",
+        "1, 2, 4, 5",
+        "3, 4, 5, 6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Matnda ko'p yillik o'tlar qatoriga kiritilgan piyozli va ildizpoyali/ildizli o'simliklar berilgan qatorni aniqlang.",
+      "options": [
+        "Piskom piyozi, lola, iloq, qamish, andiz, yalpiz, kovrak, gulsafsar",
+        "Sabzi, lavlagi, sholg'om, sigirquyruq",
+        "G'o'za, bug'doy, arpa, mosh, no'xat",
+        "Saksovul, teresken, sarsazan, shuvoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Kiyiko't, sallagul va qoqio't o'simliklari qaysi hayotiy shaklga mansub?",
+      "options": [
+        "Bir yillik o'tlar",
+        "Ko'p yillik o'tlar",
+        "Yarimbutalar",
+        "Butalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Ikki yillik o'tlarning birinchi yildagi rivojlanish jarayoni qanday kechadi?",
+      "options": [
+        "Urug'dan ko'karib chiqib darhol gullaydi va meva tugib quriydi",
+        "Urug'dan ko'karib chiqib, vegetativ organlar hosil qiladi, ildizi va barglarida oziq moddalar to'playdi",
+        "Faqat bitta yo'g'on yog'ochlashgan poya hosil qilib qishlaydi",
+        "Tuproq ostida faqat urug' holida yotib, novda chiqarmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Ikki yillik o'tlar ikkinchi yili qanday biologik bosqichni o'taydi?",
+      "options": [
+        "Faqat ildizini yo'g'onlashtiradi",
+        "Gullab meva tugadi",
+        "Yarimbutaga aylanadi",
+        "Barglarini to'kib, daraxt poyasini hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Matnga binoan ikki yillik o'tlarga misol bo'ladigan o'simliklar qatorini toping.",
+      "options": [
+        "Lavlagi, sabzi, sholg'om, sigirquyruq",
+        "Beda, ajriq, g'umay, yalpiz",
+        "Bug'doy, arpa, zig'ir, no'xat",
+        "Bodomcha, uchqat, anor, limon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Ikki yillik o'simliklar ozuqa moddalarni asosan o'zlarining qaysi organlarida to'playdi?",
+      "options": [
+        "Gulbarglarida va changdonida",
+        "Ildizi va barglarida",
+        "Poyaning yog'och qismida",
+        "Urug' qobig'ida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Sigirquyruq o'simligining hayotiy shakli qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Ko'p yillik o't",
+        "Ikki yillik o't",
+        "Bir yillik o't",
+        "Yarimbuta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Bir yillik o'tlarning hayot sikli qanday ta'riflanadi?",
+      "options": [
+        "Bir necha o'n yillar davomida faqat vegetativ ko'payadi",
+        "Bir yil ichida urug'dan unib chiqadi, o'sadi, gullaydi va meva tugib, o'z hayotini tugatadi",
+        "Birinchi yili o'sadi, keyingi uch yil tinimsiz meva beradi",
+        "Qishda poyasining yarmi muzlab, bahorda yana o'sadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Qishloq xo'jaligida yetishtiriladigan madaniy o'simliklarning juda ko'pchiligi qaysi hayotiy shaklga mansub?",
+      "options": [
+        "Daraxtlar",
+        "Butalar",
+        "Yarimbutalar",
+        "Bir yillik o'simliklar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Quyida keltirilgan madaniy bir yillik o'simliklar to'g'ri berilgan variantni tanlang.",
+      "options": [
+        "G'o'za, bug'doy, arpa, zig'ir, yeryong'oq, mosh, no'xat, sholi, pomidor, qalampir, qovun, tarvuz, rayhon",
+        "Irg'ay, singirtak, na'matak, zirk, bodomcha",
+        "Olma, o'rik, yong'oq, shaftoli, qarag'ay",
+        "Beda, ajriq, g'umay, sachratqi, piskom piyozi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Bir yillik o'tlar orasida yer yuzidan atigi 5–20 sm ko'tarilib o'sadigan juda mayda o'simliklar qaysilar?",
+      "options": [
+        "Kanakunjut va makkajo'xori",
+        "Momaqaltiroq va qo'ytikan",
+        "Kanop va sholi",
+        "G'o'za va zig'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Bir yillik o'tlar orasida bo'yi 1 metrdan ham oshadigan baland o'simliklar qaysilar?",
+      "options": [
+        "Momaqaltiroq, qo'ytikan",
+        "Kanakunjut, makkajo'xori, kanop",
+        "Arpa, bug'doy, rayhon",
+        "Yeryong'oq, no'xat, mosh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Quyidagi o'simliklar va ularning hayotiy shakllarini to'g'ri moslashtiring:\n1) Sadaqayrag'och; 2) Na'matak; 3) Teresken; 4) Shirinmiya\na) Yarimbuta; b) Ko'p yillik o't; c) Daraxt; d) Buta",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "O'simliklar va ularning hayotiy shakllari berilgan to'g'ri moslikni toping:\n1) Sholg'om; 2) Kanakunjut; 3) Zirk; 4) Shaftoli\na) Buta; b) Bir yillik o't; c) Ikki yillik o't; d) Daraxt",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Cho'l yarimbutalari bilan bog'liq xususiyatlar keltirilgan to'g'ri mulohazani aniqlang.",
+      "options": [
+        "Qishda ularning faqat yerosti organlari sovuq urib nobud bo'ladi",
+        "Poyasining pastki qismi yog'ochlashgan bo'lib, yuqori yashil qismini qishda sovuq urib ketadi",
+        "Ular birinchi yili urug' hosil qilib, ikkinchi yili butkul quriydi",
+        "Ularning tanasi bitta yo'g'on yog'och tanadan iborat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Quyidagi butalardan qaysilari nordon yoki shifobaxsh mevalar beruvchi madaniy/yovvoyi turlar sifatida matnda berilgan?",
+      "options": [
+        "Anor, limon, qoraqat, zirk, na'matak",
+        "Izen, sarsazan, shuvoq",
+        "Sadaqayrag'och, terak, qarag'ay",
+        "Sigirquyruq, lavlagi, sabzi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Quyidagi o'tlarning qaysilari bir xil hayotiy shaklga (ko'p yillik o'tlarga) mansub?\n1) Kovrak; 2) Gulsafsar; 3) Sigirquyruq; 4) Momaqaltiroq; 5) Sachratqi; 6) Beda",
+      "options": [
+        "1, 2, 5, 6",
+        "3, 4, 5, 6",
+        "1, 3, 4, 5",
+        "2, 3, 4, 6"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Quyidagi juftliklardan qaysi birida ikkala o'simlik ham bir yillik bo'yi 1 metrdan oshadigan o'simlik hisoblanadi?",
+      "options": [
+        "Makkajo'xori va kanakunjut",
+        "Momaqaltiroq va bug'doy",
+        "Lavlagi va sigirquyruq",
+        "Qo'ytikan va zig'ir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "O'simliklarning hayotiy shakllari va ularning qishlash usullarini moslashtiring:\n1) Ko'p yillik o'tlar\n2) Yarimbutalar\n3) Daraxt va butalar\na) Poya va shoxlari yer ustida to'liq yog'ochlashgan holda qishlaydi\nb) Yerusti qismi quriydi, o'sish kurtaklari tuproq ostida qishlaydi\nc) Pastki yog'ochlashgan qismi qishlaydi, yuqori yashil qismini sovuq uradi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Matnda uchraydigan dekorativ (manzarali) butalar qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Ligustrum va nastarin",
+        "Sarsazan va teresken",
+        "Ajriq va qamish",
+        "Kanakunjut va kanop"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "O'simlik hayotiy shakllari bo'yicha berilgan xato fikrni toping.",
+      "options": [
+        "Daraxtlarning bitta yo'g'on yog'ochlashgan tanasi bo'ladi",
+        "Butalarda bir nechta yog'ochlashgan poya-tana bo'ladi",
+        "Ikki yillik o'tlar birinchi yilning o'zidayoq gullab meva tugib hayotini tugatadi",
+        "Yarimbutalarning yuqori yashil qismini qishda sovuq urib ketadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Quyidagi o'simliklardan qaysilari dukkakli don yoki texnik bir yillik madaniy ekin hisoblanadi?",
+      "options": [
+        "G'o'za, zig'ir, mosh, no'xat, yeryong'oq",
+        "Piskom piyozi, andiz, yalpiz",
+        "Irg'ay, singirtak, na'matak",
+        "Sabzi, sholg'om, lavlagi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Gulli o'simliklarning hayotiy shakllari xilma-xilligi ularning qanday muhit xususiyatiga bog'liq ekanligini ko'rsatadi?",
+      "options": [
+        "O'simliklarning tashqi muhit sharoitlariga turlicha moslashuvini (ekologik moslanuvchanligini)",
+        "O'simliklarning hujayra yadrosi bo'lmasligini",
+        "Barcha o'simliklarning faqat suv ostida yashashini",
+        "O'simliklarning faqat generativ organlardan iborat ekanligini"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
