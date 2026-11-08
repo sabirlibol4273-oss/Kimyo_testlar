@@ -2,5 +2,435 @@
   "topicId": 18,
   "title": "6-sinf Botanika 18-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Barglar nimadan tuzilgan?",
+      "options": [
+        "Faqat suvdan",
+        "Faqat naylardan",
+        "Hujayralardan",
+        "Faqat tolalardan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Bargning ichki tuzilishini ko'rish uchun preparat qanday tayyorlanadi?",
+      "options": [
+        "Yangi bargdan ko'ndalangiga yupqa kesib olinadi",
+        "Barg qaynatiladi",
+        "Barg uzunasiga yirtiladi",
+        "Barg butunligicha quritiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Barg kesmasi buyum oynasida nimaga joylanadi?",
+      "options": [
+        "Yodli suvga",
+        "Bir tomchi suvga",
+        "Moyga",
+        "Spirtga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Barg preparatini tayyorlash bosqichlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Ko'ndalang kesish → suv tomchisiga qo'yish → qoplagich oyna yopish → mikroskopda ko'rish",
+        "Qoplagich oyna yopish → kesish → suvga qo'yish → mikroskopda ko'rish",
+        "Mikroskopda ko'rish → kesish → suvga qo'yish → oyna yopish",
+        "Suvga qo'yish → mikroskopda ko'rish → kesish → oyna yopish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Barg yaprog'ining ustki va ostki tomoni nima bilan qoplangan?",
+      "options": [
+        "Barg eti bilan",
+        "Tolalar bilan",
+        "Po'kak bilan",
+        "Po'st bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Barg po'sti hujayralari qanday joylashgan?",
+      "options": [
+        "Halqa shaklida",
+        "Siyrak, oralig'i keng",
+        "Zanjir shaklida",
+        "Bir-biriga zich yondashgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Barg po'stining deyarli hamma hujayralari qanday bo'ladi?",
+      "options": [
+        "Yashil",
+        "Shaffof",
+        "O'lik",
+        "Qo'ng'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Yorug'lik barg ichiga nima orqali o'tadi?",
+      "options": [
+        "Po'stning shaffof hujayralari orqali",
+        "Elaksimon naylar orqali",
+        "O'tkazuvchi naylar orqali",
+        "Tolalar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Barg po'sti bargning ichki qatlamlarini nimadan saqlaydi?",
+      "options": [
+        "Yorug'likdan",
+        "Kisloroddan",
+        "Suvdan",
+        "Shikastlanishdan va qurib qolishdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Barg po'stidagi loviyasimon juft hujayralar qanday ataladi?",
+      "options": [
+        "Barg eti hujayralari",
+        "Tolalar",
+        "Barg og'izchalari hujayralari",
+        "Elaksimon naychalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Og'izcha hujayralari qanday shaklda bo'ladi?",
+      "options": [
+        "Ustunsimon, cho'ziq",
+        "Zanjirsimon",
+        "Loviyasimon, juft",
+        "Yumaloq, yakka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Og'izcha hujayralarida sitoplazma va yadrodan tashqari yana nima bo'ladi?",
+      "options": [
+        "Tolalar",
+        "Yashil tusdagi plastidalar",
+        "Qalin devorli naylar",
+        "Suberin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Barg og'izchalari bargning qaysi tomonida bo'ladi?",
+      "options": [
+        "Faqat ostki tomonida",
+        "Faqat barg bandida",
+        "Faqat ostki emas, ustki tomonida ham",
+        "Faqat ustki tomonida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Po'st hujayralari va og'izcha hujayralarining farqi qaysi javobda to'g'ri?",
+      "options": [
+        "Po'st hujayralari shaffof, og'izcha hujayralarida yashil plastidalar bor",
+        "Ikkalasida ham plastida yo'q",
+        "Ikkalasi ham o'lik",
+        "Po'st hujayralari yashil, og'izcha hujayralari shaffof"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Barg eti hujayralari qayerda joylashgan?",
+      "options": [
+        "Ustki va ostki po'st oralig'ida",
+        "Faqat tomirlar ichida",
+        "Po'st ustida",
+        "Barg bandida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Barg eti hujayralari nimalardan tashkil topgan?",
+      "options": [
+        "Qalin devor va bo'shliq",
+        "Faqat qobiq va suv",
+        "Qobiq, sitoplazma, yadro, xlorofill donachalari",
+        "Faqat tolalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Barg eti hujayralari necha qavat bo'lib joylashgan?",
+      "options": [
+        "Faqat bir qavat",
+        "Bir necha qavat",
+        "Doimo ikki qavat",
+        "Qavat hosil qilmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Ustki po'st tagidagi barg eti qavati qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Qalin devorli o'lik hujayralardan",
+        "Ovalsimon va yumaloq hujayralardan",
+        "Loviyasimon juft hujayralardan",
+        "Ustunchalarga o'xshash cho'ziq hujayralardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Ustunsimon hujayralar ostida qanday hujayralar joylashgan?",
+      "options": [
+        "Ustunsimon cho'ziq hujayralar",
+        "Loviyasimon hujayralar",
+        "Ovalsimon va yumaloq shakldagi hujayralar",
+        "Shaffof po'st hujayralari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Barg eti hujayralarida qanday donachalar bor?",
+      "options": [
+        "Suberin donachalari",
+        "Xlorofill donachalari",
+        "Kraxmal donachalari",
+        "Tuz donachalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Barg qavatlarini ustdan pastga tartiblang.",
+      "options": [
+        "Ustki po'st → yumaloq hujayralar → ustunsimon hujayralar → ostki po'st",
+        "Ustki po'st → ustunsimon hujayralar → yumaloq hujayralar → ostki po'st",
+        "Ustunsimon hujayralar → ustki po'st → ostki po'st → yumaloq hujayralar",
+        "Ostki po'st → ustunsimon hujayralar → ustki po'st → yumaloq hujayralar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Bargning ko'ndalang kesmasida yana nimani ko'rish mumkin?",
+      "options": [
+        "Ildiz tukchalarini",
+        "Tomirlarni",
+        "O'zakni",
+        "Kambiyni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Tomirlardagi o'tkazuvchi naylar qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Loviyasimon hujayralardan",
+        "Qalin devorli o'lik hujayralardan",
+        "Shaffof po'st hujayralaridan",
+        "Yupqa devorli tirik hujayralardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Tomirlardagi cho'ziq, zanjir shaklida ulangan tirik hujayralar nimani hosil qiladi?",
+      "options": [
+        "O'tkazuvchi naylarni",
+        "Og'izchalarni",
+        "Tolalarni",
+        "Elaksimon naychalarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Elaksimon naychalar hujayralari bir-biri bilan qanday tutashgan?",
+      "options": [
+        "Qalin devor bilan ajralgan",
+        "Umuman tutashmagan",
+        "Faqat bitta teshik orqali",
+        "To'rga o'xshab, ko'p sonli teshikchalar orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Elaksimon naychalar qanday hujayralardan iborat?",
+      "options": [
+        "Shaffof po'st hujayralaridan",
+        "O'lik hujayralardan",
+        "Tolalardan",
+        "Tirik hujayralardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Tomirlardagi po'sti qalin, pishiq, juda uzun hujayralar nima deyiladi?",
+      "options": [
+        "Barg eti hujayralari",
+        "Elaksimon naychalar",
+        "Og'izchalar",
+        "Tolalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Bargdagi tolalarning vazifasi nima?",
+      "options": [
+        "Bargga mustahkamlik beradi",
+        "Yorug'lik o'tkazadi",
+        "Suv bug'latadi",
+        "Fotosintez qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Bargdagi tomirlarda nima harakatlanadi?",
+      "options": [
+        "Suv va unda erigan oziq moddalar",
+        "Faqat havo",
+        "Faqat yorug'lik",
+        "Xlorofill donachalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Barg tomirining nay tolali boylamlarini nimalar birgalikda hosil qiladi?",
+      "options": [
+        "Faqat tolalar",
+        "Po'st va og'izchalar",
+        "Ustunsimon va yumaloq hujayralar",
+        "O'tkazuvchi naylar, elaksimon naylar va tolalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Tomirlar barg etining qaysi qismiga kirib boradi?",
+      "options": [
+        "Faqat ustki qismiga",
+        "Hamma qismiga",
+        "Faqat ostki po'stga",
+        "Faqat barg bandiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Moslang: 1) o'tkazuvchi naylar, 2) elaksimon naychalar, 3) tolalar; a) tirik, teshikchalar orqali tutashgan, b) qalin devorli o'lik hujayralar, c) bargga mustahkamlik beradi.",
+      "options": [
+        "1b, 2a, 3c",
+        "1a, 2b, 3c",
+        "1b, 2c, 3a",
+        "1c, 2a, 3b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Moslang: 1) po'st, 2) og'izcha hujayralari, 3) barg eti; a) xlorofill donachalari bor, bir necha qavat, b) shaffof, ichki qatlamlarni himoya qiladi, c) loviyasimon, juft.",
+      "options": [
+        "1b, 2a, 3c",
+        "1b, 2c, 3a",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Moslang: 1) ustki po'st tagidagi qavat, 2) uning ostidagi qavat; a) ovalsimon va yumaloq hujayralar, b) ustunsimon cho'ziq hujayralar.",
+      "options": [
+        "1a, 2b",
+        "1b, 2a",
+        "1b, 2b",
+        "1a, 2a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Ortiqchasini toping (nay tolali boylam tarkibi): o'tkazuvchi naylar, elaksimon naylar, tolalar, og'izchalar.",
+      "options": [
+        "Og'izchalar",
+        "O'tkazuvchi naylar",
+        "Tolalar",
+        "Elaksimon naylar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Bargdagi tirik va o'lik tuzilmalar to'g'ri ajratilgan javobni toping.",
+      "options": [
+        "Ikkalasi ham o'lik",
+        "O'tkazuvchi naylar – tirik; elaksimon naychalar – o'lik",
+        "O'tkazuvchi naylar – o'lik; elaksimon naychalar – tirik",
+        "Ikkalasi ham tirik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "To'g'ri fikrlarni toping: 1) Barg po'sti hujayralari zich joylashgan; 2) Og'izchalar ustki tomonda ham bo'ladi; 3) Elaksimon naychalar o'lik hujayralardan iborat; 4) Tolalar bargga mustahkamlik beradi.",
+      "options": [
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Noto'g'ri fikrlarni toping: 1) Po'st bargni qurib qolishdan saqlaydi; 2) Og'izchalar faqat ostki tomonda bo'ladi; 3) Barg eti hujayralarida xlorofill donachalari bor; 4) Ustki po'st tagida yumaloq hujayralar joylashgan.",
+      "options": [
+        "1, 3",
+        "2, 4",
+        "3, 4",
+        "1, 2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Yorug'lik po'stning shaffof hujayralari orqali o'tadi",
+        "Og'izcha hujayralarida yashil plastidalar bor",
+        "Barg po'sti hujayralari yashil rangda bo'ladi",
+        "Tomirlar barg etining hamma qismiga kiradi"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
