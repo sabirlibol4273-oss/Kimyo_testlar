@@ -5,6 +5,12 @@
       "title": "1-Mavzu",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 2,
+      "title": "2-Mavzu",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
