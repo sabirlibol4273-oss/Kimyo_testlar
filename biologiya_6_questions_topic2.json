@@ -2,5 +2,281 @@
   "topicId": 2,
   "title": "2-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yer yuzida gulli o'simliklarning qancha turi ma'lum?",
+      "options": [
+        "500 mingdan ortiq",
+        "250 mingdan ortiq",
+        "4 500 tur",
+        "100 mingga yaqin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Gulli o'simliklarning barchasi uchun xos bo'lgan umumiy biologik xususiyat to'g'ri ko'rsatilgan javobni toping.",
+      "options": [
+        "Faqat suv havzalarida o'sishi va spora hosil qilishi",
+        "O'z hayoti davomida gullab meva tugishi",
+        "Tanasida 200 litrgacha suv saqlashi",
+        "Har doim 6000 yilgacha yashashi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Gulli o'simliklarning to'liq organlari majmui qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Ildiz, poya, barg, gul, meva (va urug')",
+        "Faqat ildiz, poya, barg",
+        "Faqat gul, meva, urug'",
+        "Ildizpoya, tugunak, gulkosa, gulbarg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Quyidagi dunyo o'simliklari ajoyibotlarini ularning xususiyatlari bilan to'g'ri moslashtiring:\n1) Seyshel palmasi yong'og'i; 2) Meksika kaktusi; 3) Ajdar daraxti; 4) Rafleziya\na) Tanasida 200 l gacha suv saqlaydi\nb) O'n yillar mobaynida pishadi, og'irligi 25 kg ga yetadi\nc) Sumatra orolida o'sadi, diametri 1 m ga yetadi\nd) Kanar orollarida 6000 yilgacha umr ko'radi",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-c, 2-a, 3-d, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Kanar orollarida 6000 yilgacha umr ko'radigan gigant o'simlik qaysi?",
+      "options": [
+        "Seyshel palmasi",
+        "Ajdar daraxti",
+        "Rafleziya",
+        "Saksovul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Gulli o'simliklarning organlari kelib chiqishi va funksiyasiga ko'ra qanday guruhlarga bo'linadi?",
+      "options": [
+        "Vegetativ va generativ organlar",
+        "Boshlang'ich va oraliq organlar",
+        "Yerusti va suvosti organlar",
+        "Hujayraviy va to'qimali organlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Organlar guruhlari va ularning lotincha ma'nolarini to'g'ri moslashtiring:\n1) Vegetativ organlar («vegetatio»)\n2) Generativ organlar («generate»)\na) Yaratmoq, tuzmoq\nb) O'sish, rivojlanish",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-a",
+        "1-b, 2-b",
+        "1-a, 2-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Quyidagi qatorlardan faqat generativ organlar keltirilgan javobni toping.",
+      "options": [
+        "Ildiz, poya, barg",
+        "Gul, meva, urug'",
+        "Ildiz, gul, meva",
+        "Poya, meva, urug'"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "O'simlikning vegetativ organlari to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Gul, urug'",
+        "Ildiz, poya (va barg)",
+        "Meva, gul",
+        "Urug', poya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "O'lkamiz tabiatidagi o'simliklarni ularning o'ziga xos ekologik xususiyatlari bilan moslashtiring:\n1) Saksovul va qandim; 2) Nilufar; 3) Suv qaroqchisi\na) Poyasi suv tagida, guli suv yuzasida ochiladi\nb) Jazirama issiqqa bardosh berib, qum uyumlarida o'sadi, barglari arang ko'rinadi\nc) Hasharotlar bilan oziqlanadi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Hasharotlar bilan oziqlanadigan o'simlik matnda qaysi nom bilan berilgan?",
+      "options": [
+        "Nilufar",
+        "Suv qaroqchisi",
+        "Safsan",
+        "Qandim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "O'lkamizda uchraydigan noyob mevali o'simliklar qaysi javobda keltirilgan?",
+      "options": [
+        "Chakanda, na'matak, suvqalampir",
+        "Pista, bodom, safsanlar",
+        "Qizil lola, ko'zagul, sallagul",
+        "Saksovul, qandim, yantoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Matnda keltirilgan tabobatda ko'p ishlatiladigan shifobaxsh dorivor o'simliklar guruhini aniqlang.",
+      "options": [
+        "Chakanda, isiriq, na'matak, suvqalampir",
+        "Bodom, pista, safsan, javdar",
+        "Chinnigul, sallagul, jumagul, lola",
+        "Qandim, saksovul, ajdar daraxti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Matnga ko'ra, jumagul o'simligining ikkinchi xalqona nomi qanday ataladi?",
+      "options": [
+        "Ko'zagul",
+        "Sallagul",
+        "Xolmon",
+        "Chinnigul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "O'lkamiz tabiat ko'rki bo'lgan manzarali gullar to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Qizil lola, ko'zagul, sallagul, chinnigul, jumagul (xolmon)",
+        "Isiriq, chakanda, na'matak, suvqalampir",
+        "Saksovul, qandim, qamish, shuvoq",
+        "Nilufar, suv qaroqchisi, ajdar daraxti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Gulli o'simliklarning Yer yuzida nihoyatda xilma-xil bo'lishining bosh omili nima bilan bog'liq?",
+      "options": [
+        "Ekologik sharoitning o'zgarishi va yangi muhitga million yillar davomida moslashish bilan",
+        "Faqat inson tomonidan madaniylashtirish va yangi navlar yaratish bilan",
+        "O'simliklarning o'z-o'zidan generativ organlarini yo'qotishi bilan",
+        "Ularning faqat suv havzalarida to'planishi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "O'simliklarda tashqi muhitga moslashish jarayonining to'g'ri ketma-ketligini aniqlang:\n1) Belgilar vaqt o'tishi bilan mustahkamlanadi (irsiylashadi)\n2) Sharoit o'zgarishi natijasida yangi muhitga xos belgilar paydo bo'ladi\n3) Maxsus sharoitga moslashgan yangi turlar, turkumlar, oilalar yuzaga keladi\n4) Moslasha olmagan o'simlik turlari yo'qolib ketadi",
+      "options": [
+        "2 -> 1 -> 3 (moslashmaganlari 4)",
+        "1 -> 2 -> 3 -> 4",
+        "3 -> 2 -> 1 -> 4",
+        "4 -> 3 -> 2 -> 1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Sumatra orolida o'suvchi diametri 1 metrga yetadigan ulkan gul qaysi?",
+      "options": [
+        "Seyshel palmasi",
+        "Rafleziya",
+        "Nilufar",
+        "Ko'zagul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Meksika kaktusining qurg'oqchil jazirama iqlimga moslashishi qanday ajoyib xususiyatida namoyon bo'ladi?",
+      "options": [
+        "Tanasida 200 l gacha suv saqlay olishida",
+        "Barglarining 1 metr diametrga yetishida",
+        "O'n yillar davomida meva tugishida",
+        "Hasharotlarni tutib oziqlanishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Seyshel palmasining yong'og'i qancha vaqtda pishib yetiladi va vazni qanchaga yetadi?",
+      "options": [
+        "1 yilda pishadi, og'irligi 5 kg",
+        "O'n yillar mobaynida pishib yetiladi, og'irligi 25 kg ga yetadi",
+        "6000 yil yashaydi, og'irligi 200 kg",
+        "Bir necha oyda pishadi, og'irligi 50 kg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Vegetativ organlarning asosiy biologik roli nimalardan iborat?",
+      "options": [
+        "Faqat urug' hosil qilish va jinsiy ko'payish",
+        "O'simlikning o'sishi, rivojlanishi va oziqlanishini ta'minlash",
+        "Hasharotlarni o'ziga jalb qilib changlanish",
+        "Faqat meva tugish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Generativ organlar tizimiga kiruvchi qismlar qanday vazifani bajarishga ixtisoslashgan?",
+      "options": [
+        "Tuproqdan suv va tuzlarni so'rib olish",
+        "Yaratmoq, yangi avlodni paydo qilish (ko'payish, meva va urug' hosil qilish)",
+        "Fotosintez orqali organik moddalar sintezlash",
+        "Tana mustahkamligini ta'minlab poya hosil qilish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Tashqi muhit o'zgarishlariga moslasha olmagan o'simliklarning taqdiri matnga binoan nima bo'lgan?",
+      "options": [
+        "Boshqa sayyoralarga o'tib ketgan",
+        "Yo'qolib (qirilib) ketgan",
+        "Darhol parazit shaklga aylangan",
+        "Doimiy ravishda suv ostiga ko'chgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Qum uyumlarida o'suvchi saksovul va qandim o'simliklarining qurg'oqchilik va jaziramaga moslashish belgisi nima?",
+      "options": [
+        "Barglarining arang ko'rinishi (suv bug'lanishini kamaytirish uchun reduksiyalanganligi)",
+        "Barglarining keng plastinka shaklida bo'lishi",
+        "Gullarining suv ostida ochilishi",
+        "Tanasining 6000 yil chirimasligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Matnda tilga olingan o'simliklarni ularning mansub guruhlari bilan moslashtiring:\n1) Dorivor o'simliklar; 2) Tabiat ko'rki (manzarali); 3) Noyob mevali\na) Chinnigul, xolmon, sallagul\nb) Safsan, pista, bodom\nc) Isiriq, chakanda, na'matak",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
