@@ -2,5 +2,281 @@
   "topicId": 1,
   "title": "1-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "«Botanika» atamasi qaysi tildan olingan va qanday ma'nolarni anglatadi?",
+      "options": [
+        "Lotincha — hayot, tiriklik, o'simlik",
+        "Yunoncha — ko'kat, o't, o'simlik",
+        "Arabcha — tabobat, shifo, ko'kat",
+        "Forscha — gulzor, daraxt, o't"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Yer yuzida aniqlangan o'simlik turlari soni hamda O'zbekistonda tabiiy holda o'sadigan yuksak o'simliklar turlari soni to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Yer yuzida 500 000 dan ortiq; O'zbekistonda 4 500 tur",
+        "Yer yuzida 450 000 dan ortiq; O'zbekistonda 5 000 tur",
+        "Yer yuzida 1 000 000 dan ortiq; O'zbekistonda 4 500 tur",
+        "Yer yuzida 500 000 dan ortiq; O'zbekistonda 10 000 tur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Quyidagi botanika bo'limlari va ularning o'rganish obyektlarini to'g'ri moslashtiring:\n1) Morfologiya; 2) Anatomiya; 3) Fiziologiya; 4) Sistematika\na) O'simliklarning ichki tuzilishi\nb) O'simlik organlarining tashqi tuzilishi\nc) O'simliklarni kelib chiqishi va belgilari asosida guruhlarga birlashtirish\nd) O'simliklardagi hayotiy jarayonlar (fotosintez, suv bug'latish va h.k.)",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-a, 3-b, 4-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Botanika fanining maxsus bo'limlarini o'rganish obyekti bilan moslashtiring:\n1) Algologiya; 2) Briologiya; 3) Lixenologiya; 4) Paleobotanika\na) Lishayniklar; b) Qazilma o'simliklar; c) Suvo'tlar; d) Yo'sinlar",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-a, 2-b, 3-c, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "O'simliklarning ko'payish a'zolari tuzilishi va ko'payish bilan bog'liq jarayonlarini qaysi bo'lim o'rganadi?",
+      "options": [
+        "O'simliklar ekologiyasi",
+        "Geobotanika",
+        "O'simliklar embriologiyasi",
+        "O'simliklar morfologiyasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Geobotanika va O'simliklar ekologiyasi fanlarining farqini aniqlang:\n1) O'simliklarning Yer sharida tarqalish qonuniyatlarini o'rganadi\n2) O'simliklarning tashqi muhit bilan munosabatlari va muhit omillarining ta'sirini o'rganadi",
+      "options": [
+        "1 - O'simliklar ekologiyasi; 2 - Geobotanika",
+        "1 - Geobotanika; 2 - O'simliklar ekologiyasi",
+        "1 - Paleobotanika; 2 - Embriologiya",
+        "1 - Sistematika; 2 - Geobotanika"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Qadimgi yunon olimi Teofrastning botanika fani rivojidagi asosiy xizmati nimalardan iborat?",
+      "options": [
+        "O'simliklar hujayraviy tuzilishini mikroskop ostida birinchi bo'lib kashf etgan",
+        "O'simliklarning qishloq xo'jaligi va tibbiyotdagi amaliy ahamiyati haqidagi bilimlarni va o'simliklar dunyosi ma'lumotlarini yig'ib, tizimga keltirgan",
+        "O'zbekiston hududidagi dorivor o'simliklarning to'liq katalogini tuzgan",
+        "O'simliklarda fotosintez va nafas olish jarayonlari kimyoviy tenglamasini yaratgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Allomalar va ularning dorivor o'simliklar tavsiflangan asarlarini to'g'ri juftlang:\n1) Abu Rayhon Beruniy; 2) Abu Ali ibn Sino\na) «Kitob al-qonun fit-tibb» va «Kitob ush-shifo»\nb) «Kitob as-Saydana fit-tibb»",
+      "options": [
+        "1-a; 2-b",
+        "1-b; 2-a",
+        "1-a, b; 2-asari yo'q",
+        "1-b; 2-faqat «Kitob ush-shifo»"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "O'zbekistonda botanika fani rivojiga ulkan hissa qo'shgan olimlar va ularning yashagan yillari berilgan to'g'ri moslikni toping:\n1) Zokirov Qodir Zokirovich; 2) Muzaffarov Ahror Muzaffarovich; 3) Rusanov Fyodor Nikolayevich\na) 1909–1987; b) 1895–1979; c) 1908–1992",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Quyidagi olimlardan qaysilari matnda O'zbekistonda botanika fanining rivojlanishiga hissa qo'shgan olimlar sifatida qayd etilgan?\n1) Ye. P. Korovin; 2) A. I. Vvedenskiy; 3) K. Linney; 4) Ch. Darvin; 5) F. N. Rusanov",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 5",
+        "2, 3, 5",
+        "1, 4, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Matnga ko'ra, chorva mollari uchun to'yimli ozuqa hisoblanadigan o'simliklar to'liq ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Shuvoq, yantoq, beda, sebarga, izen, keyreuk, saksovul, javdar",
+        "Beda, bug'doy, paxta, shuvoq, yantoq, makkajo'xori",
+        "Izen, saksovul, qamish, zubturum, boychechak, sebarga",
+        "Yantoq, shuvoq, archa, terak, keyreuk, javdar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "O'simliklarning biosferadagi ahamiyatiga oid mulohazalardan qaysi biri xato?",
+      "options": [
+        "Fotosintez jarayonida organik moddalar hosil qilib, tirik organizmlar uchun oziq manbayi bo'ladi",
+        "Havodagi karbonat angidrid gazini yutib, uni kislorod bilan boyitadi",
+        "Tuproqning unumdorligini oshiradi, yemirilishdan saqlaydi va tuproq hosil bo'lishida ishtirok etadi",
+        "Havodagi kislorodni yutib, tuproqqa sof karbonat angidrid ajratish orqali unumdorlikni pasaytiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Matnda berilgan barcha tirik organizmlarga xos bo'lgan umumiy xususiyatlar to'g'ri sanalgan variantni belgilang.",
+      "options": [
+        "Faqat harakatlanish va sporalar orqali ko'payish",
+        "Hujayralardan tashkil topganlik, oziqlanish, nafas olish, ta'sirlanish, o'sish, rivojlanish, ko'payish",
+        "Fotosintez qilish, cheksiz o'sish, mineral moddalarni sintezlay olmaslik",
+        "Faqat jinsiy yo'l bilan ko'payish va organik moddalarni tayyor holda qabul qilish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "O'simliklar fiziologiyasi fani quyidagi hayotiy jarayonlarning qaysilarini o'rganadi?\n1) Nafas olish; 2) Fotosintez; 3) Mineral moddalarning qabul qilinishi; 4) Suv bug'latish; 5) Tashqi organlar morfologik o'lchami",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 3, 5",
+        "2, 4, 5",
+        "1, 2, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "O'zbekistonda o'simliklarni muhofaza qilish bo'yicha amalga oshirilgan davlat darajasidagi tadbirlarga nimalar kiradi?",
+      "options": [
+        "Yo'qolish xavfi ostidagi turlarni «Qizil kitob»ga kiritish va Tabiatni muhofaza qilish Davlat qo'mitasini tashkil etish",
+        "Barcha yovvoyi o'simliklarni laboratoriyalarda sun'iy ko'paytirish",
+        "O'simliklar o'sadigan barcha tabiiy maydonlarni ekinzorga aylantirish",
+        "Tabiiy o'simlik turlarini butunlay o'rib olib xashak zaxirasini yaratish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Abu Ali ibn Sinoning yashagan yillari to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "973–1048-yillar",
+        "980–1037-yillar",
+        "1908–1992-yillar",
+        "1895–1979-yillar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Abu Rayhon Beruniyning tavallud va vafot etgan yillari to'g'ri ko'rsatilgan qatorni toping.",
+      "options": [
+        "973–1048-yillar",
+        "980–1037-yillar",
+        "1000–1075-yillar",
+        "870–950-yillar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "O'simliklarning inson hayotidagi amaliy ahamiyati bo'yicha berilgan moslikni aniqlang:\n1) Oziq-ovqat mahsulotlari; 2) Dori-darmon; 3) Kiyim-kechak va sanoat xomashyosi\na) Paxta, tolali o'simliklar, qurilish yog'ochlari\nb) Donli ekinlar, mevali daraxtlar va sabzavotlar\nc) Dorivor shifobaxsh giyohlar va o'tlar",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "O'simliklar sistematikasi fanining asosiy vazifasi qaysi javobda to'liq va aniq ifodalangan?",
+      "options": [
+        "O'simliklarning faqat anatomik qatlamlarini mikroskop ostida chizish",
+        "O'simliklarning kelib chiqishi va belgilari asosida ularni alohida guruhlarga birlashtirish (klassifikatsiya qilish)",
+        "O'simliklarning Yer sharida tarqalish zonalari xaritasini chizish",
+        "O'simliklarning faqat qazilma qoldiqlarini o'rganish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Suv muhitida va o'ta qurg'oqchil muhitda yashovchi o'simliklarning tarqalish xususiyati matnga asosan qanday ifodalangan?",
+      "options": [
+        "O'simliklar faqat qora tuproqli va mo'tadil iqlim sharoitidagina yashay oladi",
+        "Jazirama cho'llardan to baland tog' cho'qqilarigacha, shuningdek daryo, ko'l, dengiz va botqoqliklarda turli sharoitda o'sishga uzoq yillar davomida moslashgan",
+        "O'simliklar faqat sun'iy sug'oriladigan kanallar bo'yida va bog'lardagina o'sadi",
+        "Suv muhitida o'simliklar yashay olmaydi, ular faqat quruqlikda tarqalgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Botanika fanining ta'rifiga ko'ra, u o'rganadigan sohalar qatoriga quyidagilardan qaysi biri KIRMAYDI?",
+      "options": [
+        "O'simliklarning tashqi va ichki tuzilishi, tashqi muhit bilan munosabati",
+        "Fotosintez, nafas olish, suv bug'latish va rivojlanish jarayonlari",
+        "O'simliklardan oqilona foydalanish va ularni muhofaza qilish usullari",
+        "Hayvonlarning xatti-harakatlari va ularning o'zaro ijtimoiy munosabatlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Muallif va asar nomlari to'g'ri ko'rsatilgan javobni tanlang:\n1) Beruniy — «Kitob al-qonun fit-tibb»\n2) Ibn Sino — «Kitob as-Saydana fit-tibb»\n3) Ibn Sino — «Kitob ush-shifo»\n4) Beruniy — «Kitob as-Saydana fit-tibb»",
+      "options": [
+        "1 va 2 to'g'ri",
+        "2 va 4 to'g'ri",
+        "3 va 4 to'g'ri",
+        "1 va 3 to'g'ri"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "O'simliklarning tuproq bilan bog'liq ahamiyati qaysi javobda eng to'g'ri berilgan?",
+      "options": [
+        "Tuproqdagi barcha chirindilarni parchalab, uning qatlamini yuvilib ketishiga olib keladi",
+        "Tuproq unumdorligini oshiradi, uni yemirilishdan (eroziyadan) saqlaydi hamda tuproq hosil bo'lish jarayonida qatnashadi",
+        "Tuproqni quritib, uning sho'rlanish darajasini keskin oshiradi",
+        "Tuproq tarkibidagi barcha mineral moddalarni butkul yo'qotadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "O'simliklar ekologiyasi o'rganadigan asosiy qonuniyat nima?",
+      "options": [
+        "O'simliklarning tashqi muhit bilan bo'lgan munosabatlaridagi qonuniyatlar va tashqi muhit omillarining o'simlikka ta'siri",
+        "Faqat o'simlik hujayrasi organoidlarining bo'linishi",
+        "O'simliklarning faqat qazilma qoldiqlarining yoshini aniqlash",
+        "Qishloq xo'jalik mahsulotlarining bozor iqtisodiyotidagi bahosi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "O'zbekiston florasini o'rgangan quyidagi olimlardan qaysi birining vafot yili 1987-yil hisoblanadi?",
+      "options": [
+        "Zokirov Qodir Zokirovich",
+        "Muzaffarov Ahror Muzaffarovich",
+        "Rusanov Fyodor Nikolayevich",
+        "Korovin Yevgeniy Petrovich"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
