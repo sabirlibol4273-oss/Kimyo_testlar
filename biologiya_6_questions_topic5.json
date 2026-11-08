@@ -2,5 +2,270 @@
   "topicId": 5,
   "title": "5-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tirik hujayralar ichidagi sitoplazma harakatini qaysi o'simlik bargida kuzatish mumkin?",
+      "options": [
+        "Piyoz",
+        "Elodeya",
+        "Chinor",
+        "Yong'oq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Nega elodeya bargini mikroskopda butunligicha ko'rish mumkin?",
+      "options": [
+        "Bargi qalin bo'lgani uchun",
+        "Bargi shaffof bo'lgani uchun",
+        "Bargi yashil bo'lgani uchun",
+        "Bargi katta bo'lgani uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Elodeya hujayralarida nimaning uzluksiz harakati aniq ko'rinadi?",
+      "options": [
+        "Yadroning",
+        "Sitoplazmaning",
+        "Vakuolning",
+        "Qobiqning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Bir hujayradagi oziq moddalar va kislorod ikkinchi hujayraga nima orqali o'tadi?",
+      "options": [
+        "Vakuol orqali",
+        "Yadro orqali",
+        "Qobiqdagi teshikchalar orqali",
+        "Plastidalar orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Sellofan xaltachadagi xamir tajribasida xaltacha nima vazifasini o'taydi?",
+      "options": [
+        "Yadro",
+        "Sitoplazma",
+        "Hujayra qobig'i",
+        "Vakuol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Yodli suvga tushirilgan xamirli xaltacha tajribasida xamir qanday rangga kiradi?",
+      "options": [
+        "Qizil",
+        "Ko'kish",
+        "Sariq",
+        "Yashil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Yodli suv tajribasi nimani ko'rsatadi?",
+      "options": [
+        "Hujayra bo'linishini",
+        "Hujayralar qobig'i orqali moddalar o'tishini",
+        "Fotosintez jarayonini",
+        "Hujayra o'lishini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "O'simlikning har bir tirik hujayrasi qanday jarayonlarni amalga oshiradi?",
+      "options": [
+        "Faqat o'sadi",
+        "Nafas oladi va oziqlanadi",
+        "Faqat bo'linadi",
+        "Faqat rang beradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Hujayralarda nafas olish va oziqlanish jarayoni qanday sharoitda amalga oshadi?",
+      "options": [
+        "Faqat qorong'ida",
+        "Quyosh nuri, suv va kislorod bo'lganda",
+        "Faqat qishda",
+        "Suvsiz holatda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Tuproqdan hujayralar ichiga nima kiradi?",
+      "options": [
+        "Faqat havo",
+        "Suv va unda erigan moddalar",
+        "Faqat kislorod",
+        "Plastidalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Hujayra qobig'i va sitoplazma moddalarni qanday o'tkazadi?",
+      "options": [
+        "Hamma moddani o'tkazadi",
+        "Hech qanday moddani o'tkazmaydi",
+        "Hamma moddani ham o'tkazavermaydi",
+        "Faqat havoni o'tkazadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Hujayralarga xos muhim biologik xususiyatlardan biri nima?",
+      "options": [
+        "Rang berishi",
+        "O'sishi va bo'linishi",
+        "Harakatlanishi",
+        "Nobud bo'lishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Yosh hujayralar qanday bo'ladi?",
+      "options": [
+        "Juda katta",
+        "Ancha kichik",
+        "Rangsiz",
+        "Nobud bo'lgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Hujayra qobig'i yoshiga qarab qanday o'zgaradi?",
+      "options": [
+        "Yupqalashadi",
+        "Qalinlashadi",
+        "Yo'qoladi",
+        "Ranglanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Qari hujayralarda sitoplazmaga qaraganda ko'proq joyni nima egallaydi?",
+      "options": [
+        "Yadro",
+        "Plastida",
+        "Vakuol",
+        "Qobiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Qari hujayralarda sitoplazma va yadro yo'qolgach, ularning o'rnini nima egallaydi?",
+      "options": [
+        "Oziq moddalar",
+        "Suv yoki havo",
+        "Plastidalar",
+        "Mineral tuzlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Hujayralar qanday yo'l bilan ko'payadi?",
+      "options": [
+        "Nafas olish yo'li bilan",
+        "Bo'linish yo'li bilan",
+        "Oziqlanish yo'li bilan",
+        "Rang berish yo'li bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Qaysi to'qima hujayralari bo'linadi?",
+      "options": [
+        "Barcha hujayralar",
+        "Faqat hosil qiluvchi to'qima hujayralari",
+        "Faqat qari hujayralar",
+        "Faqat qobiq hujayralari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Hujayralarning bo'linishida qaysi qism katta rol o'ynaydi?",
+      "options": [
+        "Vakuol",
+        "Sitoplazma",
+        "Yadro",
+        "Qobiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Bo'linadigan hujayrada dastlab nima sodir bo'ladi?",
+      "options": [
+        "Vakuol kattalashadi",
+        "Yadro kattalashadi, so'ng ikkiga bo'linadi",
+        "Qobiq yo'qoladi",
+        "Plastida ko'payadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Hujayra bo'linganda ona hujayra nechta yosh hujayraga ajraladi?",
+      "options": [
+        "Teng ikkita",
+        "Uchta",
+        "To'rtta",
+        "Ko'p sonli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Hujayra bo'linishida plastidalar qanday bo'ladi?",
+      "options": [
+        "Yo'qoladi",
+        "Teng ikkiga bo'linib, yosh hujayralarga o'tadi",
+        "Ona hujayrada qoladi",
+        "Rangini yo'qotadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Hosil bo'lgan yosh hujayralar nima hisobiga o'sishda davom etadi?",
+      "options": [
+        "Havo hisobiga",
+        "O'zidagi oziq moddalar hisobiga",
+        "Yorug'lik hisobiga",
+        "Qobiq hisobiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "O'simliklarning o'sishi nima hisobiga boradi?",
+      "options": [
+        "Faqat suv hisobiga",
+        "Hujayralarning bo'linib ko'payishi va o'sishi hisobiga",
+        "Faqat quyosh hisobiga",
+        "Vakuollar hisobiga"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
