@@ -2,5 +2,314 @@
   "topicId": 10,
   "title": "10-Mavzu",
   "description": "BoburObidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Novda qanday organ hisoblanadi?",
+      "options": [
+        "Tuban o'simliklarning organi",
+        "Yuksak o'simliklarning vegetativ organi",
+        "Ko'payish organi",
+        "Yuksak o'simliklarning generativ organi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Novda nimalardan iborat?",
+      "options": [
+        "Faqat poyadan",
+        "Poya hamda unda joylashgan barg va kurtaklardan",
+        "Ildiz va poyadan",
+        "Gul va mevadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Daraxt, buta va yarimbutalarning qaysi shoxi novda deyiladi?",
+      "options": [
+        "Ko'p yillik yo'g'on shoxi",
+        "Bargsiz quruq shoxi",
+        "Faqat gulli shoxi",
+        "Kurtak va barg hosil qiladigan bir yillik shoxi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Novdaning o'zak organi qaysi?",
+      "options": [
+        "Poya",
+        "Barg",
+        "Kurtak",
+        "Ildiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Poyaning barg va yon kurtaklar joylashgan qismi nima deyiladi?",
+      "options": [
+        "Novda",
+        "Bo'g'im oralig'i",
+        "Kurtak",
+        "Bo'g'im"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Qo'shni bo'g'imlar orasi nima deyiladi?",
+      "options": [
+        "Bo'g'im",
+        "Poya",
+        "Bo'g'im oralig'i",
+        "Barg qo'ltig'i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Bo'g'imda nimalar joylashgan bo'ladi?",
+      "options": [
+        "Ildiz tukchalari",
+        "Faqat po'kak",
+        "Barg va yon kurtaklar",
+        "Gul va meva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Kuz yaqinlashishi bilan novdalarning rangi qanday o'zgaradi?",
+      "options": [
+        "Rangi o'zgarmaydi",
+        "Yashil rangdan qo'ng'ir va qizg'ish rangga",
+        "Qizg'ishdan yashilga",
+        "Yashildan oq rangga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Kuzda novdalar rangining o'zgarishiga sabab nima?",
+      "options": [
+        "Po'sti qalinlashib, po'kak qavat hosil bo'ladi",
+        "Kurtaklar gullaydi",
+        "Novda suvga to'ladi",
+        "Barglar ko'payadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Kuzda novda po'stida qanday qavat hosil bo'ladi?",
+      "options": [
+        "Kutikula",
+        "Epiderma",
+        "Po'kak qavat",
+        "Kambiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Kech kuzda barglar to'kilgach, kurtaklar qanday holatda bo'ladi?",
+      "options": [
+        "Kurtaklar ham to'kiladi",
+        "Ochilib qoladi va shu holda qishlaydi",
+        "Darhol gullaydi",
+        "Yerga ko'miladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Kurtaklar novdaning qayerida joylashgan bo'ladi?",
+      "options": [
+        "Bo'g'im oralig'ida",
+        "Gul ichida",
+        "Barg qo'ltig'ida",
+        "Ildiz uchida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Novdalar necha xil bo'ladi?",
+      "options": [
+        "Bir xil",
+        "Uch xil",
+        "Ikki xil",
+        "To'rt xil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Barg va kurtaklardan iborat novda qanday ataladi?",
+      "options": [
+        "Tayanch novda",
+        "Gulli novda",
+        "Generativ novda",
+        "Vegetativ novda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Novdadan gul paydo bo'lsa, u qanday ataladi?",
+      "options": [
+        "Generativ yoki gulli novda",
+        "Ildiz novda",
+        "Bargli novda",
+        "Vegetativ novda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Generativ novdaning boshqa nomi nima?",
+      "options": [
+        "Gulli novda",
+        "Bir yillik novda",
+        "Bargli novda",
+        "Kurtakli novda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Urug'idan unib chiqqan bir yillik nihol nima deyiladi?",
+      "options": [
+        "Bo'g'im",
+        "Kurtak",
+        "Novda",
+        "Ildizmeva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Quyidagilardan qaysi biri novda hisoblanmaydi?",
+      "options": [
+        "Daraxtning barg va kurtakli bir yillik shoxi",
+        "Gul hosil qilgan bir yillik shox",
+        "Ildiz",
+        "Urug'dan unib chiqqan bir yillik nihol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Ortiqchasini toping (novda tarkibi): poya, barg, kurtak, ildiz.",
+      "options": [
+        "Kurtak",
+        "Barg",
+        "Poya",
+        "Ildiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Moslang: 1) bo'g'im, 2) bo'g'im oralig'i; a) qo'shni bo'g'imlar orasi, b) barg va yon kurtaklar joylashgan qism.",
+      "options": [
+        "1b, 2a",
+        "1a, 2b",
+        "1a, 2a",
+        "1b, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Moslang: 1) vegetativ novda, 2) generativ novda; a) gul paydo bo'ladi, b) barg va kurtaklardan iborat.",
+      "options": [
+        "1b, 2b",
+        "1b, 2a",
+        "1a, 2a",
+        "1a, 2b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Novdaning kuz va qishdagi o'zgarishlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Kurtaklar qishlaydi → po'kak hosil bo'ladi → rang o'zgaradi → barglar ko'payadi",
+        "Po'kak yo'qoladi → barglar to'kiladi → rang yashil bo'ladi → kurtaklar to'kiladi",
+        "Barglar to'kiladi → rang o'zgaradi → kurtaklar gullaydi → po'kak yo'qoladi",
+        "Rang o'zgaradi → po'kak hosil bo'ladi → barglar to'kiladi → kurtaklar qishlaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "To'g'ri fikrlarni toping: 1) Poya novdaning o'zak organi; 2) Bo'g'imda barg va yon kurtaklar joylashadi; 3) Novda generativ organ hisoblanadi; 4) Gulli novda generativ novda deyiladi.",
+      "options": [
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 3",
+        "1, 2, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Noto'g'ri fikrlarni toping: 1) Novda poya, barg va kurtaklardan iborat; 2) Kuzda novdada po'kak qavat yo'qoladi; 3) Bo'g'im oralig'ida barglar joylashadi; 4) Novdalar ikki xil bo'ladi.",
+      "options": [
+        "2, 3",
+        "3, 4",
+        "1, 4",
+        "1, 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Qo'shni bo'g'imlar orasi bo'g'im oralig'i deyiladi",
+        "Vegetativ novdada gul paydo bo'ladi",
+        "Kech kuzda barglar to'kilib, kurtaklar qishlaydi",
+        "Novda – yuksak o'simliklarning vegetativ organi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Qaysi javobda tushuncha va uning ta'rifi to'g'ri berilgan?",
+      "options": [
+        "Bo'g'im – qo'shni bo'g'imlar orasi",
+        "Generativ novda – faqat barg va kurtakli novda",
+        "Vegetativ novda – gul hosil qilgan novda",
+        "Bo'g'im – barg va yon kurtaklar joylashgan qism"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Kuzda novdalarning qo'ng'ir va qizg'ish rangga kirishi qaysi jarayon bilan bog'liq?",
+      "options": [
+        "Barglarning ko'payishi bilan",
+        "Po'stning qalinlashishi bilan",
+        "Ildizning o'sishi bilan",
+        "Gullarning ochilishi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Novda tushunchasi haqida to'liq to'g'ri javobni toping.",
+      "options": [
+        "Faqat gul hosil qilgan shox",
+        "Ildiz va poyadan iborat organ",
+        "Faqat daraxtning ko'p yillik shoxi",
+        "Poya, barg, kurtakdan iborat organ; bir yillik shox va bir yillik nihol ham novda deyiladi"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
