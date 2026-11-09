@@ -2,5 +2,501 @@
   "topicId": 7,
   "title": "7-Mavzu",
   "description": "BoburObidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ildiz qanday organ hisoblanadi?",
+      "options": [
+        "Ko'payish organi",
+        "Yuksak o'simliklarning generativ organi",
+        "Yuksak o'simliklarning vegetativ organi",
+        "Tuban o'simliklarning vegetativ organi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Ildizning vazifalari qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Barg hosil qiladi va suv shimadi",
+        "Gul va meva hosil qiladi",
+        "Faqat o'simlikni tuproqqa biriktiradi",
+        "O'simlikni tuproqqa biriktiradi, suv va mineral tuzlarni shimadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Ildizni novdadan farqlovchi asosiy belgi qaysi?",
+      "options": [
+        "Suv shimadi",
+        "Barg hosil qilmaydi",
+        "Hujayralardan tuzilgan",
+        "Yon shoxlar hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Ildiz shimgan suv va mineral tuzlarni qayerga yetkazib beradi?",
+      "options": [
+        "Faqat ildiz uchiga",
+        "Qaytadan tuproqqa",
+        "O'simlikning yer usti qismiga",
+        "Faqat urug'ga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Kelib chiqishiga ko'ra ildizlar qanday turlarga bo'linadi?",
+      "options": [
+        "Asosiy, o'q, popuk",
+        "Asosiy, yon, qo'shimcha",
+        "O'q, popuk, yon",
+        "Yon, popuk, qo'shimcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Asosiy ildiz nimadan hosil bo'ladi?",
+      "options": [
+        "Bargdan",
+        "Yon ildizdan",
+        "Murtakdagi boshlang'ich ildizning bevosita o'sishidan",
+        "Poyadan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Qo'shimcha ildizlar qayerdan hosil bo'ladi?",
+      "options": [
+        "Asosiy ildizdan",
+        "Murtakdagi boshlang'ich ildizdan",
+        "Yon ildizdan",
+        "Poya va bargdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Yon ildizlar qayerdan hosil bo'ladi?",
+      "options": [
+        "Faqat murtakdagi poyadan",
+        "Asosiy va qo'shimcha ildizdan",
+        "Faqat poyadan",
+        "Faqat bargdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Ildiz tizimi (sistemasi) deb nimaga aytiladi?",
+      "options": [
+        "Bitta asosiy ildizga",
+        "Ildiz va poyaning birgalikdagi qismiga",
+        "Bir tup o'simlikdagi ildizlar yig'indisiga",
+        "Ildizning uchki qismiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Ildiz tizimining o'lchami va tuzilishi nimalarga bog'liq?",
+      "options": [
+        "Faqat havo haroratiga",
+        "Faqat gul rangiga",
+        "Faqat barglar soniga",
+        "O'simlik turi, shoxlanish, qo'shimcha ildizlar, tuproq unumdorligiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Tuzilishiga ko'ra ildiz tizimi qanday turlarga bo'linadi?",
+      "options": [
+        "Asosiy va qo'shimcha",
+        "O'q va popuk",
+        "Asosiy va yon",
+        "Yon va qo'shimcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "O'q ildiz tizimi qachon hosil bo'ladi?",
+      "options": [
+        "Boshlang'ich poyadan qo'shimcha ildizlar o'sganda",
+        "Boshlang'ich ildiz o'sishda davom etmasa",
+        "Faqat bargdan ildizlar o'sganda",
+        "Boshlang'ich ildiz rivojlanib, undan yon ildizlar o'sib chiqsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Popuk ildiz tizimi qachon hosil bo'ladi?",
+      "options": [
+        "Murtakdagi boshlang'ich ildiz rivojlanishda davom etsa",
+        "Asosiy ildizdan yon ildizlar o'sib chiqsa",
+        "Boshlang'ich ildiz o'smasa va boshlang'ich poyadan qo'shimcha ildizlar o'sib chiqsa",
+        "Asosiy ildiz yaxshi rivojlansa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Murtakdagi boshlang'ich ildiz taqdiri bo'yicha to'g'ri juftlikni toping.",
+      "options": [
+        "Rivojlansa – popuk ildiz; rivojlanmasa – o'q ildiz",
+        "Ikkala holda ham popuk ildiz",
+        "Rivojlansa – o'q ildiz; rivojlanmasa – popuk ildiz",
+        "Ikkala holda ham o'q ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "O'q ildiz tizimi qaysi o'simliklarga xos?",
+      "options": [
+        "Bir urug'pallali o'simliklarga",
+        "Faqat daraxtlarga",
+        "Tuban o'simliklarga",
+        "Ko'pchilik ikki urug'pallali o'simliklarga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Popuk ildiz tizimi asosan qaysi o'simliklarda uchraydi?",
+      "options": [
+        "Bir urug'pallali o'simliklarda",
+        "Ikki urug'pallali o'simliklarda",
+        "Tuban o'simliklarda",
+        "Faqat butalarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "O'q ildiz tizimida qaysi ildiz yaxshi rivojlangan bo'ladi?",
+      "options": [
+        "Asosiy ildiz",
+        "Bargdan chiqqan ildizlar",
+        "Qo'shimcha ildiz",
+        "Faqat yon ildizlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Popuk ildiz tizimi nimalardan tashkil topgan?",
+      "options": [
+        "Faqat bargdan chiqqan ildizlardan",
+        "Mayda qo'shimcha va yon ildizlardan",
+        "Yaxshi rivojlangan asosiy ildizdan",
+        "Faqat asosiy va yon ildizlardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Popuk ildiz tizimida qaysi ildiz yaxshi rivojlanmaydi?",
+      "options": [
+        "Barcha ildizlar yaxshi rivojlangan",
+        "Asosiy ildiz",
+        "Yon ildiz",
+        "Qo'shimcha ildiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Popuk ildiz tizimida qo'shimcha ildizlar nimadan o'sib chiqadi?",
+      "options": [
+        "Mevadan",
+        "Asosiy ildizdan",
+        "Yon ildizdan",
+        "Boshlang'ich poyadan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Qaysi qatorda faqat o'q ildizli o'simliklar berilgan?",
+      "options": [
+        "Do'lana, terak, saksovul",
+        "Terak, bug'doy, mosh",
+        "Bug'doy, makkajo'xori, arpa",
+        "Arpa, g'o'za, loviya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Qaysi qatorda faqat popuk ildizli o'simliklar berilgan?",
+      "options": [
+        "Qovun, tarvuz, no'xat",
+        "Bug'doy, makkajo'xori, arpa",
+        "G'o'za, bug'doy, loviya",
+        "Na'matak, arpa, terak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qaysi qatorda ham o'q, ham popuk ildizli o'simlik berilgan?",
+      "options": [
+        "Terak va do'lana",
+        "Qovun va tarvuz",
+        "Bug'doy va makkajo'xori",
+        "Mosh va arpa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Quyidagilardan qaysi biri popuk ildizli o'simlik?",
+      "options": [
+        "Saksovul",
+        "Makkajo'xori",
+        "Loviya",
+        "G'o'za"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Quyidagilardan qaysi biri o'q ildizli o'simlik?",
+      "options": [
+        "Arpa",
+        "Na'matak",
+        "Bug'doy",
+        "Makkajo'xori"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Ildiz tizimi bo'yicha ortiqchasini toping: do'lana, mosh, qovun, arpa.",
+      "options": [
+        "Qovun",
+        "Do'lana",
+        "Mosh",
+        "Arpa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Ildiz tizimi bo'yicha ortiqchasini toping: bug'doy, makkajo'xori, arpa, no'xat.",
+      "options": [
+        "No'xat",
+        "Bug'doy",
+        "Arpa",
+        "Makkajo'xori"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Ildiz tizimi bo'yicha ortiqchasini toping: terak, g'o'za, makkajo'xori, tarvuz.",
+      "options": [
+        "Makkajo'xori",
+        "Terak",
+        "G'o'za",
+        "Tarvuz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Asosiy ildizi yaxshi rivojlangan va undan yon ildizlar o'sib chiqadigan o'simlikni toping.",
+      "options": [
+        "Bug'doy",
+        "Arpa",
+        "Makkajo'xori",
+        "Saksovul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Murtakdagi boshlang'ich ildizi o'sishda davom etmaydigan o'simlikni toping.",
+      "options": [
+        "Terak",
+        "Bug'doy",
+        "Loviya",
+        "Tarvuz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Makkajo'xorining ildiz tizimi asosan qanday ildizlardan tashkil topgan?",
+      "options": [
+        "Faqat bargdan hosil bo'lgan ildizlardan",
+        "Yaxshi rivojlangan asosiy ildizdan",
+        "Faqat asosiy ildizdan",
+        "Mayda qo'shimcha va yon ildizlardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "G'o'zada yon ildizlar asosan qaysi ildizdan o'sib chiqadi?",
+      "options": [
+        "Asosiy ildizdan",
+        "Boshlang'ich poyadan",
+        "Bargdan",
+        "Gul bandidan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Bir tup bug'doydagi barcha ildizlar yig'indisi qanday ataladi?",
+      "options": [
+        "Yon ildiz",
+        "O'q ildiz tizimi",
+        "Popuk ildiz tizimi",
+        "Asosiy ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Bir tup tarvuzdagi barcha ildizlar yig'indisi qanday ataladi?",
+      "options": [
+        "Popuk ildiz tizimi",
+        "Yon ildiz",
+        "O'q ildiz tizimi",
+        "Qo'shimcha ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Ikki urug'pallali o'simlikka xos ildiz tizimi va misol to'g'ri berilgan javobni toping.",
+      "options": [
+        "Popuk ildiz – bug'doy",
+        "O'q ildiz – arpa",
+        "O'q ildiz – loviya",
+        "Popuk ildiz – no'xat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Bir urug'pallali o'simlik va uning ildiz tizimi to'g'ri berilgan javobni toping.",
+      "options": [
+        "Arpa – o'q ildiz",
+        "Saksovul – popuk ildiz",
+        "Arpa – popuk ildiz",
+        "G'o'za – popuk ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Kelib chiqishiga ko'ra ildiz turlari soni va tuzilishiga ko'ra ildiz tizimi turlari soni qancha?",
+      "options": [
+        "3 va 2",
+        "3 va 3",
+        "2 va 3",
+        "2 va 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Yon ildizlarning kelib chiqishi haqida to'g'ri fikrni toping.",
+      "options": [
+        "Faqat poyadan hosil bo'ladi",
+        "Faqat asosiy ildizdan hosil bo'ladi",
+        "Faqat bargdan hosil bo'ladi",
+        "Ham asosiy, ham qo'shimcha ildizdan hosil bo'lishi mumkin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Moslang: 1) asosiy ildiz, 2) qo'shimcha ildiz, 3) yon ildiz; a) poya va bargdan, b) boshlang'ich ildizdan, c) asosiy va qo'shimcha ildizdan.",
+      "options": [
+        "1b, 2a, 3c",
+        "1a, 2b, 3c",
+        "1c, 2a, 3b",
+        "1b, 2c, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Moslang: 1) o'q ildiz tizimi, 2) popuk ildiz tizimi; a) g'o'za, b) bug'doy, c) terak, d) makkajo'xori.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Moslang: 1) o'q ildiz tizimi, 2) popuk ildiz tizimi; a) asosiy ildiz yaxshi rivojlangan, b) asosiy ildiz yaxshi rivojlanmagan, c) bir urug'pallalilar, d) ikki urug'pallalilar.",
+      "options": [
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c",
+        "1 – a, c; 2 – b, d",
+        "1 – b, c; 2 – a, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "To'g'ri fikrlarni toping: 1) Ildiz barg hosil qilmaydi; 2) Qo'shimcha ildizlar poyadan hosil bo'ladi; 3) Popuk ildizda asosiy ildiz yaxshi rivojlangan; 4) O'q ildiz ikki urug'pallalilarga xos.",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Noto'g'ri fikrlarni toping: 1) Ildiz suv va mineral tuzlarni shimadi; 2) Ildiz barg hosil qiladi; 3) Qo'shimcha ildiz murtakdagi boshlang'ich ildizdan hosil bo'ladi; 4) Ildiz tizimi – bir tupdagi ildizlar yig'indisi.",
+      "options": [
+        "3, 4",
+        "1, 2",
+        "2, 3",
+        "1, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Yon ildizlar asosiy ildizdan hosil bo'ladi",
+        "Asosiy ildiz murtakdagi boshlang'ich ildizdan hosil bo'ladi",
+        "Popuk ildiz tizimi ikki urug'pallalilarga xos",
+        "Ildiz – vegetativ organ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "To'g'ri fikrlarni toping: 1) Popuk ildiz mayda qo'shimcha va yon ildizlardan iborat; 2) Saksovul popuk ildizli; 3) Ildiz o'simlikni tuproqqa biriktiradi; 4) Asosiy ildiz bargdan hosil bo'ladi.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "3, 4",
+        "2, 4"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
