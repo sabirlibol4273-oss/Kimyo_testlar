@@ -2,5 +2,17 @@
   "topicId": 1,
   "title": "Mexanika",
   "description": "Bobur Obidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "10 sekunda 20 m masofa bosib o'tildi tezlikni aniqlang",
+      "options": [
+        "2 m/s",
+        "1 m/s",
+        "3 m/s",
+        "2,5 m/s"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
