@@ -2,5 +2,435 @@
   "topicId": 12,
   "title": "12-Mavzu",
   "description": "Bobur Obidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kurtak nima?",
+      "options": [
+        "Shakli o'zgargan barg",
+        "Boshlang'ich ildiz",
+        "Boshlang'ich poya",
+        "Pishgan meva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Kurtaklar necha xil bo'ladi?",
+      "options": [
+        "Ikki xil",
+        "To'rt xil",
+        "Bir xil",
+        "Uch xil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Kurtaklarning turlari qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Uchki va ildiz",
+        "Generativ va vegetativ",
+        "Tayanch va havo",
+        "Yirik va ildizmeva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Vegetativ kurtak nima?",
+      "options": [
+        "O'simlikning boshlang'ich bargli novdasi",
+        "Boshlang'ich to'pgul yoki gul",
+        "Pishgan urug'",
+        "Boshlang'ich ildiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Generativ kurtak nima?",
+      "options": [
+        "Boshlang'ich ildiz",
+        "Tangacha barg",
+        "Boshlang'ich bargli novda",
+        "Boshlang'ich to'pgul yoki gul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Har qanday novda nimadan hosil bo'ladi?",
+      "options": [
+        "Mevadan",
+        "Ildizdan",
+        "Bargdan",
+        "Kurtakdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Qaysi qatorda kurtagi yirik o'simliklar berilgan?",
+      "options": [
+        "Tut, tol, qayrag'och",
+        "Terak, chinor, soxta kashtan, nastarin",
+        "Tol, olma, nastarin",
+        "O'rik, olma, tut"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Qaysi qatorda kurtagi nisbatan mayda o'simliklar berilgan?",
+      "options": [
+        "Tut, tol, qayrag'och, o'rik, olma",
+        "Terak, chinor, nastarin",
+        "Chinor, tut, terak",
+        "Soxta kashtan, terak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Quyidagilardan qaysi birining kurtagi yirik?",
+      "options": [
+        "Tut",
+        "Tol",
+        "Olma",
+        "Nastarin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Quyidagilardan qaysi birining kurtagi nisbatan mayda?",
+      "options": [
+        "Terak",
+        "Soxta kashtan",
+        "Qayrag'och",
+        "Chinor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Kurtaklarga qarab nimani aniqlash mumkin?",
+      "options": [
+        "O'simlik yoshini",
+        "Mevaning ta'mini",
+        "O'simlik turini",
+        "Tuproq unumdorligini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Kurtaklar novdada qanday joylashadi?",
+      "options": [
+        "Faqat halqa hosil qilib",
+        "Ketma-ket, qarama-qarshi, halqa hosil qilib",
+        "Faqat ketma-ket",
+        "Faqat ildizda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Novdaning uchida joylashgan kurtak qanday ataladi?",
+      "options": [
+        "Yon kurtak",
+        "Generativ kurtak",
+        "Uchki kurtak",
+        "Qo'shimcha kurtak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Barg qo'ltig'ida joylashgan kurtaklar qanday ataladi?",
+      "options": [
+        "Yon kurtak",
+        "Tangacha kurtak",
+        "Qo'shimcha kurtak",
+        "Uchki kurtak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Ildizda va bargda hosil bo'ladigan kurtaklar qanday ataladi?",
+      "options": [
+        "Qo'shimcha kurtaklar",
+        "Yon kurtaklar",
+        "Uchki kurtaklar",
+        "Generativ kurtaklar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Qo'shimcha kurtaklar qayerda bo'ladi?",
+      "options": [
+        "Faqat barg qo'ltig'ida",
+        "Faqat novda uchida",
+        "Ildizda, bargda",
+        "Faqat gulda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Terak qanday o'simlik sifatida tanilgan?",
+      "options": [
+        "Ildizmevali o'simlik",
+        "Manzarali o'simlik",
+        "Poliz ekini",
+        "O'rmalovchi o'simlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Terak kurtaklari novdada qanday joylashadi?",
+      "options": [
+        "Faqat ildizda",
+        "Qarama-qarshi",
+        "Halqa hosil qilib",
+        "Ketma-ket"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Terak novdasidagi kurtaklarning kattaligi qanday?",
+      "options": [
+        "Hammasi bir xil",
+        "Pastdagilari yirik, uchidagisi mayda",
+        "Eng uchidagisi yirik, pastdagilari maydaroq",
+        "O'rtadagisi eng yirik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Terak kurtaklari tashqi tomondan nima bilan o'ralgan?",
+      "options": [
+        "Ildiz tukchalari",
+        "Pishiq qobiq (tangacha barg)",
+        "Mum qavati",
+        "Po'kak qavati"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Kurtak qobig'i (tangacha barg) kurtakni nimalardan saqlaydi?",
+      "options": [
+        "Faqat suvdan",
+        "Qishning qattiq sovug'i, bakteriya va zamburug'lardan",
+        "Faqat yorug'likdan",
+        "Hasharotlarning changlatishidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Kurtak uzunasiga kesilsa, qobig'i ostida nima ko'rinadi?",
+      "options": [
+        "Faqat ildiz",
+        "Boshlang'ich poya va zich joylashgan boshlang'ich barglar",
+        "Ildiz tukchalari",
+        "Pishgan urug'lar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Kurtaklar qachon o'sa boshlaydi?",
+      "options": [
+        "Qishning boshida",
+        "Qishki tinim davridan o'tgach",
+        "Yozning o'rtasida",
+        "Kech kuzda barglar to'kilishi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Kech kuzda kesilgan shoxchalar suvga solib qo'yilsa, kurtaklar qanday bo'ladi?",
+      "options": [
+        "Darhol gullaydi",
+        "Darhol chirib ketadi",
+        "Tezda barg chiqaradi",
+        "Ko'p vaqtgacha bo'rtmay turaveradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Shoxchalar qachon suvga solib qo'yilsa, kurtaklari tez o'sa boshlaydi?",
+      "options": [
+        "Sentabr va oktabrda",
+        "Noyabr oxirida",
+        "Dekabr boshida",
+        "Yanvarning ikkinchi yarmi va fevralda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Kurtaklarning bo'rtib, yangi barg yoki gul chiqarish davri nima deyiladi?",
+      "options": [
+        "Tinim",
+        "Metamorfoz",
+        "Bo'g'im",
+        "Faza"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Erta bahorda o'rik, shaftoli, bodomda qaysi kurtaklar avval yoziladi?",
+      "options": [
+        "Faqat vegetativ",
+        "Avval vegetativ, so'ngra generativ",
+        "Ikkalasi bir vaqtda",
+        "Avval generativ, so'ngra vegetativ"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Qaysi o'simliklarda erta bahorda avval gul, keyin barg chiqadi?",
+      "options": [
+        "O'rik, shaftoli, bodom",
+        "Nastarin, terak, chinor",
+        "Tut, qayrag'och, tol",
+        "Terak, chinor, tol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "O'rik, shaftoli, bodomda erta bahorda avval nima ochiladi?",
+      "options": [
+        "Gul",
+        "Barg",
+        "Ildiz",
+        "Meva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Moslang: 1) vegetativ kurtak, 2) generativ kurtak; a) boshlang'ich to'pgul yoki gul, b) boshlang'ich bargli novda.",
+      "options": [
+        "1b, 2b",
+        "1a, 2b",
+        "1a, 2a",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Moslang: 1) uchki kurtak, 2) yon kurtak, 3) qo'shimcha kurtak; a) barg qo'ltig'ida, b) novda uchida, c) ildiz va bargda.",
+      "options": [
+        "1a, 2b, 3c",
+        "1b, 2a, 3c",
+        "1b, 2c, 3a",
+        "1c, 2a, 3b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Moslang: 1) yirik kurtakli, 2) mayda kurtakli; a) terak, b) tut, c) chinor, d) tol.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – a, b; 2 – c, d",
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Ortiqchasini toping (kurtak kattaligi bo'yicha): terak, chinor, nastarin, tol.",
+      "options": [
+        "Nastarin",
+        "Tol",
+        "Terak",
+        "Chinor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Ortiqchasini toping (kurtak kattaligi bo'yicha): tut, o'rik, olma, soxta kashtan.",
+      "options": [
+        "Tut",
+        "Soxta kashtan",
+        "Olma",
+        "O'rik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Kurtaklar hayotidagi jarayonlar to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Qishki tinim → bo'rtish → barg yoki gul chiqarish",
+        "Barg chiqarish → bo'rtish → qishki tinim",
+        "Gul chiqarish → qishki tinim → bo'rtish",
+        "Bo'rtish → qishki tinim → gul chiqarish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "To'g'ri fikrlarni toping: 1) Kurtak – boshlang'ich poya; 2) Har qanday novda kurtakdan hosil bo'ladi; 3) Yon kurtak novda uchida joylashadi; 4) Terakning uchki kurtagi yirik bo'ladi.",
+      "options": [
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Noto'g'ri fikrlarni toping: 1) Generativ kurtak – boshlang'ich gul yoki to'pgul; 2) Tutning kurtagi yirik bo'ladi; 3) Kurtaklarga qarab o'simlik turini aniqlash mumkin; 4) O'rikda avval vegetativ kurtak yoziladi.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Terak kurtaklari ketma-ket joylashadi",
+        "Kech kuzda kesilgan shoxdagi kurtaklar suvda tez o'sadi",
+        "Qo'shimcha kurtaklar ildizda ham bo'ladi",
+        "Kurtak qobig'i uni sovuqdan saqlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Qaysi javobda tushuncha va ta'rif to'g'ri berilgan?",
+      "options": [
+        "Faza – kurtaklarning qishki tinim davri",
+        "Uchki kurtak – barg qo'ltig'idagi kurtak",
+        "Faza – kurtaklarning bo'rtib, barg yoki gul chiqarish davri",
+        "Vegetativ kurtak – boshlang'ich gul"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
