@@ -1,0 +1,557 @@
+{
+  "topicId": 3,
+  "title": "Soxta oyoqlilar sinf",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Eng sodda tuzilgan bir hujayrali hayvonlar guruhi qaysi?",
+      "options": [
+        "Xivchinlilar",
+        "Soxta oyoqlilar",
+        "Infuzoriyalar",
+        "Sporalilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Soxta oyoqlilar sinfining eng tipik vakili qaysi hayvon hisoblanadi?",
+      "options": [
+        "Yashil evglena",
+        "Tufelka",
+        "Oddiy amyoba",
+        "Foraminifera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Oddiy amyoba qanday joylarda (yashash muhitida) hayot kechiradi?",
+      "options": [
+        "Tez oqar sovuq tog' daryolarida",
+        "To'kilgan barglar va xas-cho'plar bilan ifloslangan ko'lmak suvlar tubida",
+        "Sho'r dengizlarning ochiq suv qatlamida",
+        "Faqat qumloq cho'l tuproqlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Oddiy amyoba tanasining o'lchami va optik xususiyati to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "1–2 mm, qoramtir rangda",
+        "0,2–0,5 mm, shaffof",
+        "5–10 mm, yashil tusda",
+        "0,01–0,02 mm, butunlay xira"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Amyoba hujayrasining shakli qanday bo'ladi?",
+      "options": [
+        "Doimiy qat'iy duksimon",
+        "Har doim sharsimon",
+        "Doimo o'zgarib turadi",
+        "Yassi plastinkasimon va qotgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Oddiy amyoba tanasi asosan qanday moddadan iborat?",
+      "options": [
+        "Qattiq kalsiyli suyak to'qimasidan",
+        "Quyuq dildiroq modda — sitoplazmadan",
+        "Faqat sellyuloza tolalaridan",
+        "Murakkab xitinli qobiqdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Amyoba sitoplazmasida qanday tuzilmalar joylashgan?",
+      "options": [
+        "Ko'plab yadrolar va xloroplastlar",
+        "Bitta yadro va hujayra organoidlari",
+        "Faqat bitta yirik yog' tomchisi",
+        "Tugunchali nerv sistemasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Amyoba sitoplazmasini tashqi muhitdan bevosita nima ajratib turadi?",
+      "options": [
+        "Qalin xitinli kutikula",
+        "Qattiq sellyuloza po'st",
+        "Hujayra membranasi",
+        "Ohak chig'anoq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Amyobada «soxta oyoqlar» deb ataladigan muvaqqat o'simtalar qanday hosil bo'ladi?",
+      "options": [
+        "Sirtida qalin qattiq qobiq bo'lmaganligi tufayli sitoplazmasi qaysi tomonga oqib o'tsa, o'sha tomoni bo'rtib chiqadi",
+        "Maxsus muskullarning qisqarishi natijasida tashqariga itariladi",
+        "Xitin qobig'i yorilib, ichidan yangi o'simtalar o'sib chiqadi",
+        "Hujayra membranasi parchalanib, yadrodan naychalar hosil bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Matnda amyobaning harakati nimaga o'xshatilgan?",
+      "options": [
+        "Qushlarning parvoziga",
+        "Bir tomchi suvning oqishiga",
+        "Baliqlarning suzishiga",
+        "O'simlik ildizining o'sishiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Amyobaning tana shakli nima sababdan doimo o'zgarib turadi?",
+      "options": [
+        "Soxta oyoqlar to'xtovsiz hosil bo'lib va yo'qolib turishi tufayli",
+        "Suv harorati har daqiqada o'zgarishi tufayli",
+        "Uning qobig'i har kuni yangilanishi sababli",
+        "Sitoplazmadagi vakuolalarning portlab ketishi natijasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Oddiy amyobaning tabiiy ozuqa manbalari to'g'ri sanalgan qatorni aniqlang.",
+      "options": [
+        "Mayda baliqlar va qisqichbaqasimonlar",
+        "Bakteriyalar, mayda suv o'tlari va organik qoldiqlar",
+        "Hasharotlar va ularning lichinkalari",
+        "Faqat suvda erigan tuzlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Harakatlanayotgan amyoba oziqqa duch kelganida dastlab nima sodir bo'ladi?",
+      "options": [
+        "Darhol sistaga aylanadi",
+        "Bir necha soxta oyoqlar hosil qilib, oziqni qamrab oladi",
+        "Oziqni kimyoviy zaharlab eritadi",
+        "Hujayrasi ikkiga bo'linadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Amyobada hazm qilish vakuolasi qanday paydo bo'ladi?",
+      "options": [
+        "Urug'lanish jarayonida yadrodan hosil bo'ladi",
+        "Soxta oyoqlar oziqni qamrab sitoplazmaga o'tkazgach, sitoplazmadan hazm shirasi ajralishi bilan oziq atrofida paydo bo'ladi",
+        "Amyoba sista ichiga kirganida o'z-o'zidan shakllanadi",
+        "Qisqaruvchi vakuolaning ikkiga ajralishidan hosil bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Hazm qilish vakuolasidagi oziq moddalar nima ta'sirida hazm bo'ladi?",
+      "options": [
+        "Quyosh nurlari ta'sirida",
+        "Hazm shirasi ta'sirida",
+        "Osh tuzi kristallari ta'sirida",
+        "Suv bosimi ta'sirida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Amyobada oziqning hazm bo'lmagan qismi qayerdan chiqarib yuboriladi?",
+      "options": [
+        "Maxsus anal teshigidan (poroshitsadan)",
+        "Tanasining istalgan joyidan sitoplazma orqali tashqariga chiqarib yuboriladi",
+        "Faqat qisqaruvchi vakuola teshigidan",
+        "Yadro qobig'i orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Amyoba qanday gaz bilan nafas oladi?",
+      "options": [
+        "Havodagi toza azot bilan",
+        "Suvda erigan kislorod bilan",
+        "Faqat karbonat angidrid bilan",
+        "Metan gazi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Amyoba tanasiga kislorod qaysi yo'l bilan o'tadi?",
+      "options": [
+        "Maxsus jabralar orqali",
+        "Sitoplazmasiga suv bilan birga butun tana sirtidan to'xtovsiz o'tib turadi",
+        "Faqat qisqaruvchi vakuola orqali",
+        "Yadro orqali so'rib olinadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Kislorod ishtirokida amyoba sitoplazmasida qanday jarayon sodir bo'ladi?",
+      "options": [
+        "Oziq moddalar parchalanib, hayot uchun zarur energiya va moddalar almashinuvi mahsulotlari hosil bo'ladi",
+        "Xloroplastlar sintezlanadi",
+        "Amyoba tanasi ohak qatlam bilan qoplanadi",
+        "Fotosintez jarayoni kuchayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Amyobada ortiqcha suv va zararli moddalar qayerga to'planadi?",
+      "options": [
+        "Hazm qilish vakuolasiga",
+        "Qisqaruvchi vakuola bo'shlig'iga",
+        "Yadro ichiga",
+        "Soxta oyoqlar uchiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Qisqaruvchi vakuolaning asosiy funksiyasi nima?",
+      "options": [
+        "Oziqni maydalash va shira ajratish",
+        "Ortiqcha suv va moddalar almashinuvining zararli mahsulotlarini hujayradan chiqarib yuborish",
+        "Jinsiy hujayralarni saqlash",
+        "Yadro bo'linishini boshqarish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Oddiy amyobaning ta'sirlanish xususiyatini qaysi tajribada aniq ko'rish mumkin?",
+      "options": [
+        "Suvni muzlatib qo'yganda",
+        "Amyobali suvga ozroq osh tuzi qo'shilganda hamma soxta oyoqlarini tortib olib, sharsimon shaklga kirishida",
+        "Suvga shakar solinganda harakat tezligining 100 baravar oshishida",
+        "Qorong'i xonada amyobaning yashil rangga kirishida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Amyobali suvga tuz tashlanganda uning sharsimon shaklga kirishi biologiyada qaysi hayotiy xossani isbotlaydi?",
+      "options": [
+        "Nafas olishni",
+        "Ta'sirlanishni",
+        "Jinssiz ko'payishni",
+        "Fotosintezni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Oddiy amyoba qanday usulda ko'payadi?",
+      "options": [
+        "Tugunchalar orqali jinsiy yo'l bilan",
+        "Ikkiga bo'linish yo'li bilan jinssiz ko'payadi",
+        "Sporalar hosil qilib jinsiy ko'payadi",
+        "Kurtaklanish yo'li bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Amyoba bo'linishida birinchi bo'lib qaysi organoidda o'zgarish boshlanadi?",
+      "options": [
+        "Qisqaruvchi vakuolada",
+        "Yadroning hajmi ortib, uning qobig'i yemiriladi",
+        "Hazm qilish vakuolasida",
+        "Hujayra membranasida teshiklar ochiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Amyoba bo'linishining to'g'ri biologik ketma-ketligini aniqlang:\n1) Amyoba tanasi cho'zilib, o'rtasidan ingichkalashadi va ikkiga ajraladi\n2) Yadro hajmi ortib, qobig'i yemiriladi va moddalari ikki tomonga teng taqsimlanadi\n3) Hujayraning ikki tomonida bittadan yangi yadro hosil bo'ladi",
+      "options": [
+        "2 -> 3 -> 1",
+        "1 -> 2 -> 3",
+        "3 -> 2 -> 1",
+        "2 -> 1 -> 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Amyobaning ikkiga bo'linishi nima sababdan jinssiz ko'payish deb ataladi?",
+      "options": [
+        "U faqat sovuq sharoitda sodir bo'lganligi uchun",
+        "Ushbu ko'payish jarayonida jinsiy hujayralar (gametalar) hosil bo'lmaganligi tufayli",
+        "Faqat bitta yangi hujayra paydo bo'lganligi sababli",
+        "Yadro qobig'i yemirilmaganligi uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Qanday noqulay sharoitlar yuzaga kelganda amyoba sista hosil qiladi?",
+      "options": [
+        "Quyosh nuri ortiqcha tushganda va oziq ko'payganda",
+        "Sovuq tushganda yoki suv qurib qolganda",
+        "Suv harorati 25 darajaga yetganda",
+        "Osh tuzi butunlay yo'qolganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Sista hosil qilish jarayonida amyoba tanasida qanday morfologik o'zgarish yuz beradi?",
+      "options": [
+        "Harakatchan xivchinlar hosil qiladi",
+        "Harakatlanishdan to'xtab yumaloqlanadi va sirtida qalin po'st hosil qiladi",
+        "Darhol 10 ta kichik amyobaga parchalanadi",
+        "Qisqaruvchi vakuolasini tashqariga otib yuboradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Sistaning amyoba hayotidagi asosiy biologik vazifasi nima?",
+      "options": [
+        "Oziq moddalarni tashqi muhitdan ko'proq yutish",
+        "Noqulay tashqi muhit sharoiti ta'siridan saqlanish",
+        "Jadal jinsiy ko'payishni ta'minlash",
+        "Metallarni silliqlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Qulay sharoit qayta tug'ilganda sistadagi amyoba bilan nima sodir bo'ladi?",
+      "options": [
+        "Sista ichida nobud bo'ladi",
+        "Sistadan chiqib, o'zining faol hayot faoliyatini davom ettiradi",
+        "Ko'p hujayrali organizmga aylanadi",
+        "Chig'anoqli foraminiferaga aylanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Dengizlarda yashovchi ohak chig'anoqli soxta oyoqlilar qaysi javobda keltirilgan?",
+      "options": [
+        "Oddiy amyobalar",
+        "Foraminiferalar",
+        "Nursimonlar",
+        "Ichburug' amyobasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Dengizlarda yashovchi kremniy (qum) skeletli soxta oyoqlilar qanday ataladi?",
+      "options": [
+        "Foraminiferalar",
+        "Nursimonlar",
+        "Volvoks",
+        "Tufelka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Tarixda yashab, qirilib ketgan qaysi hayvonlarning chig'anoqlari hozirgi ohaktosh konlarini hosil qilgan?",
+      "options": [
+        "Nursimonlar skeletlari",
+        "Qirilib ketgan foraminiferalar chig'anoqlari",
+        "Oddiy amyobalar sistalari",
+        "Qisqichbaqalar qalqonlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Nursimonlar skeleti qoldiqlaridan sanoat va texnikada qanday maqsadda foydalaniladi?",
+      "options": [
+        "Ohaktosh ishlab chiqarishda va g'isht quyishda",
+        "Metallarni silliqlashda va jilvir qog'oz (shkurka) tayyorlashda",
+        "Oziq-ovqat bo'yoqlari tayyorlashda",
+        "Tibbiyotda dori vositasi sifatida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Odam va sutemizuvchilar ichagida yashab, ichak devorini yemiruvchi xavfli soxta oyoqli parazit qaysi?",
+      "options": [
+        "Oddiy amyoba",
+        "Ichburug' amyobasi",
+        "Foraminifera",
+        "Tripanosoma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Ichburug' amyobasi odam organizmida qanday xavfli kasallikni paydo qiladi?",
+      "options": [
+        "Bezgak kasalligi",
+        "Qonli ichburug'",
+        "O'lat",
+        "Uyqu kasalligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Quyidagi soxta oyoqlilar va ularning xususiyatlarini to'g'ri moslashtiring:\n1) Oddiy amyoba; 2) Foraminifera; 3) Nursimon; 4) Ichburug' amyobasi\na) Kremniy skeletli, qoldig'i metall silliqlashda ishlatiladi\nb) Ohak chig'anoqli, qoldig'i ohaktosh konlarini hosil qilgan\nc) Shaffof, shakli o'zgaruvchan, ko'lmak suv tubida yashaydi\nd) Odam va sutemizuvchilar ichagida yashovchi parazit",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-d, 2-b, 3-a, 4-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Oddiy amyobaning hujayra organoidlari va ularning vazifalari to'g'ri juftlangan variantni aniqlang:\n1) Sitoplazma; 2) Qisqaruvchi vakuola; 3) Hazm qilish vakuolasi; 4) Yadro\na) Irsiy axborot va bo'linishni ta'minlaydi\nb) Oziqni shira ta'sirida parchalaydi\nc) Ortiqcha suv va zararli mahsulotlarni chiqaradi\nd) Hujayraning quyuq dildiroq ichki muhiti, oqishi bilan soxta oyoq hosil qiladi",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Amyobada moddalar almashinuvining zararli mahsulotlari hosil bo'lishining sababi nima?",
+      "options": [
+        "Sitoplazmadagi oziq moddalarning kislorod yordamida parchalanishi",
+        "Amyobaga faqat osh tuzi ta'sir qilishi",
+        "Sista po'stining yorilishi",
+        "Ohak chig'anoqning erishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Amyobaning hayvon organizmi ekanligini isbotlovchi xususiyatlar qaysi qatorda to'g'ri berilgan?",
+      "options": [
+        "Tayyor organik moddalar bilan oziqlanishi (geterotrof), faol ta'sirlanishi va harakatlanishi",
+        "Fotosintez qilishi va xlorofill donachalariga egaligi",
+        "Qalin sellyuloza po'stga egaligi va spora hosil qilishi",
+        "Faqat avtotrof oziqlanishi va ildiz hosil qilishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Amyobaning oziqlanish usuli biologiyada nima deb ataladi (soxta oyoqlari bilan oziqni qamrab olishi)?",
+      "options": [
+        "Pinotsitoz",
+        "Fagotsitoz",
+        "Xemosintez",
+        "Transpiratsiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Amyoba sista hosil qilgan holatda quyidagi jarayonlardan qaysi biri sodir BO'LMAYDI?",
+      "options": [
+        "Harakatlanish va soxta oyoqlar chiqarish",
+        "Noqulay muhitdan himoyalanish",
+        "Tiriklikni saqlab qolish",
+        "Tashqi qalin qobiq ichida turish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Ichburug' amyobasi bilan zararlangan odamda qanday patologik jarayon yuzaga keladi?",
+      "options": [
+        "Ichak devori yemirilib, qon ketadi va qonli ichburug' kelib chiqadi",
+        "O'pka to'qimasi yallig'lanadi",
+        "Qon tomirlarida bezgak paraziti ko'payadi",
+        "Teri sirtida yiringli yaralar toshadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Foraminiferalarning chig'anoqlari qanday kimyoviy birikmadan tashkil topgan?",
+      "options": [
+        "Kremniy dioksiddan",
+        "Ohakdan (kalsiy karbonatdan)",
+        "Faqat oqsildan",
+        "Xitindan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Nursimonlarning skeleti qanday kimyoviy element/birikmadan iborat?",
+      "options": [
+        "Ohakdan",
+        "Kremniydan (qumdan)",
+        "Sellyulozadan",
+        "Fosfordan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Soxta oyoqlilar sinfiga oid noto'g'ri mulohazani aniqlang.",
+      "options": [
+        "Oddiy amyoba sista hosil qilib noqulay sharoitdan saqlanadi",
+        "Ichburug' amyobasi dengizlarda ohaktosh konlarini hosil qiladi",
+        "Foraminiferalar ohak chig'anoqli dengiz bir hujayralilaridir",
+        "Nursimonlar kremniy skeletga ega"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Amyobaning harakatlanishi va tana shaklining o'zgaruvchanligi qaysi tuzilmaning mavjud emasligi bilan bevosita bog'liq?",
+      "options": [
+        "Yadroning",
+        "Qalin va qattiq hujayra qobig'ining (po'stining)",
+        "Sitoplazmaning",
+        "Membrananing"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Moddalar almashinuvi natijasida amyoba hujayrasida qanday energiyaga ehtiyoj qondiriladi?",
+      "options": [
+        "Faqat issiqlik energiyasi to'planib hujayra qiziydi",
+        "Oziq moddalar kislorod yordamida parchalanib, amyoba hayoti uchun zarur bo'lgan energiya ajraladi",
+        "Yorug'lik energiyasi hosil bo'ladi",
+        "Atom energiyasi sintezlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Bir hujayrali hayvonlar va ularning inson amaliyotidagi/tabiatdagi ahamiyati bo'yicha to'g'ri xulosani toping:",
+      "options": [
+        "Foraminiferalar — ohaktosh konlari; Nursimonlar — metall silliqlash; Ichburug' amyobasi — kasallik qo'zg'atuvchi",
+        "Foraminiferalar — kasallik qo'zg'atuvchi; Nursimonlar — ohaktosh konlari",
+        "Amyoba — metall silliqlash; Foraminifera — sista hosil qilmaydi",
+        "Barcha soxta oyoqlilar faqat odamda parazitlik qiladi"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
