@@ -1,0 +1,557 @@
+{
+  "topicId": 4,
+  "title": "Xivchinlilar sinfi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Xivchinlilar sinfiga mansub bir hujayrali hayvonlarning tana sirti tuzilishining amyobadan asosiy farqi nimada?",
+      "options": [
+        "Hujayra sirti qalin suyak qatlami bilan qoplangan",
+        "Tanasi qattiq qobiq bilan qoplangan bo'lib, doimiy shaklga ega",
+        "Tana sirtida qobiq umuman bo'lmaydi, faqat oqsil pardasi bor",
+        "Sirtida faqat ohak chig'anoq joylashgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Xivchinlilarning eng tipik vakili qaysi hayvon hisoblanadi?",
+      "options": [
+        "Oddiy amyoba",
+        "Tufelka",
+        "Yashil evglena",
+        "Foraminifera"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Xivchinlilar qanday organoidlar yordamida harakatlanadi?",
+      "options": [
+        "Soxta oyoqlar yordamida",
+        "Bitta yoki bir nechta xivchinlar yordamida",
+        "Faqat kiprikchalar yordamida",
+        "Suyuqlik reaktiv oqimi yordamida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Yashil evglena qanday suv havzalarida hayot kechiradi?",
+      "options": [
+        "Faqat ochiq dengiz va okeanlarning sho'r suvlarida",
+        "Ko'lmak suvlarda va hovuzlarda",
+        "Tez oqar muzdek tog' daryolarida",
+        "Faqat yerosti artezian suvlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Yashil evglenaning o'lchami oddiy amyobaga nisbatan qanday farq qiladi?",
+      "options": [
+        "Amyobadan 2 barobar katta",
+        "Amyoba bilan bir xil hajmda",
+        "Amyobaga nisbatan 5–10 marta kichik",
+        "Amyobadan 100 marta kichik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Yashil evglenaning tana shakli qanday tuzilgan?",
+      "options": [
+        "Sharsimon bo'lib, o'rtasi qalinlashgan",
+        "Duksimon bo'lib, oldingi va keyingi tomoni ingichkalashgan",
+        "Yassi plastinkasimon va to'g'ri to'rtburchak",
+        "Doimiy o'zgaruvchan shaklga ega"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Yashil evglenani oldinga siljituvchi xivchinning harakatlanish mexanizmi nimaga o'xshaydi?",
+      "options": [
+        "Qush qanotining qoqilishiga",
+        "Eshkakning urilishiga",
+        "Vintga o'xshash buralishiga",
+        "Prujina kabi qisqarishiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Yashil evglena nima sababdan amyobadan farqli ravishda doimiy shaklga ega?",
+      "options": [
+        "Tanasi ichida suyak skeleti bo'lganligi uchun",
+        "Hujayrasi qattiq va qayishqoq yupqa qobiq bilan qoplanganligi tufayli",
+        "Sitoplazmasi qotib qolganligi sababli",
+        "Unda vakuolalar bo'lmaganligi uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Evglena sitoplazmasida joylashgan asosiy organoidlar to'g'ri sanalgan qatorni toping.",
+      "options": [
+        "Bitta yirik yadro, qisqaruvchi vakuola va qizil dog'ga o'xshash «ko'zcha»",
+        "Ikkita teng yadro va bitta hazm qilish vakuolasi",
+        "Faqat ko'plab mayda yadrolar va xitin plastinkalar",
+        "Kiprikchalar va ohak kristallar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Evglena sitoplazmasidagi yashil tanachalar nima deb ataladi?",
+      "options": [
+        "Xromatinlar",
+        "Xromatoforalar",
+        "Mitoxondriyalar",
+        "Ribosomalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Xromatoforalar tarkibida qaysi fotosintez qiluvchi pigment mavjud?",
+      "options": [
+        "Xlorofill",
+        "Karotin",
+        "Antotsian",
+        "Fikobilin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Yorug'lik tushib turganda evglena xromatoforalarida qanday jarayon kechadi va nima hosil bo'ladi?",
+      "options": [
+        "Mineral tuzlar parchalanishi sodir bo'ladi",
+        "Fotosintez sodir bo'lib, organik moddalar hosil bo'ladi",
+        "Kislorod yutilib, ammiak hosil bo'ladi",
+        "Sista po'sti sintezlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Evglena fotosintez jarayonida hosil bo'lgan organik moddalarni nimalarga sarflaydi?",
+      "options": [
+        "Faqat xivchinini tashlab yuborishga",
+        "O'sishi, rivojlanishi va ko'payishi uchun",
+        "Ohaktosh konlarini hosil qilishga",
+        "Uyqu kasalligini keltirib chiqarishga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Qorong'i sharoitda yashil evglena qanday oziqlanish turiga o'tadi?",
+      "options": [
+        "Avtotrof bo'lib, mineral moddalarni sintezlaydi",
+        "Hayvonlar singari tayyor organik moddalar bilan oziqlanadi",
+        "Butunlay oziqlanishdan to'xtab nobud bo'ladi",
+        "Faqat havodagi karbonat angidridni yutadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Yashil evglena uzoq muddat qorong'i joyda saqlanganda uning hujayrasida qanday o'zgarish sodir bo'ladi?",
+      "options": [
+        "Tanasi ikkiga ajralib ketadi",
+        "Xlorofilli yemirilib, hujayrasi rangsizlanadi",
+        "Xivchinlari soni 10 taga yetadi",
+        "Darhol ohak chig'anoq hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Rangsizlangan evglena qorong'ida qanday mexanizm orqali oziqlanadi?",
+      "options": [
+        "Soxta oyoqlari bilan bakteriyalarni qamrab oladi",
+        "Suvda erigan organik moddalarni butun tana yuzasi orqali shimib oziqlanadi",
+        "Maxsus og'iz teshigi orqali suvo'tlarini yutadi",
+        "Xlorofillini qayta sintezlab fotosintezni davom ettiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Yashil evglenaning ham yorug'likda fotosintez qilishi (avtotrof), ham qorong'ida tayyor organik modda bilan oziqlanishi (geterotrof) biologiyada nima deb ataladi?",
+      "options": [
+        "Avtotrof oziqlanish",
+        "Mikxotrof (aralash) oziqlanish",
+        "Parazit oziqlanish",
+        "Xemotrof oziqlanish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Evglenaning fotosintez qilish xususiyati qaysi muhim evolyutsion xulosani isbotlaydi?",
+      "options": [
+        "O'simliklar bilan hayvonlarning bitta umumiy ajdoddan kelib chiqqanligini",
+        "Hayvonlarning o'simliklardan ancha oldin paydo bo'lganini",
+        "O'simliklar bilan hayvonlar o'rtasida hech qanday qarindoshlik yo'qligini",
+        "Barcha bir hujayralilar parazit ekanligini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Yashil evglena qanday gaz bilan va qaysi yo'l orqali nafas oladi?",
+      "options": [
+        "Havodagi toza kislorod bilan faqat xivchini orqali",
+        "Suvda erigan kislorod bilan butun tanasi orqali",
+        "Suv tubidagi karbonat angidrid bilan «ko'zcha» orqali",
+        "Faqat azot gazi bilan qisqaruvchi vakuolasi orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Evglena tanasidagi ortiqcha suv va zararli almashinuv mahsulotlari qaysi organoid orqali chiqariladi?",
+      "options": [
+        "Hazm qilish vakuolasi",
+        "Qisqaruvchi vakuola",
+        "Xromatofora",
+        "Qizil «ko'zcha»"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Evglenada yorug'likni sezish vazifasini qaysi tuzilma bajaradi?",
+      "options": [
+        "Qisqaruvchi vakuola",
+        "Qizil dog'ga o'xshash «ko'zcha» (stigma)",
+        "Yirik yadro",
+        "Xivchin asosi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Evglenaning suvning yorug' tushib turgan tomoniga qarab harakatlanishi fanda qanday ta'sirlanish hodisasi deyiladi?",
+      "options": [
+        "Salbiy xemotaksis",
+        "Musbat fototaksis",
+        "Gidrotropizm",
+        "Geotaksis"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Yashil evglena qanday usul bilan ko'payadi?",
+      "options": [
+        "Jinsiy yo'l bilan urug'lanib",
+        "Ikkiga bo'linish orqali jinssiz ko'payadi",
+        "Kurtaklanish yo'li bilan",
+        "Sporalar orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Yashil evglenaning bo'linish jarayoni dastlab qanday boshlanadi?",
+      "options": [
+        "Eski xivchini tushib ketadi",
+        "Eski xivchinning yonida ikkinchi yangi xivchin hosil bo'ladi",
+        "Hujayra qobig'i butunlay eriydi",
+        "Yadro to'rtta bo'lakka bo'linadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Evglena tanasining bo'linish tekisligi qanday o'tadi?",
+      "options": [
+        "Tana bo'ylab ko'ndalangiga",
+        "Butun tana bo'ylab ikki xivchin hamda yadro o'rtasidan bo'ylama yo'nalishda",
+        "Tana bo'ylab diagonal ravishda",
+        "Faqat orqa tomondan qisqarib"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Noqulay tashqi sharoit (sovuq, qurib qolish) yuz berganda evglena qanday holatga o'tadi?",
+      "options": [
+        "Boshqa hovuzlarga uchib o'tadi",
+        "Xivchini tushib ketadi, tanasi yumaloqlanadi va qalin qobiq bilan o'ralib sistaga aylanadi",
+        "Darhol 1000 ta mayda hujayraga bo'linadi",
+        "Yorug'likka qarab cheksiz suzadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Volvoks qanday tuzilishga ega bo'lgan bir hujayrali hayvon hisoblanadi?",
+      "options": [
+        "Yakka yashovchi duksimon organizm",
+        "Koloniya bo'lib yashovchi organizm",
+        "Ko'p hujayrali yuksak umurtqasiz",
+        "Ildizli o'simlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Volvoks koloniyasi tashqi ko'rinishidan nimaga o'xshaydi va diametri qancha bo'ladi?",
+      "options": [
+        "Diametri 10 sm bo'lgan yassi plastinkaga",
+        "Diametri 1 mm keladigan yashil sharga",
+        "Diametri 5 mm bo'lgan shaffof ipga",
+        "Diametri 0,1 mm bo'lgan qizil kubga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Volvoks koloniyasi qanday shakldagi va nechta xivchinli hujayralardan tashkil topgan?",
+      "options": [
+        "Yulduzsimon bitta xivchinli hujayralardan",
+        "Noksimon ikki xivchinli hujayralardan",
+        "Dumaloq xivchinsiz hujayralardan",
+        "Duksimon to'rt xivchinli hujayralardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Bitta volvoks koloniyasida taxminan qancha hujayra birlashgan bo'ladi?",
+      "options": [
+        "10–20 ta",
+        "Mingga yaqin",
+        "100 000 dan ortiq",
+        "Faqat 2 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Volvoks sharida hujayralar qayerda joylashadi va ular o'zaro nima vositasida bog'langan?",
+      "options": [
+        "Sharning markazida; suyaklar orqali",
+        "Sharning sirtida; sitoplazmatik ipchalar yordamida",
+        "Sharning tubida; xivchinlar chigallashuvi orqali",
+        "Shar tashqarisida; pilla po'sti orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Volvoks sharining ichki qismi nima bilan to'lgan bo'ladi?",
+      "options": [
+        "Havo pufakchalari bilan",
+        "Quyuq dildiroq modda bilan",
+        "Qattiq ohak eritmasi bilan",
+        "Sof xlorofill suyuqligi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Volvoks hujayralarining yashil rangda bo'lishiga sabab nima?",
+      "options": [
+        "Ular tanasida xromatoforalar va xlorofill borligi sababli",
+        "Iflos suvning bo'yoqlari singishi tufayli",
+        "Qon zardobining rangi o'tishi natijasida",
+        "Ularda ko'zcha qizil emas, yashil bo'lganligi uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Parazit xivchinlilardan bo'lgan tripanosoma qayerda yashaydi va qanday xavfli kasallikni keltirib chiqaradi?",
+      "options": [
+        "O'zbekiston daryolarida baliqlar ichagida; vabo kasalligini",
+        "Tropik Afrikadagi xalqlar qoni zardobida; uyqu kasalligini",
+        "Odam va sutemizuvchilar ichagida; qonli ichburug'ni",
+        "Odam o'pkasida; sil kasalligini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Uyqu kasalligining qo'zg'atuvchisi qaysi bir hujayrali hayvon hisoblanadi?",
+      "options": [
+        "Oddiy amyoba",
+        "Yashil evglena",
+        "Tripanosoma",
+        "Leyshmaniya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Leyshmaniya paraziti qaysi hududlarda tarqalgan?",
+      "options": [
+        "Faqat Shimoliy qutbda",
+        "O'zbekistonning janubidagi ayrim hududlarda va tropik mamlakatlarda",
+        "Faqat Tinch okeani orollarida",
+        "G'arbiy Yevropaning barcha sovuq o'lkalarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Leyshmaniya odam organizmida qanday patologik jarayon (kasallik belgisi)ni yuzaga keltiradi?",
+      "options": [
+        "Qonli ichburug' paydo qiladi",
+        "Odam yuzi va ba'zan qo'l terisida uzoq vaqt tuzalmaydigan yara hosil qiladi",
+        "Bosh miyaga o'tib doimiy uyqu chaqiradi",
+        "Suyak to'qimasini eritib yuboradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Quyidagi bir hujayralilar va ularning qo'zg'atadigan kasalliklarini to'g'ri moslashtiring:\n1) Ichburug' amyobasi\n2) Tripanosoma\n3) Leyshmaniya\na) Uyqu kasalligi\nb) Yuz va qo'l terisida uzoq tuzalmaydigan yara\nc) Qonli ichburug'",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Yashil evglena va oddiy amyobani o'zaro taqqoslab, to'g'ri berilgan fikrni aniqlang.",
+      "options": [
+        "Amyobada doimiy qobiq bor, evglenada esa qobiq yo'q",
+        "Evglena doimiy shaklga ega va fotosintez qila oladi; amyoba esa o'zgaruvchan shaklga ega va fotosintez qilolmaydi",
+        "Amyobada bitta xivchin bor, evglenada esa soxta oyoqlar",
+        "Ikkalasi ham faqat qorong'ida geterotrof oziqlanadi, xlorofilli bo'lmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Quyidagi organoidlar va ularning yashil evglenadagi funksiyalarini to'g'ri moslashtiring:\n1) Xromatoforalar\n2) Qizil «ko'zcha»\n3) Qisqaruvchi vakuola\n4) Xivchin\na) Harakatlanish (oldinga siljish)\nb) Yorug'likni sezish (fotoresepsiya)\nc) Fotosintez qilish\nd) Ortiqcha suv va zararli moddalarni chiqarish",
+      "options": [
+        "1-c, 2-b, 3-d, 4-a",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Yashil evglenaning bo'linishida qatnashuvchi strukturalar ketma-ketligi to'g'ri ko'rsatilgan javobni aniqlang.",
+      "options": [
+        "Avval yangi xivchin hosil bo'ladi, so'ngra tana bo'ylab ikki xivchin va yadro o'rtasidan bo'ylama ajraladi",
+        "Avval yadro yo'qoladi, so'ngra xivchin ikkiga bo'linadi",
+        "Avval xromatoforalar to'kiladi, keyin tana ko'ndalangiga kesiladi",
+        "Avval qalin sista hosil bo'ladi, keyin uning ichida kurtak otadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Yashil evglenada qorong'ilik ta'sirida xlorofillning parchalanishi nimani ko'rsatadi?",
+      "options": [
+        "Oziqlanish xususiyatining muhit omillariga bog'liq ravishda o'zgaruvchanligini",
+        "Evglenaning zaharli ekanligini",
+        "Uning faqat mineral moddalarni qabul qila olishini",
+        "Evglenaning zudlik bilan nobud bo'lishini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Volvoks koloniyasining sharsimon shakl hosil qilishi va hujayralarining ixtisoslashuvi biologiyada qaysi jarayonning boshlang'ich bosqichi sifatida qaraladi?",
+      "options": [
+        "Parazitizmning kelib chiqishi",
+        "Bir hujayralilikdan ko'p hujayralilikka o'tish",
+        "Umurtqali hayvonlarning paydo bo'lishi",
+        "Gulli o'simliklarning shakllanishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Yashil evglena va volvoks o'rtasidagi umumiy biologik o'xshashlik nimada?",
+      "options": [
+        "Ikkalasi ham koloniyali shaklda yashaydi",
+        "Ikkalasining hujayralarida ham xlorofill pigmenti bo'lib, fotosintez qila oladi va xivchinlari bor",
+        "Ikkalasida ham ikkitadan yadro bo'ladi",
+        "Ikkalasi ham odam qonida parazitlik qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Volvoks shari sirtidagi noksimon hujayralar nechtadan xivchinga ega?",
+      "options": [
+        "Bitta",
+        "Ikkita",
+        "To'rtta",
+        "Ko'plab kiprikchalarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Tripanosomaning yashash muhiti to'g'ri ko'rsatilgan qatorni aniqlang.",
+      "options": [
+        "Ifloslangan hovuz va ko'llar tubi",
+        "Tropik Afrikadagi aholining qon zardobi",
+        "O'simliklarning o'tkazuvchi naylari",
+        "Sho'r dengizlarning tubidagi qumlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Leyshmaniya keltirib chiqaradigan kasallik asosan qaysi a'zolarda namoyon bo'ladi?",
+      "options": [
+        "Oshqozon va ingichka ichak devorida",
+        "Yuz va ba'zan qo'l terisida",
+        "Nerv tolalarida va orqa miyada",
+        "O'pka alveolalarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Yashil evglena sista hosil qilganda qaysi organoidini yo'qotadi (tashlab yuboradi)?",
+      "options": [
+        "Yadrosini",
+        "Xivchinini",
+        "Xromatoforasini",
+        "Qisqaruvchi vakuolasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Yashil evglenaning duksimon tanasining qaysi qismlari ingichkalashgan bo'ladi?",
+      "options": [
+        "Faqat o'rta qismi",
+        "Oldingi va keyingi tomoni",
+        "Faqat orqa tomoni",
+        "Hech qayeri ingichkalashmagan, sharsimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Xivchinlilar sinfiga tegishli noto'g'ri hukmni belgilang.",
+      "options": [
+        "Yashil evglena yorug'likda fotosintez qiladi, qorong'ida geterotrof oziqlanadi",
+        "Volvoks shari ichida mingga yaqin yashil noksimon hujayralar birikib turadi",
+        "Tripanosoma O'zbekistonning janubida terida uzoq tuzalmaydigan yara hosil qiladi",
+        "Evglena amyobaga nisbatan 5–10 marta kichik bo'lib, bo'ylama bo'linadi"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
