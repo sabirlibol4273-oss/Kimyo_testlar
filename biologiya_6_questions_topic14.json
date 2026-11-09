@@ -2,5 +2,556 @@
   "topicId": 14,
   "title": "14-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Novda nima hisobiga o'sadi va uzayadi?",
+      "options": [
+        "Barglarning kattalashishi hisobiga",
+        "Ildiz tukchalarining o'sishi hisobiga",
+        "Uchki kurtakdagi o'sish konusi hujayralarining bo'linishi hisobiga",
+        "Po'kak qavatining qalinlashishi hisobiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "O'sish konusi qayerda joylashgan?",
+      "options": [
+        "Ildiz qinchasida",
+        "O'zak markazida",
+        "Barg qo'ltig'idagi tangachada",
+        "Novda uchidagi uchki kurtakda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "O'sish konusini qanday ko'rish mumkin?",
+      "options": [
+        "Ildizni ko'ndalangiga kesib",
+        "Poya uchidagi kurtakning boshlang'ich barglarini yulib tashlab",
+        "Po'stloqni ko'chirib",
+        "Bargni suvga solib"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "O'sish konusi qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Yadrosiz hujayralardan",
+        "Po'kaklashgan hujayralardan",
+        "Yupqa qobiqli hujayralardan",
+        "Qalin qobiqli o'lik hujayralardan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "O'sish konusi hujayralari doim bo'linib turishi natijasida nima sodir bo'ladi?",
+      "options": [
+        "Barglar to'kiladi",
+        "Poyaning uchki qismi bo'yiga o'sadi",
+        "Poya eniga o'sadi",
+        "Po'stloq qalinlashadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Asosiy poya nimadan o'sib chiqadi?",
+      "options": [
+        "Ildizmevadan",
+        "Urug' qobig'idan",
+        "Murtakning boshlang'ich poyasidan",
+        "Yon kurtakdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Yon novdalar qayerdan hosil bo'ladi?",
+      "options": [
+        "Ildizdan",
+        "O'zakdan",
+        "Bargdan",
+        "Asosiy poyadan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Yon novdalar qanday qilib bo'yiga o'sadi?",
+      "options": [
+        "Po'kak hisobiga",
+        "Uchidagi o'sish konusli kurtak hujayralari bo'linishi hisobiga",
+        "Ildiz tukchalari hisobiga",
+        "Kambiy hisobiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Poyaning o'suvchi qismidagi hujayralar qachon tez bo'linadi va tez o'sadi?",
+      "options": [
+        "Oziq moddalar kam bo'lsa",
+        "Qishda sovuqda",
+        "Oziq moddalarga qancha boy bo'lsa",
+        "Suv umuman bo'lmasa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Bahorda o'simliklar nima sababdan tez o'sa boshlaydi?",
+      "options": [
+        "Kunlar sovishi bilan",
+        "Kambiy to'xtashi bilan",
+        "Barglar to'kilishi bilan",
+        "Quyosh nuri ta'sirida havo isishi bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Poyaning bo'yiga o'sishi nimaga bog'liq?",
+      "options": [
+        "Yasmiqchalarga",
+        "Uchki o'sish nuqtasiga",
+        "Ildiz qinchasiga",
+        "O'zakka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Poyaning uchi kesib (chilpib) tashlansa nima bo'ladi?",
+      "options": [
+        "Eniga o'sish to'xtaydi",
+        "Tezroq bo'yiga o'sadi",
+        "O'simlik darhol quriydi",
+        "Bo'yiga o'sishdan to'xtaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Poya uchi chilpilgach yon novdalar qanday o'zgaradi?",
+      "options": [
+        "Ildizga aylanadi",
+        "O'sishdan to'xtaydi",
+        "Ko'plab o'sib chiqadi",
+        "Butunlay nobud bo'ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Poya uchi chilpilganda natijada poya qanday bo'ladi?",
+      "options": [
+        "Shoxlanmaydi",
+        "Bargsiz qoladi",
+        "Juda shoxlab ketadi",
+        "Ingichkalashadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Poyaning chilpishdan keyin shoxlash xossasidan qayerda ko'proq foydalaniladi?",
+      "options": [
+        "Chorvachilikda",
+        "Asalarichilikda",
+        "Baliqchilikda",
+        "Bog'dorchilikda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Bog'dorchilikda poya uchini chilpishdan maqsad nima?",
+      "options": [
+        "O'simlikka maqsadga muvofiq shakl berish va mo'l hosil olish",
+        "O'simlikni bo'yiga o'stirish",
+        "Yon novdalarni yo'qotish",
+        "Ildizni ko'paytirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "O'simliklar nimaga qarab har xil tezlikda o'sadi?",
+      "options": [
+        "Turiga va o'sish sharoitiga qarab",
+        "Faqat gul soniga qarab",
+        "Faqat yoshiga qarab",
+        "Faqat barg rangiga qarab"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Archa qayerda keng tarqalgan?",
+      "options": [
+        "Daryo bo'ylarida",
+        "Tog'larda",
+        "Cho'llarda",
+        "Tropik o'rmonlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Archa qanday tezlikda o'sadi?",
+      "options": [
+        "Bir kunda 2-3 sm",
+        "Sekin",
+        "Bir yozda 10 m",
+        "Juda tez"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Besh yoshli archaning bo'yi qanchaga yetadi?",
+      "options": [
+        "50-60 sm",
+        "10 m",
+        "1-2 m",
+        "10-15 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Tok kabi ilashib o'suvchi o'simliklar bir yozda qancha o'sadi?",
+      "options": [
+        "10 m gacha",
+        "1 m gacha",
+        "10-15 sm",
+        "50 m gacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "O'zbekistonda tez o'sadigan daraxtlar qaysi qatorda berilgan?",
+      "options": [
+        "Nok, do'lana, qatrong'i, pista",
+        "Tol, terak, chinor, yong'oq, gilos",
+        "Do'lana, tol, nok",
+        "Archa, nok, pista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "O'zbekistonda sekin o'sadigan daraxtlar qaysi qatorda berilgan?",
+      "options": [
+        "Chinor, nok, tol",
+        "Tol, terak, chinor",
+        "Yong'oq, gilos, terak",
+        "Nok, do'lana, qatrong'i, pista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Quyidagilardan qaysi biri tez o'sadigan daraxt?",
+      "options": [
+        "Do'lana",
+        "Gilos",
+        "Qatrong'i",
+        "Pista"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Quyidagilardan qaysi biri sekin o'sadigan daraxt?",
+      "options": [
+        "Terak",
+        "Qatrong'i",
+        "Tol",
+        "Chinor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Ortiqchasini toping (o'sish tezligi bo'yicha): tol, terak, chinor, pista.",
+      "options": [
+        "Chinor",
+        "Tol",
+        "Terak",
+        "Pista"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Ortiqchasini toping (o'sish tezligi bo'yicha): nok, do'lana, gilos, qatrong'i.",
+      "options": [
+        "Gilos",
+        "Nok",
+        "Qatrong'i",
+        "Do'lana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Poya hayoti davomida qanday o'sadi?",
+      "options": [
+        "Ham bo'yiga, ham eniga",
+        "Faqat bo'yiga",
+        "Faqat eniga",
+        "Umuman o'smaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Bahorda shira harakati boshlanishi bilan oziq moddalar qaysi qavatga ham yetib boradi?",
+      "options": [
+        "Po'stloqqa",
+        "O'zakka",
+        "Epidermaga",
+        "Kambiyga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Kambiy hujayralari qachon bo'lina boshlaydi?",
+      "options": [
+        "Suvsiz qolganda",
+        "Oziq moddalar va suv bilan ta'minlanganda",
+        "Qishki sovuqda",
+        "Barglar to'kilganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Kambiy hujayrasi qanday bo'linadi?",
+      "options": [
+        "Bo'linmaydi",
+        "Ko'ndalangiga to'rtga",
+        "Uchga",
+        "Uzunasiga ikkiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Kambiyning bo'lingan hujayralarining ko'p qismi nimaga aylanadi?",
+      "options": [
+        "Ichkariga o'sib, yog'ochlik hujayralariga",
+        "Po'kak hujayralariga",
+        "Tashqariga o'sib, lub hujayralariga",
+        "O'zak hujayralariga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Kambiydan tashqariga qarab o'sgan hujayralar nimaga aylanadi?",
+      "options": [
+        "Epidermaga",
+        "Yog'ochlik hujayralariga",
+        "Lub hujayralariga",
+        "O'zak hujayralariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Nima sababdan yog'ochlik lubga qaraganda yo'g'on bo'ladi?",
+      "options": [
+        "Lub hujayralari tez nobud bo'ladi",
+        "Lub umuman o'smaydi",
+        "Kambiy hujayralarining ko'p qismi ichkariga o'sib yog'ochlikka aylanadi",
+        "Yog'ochlik o'zakdan hosil bo'ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Bahorda kambiyning bo'lingan hujayralari qanday bo'ladi?",
+      "options": [
+        "Mayda",
+        "O'lik",
+        "Yirik",
+        "Bo'linmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Bahorda kambiy hujayralari yirik bo'lishining sababi nima?",
+      "options": [
+        "Kambiyga suv kam boradi",
+        "Barglar to'kilgan bo'ladi",
+        "Kambiyga suv va oziq moddalar ko'p boradi",
+        "Havo sovuq bo'ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Yozda kambiy hujayralari qanday o'zgaradi?",
+      "options": [
+        "Maydalashadi",
+        "Bo'linishdan butunlay to'xtaydi",
+        "Yiriklashadi",
+        "Yashil rangga kiradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Yozda kambiyning bo'linadigan hujayralari maydalashishiga sabab nima?",
+      "options": [
+        "Kunlar soviydi",
+        "Suv ko'payadi",
+        "Kurtaklar ochiladi",
+        "Kambiyga boradigan oziq moddalar va suv kamayadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Kambiy hujayralari qachon bo'linishdan to'xtaydi?",
+      "options": [
+        "Kuzga borib",
+        "Erta bahorda",
+        "Yozning boshida",
+        "Yanvarda bo'linishni boshlaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Kuzda to'xtagan kambiy qachon yana bo'lina boshlaydi?",
+      "options": [
+        "Kelgusi yil bahorda",
+        "Darhol kuzning oxirida",
+        "Hech qachon",
+        "Shu yil qishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Har yili bahordan kuzgacha nima hosil bo'ladi?",
+      "options": [
+        "Yangi yog'ochlik qavat halqasi",
+        "Yangi epiderma",
+        "Yangi o'zak",
+        "Yangi o'sish konusi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Yangi yog'ochlik halqasi oldingi yillarda hosil bo'lgan yog'ochlikni qayerdan o'rab oladi?",
+      "options": [
+        "Faqat yuqoridan",
+        "O'zak tomondan",
+        "Tashqi tomondan",
+        "Ichki tomondan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Kambiy hujayralari kattaligining fasllar bo'yicha o'zgarishi to'g'ri berilgan javobni toping.",
+      "options": [
+        "Barcha fasllarda bir xil",
+        "Bahorda to'xtaydi → yozda yirik → kuzda mayda",
+        "Bahorda yirik → yozda mayda → kuzda bo'linish to'xtaydi",
+        "Bahorda mayda → yozda yirik → kuzda bo'linish kuchayadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Moslang: 1) bo'yiga o'sish, 2) eniga o'sish; a) kambiy, b) o'sish konusi.",
+      "options": [
+        "1a, 2a",
+        "1b, 2b",
+        "1b, 2a",
+        "1a, 2b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Moslang: 1) kambiydan ichkariga o'sgan hujayralar, 2) kambiydan tashqariga o'sgan hujayralar; a) lub, b) yog'ochlik.",
+      "options": [
+        "1b, 2a",
+        "1a, 2a",
+        "1b, 2b",
+        "1a, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Moslang: 1) besh yoshli archa bo'yi, 2) tokning bir yozdagi o'sishi; a) 10 m gacha, b) 10-15 sm.",
+      "options": [
+        "1a, 2a",
+        "1a, 2b",
+        "1b, 2b",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Moslang: 1) tez o'sadigan daraxtlar, 2) sekin o'sadigan daraxtlar; a) tol, b) nok, c) chinor, d) pista.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "To'g'ri fikrlarni toping: 1) O'sish konusi yupqa qobiqli hujayralardan iborat; 2) Poya uchi chilpilsa yon novdalar ko'payadi; 3) Archa juda tez o'sadi; 4) Yog'ochlik lubga qaraganda yo'g'on bo'ladi.",
+      "options": [
+        "1, 2, 3",
+        "1, 2, 4",
+        "2, 3, 4",
+        "1, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Noto'g'ri fikrlarni toping: 1) Kambiy hujayrasi uzunasiga ikkiga bo'linadi; 2) Yozda kambiy hujayralari yiriklashadi; 3) Har yili yangi yog'ochlik halqasi hosil bo'ladi; 4) Pista tez o'sadigan daraxt.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "1, 2",
+        "3, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Kambiy hujayralarining ko'p qismi lub hujayralariga aylanadi",
+        "Kuzda kambiy bo'linishdan to'xtaydi",
+        "Poyaning bo'yiga o'sishi uchki o'sish nuqtasiga bog'liq",
+        "Tok bir yozda 10 m gacha o'sadi"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
