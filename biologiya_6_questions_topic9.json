@@ -2,5 +2,314 @@
   "topicId": 9,
   "title": "9-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ildizlarning shakl o'zgarishi qanday ataladi?",
+      "options": [
+        "Metamorfoz",
+        "Meristema",
+        "Kambiy",
+        "Fotosintez"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Ildizlar nimaga qarab turlicha shakllarda bo'ladi?",
+      "options": [
+        "Gul rangiga qarab",
+        "Bajaradigan vazifalariga qarab",
+        "Tuproq rangiga qarab",
+        "Barglar soniga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Bajaradigan vazifasiga qarab shakli o'zgargan ildizlar nima deyiladi?",
+      "options": [
+        "Popuk ildizlar",
+        "Metamorfozlashgan ildizlar",
+        "O'q ildizlar",
+        "Yon ildizlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Matnda shakli o'zgargan ildizlarning qaysi turlari keltirilgan?",
+      "options": [
+        "Ildiz tukchalari va ildiz qinchasi",
+        "O'q va popuk ildizlar",
+        "Ildizmevalar, tayanch ildizlar, havo ildizlari",
+        "Asosiy, yon, qo'shimcha ildizlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Ildizmevalar qaysi ildizning shakli o'zgarishidan hosil bo'ladi?",
+      "options": [
+        "Asosiy ildizning",
+        "Qo'shimcha ildizning",
+        "Tayanch ildizning",
+        "Havo ildizining"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Ildizmevalarda asosiy ildiz qanday o'zgaradi?",
+      "options": [
+        "Ingichkalashib, uzayadi",
+        "Havoga ko'tariladi",
+        "Poyani tik tutib turadi",
+        "Yo'g'onlashadi va zaxira oziq modda to'playdi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Ildizmevaning asosiy vazifasi nima?",
+      "options": [
+        "Fotosintez qilish",
+        "Zaxira oziq modda to'plash",
+        "Havodan namlik olish",
+        "Poyani tik tutib turish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Qaysi qatorda faqat ildizmevali o'simliklar berilgan?",
+      "options": [
+        "Sabzi, sholg'om, turp",
+        "Sabzi, makkajo'xori, turp",
+        "Oqjo'xori, lavlagi, rediska",
+        "Makkajo'xori, oqjo'xori, sholg'om"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Quyidagilardan qaysi biri ildizmeva hosil qiladi?",
+      "options": [
+        "Oqjo'xori",
+        "Makkajo'xori",
+        "Lavlagi",
+        "Bug'doy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Quyidagilardan qaysi biri ildizmevaga misol bo'la olmaydi?",
+      "options": [
+        "Rediska",
+        "Makkajo'xori",
+        "Sabzi",
+        "Turp"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Ortiqchasini toping: sabzi, lavlagi, rediska, oqjo'xori.",
+      "options": [
+        "Sabzi",
+        "Rediska",
+        "Oqjo'xori",
+        "Lavlagi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Tayanch ildizlar qanday ildizlardir?",
+      "options": [
+        "Asosiy ildizning yo'g'onlashgan qismi",
+        "Bargdan chiqqan yon ildizlar",
+        "Ildiz tukchalari",
+        "Poyadan chiqqan qo'shimcha ildizlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Tayanch ildizlar qayerdan chiqadi?",
+      "options": [
+        "Bargdan",
+        "Asosiy ildizdan",
+        "Poyadan",
+        "Ildizmevadan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Tayanch ildizlarning vazifasi nima?",
+      "options": [
+        "Fotosintez qiladi",
+        "Poyani tik tutib turishga yordam beradi",
+        "Zaxira oziq modda to'playdi",
+        "Urug' hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Tayanch ildizlar qaysi o'simliklarda uchraydi?",
+      "options": [
+        "Lavlagi va sabzida",
+        "Makkajo'xori va oqjo'xorida",
+        "Turp va rediskada",
+        "Sabzi va sholg'omda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Ortiqchasini toping: sholg'om, turp, makkajo'xori, sabzi.",
+      "options": [
+        "Sholg'om",
+        "Turp",
+        "Makkajo'xori",
+        "Sabzi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Tayanch ildizlar kelib chiqishiga ko'ra qaysi ildiz turiga kiradi?",
+      "options": [
+        "Havo ildizi",
+        "Ildizmeva",
+        "Qo'shimcha ildiz",
+        "Asosiy ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Havo ildizlari qanday o'simliklarda bo'ladi?",
+      "options": [
+        "Makkajo'xori va oqjo'xorida",
+        "Barcha cho'l o'simliklarida",
+        "Sabzi va lavlagida",
+        "Tropiklarda o'sadigan ayrim o'simliklarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Havo ildizlari qaysi hududda o'sadigan o'simliklarga xos?",
+      "options": [
+        "Tog'larda",
+        "Cho'llarda",
+        "Tropiklarda",
+        "Qutblarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Moslang: 1) ildizmeva, 2) tayanch ildiz; a) sabzi, b) makkajo'xori, c) lavlagi, d) oqjo'xori.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Moslang: 1) ildizmeva, 2) tayanch ildiz; a) poyadan chiqadi, b) asosiy ildizdan hosil bo'ladi, c) zaxira oziq modda to'playdi, d) poyani tik tutib turadi.",
+      "options": [
+        "1 – b, c; 2 – a, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, c; 2 – b, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Moslang: 1) ildizmevalar, 2) tayanch ildizlar, 3) havo ildizlari; a) tropik o'simliklar, b) rediska, c) oqjo'xori.",
+      "options": [
+        "1b, 2c, 3a",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a",
+        "1b, 2a, 3c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "To'g'ri fikrlarni toping: 1) Ildizmevalar asosiy ildizdan hosil bo'ladi; 2) Tayanch ildizlar poyadan chiqadi; 3) Sabzida tayanch ildiz bo'ladi; 4) Havo ildizlari tropik o'simliklarda uchraydi.",
+      "options": [
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 3",
+        "1, 2, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Noto'g'ri fikrlarni toping: 1) Ildizlar vazifasiga qarab shaklini o'zgartiradi; 2) Makkajo'xori ildizmeva hosil qiladi; 3) Tayanch ildiz zaxira oziq modda to'playdi; 4) Turp ildizmevali o'simlik.",
+      "options": [
+        "1, 2",
+        "1, 4",
+        "3, 4",
+        "2, 3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Oqjo'xorida tayanch ildizlar bo'ladi",
+        "Sholg'om ildizmevali o'simlik",
+        "Ildizmevalar zaxira oziq modda to'playdi",
+        "Tayanch ildizlar asosiy ildizning yo'g'onlashishidan hosil bo'ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Qaysi javobda shakli o'zgargan ildiz turi va uning vazifasi to'g'ri berilgan?",
+      "options": [
+        "Ildizmeva – zaxira oziq modda to'plash",
+        "Tayanch ildiz – suvni yerosti suvlaridan olish",
+        "Ildizmeva – poyani tik tutish",
+        "Tayanch ildiz – zaxira oziq modda to'plash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Qaysi javobda o'simlik va uning shakli o'zgargan ildizi to'g'ri berilgan?",
+      "options": [
+        "Rediska – tayanch ildiz",
+        "Makkajo'xori – ildizmeva",
+        "Lavlagi – tayanch ildiz",
+        "Rediska – ildizmeva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Ildizmeva va tayanch ildizning kelib chiqishidagi farq qaysi javobda to'g'ri?",
+      "options": [
+        "Ildizmeva asosiy ildizdan, tayanch ildiz poyadan chiqqan qo'shimcha ildizdan",
+        "Ildizmeva poyadan, tayanch ildiz asosiy ildizdan",
+        "Ikkalasi ham asosiy ildizdan",
+        "Ikkalasi ham poyadan"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
