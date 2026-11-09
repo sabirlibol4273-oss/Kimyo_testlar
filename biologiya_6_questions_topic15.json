@@ -2,5 +2,457 @@
   "topicId": 15,
   "title": "15-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Barg qanday organ hisoblanadi?",
+      "options": [
+        "Novdaning yon vegetativ organi",
+        "Novdaning o'zak organi",
+        "Yerosti organi",
+        "Generativ organ"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Bargning funksiyalari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "Gul va meva hosil qilish",
+        "Faqat zaxira oziq to'plash",
+        "Tuproqdan suv shimish va tayanch",
+        "Fotosintez, transpiratsiya, gaz almashinuvi, vegetativ ko'payish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Bargning suv bug'latish funksiyasi qanday ataladi?",
+      "options": [
+        "Fotosintez",
+        "Metamorfoz",
+        "Faza",
+        "Transpiratsiya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Transpiratsiya nima?",
+      "options": [
+        "Vegetativ ko'payish",
+        "Suv bug'latish",
+        "Gaz almashinuvi",
+        "Organik modda hosil qilish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Barg asosan nechta qismdan tashkil topgan?",
+      "options": [
+        "Uch qismdan",
+        "Ikki qismdan",
+        "To'rt qismdan",
+        "Bir qismdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Bargning asosiy qismlari qaysilar?",
+      "options": [
+        "Yon bargcha va kurtak",
+        "Barg bandi va bo'g'im",
+        "Barg yaprog'i va barg bandi",
+        "Barg yaprog'i va kurtak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Ayrim o'simliklarda barg bandining pastki qismida nima bo'ladi?",
+      "options": [
+        "Ildizlar",
+        "Yon bargchalar",
+        "Kurtaklar",
+        "Gajaklar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Barglar poyaga odatda nima bilan birikadi?",
+      "options": [
+        "Yon bargchalar bilan",
+        "Barg yaprog'ining uchi bilan",
+        "Barg bandi bilan",
+        "Tomirlar bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Bandi bo'lmagan barglar qanday ataladi?",
+      "options": [
+        "Bandsiz barg",
+        "Tangacha barg",
+        "Yon bargcha",
+        "Bandli barg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Bandsiz barglar poyaga qanday birikadi?",
+      "options": [
+        "Yaprog'ining uchi bilan",
+        "Yon bargchalar bilan",
+        "Yaprog'ining pastki (ostki) qismi bilan",
+        "Barg bandi bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Qaysi qatorda bandli bargli o'simliklar berilgan?",
+      "options": [
+        "Lola, shirach, gulsafsar",
+        "Bug'doy, arpa, sholi",
+        "Makkajo'xori, lola, olma",
+        "Olma, o'rik, nok, terak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Qaysi qatorda bandsiz bargli o'simliklar berilgan?",
+      "options": [
+        "Yong'oq, anjir, tok",
+        "Bodring, qovun, terak",
+        "Lola, shirach, gulsafsar, bug'doy",
+        "Olma, o'rik, nok"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Quyidagilardan qaysi birining bargi bandli?",
+      "options": [
+        "Lola",
+        "Gulsafsar",
+        "Anjir",
+        "Sholi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Quyidagilardan qaysi birining bargi bandsiz?",
+      "options": [
+        "Yong'oq",
+        "Shirach",
+        "Bodring",
+        "Tok"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Ortiqchasini toping (barg bandi bo'yicha): olma, nok, qovun, arpa.",
+      "options": [
+        "Nok",
+        "Arpa",
+        "Olma",
+        "Qovun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Ortiqchasini toping (barg bandi bo'yicha): lola, bug'doy, sholi, o'rik.",
+      "options": [
+        "Sholi",
+        "O'rik",
+        "Lola",
+        "Bug'doy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Barg tomirlari nimaga qarab turlicha shoxlanadi?",
+      "options": [
+        "Faslga qarab",
+        "O'simlik turiga qarab",
+        "Barg rangiga qarab",
+        "Tuproq turiga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Bir va ikki urug'pallali o'simliklarni farqlashda bargning asosan nimasiga e'tibor beriladi?",
+      "options": [
+        "Hidiga",
+        "Tomirlanishiga",
+        "Rangiga",
+        "Kattaligiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Ikki urug'pallali o'simliklarning bargi qanday tomirlangan?",
+      "options": [
+        "Faqat yoysimon",
+        "Parallel va yoysimon",
+        "Patsimon va panjasimon (to'rsimon)",
+        "Faqat parallel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Bir urug'pallali o'simliklarning bargi qanday tomirlangan?",
+      "options": [
+        "Parallel va yoysimon",
+        "Faqat patsimon",
+        "Patsimon va panjasimon",
+        "Faqat to'rsimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Panjasimon tomirlanishning boshqa nomi nima?",
+      "options": [
+        "Bandsiz",
+        "Parallel",
+        "To'rsimon",
+        "Yoysimon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "To'rsimon tomirlanish qaysi qatordagi o'simliklarda yaxshi ko'rinadi?",
+      "options": [
+        "Bug'doy, arpa, makkajo'xori",
+        "Terak, chinor, olma, o'rik",
+        "Oqjo'xori, g'umay, arpa",
+        "Makkajo'xori, terak, g'umay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Parallel va yoysimon tomirlanish qaysi qatordagi o'simliklarga xos?",
+      "options": [
+        "Olma, nok, g'o'za",
+        "O'rik, tut, arpa",
+        "Terak, chinor, tut",
+        "Bug'doy, arpa, makkajo'xori, oqjo'xori, g'umay"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Quyidagilardan qaysi birining bargi to'rsimon tomirlangan?",
+      "options": [
+        "Bug'doy",
+        "G'o'za",
+        "G'umay",
+        "Oqjo'xori"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Quyidagilardan qaysi birining bargi parallel tomirlangan?",
+      "options": [
+        "G'umay",
+        "Nok",
+        "Tut",
+        "Chinor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "G'umay qaysi guruh o'simliklariga kiradi?",
+      "options": [
+        "Tuban o'simliklar",
+        "Ildizmevali",
+        "Ikki urug'pallali",
+        "Bir urug'pallali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "G'o'za qaysi guruh o'simliklariga kiradi?",
+      "options": [
+        "Bandsiz bargli",
+        "Ikki urug'pallali",
+        "Tuban o'simliklar",
+        "Bir urug'pallali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Ortiqchasini toping (tomirlanish bo'yicha): terak, chinor, tut, arpa.",
+      "options": [
+        "Chinor",
+        "Terak",
+        "Tut",
+        "Arpa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Ortiqchasini toping (tomirlanish bo'yicha): bug'doy, makkajo'xori, g'umay, nok.",
+      "options": [
+        "Nok",
+        "Bug'doy",
+        "G'umay",
+        "Makkajo'xori"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Poyadan tomirlar bo'ylab barglarga nima keladi?",
+      "options": [
+        "Faqat yorug'lik",
+        "Suv va unda erigan oziq moddalar",
+        "Fotosintezda hosil bo'lgan organik moddalar",
+        "Faqat kislorod"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Bargda fotosintez natijasida hosil bo'lgan organik moddalar qayerga o'tadi?",
+      "options": [
+        "Faqat kurtakka",
+        "Poyaga",
+        "Tuproqqa",
+        "Havoga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Bargdagi moddalar harakati to'g'ri berilgan javobni toping.",
+      "options": [
+        "Organik moddalar poyadan bargga, suv bargdan poyaga",
+        "Faqat suv bargdan poyaga",
+        "Suv va oziq moddalar poyadan bargga, organik moddalar bargdan poyaga",
+        "Moddalar bargda harakatlanmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Moslang: 1) bandli barg, 2) bandsiz barg; a) olma, b) lola, c) tok, d) makkajo'xori.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Moslang: 1) to'rsimon tomirlanish, 2) parallel tomirlanish; a) chinor, b) arpa, c) o'rik, d) oqjo'xori.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – a, b; 2 – c, d",
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Moslang: 1) ikki urug'pallali, 2) bir urug'pallali; a) parallel va yoysimon tomirlanish, b) patsimon va panjasimon tomirlanish.",
+      "options": [
+        "1b, 2b",
+        "1a, 2a",
+        "1a, 2b",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Qaysi o'simlik bargi ham bandsiz, ham parallel tomirlangan?",
+      "options": [
+        "Olma",
+        "Nok",
+        "Bug'doy",
+        "Terak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Qaysi o'simlik bargi ham bandli, ham to'rsimon tomirlangan?",
+      "options": [
+        "O'rik",
+        "Bug'doy",
+        "Makkajo'xori",
+        "Arpa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "To'g'ri fikrlarni toping: 1) Barg novdaning yon vegetativ organi; 2) Bandsiz barg poyaga yaprog'ining ostki qismi bilan birikadi; 3) Lolaning bargi bandli; 4) Bir urug'pallalilar bargi parallel tomirlangan.",
+      "options": [
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Noto'g'ri fikrlarni toping: 1) Transpiratsiya – suv bug'latish; 2) Makkajo'xori bargi to'rsimon tomirlangan; 3) Barg asosan ikki qismdan iborat; 4) Organik moddalar poyadan bargga o'tadi.",
+      "options": [
+        "3, 4",
+        "1, 3",
+        "1, 2",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Tutning bargi to'rsimon tomirlangan",
+        "Sholining bargi bandsiz bo'ladi",
+        "Barg gaz almashinuvida ishtirok etadi",
+        "Yong'oqning bargi bandsiz bo'ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Qaysi javobda o'simlik va uning bargi to'g'ri tavsiflangan?",
+      "options": [
+        "Gulsafsar – bandsiz barg",
+        "Anjir – bandsiz barg",
+        "Gulsafsar – bandli barg",
+        "Qovun – bandsiz barg"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
