@@ -1,0 +1,447 @@
+{
+  "topicId": 2,
+  "title": "Hayvon organizmining tuzilishi, hayvonlarni klassifikatsiya qilish",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hayvon va o‘simlik hujayralarining umumiy o‘xshash tuzilishi qaysi javobda to‘g‘ri keltirilgan?",
+      "options": [
+        "Ikkalasida ham qalin sellyuloza po‘st va xloroplastlar bo‘ladi",
+        "Hujayra membranasi (po‘sti), sitoplazmadagi vakuolalar, boshqa organoidlar va yadrodan iboratligi",
+        "Ikkalasida ham fotosintez qiluvchi yashil plastidalar mavjudligi",
+        "Faqat bitta yirik markaziy vakuola va qalin qobiqdan iboratligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Hayvon hujayrasining o‘simlik hujayrasidan asosiy farqlari to‘g‘ri ko‘rsatilgan qatorni aniqlang.",
+      "options": [
+        "Hayvon hujayrasi po‘sti yupqa, unda yashil rang beruvchi xloroplastlar bo‘lmaydi va fotosintez qilolmaydi",
+        "Hayvon hujayrasida yadro va sitoplazma mutlaqo bo‘lmaydi",
+        "Hayvon hujayrasining po‘sti juda qalin yog‘ochlashgan bo‘ladi",
+        "Hayvon hujayrasida faqat xlorofill pigmenti bo‘ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Hayvonlarning oziqlanish xususiyati o‘simliklardan qanday farq qiladi?",
+      "options": [
+        "Hayvonlar avtotrof bo‘lib, o‘zi organik modda sintezlaydi",
+        "Hayvonlar fotosintez qilolmaydi, ular o‘simliklar hosil qiladigan organik moddalar bilan oziqlanadi",
+        "Hayvonlar faqat mineral moddalar va karbonat angidrid bilan oziqlanadi",
+        "O‘simliklar tayyor organik moddalarni yutadi, hayvonlar esa anorganik moddalarni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Bir hujayralilar va o‘simliklar harakatiga doir qaysi fikr matnda istisno sifatida keltirilgan?",
+      "options": [
+        "Hamma bir hujayralilar fotosintez qiladi, hamma o‘simliklar o‘troq yashaydi",
+        "Bir hujayralilar orasida fotosintez qiluvchilar bor; o‘simliklar orasida esa xlamidomonada xivchinlar yordamida faol harakatlanadi",
+        "Bir hujayrali hayvonlar harakatlanmaydi, xlamidomonada esa parazitlik qiladi",
+        "O‘troq yashovchi hayvonlar eng tez harakatlanuvchi hisoblanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Qaysi hayvonlar faol harakatlanish xususiyatiga ega emas?",
+      "options": [
+        "Hasharotlar va qushlar",
+        "O‘troq yashovchi va ko‘pchilik parazit hayvonlar",
+        "Yirtqichlar va baliqlar",
+        "Suvda ham quruqlikda yashovchilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Matnga ko‘ra, ko‘p hujayrali hayvonlar hujayralari qanday shakllarda bo‘lishi mumkin?",
+      "options": [
+        "Yumaloq, kubsimon, duksimon, yulduzsimon, kiprikli va boshqa shakllarda",
+        "Faqat sharsimon va to‘g‘ri to‘rtburchak shaklda",
+        "Faqat ipsimon va disksimon shaklda",
+        "Faqat spiralsimon va ko‘pburchak shaklda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "To‘qima tushunchasiga berilgan to‘g‘ri ta’rifni aniqlang.",
+      "options": [
+        "Turli organlarning yig‘indisi",
+        "Bir-biriga o‘xshash tuzilgan va bir xil vazifani bajaradigan hujayralar guruhi",
+        "Faqat qon va suyaklardan iborat tuzilma",
+        "Faqat tashqi muhitdan himoya qiluvchi qavat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Qanday hayvonlar organizmida haqiqiy to‘qimalar va organlar rivojlanmagan?",
+      "options": [
+        "Sutemizuvchilar va qushlarda",
+        "Bir hujayrali va tuban ko‘p hujayrali hayvonlarda",
+        "Barcha xordali hayvonlarda",
+        "Sudralib yuruvchilar va suvda ham quruqlikda yashovchilarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Ko‘p hujayrali hayvon organizmida mavjud bo‘lgan 4 asosiy to‘qima turi to‘g‘ri ko‘rsatilgan qatorni toping.",
+      "options": [
+        "Epiteliy, biriktiruvchi, muskul, nerv",
+        "Po‘kak, yog‘ochlik, lub, kambiysi",
+        "Asosiy, o‘tkazuvchi, qoplovchi, mexanik",
+        "Silliq, ko‘ndalang-targ‘il, qon, limfa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Epiteliy to‘qimasining hujayraviy tuzilishi qanday tasvirlangan?",
+      "options": [
+        "Yulduzsimon nerv hujayralari va oraliq moddadan iborat",
+        "Zich joylashgan yassi, kubsimon yoki silindrsimon hujayralardan iborat",
+        "Suyuq plazma ichidagi erkin hujayralardan iborat",
+        "Uzun qisqaruvchi tolalardan iborat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Epiteliy to‘qimasining asosiy funksiyalari va organizmda joylashgan o‘rni qaysi javobda to‘g‘ri berilgan?",
+      "options": [
+        "Kislorod tashish; bosh miyada joylashgan",
+        "Organimni noqulay sharoitdan himoya qilish, faoliyatini boshqaradigan moddalar ishlab chiqarish; teri sirti va ichak devorining ichki yuzasini qoplash",
+        "Tayanch vazifasini bajarish; suyak va paylarni hosil qilish",
+        "Qisqarish orqali harakatlantirish; faqat yurak devorida joylashgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Biriktiruvchi to‘qimaning qanday xillari mavjud?",
+      "options": [
+        "Zich, siyrak va oraliq",
+        "Suyuq (qon), tig‘iz (suyak, tog‘ay) va g‘ovak (parenxima)",
+        "Silliq, ko‘ndalang-targ‘il va yurak",
+        "Himoya, ajratuvchi va sekretsiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Biriktiruvchi to‘qima turlari va ularning bajaradigan vazifalarini to‘g‘ri moslashtiring:\n1) Pay\n2) Qon\n3) Parenxima\n4) Suyak, tog‘ay\na) Kislorod va oziq moddalarni tashish\nb) Organlarni o‘zaro bog‘lash\nc) Tayanch vazifasi\nd) Zaxira oziq moddalar to‘plash",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-c, 2-a, 3-d, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Muskul to‘qimasining tuzilishi va asosiy funksiyasi qaysi qatorda to‘g‘ri berilgan?",
+      "options": [
+        "Yulduzsimon hujayralardan iborat bo‘lib, axborot uzatadi",
+        "Qisqarish xususiyatiga ega bo‘lgan muskul tolalaridan iborat bo‘lib, harakatlanish vazifasini bajaradi",
+        "Suyuq moddadan iborat bo‘lib, moddalar almashinuvini ta’minlaydi",
+        "Zich joylashgan silindrsimon hujayralardan iborat bo‘lib, himoya qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Nerv to‘qimasi nimalardan tashkil topgan?",
+      "options": [
+        "Faqat suyuq oraliq moddadan",
+        "Yulduzsimon nerv hujayralari va ular orasidagi oraliq moddadan",
+        "Yassi kubsimon shakldagi zich hujayralardan",
+        "Qisqaruvchi elastik tolalardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Nerv to‘qimasiga mansub tuzilmalar to‘g‘ri sanalgan qatorni toping.",
+      "options": [
+        "Teri sirti va bezlar",
+        "Bosh miya, orqa miya va ulardan tarqaladigan nerv tolalari",
+        "Suyak, tog‘ay va paylar",
+        "Yurak devori va qon tomirlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Nerv to‘qimasining organizmdagi asosiy vazifasi nimadan iborat?",
+      "options": [
+        "Zaxira oziq moddalarni to‘plash",
+        "Tashqi muhitdan va ichki organlardan keladigan ta’sirni qabul qilish, o‘tkazish va ularga javob berish",
+        "Kislorod va karbonat angidridni tashish",
+        "Organizm sirtini qoplab uni mexanik shikastlanishdan asrash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Organ tushunchasi to‘g‘ri izohlangan javobni toping.",
+      "options": [
+        "Har doim faqat bitta turdagi to‘qimadan tashkil topgan tuzilma",
+        "Bir necha xil to‘qimalardan tashkil topgan, o‘ziga xos vazifani bajarishga moslashgan organizm qismi",
+        "Faqat suyak va muskuldan tashkil topgan tana a’zosi",
+        "Organizmning eng kichik tuzilish va irsiy birligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Matnga ko‘ra, hayvonlar ichagi qaysi to‘qimalardan tashkil topgan va qanday vazifani bajaradi?",
+      "options": [
+        "Faqat biriktiruvchi to‘qimadan; qon ishlab chiqarish vazifasini",
+        "Biriktiruvchi, nerv, muskul, epiteliy to‘qimalaridan; ovqat hazm qilish vazifasini",
+        "Faqat nerv to‘qimasidan; ta’sirlarni qabul qilish vazifasini",
+        "Faqat epiteliy va muskul to‘qimasidan; harakatlanish vazifasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Organlar sistemasi nima?",
+      "options": [
+        "Organizmda o‘zaro bog‘langan va o‘xshash vazifani bajaradigan organlar birligi",
+        "Barcha to‘qimalarning tasodifiy to‘plami",
+        "Faqat skelet va suyaklarning yig‘indisi",
+        "Organizmning tashqi qobig‘i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Hazm qilish sistemasini hosil qiluvchi organlar ketma-ketligi to‘g‘ri keltirilgan qatorni aniqlang.",
+      "options": [
+        "Og‘iz bo‘shlig‘i, halqum, qizilo‘ngach, oshqozon, ichak",
+        "Burun bo‘shlig‘i, hiqildoq, traxeya, bronx, o‘pka",
+        "Buyrak, siydik yo‘li, qovuq, siydik chiqarish kanali",
+        "Yurak, arteriya, kapillyar, vena"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Hayvonlar organizmida mavjud bo‘lgan organlar sistemalari to‘liq ko‘rsatilgan qatorni aniqlang.",
+      "options": [
+        "Hazm qilish, harakatlanish, ayirish, nafas olish, jinsiy, nerv, sezgi organlari sistemalari",
+        "Ildiz, poya, barg, gul, meva sistemalari",
+        "Faqat harakatlanish va ayirish sistemalari",
+        "Faqat qon aylanish va nafas olish sistemalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Klassifikatsiya nima?",
+      "options": [
+        "Hayvonlarni o‘zaro o‘xshashligi va qon-qarindoshligiga binoan ma’lum sistematik guruhlarga ajratish",
+        "Hayvonlarning vazniga qarab guruhlarga ajratish",
+        "Hayvonlarni faqat quruqlikda va suvda yashashiga qarab bo‘lish",
+        "Hayvon to‘qimalarini mikroskop ostida bo‘yash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Hayvonlar sistematikasidagi eng kichik sistematik birlik qaysi?",
+      "options": [
+        "Urug‘",
+        "Tur",
+        "Oila",
+        "Sinf"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Bitta turga mansub hayvonlarning asosiy umumiy belgisi nima?",
+      "options": [
+        "Ularning tana o‘lchami va yoshi har doim mutlaqo bir xil bo‘lishi",
+        "Ularning tuzilishi va yashash sharoiti o‘xshash bo‘lishi",
+        "Faqat bitta alohida materikda yashashi",
+        "Ularning faqat sun’iy sharoitda ko‘paya olishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Sistematik toifalarning kichikdan kattaga qarab to‘g‘ri ketma-ketligini aniqlang.",
+      "options": [
+        "Tur -> urug‘ -> oila -> turkum -> sinf -> tip -> hayvonot olami",
+        "Tur -> oila -> urug‘ -> sinf -> turkum -> tip",
+        "Tip -> sinf -> turkum -> oila -> urug‘ -> tur",
+        "Tur -> turkum -> urug‘ -> sinf -> oila -> tip"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Sistematik toifalarning kattadan kichikka qarab to‘g‘ri ketma-ketligi qaysi javobda berilgan?",
+      "options": [
+        "Hayvonot olami -> tip -> sinf -> turkum -> oila -> urug‘ -> tur",
+        "Hayvonot olami -> sinf -> tip -> oila -> turkum -> tur",
+        "Tip -> urug‘ -> oila -> sinf -> turkum -> tur",
+        "Turkum -> sinf -> tip -> oila -> urug‘ -> tur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Hujayraviy tuzilishiga ko‘ra hayvonot olami qanday guruhlarga ajratiladi?",
+      "options": [
+        "Prokariotlar va eukariotlar",
+        "Bir hujayralilar va ko‘p hujayralilar",
+        "Umurtqalilar va umurtqasizlar",
+        "Issiqqonlilar va sovuqqonlilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Umurtqa pog‘onasining rivojlanganligiga ko‘ra hayvonlar qanday guruhlarga bo‘linadi?",
+      "options": [
+        "Bir hujayralilar va ko‘p hujayralilar",
+        "Umurtqasizlar va umurtqalilar (xordalilar)",
+        "Yirtqichlar va o‘txo‘rlar",
+        "Suv va quruqlik hayvonlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Umurtqasizlar va umurtqalilarning tiplar soni bo‘yicha to‘g‘ri nisbatini toping.",
+      "options": [
+        "Umurtqasizlar 20 dan ortiq tipdan, umurtqalilar esa faqat bitta tipdan iborat",
+        "Umurtqasizlar bitta tip, umurtqalilar 20 dan ortiq tipdan iborat",
+        "Ikkala guruh ham 10 tadan tipdan iborat",
+        "Umurtqalilar 5 ta tip, umurtqasizlar 2 ta tipdan iborat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Sovuqqonli hayvonlarning tana harorati qanday bo‘ladi?",
+      "options": [
+        "Doimiy, ya’ni tashqi muhitga bog‘liq bo‘lmaydi",
+        "Tashqi muhit harorati ta’sirida o‘zgarib turadi",
+        "Har doim 37–40 daraja atrofida saqlanadi",
+        "Faqat tunda pasayib, kunduzi doimiy bo‘ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Quyidagi hayvonlardan qaysilari sovuqqonlilar guruhiga kiradi?",
+      "options": [
+        "Qushlar va sutemizuvchilar",
+        "Barcha umurtqasiz hayvonlar hamda baliqlar, suvda ham quruqlikda yashovchilar, sudralib yuruvchilar",
+        "Faqat sutemizuvchilar va sudralib yuruvchilar",
+        "Faqat qushlar va baliqlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Issiqqonli hayvonlar deb qanday hayvonlarga aytiladi va ularga qaysi sinflar kiradi?",
+      "options": [
+        "Tana harorati tashqi muhitga qarab o‘zgaruvchilar; barcha umurtqasizlar",
+        "Tana harorati doimiy, tashqi muhitga bog‘liq bo‘lmagan hayvonlar; xordalilar tipining qushlar va sutemizuvchilar sinflari",
+        "Faqat suvda yashovchi hayvonlar; baliqlar sinfi",
+        "Tana harorati mavsumiy o‘zgaruvchilar; sudralib yuruvchilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Quyidagi sinflardan qaysilari issiqqonli hayvonlar hisoblanadi?\n1) Baliqlar; 2) Qushlar; 3) Sudralib yuruvchilar; 4) Sutemizuvchilar; 5) Suvda ham quruqlikda yashovchilar",
+      "options": [
+        "1 va 3",
+        "2 va 4",
+        "3 va 5",
+        "1, 2 va 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Xordalilar tipiga kiruvchi quyidagi sinflar va ularning tana harorati turini moslashtiring:\n1) Baliqlar, Suvda ham quruqlikda yashovchilar, Sudralib yuruvchilar\n2) Qushlar, Sutemizuvchilar\na) Issiqqonli (tana harorati doimiy)\nb) Sovuqqonli (tana harorati o‘zgaruvchan)",
+      "options": [
+        "1-b, 2-a",
+        "1-a, 2-b",
+        "1-a, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Sistematik guruhlar qaysi tilda nomlanadi?",
+      "options": [
+        "Ingliz tilida",
+        "Lotin tilida",
+        "Yunon tilida",
+        "Fransuz tilida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Hayvon turlari va turdan yuqori bo‘lgan sistematik guruhlarning nomlanish qoidasi qaysi javobda to‘g‘ri keltirilgan?",
+      "options": [
+        "Turlar bitta nom, turdan yuqorilari uchta nom bilan ataladi",
+        "Turlar ikki nom (urug‘ va tur nomi), turdan yuqori guruhlar esa bitta nom bilan ataladi",
+        "Barcha sistematik guruhlar har doim faqat bitta so‘z bilan ataladi",
+        "Turlar uchta nom, oilalar ikkita nom bilan ataladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Hayvonlarni klassifikatsiya qilish (tizimga solish) bilan biologiyaning qaysi fani shug‘ullanadi?",
+      "options": [
+        "Ekologiya",
+        "Sistematika",
+        "Anatomiya",
+        "Fiziologiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Quyidagi mosliklardan qaysi biri xato berilgan?",
+      "options": [
+        "Tig‘iz biriktiruvchi to‘qima — suyak, tog‘ay",
+        "Suyuq biriktiruvchi to‘qima — qon",
+        "G‘ovak biriktiruvchi to‘qima — muskul tolalari",
+        "Epiteliy to‘qimasi — teri sirti va ichak devorining ichki yuzasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Hayvonlar to‘qimalari va ularning tuzilishi / vazifasi bo‘yicha to‘g‘ri moslikni toping:\n1) Epiteliy\n2) Muskul\n3) Nerv\n4) Biriktiruvchi\na) Harakatlanish vazifasini bajaradi, qisqaruvchan tolalardan iborat\nb) Himoya va moddalar ishlab chiqarish, zich yassi/kubsimon/silindrsimon hujayralardan iborat\nc) Ta’sirlarni qabul qilish, o‘tkazish va javob berish, yulduzsimon hujayralardan iborat\nd) Organlarni bog‘lash, tayanch, oziq tashish va zaxira to‘plash",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
