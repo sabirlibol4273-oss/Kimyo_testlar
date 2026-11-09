@@ -53,6 +53,12 @@
       "title": "9-Mavzu",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 10,
+      "title": "10-Mavzu",
+      "description": "BoburObidov",
+      "unlocked": true
     }
   ]
 }
