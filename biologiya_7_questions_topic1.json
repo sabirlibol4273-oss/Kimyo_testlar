@@ -1,0 +1,447 @@
+{
+  "topicId": 1,
+  "title": "Zoologiya fani va uning vazifalari",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "«Zoologiya» so‘zi qaysi so‘zlardan olingan va qanday ma’noni anglatadi?",
+      "options": [
+        "Zoon – tiriklik, logos – ta’limot",
+        "Zoon – hayvon, logos – fan",
+        "Zoon – tabiat, logos – so‘z",
+        "Zoon – mavjudot, logos – qonun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Zoologiya fanining asosiy o‘rganish vazifalariga quyidagilardan qaysilari kiradi?\n1) Hayvonlarning tuzilishi va hayot kechirishi\n2) Ko‘payishi va rivojlanishi\n3) Xilma-xilligi va tarqalishi\n4) Tabiatda va inson hayotidagi ahamiyati, kelib chiqishi",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 3, 4",
+        "1, 2, 3, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Zoologiyaga oid eng qadimgi asarlarni eramizdan 4 asr oldin qaysi olim yozgan va unda qancha hayvon turiga tavsif berilgan?",
+      "options": [
+        "Gippokrat; 200 ga yaqin",
+        "Arastu; 500 ga yaqin",
+        "Teofrast; 300 ga yaqin",
+        "Platon; 1000 ga yaqin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Mikroskopda ko‘rinadigan mayda hayvonlarni kashf etgan 16–17-asrlarda yashagan golland olimi kim?",
+      "options": [
+        "Robert Guk",
+        "Anton Levenguk",
+        "Karl Linney",
+        "Charlz Darvin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "18-asrda hayvonlarni tur, urug‘, turkum va sinflarga ajratib o‘rganishni taklif etgan olim qaysi?",
+      "options": [
+        "Arastu",
+        "Karl Linney",
+        "Ch. Darvin",
+        "J. B. Lamark"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "19-asr o‘rtalarida hayvonlarni o‘rganish orqali o‘zining olamshumul evolyutsion ta’limotini yaratgan ingliz olimi kim?",
+      "options": [
+        "Charlz Darvin",
+        "Anton Levenguk",
+        "D. N. Kashkarov",
+        "Tomas Morgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "O‘zbekistonlik olimlardan birinchilar qatorida hayvonlar ekologiyasini o‘rganishni boshlab bergan olim kim?",
+      "options": [
+        "T. Z. Zohidov",
+        "D. N. Kashkarov",
+        "L. M. Isayev",
+        "A. T. To‘laganov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "O‘rta Osiyoda rishta, bezgak paraziti va leyshmaniya kabi xavfli parazit hayvonlarning tugatilishi uchun kimlarning tadqiqotlari asos bo‘ldi?",
+      "options": [
+        "T. Z. Zohidov va O. P. Bogdanov",
+        "L. M. Isayev va P. F. Borovskiy",
+        "A. M. Muhammadiyev va V. V. Yaxontov",
+        "J. A. Azimov va M. A. Sultonov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "O‘zbekistonlik olimlar va ularning o‘rgangan sohalarini to‘g‘ri moslashtiring:\n1) T. Z. Zohidov, O. P. Bogdanov\n2) A. M. Muhammadiyev, V. V. Yaxontov, A. T. To‘laganov, J. A. Azimov, M. A. Sultonov, S. N. Alimuhamedov\na) Umurtqasiz hayvonlar\nb) Umurtqali hayvonlar",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Quyidagi olimlardan qaysilari umurtqasiz hayvonlarni o‘rganishgan?\n1) T. Z. Zohidov; 2) V. V. Yaxontov; 3) O. P. Bogdanov; 4) A. T. To‘laganov; 5) S. N. Alimuhamedov",
+      "options": [
+        "1, 2, 3",
+        "2, 4, 5",
+        "1, 3, 5",
+        "2, 3, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Hozirgi vaqtda Yer yuzida hayvonlarning qancha turi tarqalgan?",
+      "options": [
+        "500 mingdan ortiq",
+        "1 mln ga yaqin",
+        "2 mln ga yaqin",
+        "5 mln dan ortiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Hayvonlar uchun asosiy yashash muhitlari to‘g‘ri sanalgan qatorni toping.",
+      "options": [
+        "Quruqlik, havo, tuproq, suv havzalari",
+        "Faqat suv havzalari va quruqlik",
+        "Faqat tuproq va havo muhiti",
+        "Faqat tirik organizmlarning ichki to‘qimalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Parazit hayvonlar uchun yashash muhiti nima hisoblanadi?",
+      "options": [
+        "Tuproq qatlami va havo",
+        "Odam, hayvon va o‘simlik organizmi",
+        "Chuchuk suv havzalari va botqoqliklar",
+        "Tog‘ jinslari va g‘orlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Suv va quruqlikda yashovchi hayvonlarning tashqi muhitga moslanish belgilari to‘g‘ri ko‘rsatilgan qatorni aniqlang.",
+      "options": [
+        "Suv hayvonlarining tanasi yapaloq, oyoqlari yo‘q; quruqlikdagilarning gavdasi suyri",
+        "Suv hayvonlarining gavdasi suyri shaklda, oyoqlari eshkakka aylangan; quruqlikdagilarning tanasi yapaloq, oyoqlari yaxshi rivojlangan",
+        "Suv hayvonlarida qanotlar bo‘ladi; quruqlikdagilarda suzgich qanotlar rivojlanadi",
+        "Har ikkala guruhda ham tana tuzilishi mutlaqo bir xil bo‘ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Yashash muhiti tarkibiy qismlarini tashkil etuvchi namlik, harorat, yorug‘lik kabi omillar fanda nima deb ataladi?",
+      "options": [
+        "Sistematik omillar",
+        "Morfologik xususiyatlar",
+        "Ekologik omillar",
+        "Antropogen sharoitlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Hayvonlar orasida uchraydigan eng yirik va eng mayda vakillarning o‘lchamlari qanday keltirilgan?",
+      "options": [
+        "Og‘irligi 150 tonnaga yetadigan gigant kitlardan tortib, uzunligi mm ning o‘ndan bir, yuzdan bir ulushiga teng mikroskopik turlargacha",
+        "Og‘irligi 50 tonnalik akulalardan tortib, 1 sm lik hasharotlargacha",
+        "Og‘irligi 500 tonnalik kitlardan tortib, ko‘z bilan arang ko‘rinadigan 5 mm lik chuvalchanglargacha",
+        "Faqat 10–20 kg lik sutemizuvchilar va 1–2 mm lik parazitlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Oziqlanish xususiyatiga ko‘ra hayvonlar guruhlari to‘g‘ri berilgan qatorni aniqlang:\n1) Yashil o‘simliklar bilan oziqlanuvchilar\n2) Boshqa hayvonlarni yeydiganlar\n3) Boshqa organizm to‘qimalarida yashovchilar",
+      "options": [
+        "1 – Yirtqich; 2 – O‘txo‘r; 3 – Parazit",
+        "1 – O‘txo‘r; 2 – Yirtqich; 3 – Parazit",
+        "1 – Sanitarlar; 2 – Yirtqich; 3 – O‘txo‘r",
+        "1 – Parazit; 2 – Sanitarlar; 3 – Yirtqich"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "O‘txo‘r hayvonlarning tabiatdagi va tuproq hosil bo‘lishidagi ahamiyati nimadan iborat?",
+      "options": [
+        "O‘simliklar va ularning qoldiqlarini maydalab chirishini tezlashtiradi, mineral moddalar to‘planishiga va tuproq unumdorligi oshishiga xizmat qiladi",
+        "Faqat o‘simlik turlarini butkul yo‘q qilib tuproqni yalang‘ochlaydi",
+        "Tuproqdagi suvni to‘liq shimib oladi",
+        "O‘simliklar ildizini chirishdan butunlay saqlaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Tabiiy sanitarlar deb qanday hayvonlarga aytiladi va ularning vazifasi nima?",
+      "options": [
+        "Faqat yashil o‘tlar bilan oziqlanuvchi yirik tuyoqlilarga",
+        "Hayvonlar murdasi, organik qoldiqlar va mikroorganizmlarni suvdan filtrlab oziqlanib, yer yuzi va suv havzalarini ifloslanishdan saqlovchilarga",
+        "Barcha qon so‘ruvchi hasharot va kanalarga",
+        "Odam xonadonida yashab kalamushlarni ovlaydigan uy mushuklariga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Uy hayvonlarining inson faoliyati va sanoatdagi ahamiyati to‘g‘ri ko‘rsatilgan javobni toping.",
+      "options": [
+        "Faqat xonadonni qo‘riqlash bilan cheklanadi",
+        "Go‘sht va sut berishdan tashqari sanoat uchun mo‘yna, ipak va boshqa xomashyolarni yetkazib beradi",
+        "Faqat tibbiy laboratoriyalarda sinov uchun xizmat qiladi",
+        "Faqat qishloq xo‘jaligi ekinlarini changlatishda foydalaniladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Quyidagi hasharotlarning qaysilari o‘simliklarni changlatib hosildorlikni oshirishga bevosita yordam beradi?",
+      "options": [
+        "Chivin va kanalar",
+        "Arilar va kapalaklar",
+        "Burgalar va bitlar",
+        "Termitlar va chigirtkalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "O‘rmon va qishloq xo‘jaligi zararkunandalarini qirib inson va tabiatga katta foyda keltiradigan hayvonlar guruhi qaysi?",
+      "options": [
+        "Qon so‘ruvchi kanalar va pashshalar",
+        "Hasharotxo‘r va yirtqich hayvonlar, qushlar, ko‘rshapalaklar, baqalar",
+        "Yevropa turi va tarpanlar",
+        "Stellerov sigirlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qon so‘ruvchi hasharotlar va kanalar parazitlik qilishdan tashqari qanday xavfli yuqumli kasalliklarni tarqatadi?",
+      "options": [
+        "Gripp, qizamiq, suvchechak",
+        "O‘lat, terlama, bezgak",
+        "Raxit, gastrit, botulizm",
+        "Zotiljam, bronxit, anemiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "«Tib qonunlari» asarida kasallik paydo qiladigan parazit hayvonlardan saqlanish yo‘llarini yozib qoldirgan buyuk alloma kim?",
+      "options": [
+        "Abu Rayhon Beruniy",
+        "Abu Ali ibn Sino",
+        "Al-Xorazmiy",
+        "Mirzo Ulug‘bek"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Inson faoliyati, qurollarning takomillashuvi va tabiiy sharoitlarning buzilishi oqibatida butunlay YO‘Q BO‘LIB KETGAN hayvonlarni aniqlang.",
+      "options": [
+        "Prjevalskiy oti, zubr, bizon",
+        "Jayron, xongul, oq amur",
+        "Yevropa turi (qoramollar nasl boshi), tarpan (otlar nasl boshi), Stellerov sigiri",
+        "Qor qoploni, mallabayir, ilvirs"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Hozirgi vaqtda tabiatda qirilib ketish xavfi ostida bo‘lgan hayvonlar to‘g‘ri keltirilgan qatorni toping.",
+      "options": [
+        "Yevropa turi, tarpan, Stellerov sigiri",
+        "Prjevalskiy oti, zubr, bizon, jayron, xongul",
+        "Uy oti, qoramol, qo‘y, echki",
+        "Uy ari, ipak qurti, qora kalamush"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Yo‘q bo‘lib ketgan quyidagi hayvonlar va ularning tavsifini moslashtiring:\n1) Yevropa turi\n2) Tarpan\n3) Stellerov sigiri\na) Dengiz hayvoni\nb) Otlarning nasl boshi\nc) Qoramollarning nasl boshi",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "O‘zbekistonda noyob va soni kamayib borayotgan hayvonlarni asrab qolish va ko‘paytirish maqsadida tashkil etilgan davlat qo‘riqxonalari to‘g‘ri sanalgan javobni toping.",
+      "options": [
+        "Faqat Chotqol biosfera qo‘riqxonasi",
+        "Badayto‘qay, Qizilqum, Zarafshon, Surxon va Hisor davlat qo‘riqxonalari",
+        "Boshqirdiston, Oltoy va Baykal qo‘riqxonalari",
+        "Kavkaz va Qrim qo‘riqxonalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "O‘zbekistondagi biosfera maqomiga ega bo‘lgan qo‘riqxona qaysi?",
+      "options": [
+        "Zarafshon",
+        "Badayto‘qay",
+        "Chotqol biosfera qo‘riqxonasi",
+        "Surxon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "O‘zbekiston Respublikasi «Qizil kitobi»ning 2016-yilgi nashriga noyob va soni kamayib borayotgan hayvonlarning necha turi kiritilgan?",
+      "options": [
+        "150 turi",
+        "184 turi",
+        "205 turi",
+        "500 turi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Quyidagi olimlar va ularning kashfiyot/xizmatlarini to‘g‘ri moslashtiring:\n1) Arastu; 2) A. Levenguk; 3) K. Linney; 4) Ch. Darvin\na) Hayvonlarni sistematik guruhlarga (tur, urug‘, turkum, sinf) ajratishni taklif etgan\nb) Evolyutsion ta’limotni yaratgan\nc) Eramizdan 4 asr oldin 500 ga yaqin hayvonga tavsif bergan\nd) Mikroskopda ko‘rinadigan hayvonlarni kashf etgan",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Quyidagi olimlardan qaysilari faqat umurtqali hayvonlarni tadqiq etishgan?",
+      "options": [
+        "A. M. Muhammadiyev, V. V. Yaxontov",
+        "T. Z. Zohidov, O. P. Bogdanov",
+        "A. T. To‘laganov, J. A. Azimov",
+        "M. A. Sultonov, S. N. Alimuhamedov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "L. M. Isayev va P. F. Borovskiylarning ilmiy faoliyati qaysi soha rivojiga ulkan hissa bo‘lib qo‘shildi?",
+      "options": [
+        "Hasharotlar yordamida o‘simliklarni changlatishga",
+        "O‘rta Osiyoda rishta, bezgak va leyshmaniya kabi xavfli parazitlarni tugatishga",
+        "Yovvoyi baliqlarni sun’iy suv havzalarida ko‘paytirishga",
+        "Daraxtlarning zararkunandalarini aniqlashga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Zoologiya fanining amaliy aloqadorligi eng to‘g‘ri ifodalangan qatorni toping.",
+      "options": [
+        "Faqat astronomiya va geologiya bilan",
+        "Tibbiyot, chorvachilik va xalq xo‘jaligining boshqa sohalari bilan",
+        "Faqat metallurgiya va konchilik bilan",
+        "Faqat fizika va matematika bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Tarixiy ketma-ketlikka ko‘ra olimlarning yashagan davrlari to‘g‘ri joylashtirilgan qatorni toping:\n1) K. Linney (18-asr)\n2) Ch. Darvin (19-asr o‘rtalari)\n3) Arastu (eramizdan 4 asr oldin)\n4) A. Levenguk (16–17-asrlar)",
+      "options": [
+        "3 -> 4 -> 1 -> 2",
+        "3 -> 1 -> 4 -> 2",
+        "4 -> 3 -> 1 -> 2",
+        "1 -> 2 -> 3 -> 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Qaysi kasallik qo‘zg‘atuvchilarining yo‘qotilishi bevosita o‘zbekistonlik olimlar Isayev va Borovskiy nomlari bilan bog‘liq?",
+      "options": [
+        "Gripp, sil, qizamiq",
+        "Rishta, bezgak paraziti, leyshmaniya",
+        "O‘lat, vabo, terlama",
+        "Quturish, botulizm, qoqshol"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Hayvonlarning tanasi shakli ularning yashash muhiti bilan bog‘liqligi qaysi mulohazada to‘g‘ri ifodalangan?",
+      "options": [
+        "Suv muhitida harakatlanish qarshiligini kamaytirish uchun tana suyri shaklda bo‘ladi",
+        "Quruqlikdagi barcha hayvonlarning oyoqlari eshkakka aylanadi",
+        "Tuproqda yashovchi barcha hayvonlarning qanotlari bo‘ladi",
+        "Havoda uchuvchi hayvonlarning tanasi og‘ir va yapaloq bo‘ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Qadimgi odamlarning hayvonlardan foydalanish yo‘nalishlari qaysi qatorda xato ifodalangan?",
+      "options": [
+        "Ularni ovlab, go‘shti va terisidan foydalanishgan",
+        "Hayvonlarni qo‘lga o‘rgatib, uy qo‘riqchisi va ishchi kuchi sifatida foydalanishgan",
+        "O‘sha davrlardayoq ulardan sintetik tola va plastmassa ishlab chiqarishgan",
+        "Keyinchalik ko‘paytirish orqali xonaki zotlarni yaratishgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "O‘zbekistonda tashkil etilgan quyidagi muhofaza hududlari turlarini aniqlang:\n1) Chotqol; 2) Badayto‘qay; 3) Zarafshon; 4) Hisor\na) Davlat qo‘riqxonalari\nb) Biosfera qo‘riqxonasi",
+      "options": [
+        "1-b; 2, 3, 4-a",
+        "1-a; 2, 3, 4-b",
+        "Barchasi faqat biosfera qo‘riqxonasi",
+        "Barchasi milliy bog‘lar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Hayvonlarning biologik xilma-xilligini asrab qolish uchun nima sababdan nafaqat hayvonning o‘zini, balki u yashaydigan muhitni ham muhofaza qilish zarur?",
+      "options": [
+        "Chunki hayvonlar yashash muhiti, ozuqasi va ekologik sharoitisiz yashay olmaydi va ko‘paya olmaydi",
+        "Chunki hayvonlar faqat bino ichida ko‘paytiriladi",
+        "Chunki atrof-muhit hayvonlarning rivojlanishiga hech qanday ta’sir ko‘rsatmaydi",
+        "Chunki hayvonlar tabiiy muhitda umuman ozuqa topa olmaydi"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
