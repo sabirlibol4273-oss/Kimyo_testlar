@@ -89,6 +89,12 @@
       "title": "BARGLARNING TASHQI TUZILISHI",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 16,
+      "title": "ODDIY VA MURAKKAB BARGLAR",
+      "description": "BoburObidov",
+      "unlocked": true
     }
   ]
 }
