@@ -2,5 +2,424 @@
   "topicId": 26,
   "title": "POYADA OZIQ MODDALARNING  HARAKATLANISHI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tarkibida mineral tuzlar bo'lgan suv poyaning qaysi qismi orqali harakatlanadi?",
+      "options": [
+        "Epiderma orqali",
+        "Lub orqali",
+        "Yog'ochlik orqali",
+        "O'zak orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Mineral tuzli suv qanday yo'nalishda harakatlanadi?",
+      "options": [
+        "Ildizdan barglar tomon",
+        "Gulga qarab pastga",
+        "Mevadan ildiz tomon",
+        "Barglardan ildiz tomon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Suvning yog'ochlik orqali harakatini kuzatish tajribasida nimadan foydalaniladi?",
+      "options": [
+        "Kartoshka tugunagidan",
+        "Ildizmevadan",
+        "Barg chiqargan novda yoki ochilib turgan gullardan",
+        "Quruq urug'dan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Bargli novda rangli suvga solingach, necha soatdan keyin kesib ko'riladi?",
+      "options": [
+        "2-3 kundan keyin",
+        "2-3 soatdan keyin",
+        "2 haftadan keyin",
+        "10 daqiqadan keyin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Rangli suv tajribasida novdaning qaysi qismi bo'yalgan bo'ladi?",
+      "options": [
+        "Barglarning ustki po'sti",
+        "Yog'ochlik qismi",
+        "Po'stlog'i",
+        "Lub qismi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Rangli suv tajribasida novda qanday kesib ko'riladi?",
+      "options": [
+        "Faqat ko'ndalangiga",
+        "Faqat uzunasiga",
+        "Ko'ndalangiga va uzunasiga",
+        "Kesilmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Rangli suv tajribasi nimani isbotlaydi?",
+      "options": [
+        "Shakar kraxmalga aylanadi",
+        "Ildizlar halqa ustida hosil bo'ladi",
+        "Organik moddalar lub orqali pastga tushadi",
+        "Suv yog'ochlik orqali yuqoriga ko'tariladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Organik moddalar poyaning qaysi qismi orqali harakatlanadi?",
+      "options": [
+        "O'zak orqali",
+        "Lubdagi elaksimon naylar bo'ylab",
+        "Epiderma orqali",
+        "Yog'ochlikdagi naylar bo'ylab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Qaysi organik modda suvda oson eriydi va elaksimon naychalar orqali harakatlanadi?",
+      "options": [
+        "Yog'",
+        "Kul",
+        "Shakar",
+        "Kraxmal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Sabzi va lavlagida shakar qayerda to'planadi?",
+      "options": [
+        "Ildizmevasida",
+        "Barglarida",
+        "Poyasida",
+        "Gulida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Ayrim o'simliklarda shakar qayerlarda to'planadi?",
+      "options": [
+        "Faqat barg po'stida",
+        "Faqat ildiz tukchalarida",
+        "Faqat kurtakda",
+        "Mevasi va urug'ida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Kartoshka tugunagida shakar nimaga aylanadi?",
+      "options": [
+        "Moyga",
+        "Kraxmalga",
+        "Suvga",
+        "Oqsilga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Oziq moddalarning lub orqali harakatini ko'rish tajribasida qaysi o'simlik novdalaridan foydalaniladi?",
+      "options": [
+        "Lola yoki chuchmoma",
+        "Tol yoki terak",
+        "Kartoshka yoki sabzi",
+        "Bug'doy yoki arpa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Halqa tajribasi uchun qanday novdalar olinadi?",
+      "options": [
+        "Bir xil uzunlikdagi ikkita bargli novda",
+        "Har xil uzunlikdagi bargsiz novdalar",
+        "Faqat ildizlar",
+        "Bitta quruq novda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Novdalardan birida po'stloq qayeridan halqa shaklida kesib olinadi?",
+      "options": [
+        "Barglar orasidan",
+        "Butun uzunligi bo'yicha",
+        "Pastki qismidan sal yuqoriroqdan",
+        "Eng uchidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Po'stlog'i halqa shaklida kesilgan novdaning qaysi qismi suvga tushiriladi?",
+      "options": [
+        "Faqat barglari",
+        "Butun novda",
+        "Faqat pastki uchi",
+        "Faqat yuqori qismi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Halqa tajribasi natijasi necha vaqtdan keyin ko'rinadi?",
+      "options": [
+        "Bir yildan keyin",
+        "Bir kundan keyin",
+        "2-3 soatdan keyin",
+        "Ikki haftadan keyin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Nazorat uchun olingan novdada ildizlar qayerda paydo bo'ladi?",
+      "options": [
+        "Halqa ustida",
+        "Pastki qismida",
+        "Barglarida",
+        "Ildiz paydo bo'lmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Po'stlog'i halqa shaklida kesilgan novdada ildizlar qayerda hosil bo'ladi?",
+      "options": [
+        "Halqaning pastida",
+        "Novda uchida",
+        "Barglarda",
+        "Kesilgan joy (halqa)ning yuqorisida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Halqa tajribasidan qanday xulosa chiqariladi?",
+      "options": [
+        "Po'stlog'i kesilgan joydan pastga oziq moddalar o'tmaydi",
+        "Ildiz bosimi yo'q",
+        "Suv yog'ochlik orqali ko'tarilmaydi",
+        "Organik moddalar yog'ochlik orqali harakatlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Halqa tajribasida organik moddalar nima sababdan pastga o'ta olmaydi?",
+      "options": [
+        "Yog'ochlik kesilgani uchun",
+        "Barglar yulingani uchun",
+        "Lub (po'stloq) qavati kesilgani uchun",
+        "Suv berilmagani uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Mineral moddalar va organik moddalar qaysi naylar orqali harakatlanadi?",
+      "options": [
+        "Mineral – o'tkazuvchi naylar, organik – elaksimon naylar orqali",
+        "Ikkalasi ham o'tkazuvchi naylar orqali",
+        "Mineral – elaksimon naylar, organik – o'tkazuvchi naylar orqali",
+        "Ikkalasi ham elaksimon naylar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "O'simliklarning oziqlanishida organlar qanday ishtirok etadi?",
+      "options": [
+        "Har biri mustaqil, bog'liqsiz",
+        "Faqat ildiz",
+        "Barchasi bir-biriga bog'liq holda",
+        "Faqat barglar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Organlardan birortasi oziqlanishda qatnashmasa nima bo'ladi?",
+      "options": [
+        "Oziqlanish jarayoni buziladi",
+        "Hech narsa o'zgarmaydi",
+        "Oziqlanish tezlashadi",
+        "O'simlik ko'proq hosil beradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Ildiz suv va mineral tuzlarni yetarli bermasa nima sodir bo'ladi?",
+      "options": [
+        "Ildizmeva kattalashadi",
+        "Barglarda organik moddalar kam hosil bo'ladi",
+        "Gul ko'p ochiladi",
+        "Barglarda organik moddalar ko'payadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Barglarda organik moddalar yetishmasa nima sodir bo'ladi?",
+      "options": [
+        "O'simlik tezroq o'sadi",
+        "Barcha hujayra, to'qima va organlar o'sish va rivojlanishdan to'xtaydi",
+        "Faqat ildiz o'sadi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "O'simlikdagi oziq moddalar harakatini qanday qilib kerakli tomonga yo'naltirish mumkin?",
+      "options": [
+        "Ildizni kesish orqali",
+        "Barglarni yulib tashlash orqali",
+        "Shox-shabbaga shakl berish va qisqartirish orqali",
+        "Ko'proq suv quyish orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "G'o'zani chilpish nimaga imkon beradi?",
+      "options": [
+        "Organik moddalarni barglardan gul va mevalarga yo'naltirishga",
+        "Barglarni ko'paytirishga",
+        "Ildizni uzaytirishga",
+        "Suvni ildizga qaytarishga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "G'o'za chilpilganda organik moddalar qayerga yo'naladi?",
+      "options": [
+        "Gul va mevalarga",
+        "Ildizga",
+        "Poya uchiga",
+        "Tuproqqa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Moslang: 1) yog'ochlik, 2) lub; a) organik moddalar, b) suv va mineral tuzlar.",
+      "options": [
+        "1b, 2b",
+        "1a, 2a",
+        "1a, 2b",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Moslang: 1) rangli suv tajribasi, 2) halqa tajribasi; a) organik moddalar lub orqali harakatlanishi, b) suv yog'ochlik orqali ko'tarilishi.",
+      "options": [
+        "1a, 2b",
+        "1b, 2b",
+        "1a, 2a",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Moslang: 1) sabzi, 2) kartoshka; a) shakar kraxmalga aylanadi, b) shakar ildizmevada to'planadi.",
+      "options": [
+        "1a, 2b",
+        "1a, 2a",
+        "1b, 2b",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Ikki tajriba natijalari to'g'ri berilgan javobni toping.",
+      "options": [
+        "Ikkala tajribada ham hech narsa o'zgarmaydi",
+        "Rangli suvda yog'ochlik bo'yaladi; halqa tajribasida ildizlar halqa ustida chiqadi",
+        "Rangli suvda lub bo'yaladi; halqa tajribasida ildizlar halqa ostida chiqadi",
+        "Rangli suvda po'stloq bo'yaladi; ildizlar barglarda chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Halqa tajribasi bosqichlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Ikki novda olish → biridan po'stloqni halqa qilib kesish → suvga solish → 2 haftadan keyin ildizlarni kuzatish",
+        "Suvga solish → novda olish → po'stloq kesish → ildiz kuzatish",
+        "Ildiz kuzatish → po'stloq kesish → suvga solish → novda olish",
+        "Po'stloq kesish → ildiz kuzatish → novda olish → suvga solish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Ortiqchasini toping (shakar ildizmevada to'planadigan o'simliklar): sabzi, lavlagi, kartoshka.",
+      "options": [
+        "Lavlagi",
+        "Hammasi bir xil",
+        "Sabzi",
+        "Kartoshka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "To'g'ri fikrlarni toping: 1) Suv yog'ochlik orqali ko'tariladi; 2) Shakar elaksimon naychalar orqali harakatlanadi; 3) Halqa kesilgan novdada ildizlar halqa ostida chiqadi; 4) G'o'zani chilpish organik moddalarni mevaga yo'naltiradi.",
+      "options": [
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Noto'g'ri fikrlarni toping: 1) Kartoshkada shakar kraxmalga aylanadi; 2) Organik moddalar yog'ochlik orqali harakatlanadi; 3) Oziqlanishda barcha organlar bog'liq; 4) Rangli suv tajribasida lub bo'yaladi.",
+      "options": [
+        "1, 3",
+        "3, 4",
+        "1, 2",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Shakar suvda oson eriydi",
+        "Ildiz suv bermasa ham barglarda organik moddalar ko'p hosil bo'ladi",
+        "Lub orqali organik moddalar harakatlanadi",
+        "Nazorat novdasida ildizlar pastki qismida chiqadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
