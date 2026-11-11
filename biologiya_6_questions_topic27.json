@@ -2,5 +2,512 @@
   "topicId": 27,
   "title": "BARGLARDA ORGANIK MODDALARNING  HOSIL BO‘LISHI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Urug'lar tarkibida qanday organik moddalar bo'ladi?",
+      "options": [
+        "Faqat karbonat angidrid",
+        "Suv va mineral tuzlar",
+        "Kraxmal, shakar, moy va oqsil",
+        "Faqat kul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Olimlar aniqlashicha, organik moddalar o'simlikning qayerida hosil bo'ladi?",
+      "options": [
+        "Faqat ildiz tukchalarida",
+        "Faqat urug'da",
+        "Faqat gulda",
+        "Barg eti hujayralarida va boshqa yashil organlar hujayralarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Fotosintez deb nimaga aytiladi?",
+      "options": [
+        "Ildizning suv shimishiga",
+        "Quyosh nuri ta'sirida, xlorofill ishtirokida anorganik moddalardan organik moddalar hosil bo'lishi va kislorod ajralishiga",
+        "Urug'ning unib chiqishiga",
+        "Bargning suv bug'latishiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Fotosintez jarayoni nimaning ishtirokida boradi?",
+      "options": [
+        "Po'kak hujayralari",
+        "Elaksimon naylar",
+        "Xlorofill donachalari",
+        "Ildiz tukchalari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Fotosintez jarayoni nimaning ta'sirida boradi?",
+      "options": [
+        "Shamol",
+        "Quyosh nuri (yorug'lik)",
+        "Sovuq",
+        "Qorong'ilik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Fotosintez qaysi tildan olingan so'z?",
+      "options": [
+        "Arabcha",
+        "Inglizcha",
+        "Yunoncha",
+        "Lotincha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Yunoncha \"fotos\" so'zi nimani anglatadi?",
+      "options": [
+        "Qo'shish",
+        "Hayot",
+        "Hujayra",
+        "Yorug'lik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Yunoncha \"sintez\" so'zi nimani anglatadi?",
+      "options": [
+        "Hujayra",
+        "Qo'shish, birlashtirish",
+        "Ta'limot",
+        "Yorug'lik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Fotosintez jarayonini o'rganishga hayotini bag'ishlagan rus olimi kim?",
+      "options": [
+        "Robert Guk",
+        "N. Gryu",
+        "A. Timiryazev",
+        "Karl Linney"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "A. Timiryazev qaysi mamlakat olimi?",
+      "options": [
+        "Angliya",
+        "Fransiya",
+        "Germaniya",
+        "Rossiya (rus olimi)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "A. Timiryazev fotosintez jarayonini qaysi kitobida asoslab bergan?",
+      "options": [
+        "\"Mikrografiya\"",
+        "\"Quyosh, hayot va xlorofill\"",
+        "\"O'simliklar anatomiyasi\"",
+        "\"Turlarning kelib chiqishi\""
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Suv va mineral moddalar tuproqdan nima orqali so'rib olinadi?",
+      "options": [
+        "Meva orqali",
+        "Barg og'izchalari orqali",
+        "Gul orqali",
+        "Ildiz tukchalari orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Suv va mineral moddalar qanday kuch ostida ildiz tukchalariga o'tadi?",
+      "options": [
+        "O'z-o'zidan",
+        "Yorug'lik kuchi ostida",
+        "Ildiz bosim kuchi ostida",
+        "Shamol kuchi ostida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Suvning ildizdan bargga borish yo'li to'g'ri berilgan javobni toping.",
+      "options": [
+        "Barg → poya → ildiz naychalari → ildiz tukchalari",
+        "Ildiz naychalari → barg → ildiz tukchalari → poya",
+        "Ildiz tukchalari → ildiz naychalari → poya → barg tomirlaridagi naychalar → barg",
+        "Poya → ildiz tukchalari → barg → ildiz naychalari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Barg hujayralariga havodan qanday gaz kiradi?",
+      "options": [
+        "Kislorod",
+        "Vodorod",
+        "Azot",
+        "Karbonat angidrid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Karbonat angidrid gazi bargga nima orqali kiradi?",
+      "options": [
+        "Og'izchalar orqali",
+        "Ildiz tukchalari orqali",
+        "Elaksimon naylar orqali",
+        "Barg bandi orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Barg hujayralariga karbonat angidrid qachon kiradi?",
+      "options": [
+        "Suv bilan bir vaqtda",
+        "Faqat gullaganda",
+        "Faqat kechasi",
+        "Faqat qishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Organik moddalar bargning qaysi hujayralarida hosil bo'ladi?",
+      "options": [
+        "O'tkazuvchi naylarda",
+        "Barg eti hujayralaridagi xlorofill donachalari ishtirokida",
+        "Barg po'sti hujayralarida",
+        "Tolalarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Xlorofill donachalarida karbonat angidrid nima bilan birikadi?",
+      "options": [
+        "Azot bilan",
+        "Suv bilan",
+        "Kraxmal bilan",
+        "Kislorod bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Fotosintezda dastlab qanday modda hosil bo'ladi?",
+      "options": [
+        "Moy",
+        "Kraxmal",
+        "Oqsil",
+        "Shakar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Fotosintezda shakardan so'ng qanday modda hosil bo'ladi?",
+      "options": [
+        "Kraxmal",
+        "Moy",
+        "Oqsil",
+        "Suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Fotosintezda organik moddalar hosil bo'lish ketma-ketligi qaysi?",
+      "options": [
+        "Avval kraxmal, so'ngra shakar",
+        "Avval shakar, so'ngra kraxmal",
+        "Avval oqsil, so'ngra shakar",
+        "Avval moy, so'ngra oqsil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Karbonat angidrid suv bilan birikkanda shakardan tashqari yana nima ajraladi?",
+      "options": [
+        "Kul",
+        "Karbonat angidrid",
+        "Azot",
+        "Erkin kislorod gazi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Fotosintezda ajralgan kislorod havoga nima orqali chiqadi?",
+      "options": [
+        "Elaksimon naylar orqali",
+        "Og'izchalar orqali",
+        "Gul orqali",
+        "Ildiz orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Fotosintezda bargga nimalar kiradi va undan nima chiqadi?",
+      "options": [
+        "Kraxmal kiradi, suv chiqadi",
+        "Suv va karbonat angidrid kiradi, kislorod chiqadi",
+        "Kislorod kiradi, karbonat angidrid chiqadi",
+        "Shakar kiradi, kul chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "O'simlik hujayrasida faqat shakar va kraxmal to'planadimi?",
+      "options": [
+        "Faqat shakar",
+        "Ha, faqat shakar va kraxmal",
+        "Faqat kraxmal",
+        "Yo'q, boshqa oziq moddalar ham to'planadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Xlorofill ishtirokida hosil bo'lgan organik moddalar qanday xususiyatga ega?",
+      "options": [
+        "Suvda eriydi",
+        "Suvda erimaydi",
+        "Faqat yog'da eriydi",
+        "Gaz holida bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Organik moddalar barg eti hujayralaridan qayerga o'tadi?",
+      "options": [
+        "Tomirlarning elaksimon naylariga",
+        "O'tkazuvchi (o'lik) naylarga",
+        "Og'izchalarga",
+        "Havoga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Organik moddalar elaksimon naylar orqali qaysi organlarga tarqaladi?",
+      "options": [
+        "Faqat tuproqqa",
+        "Faqat bargga",
+        "Hech qayerga",
+        "Gul, urug', meva va ildizga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Ortiqcha organik moddalar qayerda to'planadi?",
+      "options": [
+        "Barg po'stida",
+        "Urug', meva, ildiz va boshqa organlarning g'amlovchi to'qimalarida",
+        "Og'izchalarda",
+        "Ildiz tukchalarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Organik moddalar ko'p hosil bo'lishi uchun nimalar yetarli bo'lishi kerak?",
+      "options": [
+        "Faqat qorong'ilik",
+        "Faqat suv",
+        "Faqat sovuq",
+        "Yorug'lik, harorat, suv, mineral tuzlar va karbonat angidrid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "O'simlikda organik moddalar qancha ko'p bo'lsa nima bo'ladi?",
+      "options": [
+        "Hosili shuncha mo'l bo'ladi",
+        "O'simlik so'liydi",
+        "Hosil kamayadi",
+        "Hech narsa o'zgarmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Dehqonlar issiqxonalarda yuqori hosilga qanday erishadi?",
+      "options": [
+        "O'g'it bermasdan",
+        "Sug'ormasdan",
+        "Zarur sharoitni sun'iy ravishda yaratib",
+        "Yorug'likni to'sib"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Qish oylarida issiqxonalarda qo'shimcha yorug'lik nima orqali beriladi?",
+      "options": [
+        "Oy nuri orqali",
+        "Berilmaydi",
+        "Elektr nuri orqali",
+        "Olov orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Qishda issiqxonalarda o'simliklarga nimalar beriladi?",
+      "options": [
+        "Faqat sovuq havo",
+        "Faqat qorong'ilik",
+        "Qo'shimcha yorug'lik, harorat va mineral tuzlar",
+        "Hech narsa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Issiqxonalarda qishda nimalar o'stiriladi?",
+      "options": [
+        "Faqat daraxtlar",
+        "Faqat yantoq",
+        "Sabzavot, poliz ekinlari va gullar",
+        "Faqat g'alla"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Har qanday o'simlikni ekkanda nimani inobatga olish zarur?",
+      "options": [
+        "Uning yorug'likka bo'lgan talabini",
+        "Faqat urug' rangini",
+        "Faqat tuproq rangini",
+        "Faqat shamol yo'nalishini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Moslang: 1) fotos, 2) sintez; a) qo'shish, birlashtirish, b) yorug'lik.",
+      "options": [
+        "1a, 2a",
+        "1a, 2b",
+        "1b, 2b",
+        "1b, 2a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Moslang: 1) og'izchalar orqali kiradi, 2) ildiz tukchalari orqali kiradi, 3) og'izchalar orqali chiqadi; a) suv, b) kislorod, c) karbonat angidrid.",
+      "options": [
+        "1c, 2a, 3b",
+        "1a, 2c, 3b",
+        "1b, 2a, 3c",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Moslang: 1) A. Timiryazev, 2) \"Quyosh, hayot va xlorofill\", 3) fotosintez; a) kitob, b) jarayon, c) rus olimi.",
+      "options": [
+        "1c, 2a, 3b",
+        "1b, 2a, 3c",
+        "1c, 2b, 3a",
+        "1a, 2c, 3b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Fotosintez uchun zarur bo'lgan omillar to'g'ri berilgan javobni toping.",
+      "options": [
+        "Yorug'lik, xlorofill, suv, karbonat angidrid",
+        "Sovuq, azot, kraxmal",
+        "Qorong'ilik, kislorod, kul",
+        "Faqat suv va tuproq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Ortiqchasini toping (fotosintezga kiruvchi moddalar): suv, karbonat angidrid, kislorod.",
+      "options": [
+        "Hammasi kiradi",
+        "Karbonat angidrid",
+        "Kislorod",
+        "Suv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Ortiqchasini toping (organik moddalar): kraxmal, shakar, oqsil, mineral tuzlar.",
+      "options": [
+        "Oqsil",
+        "Shakar",
+        "Mineral tuzlar",
+        "Kraxmal"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "To'g'ri fikrlarni toping: 1) Fotosintezda kislorod ajraladi; 2) Avval shakar, so'ng kraxmal hosil bo'ladi; 3) Karbonat angidrid ildiz orqali kiradi; 4) Timiryazev rus olimi.",
+      "options": [
+        "2, 3, 4",
+        "1, 2, 3",
+        "1, 2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Noto'g'ri fikrlarni toping: 1) Organik moddalar suvda eriydi; 2) Fotosintezda avval kraxmal hosil bo'ladi; 3) Ortiqcha organik moddalar g'amlovchi to'qimalarda to'planadi; 4) Kislorod ildiz orqali chiqadi.",
+      "options": [
+        "2, 4",
+        "1, 2",
+        "3, 4",
+        "1, 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Organik moddalar elaksimon naylar orqali tarqaladi",
+        "Fotosintezda xlorofill donachalari ishtirok etadi",
+        "Issiqxonalarda qishda elektr nuri beriladi",
+        "Organik moddalar faqat ildiz hujayralarida hosil bo'ladi"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
