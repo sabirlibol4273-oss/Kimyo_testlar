@@ -2,5 +2,655 @@
   "topicId": 31,
   "title": "O^SIMLIKLARNING KOPAYISHI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tirik organizmlarning muhim xususiyati qaysi?",
+      "options": [
+        "Faqat o'sish",
+        "Faqat rang",
+        "Faqat harakat",
+        "Ko'payish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "O'simliklar necha xil usulda ko'payadi?",
+      "options": [
+        "Ikki xil: jinssiz va jinsiy",
+        "Faqat jinsiy",
+        "Faqat jinssiz",
+        "Uch xil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Jinssiz ko'payish yo'llaridan biri qaysi?",
+      "options": [
+        "Changlanish",
+        "Vegetativ ko'payish",
+        "Gullash",
+        "Urug'lanish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Vegetativ ko'payish deb nimaga aytiladi?",
+      "options": [
+        "Changlanish orqali ko'payishga",
+        "Faqat urug'dan ko'payishga",
+        "Ildiz, ildizpoya, tugunak, piyozbosh, novda va bargdan ko'payishga",
+        "Faqat guldan ko'payishga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Vegetativ organlar o'simlik hayotida yana qanday katta rol o'ynaydi?",
+      "options": [
+        "Oziqlanishda",
+        "Urug'lanishda",
+        "Changlanishda",
+        "Gullashda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Ildizpoyasidan ko'payadigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qoraqat, terak, olvoli",
+        "Kartoshka, batat, shoyigul",
+        "Lola, boychechak, nargis",
+        "Ajriq, g'umay, salomalaykum, bug'doyiq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Piyozboshdan ko'payadigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Ajriq, g'umay, bug'doyiq",
+        "Anjir, anor, malina",
+        "Kartoshka, batat",
+        "Lola, boychechak, gladiolus, nargis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Piyozboshli o'simliklarda yangi o'simliklar qachon o'sib chiqadi?",
+      "options": [
+        "Shu kuni",
+        "Bir haftada",
+        "10 yildan keyin",
+        "Kelgusi yili"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "O'simlik ildizidagi kurtaklardan hosil bo'lgan yangi novdalar nima deyiladi?",
+      "options": [
+        "Jingalak",
+        "Ildiz bachkisi",
+        "Qalamcha",
+        "Parxish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Ildiz bachkisidan ko'payadigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Kartoshka, batat, shoyigul",
+        "Ajriq, salomalaykum",
+        "Lola, nargis, gladiolus",
+        "Qoraqat, terak, na'matak, olvoli, shirinmiya, yantoq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Bitta terak atrofida bachkilar hisobiga nechta yangi daraxt tupi hosil bo'lishi mumkin?",
+      "options": [
+        "Minglab",
+        "Faqat bitta",
+        "Faqat ikkita",
+        "O'nlab"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Tabiatda qarigan daraxt va butalarning o'rnini nima egallaydi?",
+      "options": [
+        "Bachkilardan chiqqan yangi o'simliklar",
+        "Boshqa tur o'simliklar",
+        "Faqat urug'dan chiqqan o'simliklar",
+        "Hech narsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Yer surilishi yoki suv toshqinida tol shoxlari sernam tuproq ostida qolsa nima bo'ladi?",
+      "options": [
+        "Kurtaklaridan yangi novda o'sib chiqadi",
+        "Gullaydi",
+        "Urug' hosil qiladi",
+        "Darhol chirib ketadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "O'simliklar vegetativ ko'paymaganda nima bo'lar edi?",
+      "options": [
+        "O'simliklar tezroq o'sardi",
+        "Urug'idan ko'paymaydigan o'simliklar kamayib, yo'qolib ketardi",
+        "Barcha o'simliklar ko'payardi",
+        "Hech narsa o'zgarmasdi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Qalamcha (novda)sidan ko'paytiriladigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Lola, nargis, boychechak",
+        "Anjir, anor, tok, malina, jiyda, atirgul",
+        "Ajriq, g'umay, bug'doyiq",
+        "Kartoshka, batat, shoyigul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Issiqxonalarda o'stiriladigan o'simliklarning aksariyati qanday ko'paytiriladi?",
+      "options": [
+        "Faqat tugunakdan",
+        "Faqat piyozboshdan",
+        "Qalamchasidan",
+        "Faqat urug'dan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Tok qalamchalari qachon tayyorlanadi?",
+      "options": [
+        "Qishning o'rtasida",
+        "Yozning o'rtasida",
+        "Bahorda gullaganda",
+        "Kuzda tok kesish vaqtida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Tok qalamchalari qancha uzunlikda bo'ladi?",
+      "options": [
+        "5 sm",
+        "1-2 m",
+        "10-15 sm",
+        "45-50 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Tayyor tok qalamchalari qishda qanday saqlanadi?",
+      "options": [
+        "Muzlatib",
+        "Quruq joyda ochiq holda",
+        "Suvga solib",
+        "Bog'-bog' qilib nam chuqurga ko'mib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Tok qalamchalari qachon dalaga ekiladi?",
+      "options": [
+        "Bahor kelishi bilan",
+        "Yozning oxirida",
+        "Kuzda kesilgan zahoti",
+        "Qishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Tugunaklari yordamida ko'paytiriladigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Ajriq, g'umay",
+        "Tok, anor",
+        "Kartoshka, batat, shoyigul",
+        "Lola, nargis"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Payvandlash deganda nima tushuniladi?",
+      "options": [
+        "Novdani suvga solish",
+        "Urug'ni tuproqqa ekish",
+        "Ildizni kesish",
+        "Bir o'simlikning ma'lum qismini ikkinchi o'simlikka o'rnatish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Matnda payvandlashning qaysi usullari keltirilgan?",
+      "options": [
+        "Bachki va jingalak",
+        "Kurtak payvand va iskana payvand",
+        "Parxish va qalamcha",
+        "Tugunak va piyozbosh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Iskana payvand asosan qachon qilinadi?",
+      "options": [
+        "Yozning o'rtasida",
+        "Avgust oyida",
+        "Erta bahorda, shira harakati boshlanishidan oldin",
+        "Kech kuzda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Iskana payvand qaysi oylarda o'tkaziladi?",
+      "options": [
+        "Fevral oxiridan aprelgacha",
+        "Oktabr-noyabrda",
+        "Iyun-iyulda",
+        "Avgustda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Iskana payvand uchun payvandustdan qanday novdalar kesib olinadi?",
+      "options": [
+        "Ko'p yillik yo'g'on shoxlar",
+        "Yillik novdalar, shira harakati boshlanmasdan oldin",
+        "Quruq novdalar",
+        "Gullagan novdalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Kesib olingan payvand novdalari qayerda saqlanadi?",
+      "options": [
+        "Maxsus salqin joylarda",
+        "Suv ichida",
+        "Issiq quyoshda",
+        "Tuproq ustida ochiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Iskana payvand uchun olingan novdada nechta kurtak qoldiriladi?",
+      "options": [
+        "Faqat bitta",
+        "2-3 tadan",
+        "Kurtak qoldirilmaydi",
+        "10 tadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Iskana payvand novdasining pastki qismi qanday kesiladi?",
+      "options": [
+        "\"T\" harfi shaklida",
+        "To'g'ri ko'ndalang",
+        "Halqa shaklida",
+        "Ponaga o'xshatib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Iskana payvandda payvandtag qanday tayyorlanadi?",
+      "options": [
+        "Halqa shaklida po'stlog'i olinadi",
+        "Po'stlog'i \"T\" shaklida kesiladi",
+        "Tekis arralanib, pona orqali 2 yoki 4 ga ajratiladi",
+        "Tuproqqa ko'miladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Qalamchalar payvandtag yoriqlariga qanday o'rnatiladi?",
+      "options": [
+        "Bo'shroq qilib",
+        "Teskari holda",
+        "Yog'ochligi o'zakka tegadigan qilib",
+        "Po'stlog'i po'stlog'iga tegadigan qilib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Qalamcha o'rnatilgan joyga nima suriladi yoki u nima bilan bog'lanadi?",
+      "options": [
+        "Go'ng",
+        "Suv va tuz",
+        "Moy va yod",
+        "Maxsus mumsimon modda yoki mustahkam chiptalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Payvandlardan eng ko'p tarqalgani qaysi?",
+      "options": [
+        "Iskana payvand",
+        "Qalamcha",
+        "Kurtak payvand",
+        "Parxish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Payvandlash uchun kesib olinadigan kurtakli qalamcha nima deyiladi?",
+      "options": [
+        "Bachki",
+        "Jingalak",
+        "Payvandust",
+        "Payvandtag"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Payvand qilish uchun o'stirilgan urug'ko'chat nima deyiladi?",
+      "options": [
+        "Parxish",
+        "Payvandtag",
+        "Payvandust",
+        "Qalamcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Kurtak payvand uchun qanday novdalar kesib olinadi?",
+      "options": [
+        "Kurtaklari tinim davrida bo'lgan bir yillik, quyoshda toblangan novdalar",
+        "Ildiz bachkilari",
+        "Barglari to'kilgan quruq novdalar",
+        "Gullagan ko'p yillik novdalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Kurtak payvandda payvandtag po'stlog'i qanday shaklda kesiladi?",
+      "options": [
+        "Ponasimon",
+        "Ko'ndalang to'g'ri",
+        "Halqa shaklida",
+        "\"T\" harfi shaklida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Ulanadigan kurtak qanday kesib olinadi?",
+      "options": [
+        "Barg bilan birga",
+        "Butun novda bilan",
+        "Faqat kurtakning o'zi",
+        "Biroz po'stloq va yog'ochligi bilan birga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Kurtak joylangach, payvand joyi qanday bog'lanadi?",
+      "options": [
+        "Faqat mum suriladi",
+        "Pastdan yuqoriga sim bilan",
+        "Bog'lanmaydi",
+        "Yuqoridan pastga qarab chipta bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Payvand qilingan kurtak tutgan-tutmagani necha kunda bilinadi?",
+      "options": [
+        "Bir yilda",
+        "1-2 kunda",
+        "6-10 kunda",
+        "30 kunda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Kurtagidan payvandlash asosan qaysi oyda o'tkaziladi?",
+      "options": [
+        "Fevral",
+        "Dekabr",
+        "Avgust",
+        "Aprel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Kurtak payvand bosqichlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Kurtakni joylash → \"T\" shaklida kesish → bog'lash → kerish",
+        "Payvandtag po'stlog'ini \"T\" shaklida kesish → po'stloqni kerish → kurtakni joylash → chipta bilan bog'lash",
+        "Po'stloqni kerish → bog'lash → \"T\" kesish → kurtakni joylash",
+        "Bog'lash → kurtakni kesish → \"T\" kesish → kerish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Qulupnay asosan qanday ko'payadi?",
+      "options": [
+        "Piyozboshidan",
+        "Tugunagidan",
+        "Iskana payvanddan",
+        "Jingalagidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Qulupnayda jingalak deb nimaga aytiladi?",
+      "options": [
+        "Ildiz kurtagidan chiqqan novdaga",
+        "Asosiy tupdan o'sib chiqqan sudraluvchi yosh novdaga",
+        "Payvand qilingan kurtakka",
+        "Tuproqqa ko'milgan novdaga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Yozda qulay sharoitda qulupnay jingalagidagi kurtaklardan nima rivojlanadi?",
+      "options": [
+        "Barg va ildizchali kichik o'simlik tupi",
+        "Faqat gul",
+        "Tugunak",
+        "Faqat meva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Ayrim o'simliklarning tugunagi va piyozboshi qanday ekiladi?",
+      "options": [
+        "Kesib yoki bo'laklarga bo'lib",
+        "Faqat butunligicha qaynatib",
+        "Ekilmaydi",
+        "Quritib maydalab"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 47,
+      "question": "Parxish yo'li bilan ko'paytiriladigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Lola, nargis",
+        "Tok, atirgul, qoraqat",
+        "Kartoshka, batat",
+        "Ajriq, g'umay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Parxish usulida novda bilan nima qilinadi?",
+      "options": [
+        "Quritiladi",
+        "Boshqa daraxtga payvand qilinadi",
+        "Asosiy poyadan ajratilmagan holda tuproqqa ko'miladi",
+        "Kesib olinib suvga solinadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Parxish qilingan novda qachon asosiy poyadan ajratiladi?",
+      "options": [
+        "Darhol ko'milgan kuni",
+        "Gullagandan keyin",
+        "Ildiz hosil qilgandan keyin",
+        "Hech qachon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Madaniy o'simliklar vegetativ yo'l bilan nima maqsadda ko'paytiriladi?",
+      "options": [
+        "Tez va yuqori hosil olish, yaxshi navlarni saqlash va ko'paytirish",
+        "Faqat bezak uchun",
+        "Navlarni yo'qotish uchun",
+        "Hosilni kamaytirish uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Moslang: 1) ildizpoya, 2) piyozbosh, 3) ildiz bachkisi, 4) tugunak; a) shoyigul, b) olvoli, c) salomalaykum, d) gladiolus.",
+      "options": [
+        "1c, 2d, 3b, 4a",
+        "1d, 2c, 3b, 4a",
+        "1c, 2b, 3d, 4a",
+        "1a, 2d, 3b, 4c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Moslang: 1) payvandust, 2) payvandtag; a) payvand uchun o'stirilgan urug'ko'chat, b) kesib olinadigan kurtakli qalamcha.",
+      "options": [
+        "1b, 2b",
+        "1b, 2a",
+        "1a, 2b",
+        "1a, 2a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Moslang: 1) iskana payvand, 2) kurtak payvand; a) avgust, \"T\" shaklida kesish, b) erta bahor, pona bilan yorish.",
+      "options": [
+        "1a, 2a",
+        "1b, 2a",
+        "1a, 2b",
+        "1b, 2b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Iskana va kurtak payvandning o'tkazilish vaqti to'g'ri berilgan javobni toping.",
+      "options": [
+        "Ikkalasi ham kuzda",
+        "Iskana – erta bahor (fevral oxiri–aprel), kurtak – avgust",
+        "Iskana – avgust, kurtak – erta bahor",
+        "Ikkalasi ham qishda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Ortiqchasini toping (ildizpoyadan ko'payadiganlar): ajriq, g'umay, bug'doyiq, nargis.",
+      "options": [
+        "Bug'doyiq",
+        "Ajriq",
+        "Nargis",
+        "G'umay"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Ortiqchasini toping (tugunakdan ko'paytiriladiganlar): kartoshka, batat, shoyigul, lola.",
+      "options": [
+        "Lola",
+        "Batat",
+        "Kartoshka",
+        "Shoyigul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "To'g'ri fikrlarni toping: 1) Tok qalamchalari 45-50 sm bo'ladi; 2) Kurtak payvand eng ko'p tarqalgan; 3) Parxishda novda asosiy poyadan darhol ajratiladi; 4) Qulupnay jingalagidan ko'payadi.",
+      "options": [
+        "1, 2, 3",
+        "1, 3",
+        "1, 2, 4",
+        "2, 3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Noto'g'ri fikrlarni toping: 1) Ildiz kurtagidan chiqqan novda bachki deyiladi; 2) Kurtak payvand tutgani 30 kunda bilinadi; 3) Iskana payvandda qalamchada 2-3 kurtak qoldiriladi; 4) Payvandtag – kesib olinadigan kurtakli qalamcha.",
+      "options": [
+        "3, 4",
+        "2, 4",
+        "1, 3",
+        "1, 2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Lola piyozboshdan ko'payadi",
+        "Kurtak payvandda payvandtag pona bilan 4 ga yoriladi",
+        "Yantoq ildiz bachkisidan ko'payadi",
+        "Tok qalamchalari kuzda tayyorlanadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
