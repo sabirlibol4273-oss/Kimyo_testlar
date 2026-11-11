@@ -2,5 +2,501 @@
   "topicId": 29,
   "title": "0 ‘SIMLIKLARNING SUV BUG4LATISHI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Suv bug'lanishi tufayli ildizda qanday jarayon tezlashadi?",
+      "options": [
+        "Urug' hosil bo'lishi",
+        "Organik moddalarning parchalanishi",
+        "Suv va mineral tuzlarning so'rilishi",
+        "Gullash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Suv bug'latish o'simlik organlarini nimadan saqlaydi?",
+      "options": [
+        "Sovuqdan",
+        "Hasharotlardan",
+        "Shamoldan",
+        "Qizib ketishdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Suv o'simlik bargidan nima orqali bug'lanib chiqadi?",
+      "options": [
+        "Ildiz tukchalari orqali",
+        "Og'izchalar orqali",
+        "Barg bandi orqali",
+        "Elaksimon naylar orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Suv bug'latishni kuzatish tajribasida bargli novda nimaga solinadi?",
+      "options": [
+        "Tuproqqa",
+        "Stakan suvga",
+        "Kolbaga",
+        "Probirkaga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Kolba og'zi nima bilan berkitiladi?",
+      "options": [
+        "Moy bilan",
+        "Paxta bilan",
+        "Shisha plastinka bilan",
+        "Qog'oz bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Bir necha soatdan keyin kolba devorida nima hosil bo'ladi?",
+      "options": [
+        "Moy dog'lari",
+        "Tuz kristallari",
+        "Suv tomchilari",
+        "Kul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Kolba devoridagi suv tomchilari qayerdan paydo bo'ladi?",
+      "options": [
+        "Tuproqdan",
+        "Paxtadan",
+        "Havodagi yomg'irdan",
+        "Bargdan bug' shaklida ajralgan suvdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Bir tup o'simlik qancha suv bug'latishini aniqlashda bargli novda qanday idishga solinadi?",
+      "options": [
+        "Moyli idishga",
+        "Suvli shisha idishga",
+        "Tuproqli tuvakka",
+        "Quruq kolbaga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Shisha idishdagi suv yuziga nima uchun ozroq moy tomiziladi?",
+      "options": [
+        "O'simlik tez o'sishi uchun",
+        "Suv tez bug'lanishi uchun",
+        "Suv bug'lanib ketmasligi uchun",
+        "Suvni bo'yash uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Tarozi pallalari nima yordamida muvozanatga keltiriladi?",
+      "options": [
+        "Paxta",
+        "Suv tomchilari",
+        "Moy",
+        "Qadoq toshlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Barglar suv bug'latgani sari shisha idishli tarozi pallasi qanday bo'ladi?",
+      "options": [
+        "Sinib ketadi",
+        "Asta-sekin ko'tariladi",
+        "Pastga tushadi",
+        "O'zgarmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Tarozi tajribasida qancha vaqtdan keyin pallalar qayta muvozanatga keltiriladi?",
+      "options": [
+        "Bir oydan keyin",
+        "Bir soatdan keyin",
+        "Bir haftadan keyin",
+        "Bir sutkadan keyin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Tarozi tajribasida nima aniqlanadi?",
+      "options": [
+        "Kraxmal miqdori",
+        "Ildiz uzunligi",
+        "Bir sutkada qancha suv bug'langanligi",
+        "Barglar soni"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Tarozi tajribasida shisha idishdagi suv nima sababdan kamayadi?",
+      "options": [
+        "Moy suvni yutgani uchun",
+        "Suv muzlagani uchun",
+        "Barglar suvni bug'latgani uchun",
+        "Idish teshik bo'lgani uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "O'simliklar suvni nimaga qarab turli darajada bug'latadi?",
+      "options": [
+        "Faqat rangiga qarab",
+        "Faqat bo'yiga qarab",
+        "Faqat yoshiga qarab",
+        "Turiga va qayerda o'sishiga qarab"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Issiq va quruq sharoitda o'sadigan o'simliklar suvni qanday bug'latadi?",
+      "options": [
+        "Nisbatan kam",
+        "Juda ko'p",
+        "Umuman bug'latmaydi",
+        "Faqat kechasi ko'p"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Saksovul suvni kam bug'latishiga sabab nima?",
+      "options": [
+        "Barglari juda maydalashib ketgan",
+        "Barglari suvda o'sadi",
+        "Barglari tikanga aylangan",
+        "Barglari juda katta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Kaktus suvni kam bug'latishiga sabab nima?",
+      "options": [
+        "Barglari suvga botgan",
+        "Barglari tikanga aylangan",
+        "Barglari qipiqsimon",
+        "Barglari tuklar bilan qoplangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Ayrim o'simliklar suvni kam bug'latishi uchun tanasi nima bilan qalin qoplangan?",
+      "options": [
+        "Tikan bilan",
+        "Tuklar bilan",
+        "Moy bilan",
+        "Mum bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Qaysi cho'l o'simliklari suvni kam bug'latish uchun yozda barglarini to'kib yuboradi?",
+      "options": [
+        "Karam, sebarga",
+        "Saksovul, kaktus",
+        "Elodeya, suv nilufari",
+        "Shuvoq, qora boyalich"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Bir tup g'o'za yoz davomida o'z vaznidan necha hissa ko'p suv bug'latadi?",
+      "options": [
+        "500-600 hissa",
+        "50-60 hissa",
+        "200 hissa",
+        "1000 hissa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Bir tup makkajo'xori yoz davomida qancha suv bug'latadi?",
+      "options": [
+        "500-600 l",
+        "200 l",
+        "2000 l",
+        "20 l"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "O'rta yoshdagi bir tup shirinmiya yoz davomida qancha suv bug'latadi?",
+      "options": [
+        "5000 l",
+        "200 l",
+        "50-60 l",
+        "500-600 l"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "O'rta yoshdagi shirinmiya necha yillik bo'ladi?",
+      "options": [
+        "100 yillik",
+        "30-40 yillik",
+        "1-2 yillik",
+        "5-10 yillik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Shirinmiyaning boshqa nomi nima?",
+      "options": [
+        "Shuvoq",
+        "Qizilmiya",
+        "Qora boyalich",
+        "Sarsazan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Raqamlarni moslang: 1) g'o'za, 2) makkajo'xori, 3) shirinmiya; a) 200 l, b) vaznidan 500-600 hissa ko'p, c) 500-600 l.",
+      "options": [
+        "1b, 2c, 3a",
+        "1c, 2a, 3b",
+        "1a, 2b, 3c",
+        "1b, 2a, 3c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Muhitning ma'lum bir omiliga moslashgan o'simliklar nima deyiladi?",
+      "options": [
+        "Ekologik guruhlar",
+        "Oilalar",
+        "Navlar",
+        "Turkumlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Matnda qaysi omil muhim ekologik omil deb ko'rsatilgan?",
+      "options": [
+        "Suv",
+        "Shamol",
+        "Tuproq rangi",
+        "Havo bosimi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Suvda yashovchi o'simliklarning tanasi qanday o'sadi?",
+      "options": [
+        "Quruq yerda",
+        "Qisman suvga botib",
+        "Daraxtlarga chirmashib",
+        "Butunlay yoki ko'p qismi suvga botib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Suvda yashovchi o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qo'g'a, qamish, ro'vak",
+        "Elodeya, suv nilufari",
+        "Karam, sebarga",
+        "Saksovul, shuvoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Namsevar o'simliklarning tanasi qanday o'sadi?",
+      "options": [
+        "Faqat tosh ustida",
+        "Butunlay suvga botib",
+        "Faqat cho'lda",
+        "Qisman suvga botgan holda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Namsevar o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qo'g'a, qamish, ro'vak",
+        "Saksovul, kaktus",
+        "Elodeya, suv nilufari",
+        "Bug'doy, olma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Namlik yetarli muhitda o'sadigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Saksovul, shuvoq, agava",
+        "Elodeya, suv nilufari",
+        "Karam, sebarga, makkajo'xori, bug'doy, olma",
+        "Qo'g'a, qamish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Suv tanqisligiga chidamli o'simliklarning barglari qanday bo'ladi?",
+      "options": [
+        "Juda katta va yupqa",
+        "Faqat yassi va keng",
+        "Mayda qipiqsimon, mayda bo'laklarga bo'lingan yoki seret",
+        "Suvga botgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Suv tanqisligiga chidamli, bargi qipiqsimon o'simlik qaysi?",
+      "options": [
+        "Shuvoq",
+        "Agava",
+        "Saksovul",
+        "Elodeya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Suv tanqisligiga chidamli, bargi mayda bo'laklarga bo'lingan o'simlik qaysi?",
+      "options": [
+        "Saksovul",
+        "Qamish",
+        "Shuvoq",
+        "Kaktus"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Suv tanqisligiga chidamli, seret bargli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Baliqko'z, sarsazan, kaktus, agava",
+        "Qo'g'a, ro'vak",
+        "Saksovul, shuvoq",
+        "Elodeya, suv nilufari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Moslang: 1) suvda yashovchi, 2) namsevar, 3) suv tanqisligiga chidamli; a) agava, b) suv nilufari, c) ro'vak.",
+      "options": [
+        "1a, 2c, 3b",
+        "1c, 2b, 3a",
+        "1b, 2a, 3c",
+        "1b, 2c, 3a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Moslang: 1) saksovul, 2) kaktus, 3) shuvoq; a) barglari tikanga aylangan, b) barglari juda maydalashgan (qipiqsimon), c) yozda barglarini to'kadi.",
+      "options": [
+        "1b, 2a, 3c",
+        "1a, 2b, 3c",
+        "1c, 2a, 3b",
+        "1b, 2c, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Moslang: 1) kolba tajribasi, 2) tarozi tajribasi; a) bir sutkada bug'langan suv miqdorini aniqlash, b) bargdan suv bug'lanishini ko'rish.",
+      "options": [
+        "1b, 2a",
+        "1a, 2a",
+        "1b, 2b",
+        "1a, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Ortiqchasini toping (namsevar o'simliklar): qo'g'a, qamish, ro'vak, saksovul.",
+      "options": [
+        "Saksovul",
+        "Qamish",
+        "Qo'g'a",
+        "Ro'vak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Ortiqchasini toping (namlik yetarli muhitda o'suvchilar): karam, sebarga, bug'doy, elodeya.",
+      "options": [
+        "Bug'doy",
+        "Sebarga",
+        "Elodeya",
+        "Karam"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "To'g'ri fikrlarni toping: 1) Suv bug'latish organlarni qizib ketishdan saqlaydi; 2) Suv og'izchalar orqali bug'lanadi; 3) Makkajo'xori yozda 500-600 l suv bug'latadi; 4) Elodeya suvda yashovchi o'simlik.",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Noto'g'ri fikrlarni toping: 1) Kolba og'zi paxta bilan berkitiladi; 2) Issiq sharoitdagi o'simliklar suvni ko'p bug'latadi; 3) Shuvoq yozda barglarini to'kadi; 4) Qamish suvda butunlay botib o'sadi.",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Tarozi tajribasida idish yuziga suv bug'lanishi tezlashsin deb moy tomiziladi",
+        "Kaktus barglari tikanga aylangan",
+        "Sarsazan seret bargli o'simlik",
+        "Suv bug'lanishi ildizda suv so'rilishini tezlashtiradi"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
