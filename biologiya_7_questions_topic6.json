@@ -1,0 +1,403 @@
+{
+  "topicId": 6,
+  "title": "Tufelkaning tuzilishi, harakatlanishi va ta’sirlanishi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "«Tufelkaning tuzilishi, harakatlanishi va ta’sirlanishi» mavzusidagi laboratoriya mashg'ulotida pichan ivitmasi necha hafta oldindan tayyorlab qo'yilishi lozim?",
+      "options": [
+        "1 hafta oldin",
+        "2–3 hafta oldin",
+        "1 oy oldin",
+        "Laboratoriya o'tkaziladigan kuni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Laboratoriya ishida tufelkaning hazm vakuolalarini bo'yash va ularning harakatini kuzatish uchun qaysi bo'yoq eritmasi ishlatiladi?",
+      "options": [
+        "Yashil metil eritmasi",
+        "Yod eritmasi",
+        "Qizil kongo bo'yog'i",
+        "Fuksin bo'yog'i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Laboratoriya xavfsizlik texnikasiga ko'ra, mikropreparat ifloslanmasligi uchun u qanday ushlanishi kerak?",
+      "options": [
+        "Oynaning o'rta qismidan barmoqlar bilan",
+        "Faqat pinset yordamida markazidan",
+        "Yon chetlaridan bosh va ko'rsatkich barmoqlar bilan",
+        "Faqat laboratoriya xalati bilan o'rab"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Mikropreparatdagi biologik obyekt ezilib ketmasligi uchun mikroskop bilan ishlashda qaysi vaqtda ayniqsa ehtiyot bo'lish zarur?",
+      "options": [
+        "Mikroskopni stolga qo'yayotganda",
+        "Kichik obyektivdan kattasiga o'tkazishda",
+        "Mikroskop oynasini yorug'likka qaratayotganda",
+        "Okulyarni almashtirishda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "1-ishda soat oynasiga pichan ivitmasidan necha tomchi tomizib olinadi?",
+      "options": [
+        "1–2 tomchi",
+        "5–10 tomchi",
+        "15–20 tomchi",
+        "30–40 tomchi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Soat oynasidagi pichan ivitmasiga qizil kongo bo'yog'i qo'shilgach, eritma qanday rangda bo'lishi lozim?",
+      "options": [
+        "To'q binafsha rangli",
+        "Och qizg'ish rangli",
+        "To'q qora rangli",
+        "Sariq-yashil rangli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Mikroskop ostida tufelkaning tez harakatlanishini sekinlashtirish uchun preparat tomchisiga nima tashlanadi?",
+      "options": [
+        "Bir necha dona paxta tolasi",
+        "Bir necha dona osh tuzi kristali",
+        "Filtr qog'ozi parchalari",
+        "Sirka kislota eritmasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Qoplag'ich oyna yopilgach, tomchining chetlaridagi ortiqcha suv qanday yo'l bilan olinadi?",
+      "options": [
+        "Quritish pechida qizdirib bug'latiladi",
+        "Ensiz kesilgan filtr qog'oziga ehtiyotlik bilan shimdirib olinadi",
+        "Tomizg'ich yordamida qayta so'rib olinadi",
+        "Paxta bo'lagi bilan to'g'ridan-to'g'ri artib tashlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Tayyorlangan preparatni kuzatish qaysi tartibda amalga oshiriladi?",
+      "options": [
+        "Dastlab katta obyektivda, so'ng kichik obyektivda",
+        "Dastlab mikroskopning kichik obyektivida, so'ngra katta obyektivida",
+        "Faqat okulyar orqali obyektivsiz",
+        "Faqat eng yuqori immersion kattalashtirishda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Tufelkalar tomchi ichida odatda qayerda g'uj bo'lib to'planish xususiyatiga ega?",
+      "options": [
+        "Tomchining mutlaqo bo'sh o'rta qismida",
+        "Organik zarrachalar yoki paxta tolalari atrofida",
+        "Faqat havo pufakchalari ichida",
+        "Qoplag'ich oynaning eng chetki burchaklarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Tufelkaning kiprikchalari bir me'yorda tebranib harakatlanganda qaysi sohada ayniqsa sezilarli suv oqimini hosil qiladi?",
+      "options": [
+        "Yadrolar joylashgan soha atrofida",
+        "Kuydiruvchi tanachalar to'plangan orqa tomonda",
+        "Tufelka tanasi yaqinida va ayniqsa uning og'iz teshigi atrofida",
+        "Faqat oldingi qisqaruvchi vakuola kanali atrofida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Qizil kongo bo'yog'i tufelkaning qaysi organoidlarini qizil rangga bo'yab beradi?",
+      "options": [
+        "Qisqaruvchi vakuolalarni",
+        "Hazm qilish vakuolalarini",
+        "Katta va kichik yadrolarni",
+        "Kuydiruvchi tayoqchasimon tanachalarni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Qizil kongo bo'yog'i nima sababdan hazm vakuolalarining ichiga tushib, ularni bo'yaydi?",
+      "options": [
+        "Bo'yoq qobiq orqali to'g'ridan-to'g'ri diffuziyalanadi",
+        "Bo'yoq oziq (bakteriyalar) bilan birga hazm qilish vakuolalari ichiga kiradi",
+        "Bo'yoq qisqaruvchi naychalar orqali so'rib olinadi",
+        "Tayoqchasimon tanachalar bo'yoqni yutib, vakuolaga uzatadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Mikroskop ostida tufelkaning hazm qilish vakuolalari qanday harakatlanishi aniq kuzatiladi?",
+      "options": [
+        "Faqat orqa teshikcha atrofida titrab turadi",
+        "Sitoplazma oqimi bilan butun tana bo'ylab aylanadi",
+        "Har doim og'izoldi chuqurchasida qo'zg'almas turadi",
+        "Yadro ichiga kirib-chiqib harakatlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Tufelkada qisqaruvchi vakuolalar soni nechta va ular qayerda joylashgan?",
+      "options": [
+        "1 ta, tananing qoq markazida",
+        "2 ta, oldingi va keyingi tomonida bittadan",
+        "3 ta, yon tomonida qator bo'lib",
+        "4 ta, har ikki qutbda ikkitadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Laboratoriya matniga ko'ra, har qaysi qisqaruvchi vakuola qanday tuzilmaviy qismlardan iborat?",
+      "options": [
+        "Faqat bitta suyuqlik to'plovchi pufakchadan",
+        "Suyuqlikni sitoplazmadan yig'uvchi bir necha uzun va ingichka naychalar, suyuqlik to'plovchi pufakcha va chiqaruvchi naychadan",
+        "Tayoqchasimon tanachalar, halqum naychasi va bitta markaziy kameradan",
+        "Loviyasimon pufakcha va dumaloq to'plovchi rezervuardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Qisqaruvchi vakuola pufakchalari suyuqlikni tashqariga qanday tartibda chiqarib turadi?",
+      "options": [
+        "Ikkala pufakcha bir vaqtda to'xtovsiz siqiladi",
+        "Navbat (galma-gal) bilan qisqarib turadi",
+        "Faqat oziqlanish to'xtagan vaqtda birdan qisqaradi",
+        "Yadro bo'lingandagina bir marta qisqaradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "2-ishda tufelkaning qaysi biologik xususiyati amaliy tarzda kuzatiladi?",
+      "options": [
+        "Hujayraning jinssiz bo'linishi",
+        "Tufelkaning ta'sirlanishi (taksis)",
+        "Yadrolarning yashil rangga bo'yalishi",
+        "Spitsifik oziq hosil bo'lishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "2-ishda buyum oynasiga tomizilgan toza suv va infuzoriyali pichan ivitmasi qanday tutashtiriladi?",
+      "options": [
+        "Filtr qog'ozi parchasi orqali",
+        "Ingichka kanalcha orqali",
+        "Paxta tolasi yordamida",
+        "Shisha tayoqcha bilan butunlay aralashtirib yuboriladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "2-ishda tufelkalarning ta'sirlanishini kuzatish uchun pichan ivitmasi tomchisiga nima tashlanadi?",
+      "options": [
+        "Bir necha tomchi kislota",
+        "Bir nechta mayda osh tuzi zarrachalari",
+        "Qizil kongo bo'yog'i kukuni",
+        "Paxta tolalari to'plami"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Tufelkali pichan ivitmasi tomchisiga osh tuzi tashlanganda, tufelkalar qayerga qarab harakatlanadi?",
+      "options": [
+        "Tuz tashlangan markazga qarab to'planadi",
+        "Ingichka kanalcha orqali toza suv tomchisiga o'tib ketadi",
+        "Qoplag'ich oyna chetlariga yopishib harakatdan to'xtaydi",
+        "Darhol tanasidan kuydiruvchi iplarni chiqarib halok bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Tufelkalarning tuz tashlangan tomchidan toza suv tomchisiga o'tishi qaysi obyektivda kuzatiladi va bu qanday xususiyatni ifodalaydi?",
+      "options": [
+        "Katta obyektivda; musbat xemotaksisni",
+        "Kichik obyektivda; tufelkaning ta'sirlanishini (salbiy xemotaksis)",
+        "Faqat lupan ostida; jinsiy jarayonni",
+        "Elektron mikroskopda; regeneratsiyani"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "3-ishda qaysi reaktivlar aralashmasidan foydalaniladi?",
+      "options": [
+        "Faqat distillangan suv va yod",
+        "Sirka kislota va yashil metil bo'yog'ining 1:1 nisbatdagi suvdagi eritmasi",
+        "Xlorid kislota va qizil kongo eritmasi",
+        "Spirt va formalin aralashmasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Sirka kislota va yashil metil eritmasi qanday nisbatda tayyorlab olinadi?",
+      "options": [
+        "1:2 nisbatda",
+        "1:1 nisbatda",
+        "1:5 nisbatda",
+        "2:3 nisbatda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Tomchiga sirka kislota ta'sir ettirilganda tufelka organizmida qanday o'zgarish ro'y beradi?",
+      "options": [
+        "Tufelka tezlik bilan ikkiga bo'linadi",
+        "Kuydiruvchi tanachalarini otib chiqarib, halok bo'ladi",
+        "Qisqaruvchi vakuolalari faoliyati ikki barobar tezlashadi",
+        "Kiprikchalarini ichkariga tortib olib, tinch holatga o'tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Yashil metil bo'yog'i tufelkaning qaysi tuzilmasini yashil rangga bo'yaydi?",
+      "options": [
+        "Hazm qilish vakuolalarini",
+        "Kuydiruvchi tanachalarni",
+        "Tufelkaning yadrolarini",
+        "Faqat harakatlantiruvchi kiprikchalarini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Mikroskop ostida sirka kislota ta'sirida otilib chiqqan kuydiruvchi tanachalar qanday ko'rinishda namoyon bo'ladi?",
+      "options": [
+        "Yumaloq yashil sharchalar shaklida",
+        "Tufelka ustida tartibsiz joylashgan ingichka iplar shaklida",
+        "Katta qizil pufakchalar shaklida",
+        "Halqum ichiga tiqilgan toshsimon zarrachalar shaklida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Otilib chiqqan kuydiruvchi tanachalar va bo'yalgan yadrolarni kuzatish mikroskopning qaysi obyektivida bajariladi?",
+      "options": [
+        "Kichik obyektivda",
+        "Katta obyektivda",
+        "Oyna reflektori orqali",
+        "Oddiy ko'z bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Yashil metil bilan bo'yalgan preparatda kichik yadro katta yadroning qaysi sohasida joylashgan holda topiladi?",
+      "options": [
+        "Katta yadroning to'g'ri markazida",
+        "Katta yadroning botiq tomonida",
+        "Katta yadrodan butunlay ajralgan orqa qutbda",
+        "Og'izoldi chuqurchasining ostida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Preparatda katta yadro va kichik yadro qanday shakllarda aniqlanadi?",
+      "options": [
+        "Katta yadro loviyasimon, kichik yadro dumaloq",
+        "Katta yadro spiralsimon, kichik yadro tayoqchasimon",
+        "Ikkala yadro ham ipsimon",
+        "Katta yadro dumaloq, kichik yadro yulduzsimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Laboratoriyada kiyimlarni iflos qilmaslik yoki allergik reaksiyalar paydo bo'lmasligi uchun nima kiyiladi?",
+      "options": [
+        "Oddiy qalin qishki kiyim",
+        "Xalat yoki laboratoriya etagi",
+        "Rezina plash",
+        "Maxsus suv o'tkazmaydigan kombinezon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Agar laboratoriyada qizil kongo bo'yog'i bo'lmasa, 1-ishni qanday bajarish tavsiya etiladi?",
+      "options": [
+        "Ishni mutlaqo bekor qilish lozim",
+        "Bo'yoq bo'lmagan holda ham ko'rsatilgan tartibda preparat tayyorlab kuzatish mumkin",
+        "Kongo bo'yog'i o'rniga osh tuzi solinadi",
+        "Faqat sirka kislota eritmasidan foydalaniladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Tufelkaning oziq hazm qilish vakuolalari pufagi suv bilan to'lishi va bo'shashini kuzatish necha vaqt davomida amalga oshiriladi?",
+      "options": [
+        "Bir necha soat davomida",
+        "Bir necha daqiqa davomida",
+        "Bir kecha-kunduz mobaynida",
+        "Faqat 5 soniya davomida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Qisqaruvchi vakuolaning qaysi qismi suyuqlikni sitoplazmadan birinchi bo'lib yig'ib oladi?",
+      "options": [
+        "Markaziy chiqaruvchi pufakcha",
+        "Bir necha uzun va ingichka naychalar",
+        "Og'izoldi chuqurchasi naychasi",
+        "Kuydiruvchi iplar to'plami"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Tufelkaning og'izoldi chuqurchasi tanasining qaysi qismida joylashgan?",
+      "options": [
+        "Tanasining oldingi to'mtoq qismida",
+        "Tanasining keyingi qismida",
+        "Tanasining yon tomonida",
+        "Tanasining orqa burchagida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Laboratoriyada keltirilgan reaktivlarning vazifalari qaysi javobda to'g'ri juftlangan?",
+      "options": [
+        "Qizil kongo — yadrolarni bo'yash; Sirka kislota — harakatni sekinlashtirish",
+        "Qizil kongo — hazm vakuolalarini bo'yash; Yashil metil — yadrolarni bo'yash; Sirka kislota — kuydiruvchi tanachalarni ottirish",
+        "Yashil metil — harakatni to'xtatish; Osh tuzi — vakuolalarni bo'yash",
+        "Paxta tolasi — yadroni bo'yash; Yashil metil — kiyimni himoyalash"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
