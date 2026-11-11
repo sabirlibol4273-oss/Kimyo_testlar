@@ -1,0 +1,403 @@
+{
+  "topicId": 5,
+  "title": "Infuzoriyalar va sporalilar sinflari",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Infuzoriyalar birinchi marta qayerdan topilgan?",
+      "options": [
+        "Dengiz suvidan",
+        "Pichan ivitmasidan",
+        "Tuproq eritmasidan",
+        "Oqar daryolardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "«Infuzoriya» so'zi lotin tilida qanday ma'noni anglatadi?",
+      "options": [
+        "Tayoqchasimon jonivorlar",
+        "Kiprikli mikroorganizmlar",
+        "Pichan ivitmasi hayvonlari",
+        "Qon parazitlari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Tufelka qanday muhitda yashaydi?",
+      "options": [
+        "Sho'r dengiz suvlarida",
+        "O'simlik qoldiqlari ko'p bo'lgan suv havzalarida",
+        "Qurg'oqchil qumloq joylarda",
+        "Faqat tirik organizmlarning ichida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Tufelkaning tana uzunligi qancha bo'ladi?",
+      "options": [
+        "0,1–0,3 mm",
+        "1,0–1,5 mm",
+        "0,01–0,05 mm",
+        "0,5–0,8 mm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Tufelkaning shakli nima sababdan bunday nomlangan?",
+      "options": [
+        "Poyabzalning ostki qismiga o'xshagani uchun",
+        "Qayiqsimon shaklda bo'lgani uchun",
+        "Tayoqcha shakliga ega bo'lgani uchun",
+        "Tuxumsimon bo'lgani uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Tufelkaning harakatlanishi qaysi organoidlar yordamida amalga oshadi?",
+      "options": [
+        "Xivchinlar",
+        "Soxta oyoqlar",
+        "Kiprikchalar",
+        "Qisqaruvchi tolalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Tufelka qaysi tomoni bilan oldinga suzadi?",
+      "options": [
+        "Ingichka tomoni bilan",
+        "O'tkir tomoni bilan",
+        "To'mtoq tomoni bilan",
+        "Yon tomoni bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Tufelka asosan nimalar bilan oziqlanadi?",
+      "options": [
+        "Bir hujayrali suvo'tlar bilan",
+        "Bakteriyalar bilan",
+        "Mayda qisqichbaqasimonlar bilan",
+        "Faqat chiriyotgan barglar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Tufelka tanasida «og'iz» teshigi qayerda joylashgan?",
+      "options": [
+        "Tananing oldingi to'mtoq uchida",
+        "Tananing keyingi o'tkir uchida",
+        "Yon tomonidagi uzun tarnovsimon chuqurcha tubida",
+        "Katta yadroning ustki qismida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Tufelkaning og'iz teshigi qaysi qismga ochiladi?",
+      "options": [
+        "Halqumga",
+        "Qisqaruvchi vakuolaga",
+        "Katta yadroga",
+        "To'g'ridan-to'g'ri tashqi muhitga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Tufelkada hazm vakuolasi qayerda shakllanadi va keyin qayerga o'tadi?",
+      "options": [
+        "Tarnovsimon chuqurchada hosil bo'lib, to'g'ridan-to'g'ri tashqariga chiqadi",
+        "Halqum tubida to'planib hosil bo'ladi va uzilib sitoplazmaga tushadi",
+        "Kichik yadro ichida hosil bo'lib, katta yadroga o'tadi",
+        "Qisqaruvchi vakuola tubida hosil bo'lib, qobiq ostiga o'tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Hazm vakuolalari oziqni hazm qilish davomida qanday harakatlanadi?",
+      "options": [
+        "Kiprikchalar zarbasi bilan tanadan itariladi",
+        "Sitoplazma oqimi bilan tufelka tanasini aylanadi",
+        "Halqum atrofida doimiy qo'zg'almas turadi",
+        "Bir qisqaruvchi vakuoladan ikkinchisiga o'tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Tufelkada hazm bo'lmagan oziq qoldiqlari qayerdan tashqariga chiqariladi?",
+      "options": [
+        "Og'iz teshigi orqali orqaga qaytariladi",
+        "Tanasining istalgan joyidagi qobiq yorilishi orqali",
+        "Tananing keyingi tomonidagi teshikcha orqali",
+        "Qisqaruvchi vakuolalar orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Tufelkada nechta qisqaruvchi vakuola bor va ular qayerda joylashgan?",
+      "options": [
+        "1 ta, tananing markazida",
+        "2 ta, oldingi va keyingi tomonida",
+        "3 ta, og'iz teshigi atrofida",
+        "4 ta, to'rtta burchagida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Tufelkaning qisqaruvchi vakuolalari qanday tartibda qisqaradi?",
+      "options": [
+        "Bir vaqtning o'zida parallel",
+        "Galma-galdan",
+        "Faqat oziqlanganda",
+        "Faqat bo'linish paytida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Qisqaruvchi vakuolaning asosiy vazifalari qaysi javobda to'liq ko'rsatilgan?",
+      "options": [
+        "Faqat hazm bo'lmagan oziq qoldiqlarini haydash",
+        "Ortiqcha suv va moddalar almashinuvidagi keraksiz mahsulotlarni chiqarish",
+        "Kislorodni tanaga singdirish va karbonat angidridni ajratish",
+        "Yirtqichlardan himoyalanish va oziqni ushlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Tufelka sitoplazmasiga kislorod qanday yo'l bilan kiradi?",
+      "options": [
+        "Maxsus traxeyalar orqali",
+        "Suv bilan birga kirib turadi",
+        "Kichik yadro orqali o'tadi",
+        "Tayoqchasimon tanachalar orqali yutiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Tufelka sitoplazmasidagi katta va kichik yadrolarning shakli qanday?",
+      "options": [
+        "Katta yadro dumaloq, kichik yadro loviyasimon",
+        "Katta yadro loviyasimon, kichik yadro dumaloq",
+        "Ikkala yadro ham bir xil loviyasimon",
+        "Ikkala yadro ham ipsimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Tufelkaning jinssiz ko'payishi qanday hodisa bilan boshlanadi?",
+      "options": [
+        "Tananing qoq o'rtasidan ingichkalashishi bilan",
+        "Qisqaruvchi vakuolalarning ikkiga ajralishi bilan",
+        "Yadrolar qobig'ining erishi va yadro moddasining ikkiga taqsimlanishidan",
+        "Yangi og'iz teshigi shakllanishidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Tufelka jinssiz ko'payganda yangi hosil bo'lgan yadrolar qanday taqsimlanadi?",
+      "options": [
+        "Barcha yangi yadrolar faqat oldingi qismga o'tadi",
+        "Tufelkaning oldingi va keyingi tomoniga teng miqdorda o'tadi",
+        "Katta yadro markazda qoladi, kichik yadro ikkiga bo'linadi",
+        "Har ikkala yangi yadro orqa qutbga siljiydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Tufelka ikkiga ajralgandan so'ng dastlab har bir yangi infuzoriyada nechta qisqaruvchi vakuola bo'ladi?",
+      "options": [
+        "Bittadan (ikkinchisi keyinroq hosil bo'ladi)",
+        "Ikkita to'liq shakllangan vakuola",
+        "Umuman bo'lmaydi",
+        "Uchtadan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Tufelka hujayrasi qobig'ining ostida joylashgan mayda kuydiruvchi tayoqchasimon tanachalarning roli nima?",
+      "options": [
+        "Oziqni kimyoviy parchalash",
+        "Yirtqich hayvonlar hujum qilganda otilib chiqib, sanchiladi va cho'chitadi",
+        "Tanaga elastiklik berib, suzish tezligini oshiradi",
+        "Yadrolarning teng bo'linishiga yordam beradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Sporalilar sinfi qancha mikroskopik hayvonlarni o'z ichiga oladi?",
+      "options": [
+        "1 000 dan ortiq",
+        "2 500 ga yaqin",
+        "4 000 dan ortiq",
+        "10 000 dan ortiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Sporalilar sinfi vakillarining hayot tarzi qanday?",
+      "options": [
+        "Barchasi erkin yashovchi yirtqichlar",
+        "Hamma turlari odam va hayvonlarda parazitlik qiladi",
+        "Suv o'simliklari bilan simbioz yashaydi",
+        "Faqat tuproqda saprofit hayot kechiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Sporalilar sinfida qaysi organoidlar tizimi mutlaqo bo'lmaydi?",
+      "options": [
+        "Faqat yadro va sitoplazma",
+        "Harakatlanish, hazm qilish va ayirish organoidlari",
+        "Hujayra qobig'i va ribosomalar",
+        "Mitoxondriya va endoplazmatik to'r"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Sporalilar tuzilishining juda soddalashganligiga asosiy sabab nima?",
+      "options": [
+        "Suv tubidagi yuqori bosim",
+        "Odam va hayvonlar organizmida doimiy parazitlik qilishi",
+        "Jinsiy ko'payishning yo'qligi",
+        "Kislorodsiz muhitda yashashi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Sporalilar sinfiga mansub keng tarqalgan xavfli parazit qaysi?",
+      "options": [
+        "Tufelka",
+        "Amyoba dizenteriyasi",
+        "Bezgak paraziti",
+        "Yashil evglena"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Bezgak parazitini odamga qaysi organizm yuqtiradi?",
+      "options": [
+        "Qora pashsha",
+        "Bezgak chivini",
+        "Kana",
+        "Suvarak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Bezgak paraziti odam tanasining qaysi hujayralariga kirib, tez bo'linib ko'payadi?",
+      "options": [
+        "Qonning oq tanachalari (leykotsitlar)ga",
+        "Qonning plastinkalari (trombotsitlar)ga",
+        "Qizil qon tanachalari (eritrotsitlar)ga",
+        "Nerv tolalari hujayralariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Bezgak bilan og'rigan bemorda tana haroratining keskin ko'tarilishi va xuruj qachon yuz beradi?",
+      "options": [
+        "Chivin chaqqan zahoti",
+        "Parazit qon hujayralarini yemirib, qon plazmasiga chiqqanida",
+        "Parazit oshqozonga tushganida",
+        "Jigar hujayralariga birinchi marta o'tganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Quyidagilardan qaysilari sporalilar sinfiga kiruvchi parazitlar hisoblanadi?",
+      "options": [
+        "Tut ipak qurti va asalari paraziti nozema",
+        "Gidra va aktiniya",
+        "Planariya va jigar qurti",
+        "Volvoks va xlorella"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Infuzoriyalar boshqa bir hujayralilardan (masalan, amyobadan) qaysi organoidlarining murakkabligi bilan farq qiladi?",
+      "options": [
+        "Faqat sitoplazmasi bilan",
+        "Hazm qilish va ayirish organoidlari bilan",
+        "Faqat xivchinlari soni bilan",
+        "Qobiqning bo'lmasligi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Tufelka tanasidagi ikkita yadroning bir-biridan asosiy tashqi farqi nimada?",
+      "options": [
+        "Biri rangli, ikkinchisi rangsiz",
+        "Biri loviyasimon katta, ikkinchisi dumaloq kichik",
+        "Biri hujayra tashqarisida, biri ichida joylashgan",
+        "Biri qattiq, biri suyuq moddadan iborat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Tufelkaning jinssiz bo'linishi paytida tana shaklida qanday o'zgarish sodir bo'ladi?",
+      "options": [
+        "Oldingi to'mtoq qismi uzilib tushadi",
+        "Tanasi qoq o'rtasidan ingichkalashib ikkiga ajraladi",
+        "Tanasi bo'yiga (uzunasiga) yorilib ketadi",
+        "Kiprikchalari to'kilib, tana sharsimon shaklga kiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Oziq zarralarining tufelkaning tarnovsimon chuqurchasiga va halqumiga tomon harakatlanishiga nima sabab bo'ladi?",
+      "options": [
+        "Chuqurcha atrofida joylashgan kiprikchalarning tebranishi",
+        "Qisqaruvchi vakuolaning kuchi",
+        "Yadro moddasining magnit maydoni",
+        "Tayoqchasimon tanachalarning so'rish harakati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Nozema qaysi foydali hasharotlarda parazitlik qiladi?",
+      "options": [
+        "Tut ipak qurti va asalarida",
+        "Chigirtka va ninachida",
+        "Chumoli va termitda",
+        "Qandalada"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
