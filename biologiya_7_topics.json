@@ -65,6 +65,12 @@
       "title": "To‘garak chuvalchanglar tipi: odam askaridasi",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 12,
+      "title": "Parazit chuvalchanglarning xilma-xilligi",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
