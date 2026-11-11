@@ -2,5 +2,567 @@
   "topicId": 14,
   "title": "Yomg‘ir chuvalchangining ichki tuzilishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Og‘iz teshigi. Mos juftliklarni toping:\n1. Og‘iz teshigi joylashgan tana qismi\n2. Og‘iz teshigi qaysi tana bo‘g‘imi ostida joylashgan\n3. Hazm sistemasining boshlanish qismi\nA) og‘iz teshigi\nB) tananing oldingi uchi\nC) birinchi tana bo‘g‘imi",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Halqum. Mos juftliklarni toping:\n1. Og‘iz tutashgan qisqa organ\n2. Halqum tutashgan organ\n3. Halqumning uzunligi\nA) qizilo‘ngach\nB) halqum\nC) qisqa",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Jig‘ildon. Mos juftliklarni toping:\n1. Qizilo‘ngachning kengaygan keyingi qismi\n2. Qizilo‘ngachning kengaygan qismi joylashgan o‘rin\n3. Jig‘ildon qaysi organga ochiladi\nA) kichikroq oshqozon\nB) jig‘ildon\nC) qizilo‘ngachning keyingi qismi",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Oshqozon va ichak. Mos juftliklarni toping:\n1. Jig‘ildon ochiladigan organ\n2. Oshqozondan tananing keyingi tomoniga ketadigan organ\n3. Jig‘ildondan oldingi organ\nA) ichak\nB) kichikroq oshqozon\nC) qizilo‘ngach",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Oziqlanish. Mos juftliklarni toping:\n1. Chuvalchanglarning oziq manbai\n2. Chirindi bilan birga ichakdan o‘tkaziladigan modda\n3. Chuvalchanglar oziqlanadigan modda nomi\nA) tuproq\nB) chirindi\nC) chirigan o‘simlik qoldiqlari",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Hazm shirasi. Mos juftliklarni toping:\n1. Oziq o‘zlashtiriladigan organ\n2. Oziqni o‘zlashtiruvchi omil\n3. Oziqning o‘zlashtirilishi\nA) hazm shirasi\nB) ichak\nC) ichakda hazm shirasi ta’sirida",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Moddalarning so‘rilishi. Mos juftliklarni toping:\n1. Oziq tarkibidagi moddalar so‘riladigan muhit\n2. Moddalar qaysi organdan so‘riladi\n3. Oziq moddalarni tashuvchi suyuqlik\nA) ichak\nB) qon\nC) qon",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Chiqarish. Mos juftliklarni toping:\n1. Hazm bo‘lmagan oziq qismi chiqariladigan teshik\n2. Hazm bo‘lmagan qism chiqariladigan joy\n3. Oziq o‘zlashtiriladigan joy\nA) tashqariga\nB) anal teshigi\nC) ichak",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Qon aylanish sistemasining paydo bo‘lishi. Mos juftliklarni toping:\n1. Qon aylanish sistemasi paydo bo‘lgan davr\n2. Qon aylanish sistemasi birinchi marta paydo bo‘lgan hayvonlar\n3. Yomg‘ir chuvalchangi qon aylanish sistemasi tarkibi\nA) dastlab\nB) orqa va qorin qon tomirlaridan iborat\nC) halqali chuvalchanglar",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Qon tomirlari. Mos juftliklarni toping:\n1. Yomg‘ir chuvalchangi qon aylanish sistemasi tarkibidagi yirik tomirlar\n2. Orqa va qorin tomirlari holati\n3. Qon aylanish sistemasining tuzilishi\nA) orqa va qorin qon tomirlari\nB) yirik tomirlardan iborat\nC) o‘zaro tutashgan",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Halqa tomirlar. Mos juftliklarni toping:\n1. Ikki yirik qon tomirni o‘zaro tutashtiradi\n2. Orqa tomir bilan tutashgan tomir\n3. Halqa tomirlar tutashtiradigan tomirlar soni\nA) ikkita yirik tomir\nB) halqa tomirlar\nC) qorin tomir",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Yurak. Mos juftliklarni toping:\n1. Qizilo‘ngach atrofidagi yo‘g‘on halqa tomirlar soni\n2. Halqa tomirlar devori ta’minlangan to‘qima\n3. Halqa tomirlar joylashgan joy\nA) 5–6 ta\nB) qizilo‘ngach atrofi\nC) muskullar",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "«Yurak». Mos juftliklarni toping:\n1. Halqa tomirlarning «yurak» deb atalish sababi\n2. «Yurak» deb ataladigan tomirlar\n3. Qisqarish xususiyatiga ega tomir devori\nA) muskulli devor\nB) qizilo‘ngach atrofidagi halqa tomirlar\nC) qisqarish xususiyati",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Mayda tomirlar. Mos juftliklarni toping:\n1. Halqa va yirik tomirlardan tarqaladigan tomirlar\n2. Mayda tomirlar tarqaladigan joy\n3. Mayda tomirlar chiqadigan tomirlar\nA) mayda qon tomirlar\nB) halqa va yirik qon tomirlar\nC) tanadagi turli organlar",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Kapillyarlar. Mos juftliklarni toping:\n1. Organlarda juda mayda tomirlarga ajraladigan tomirlar\n2. Eng mayda qon tomirlar\n3. Mayda tomirlar ajraladigan joy\nA) kapillyarlar\nB) mayda qon tomirlar\nC) organlar",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Kapillyarlarning joylashuvi. Mos juftliklarni toping:\n1. Kapillyar tomirlar ayniqsa ko‘p bo‘ladigan joy\n2. Kapillyar tomirlar ko‘p bo‘ladigan ikkinchi joy\n3. Eng mayda qon tomirlar\nA) ichak devori\nB) teri\nC) kapillyarlar",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Qonning oqish yo‘nalishi. Mos juftliklarni toping:\n1. Orqa tomirda qon oqadigan yo‘nalish\n2. Qorin tomirda qon oqadigan yo‘nalish\n3. Qon oqadigan tomirlar\nA) tananing oldingi tomoniga\nB) faqat qon tomirlarda\nC) tananing orqa tomoniga",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Yopiq qon aylanish. Mos juftliklarni toping:\n1. Qon faqat tomirlarda oqadigan sistema\n2. Chuvalchang qoni oqadigan joy\n3. Qon tomirlar hosil qiladigan sistema\nA) yopiq qon aylanish sistemasi\nB) yopiq qon aylanish sistemasi\nC) qon tomirlar",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-B, 3-C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Qon vazifasi. Mos juftliklarni toping:\n1. Qon orqali tashiladigan gaz\n2. Qon orqali tashiladigan modda\n3. Qon aylanish sistemasining vazifasi\nA) oziq moddalar\nB) moddalarni tashish\nC) kislorod",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Nafas olish. Mos juftliklarni toping:\n1. Yomg‘ir chuvalchangining nafas olish a’zosi\n2. Chuvalchang nafas oladigan joy\n3. Nafas olishda ishtirok etadigan qon tomirlar\nA) kapillyarlar\nB) teri\nC) tananing terisi",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Kislorodning tarqalishi. Mos juftliklarni toping:\n1. Kislorod o‘tadigan to‘qima\n2. Kislorod o‘tadigan tomirlar\n3. Kislorod tarqaladigan joy\nA) kapillyarlar\nB) hamma organlar\nC) teri",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Karbonat angidrid. Mos juftliklarni toping:\n1. Moddalar almashinuvi natijasida hosil bo‘ladigan gaz\n2. Karbonat angidrid chiqib ketadigan yo‘l\n3. Karbonat angidrid hosil bo‘lish jarayoni\nA) moddalar almashinuvi\nB) teri orqali\nC) karbonat angidrid",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Teri namligi. Mos juftliklarni toping:\n1. Chuvalchang terisini namlab turadigan\n2. Teri holati\n3. Teri namlanadigan moddaning xususiyati\nA) shilimshiq\nB) shilimshiq modda\nC) doimo nam",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Nam teri. Mos juftliklarni toping:\n1. Nam teri yaxshi o‘tkazadigan modda\n2. Kislorodni yaxshi o‘tkazadigan to‘qima\n3. Teri namligining ahamiyati\nA) nam teri\nB) nafas olishni yengillashtirish\nC) kislorod",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Ayirish naychalari. Mos juftliklarni toping:\n1. Ayirish naychalarining joylashishi\n2. Ayirish naychalarining shakli\n3. Ayirish naychalarining o‘lchami\nA) ingichka va uzun\nB) sirtmoqqa o‘xshash\nC) har bir tana bo‘g‘imida bir juftdan",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Naychaning uchlari. Mos juftliklarni toping:\n1. Naychaning bir uchi ochiladigan joy\n2. Naychaning ikkinchi uchi ochiladigan joy\n3. Naychalar sistemasi\nA) teri orqali tashqariga\nB) ayirish sistemasi\nC) tana bo‘shlig‘i",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Voronka. Mos juftliklarni toping:\n1. Naychaning tana bo‘shlig‘iga ochilgan uchi\n2. Naychaning kengaygan uchi bilan ta’minlangan\n3. Voronkaning joylashgan joyi\nA) ko‘p kipriklar\nB) tana bo‘shlig‘i tomonida\nC) voronkaga o‘xshab kengaygan",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Kipriklar. Mos juftliklarni toping:\n1. Kipriklarning harakati natijasi\n2. Zararli moddalar naychalarga o‘tadigan suyuqlik\n3. Zararli moddalar tashqariga chiqariladigan yo‘l\nA) tana suyuqligi\nB) zararli moddalar naychalarga o‘tadi\nC) teridagi teshikchalar",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Halqalilarning ahamiyati. Mos juftliklarni toping:\n1. Halqali chuvalchanglarning tabiatdagi roli\n2. Ahamiyati katta bo‘lgan hayvonlar\n3. Halqali chuvalchanglar ahamiyatga ega bo‘lgan joy\nA) halqali chuvalchanglar\nB) katta ahamiyatga ega\nC) tabiat",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Turlar soni. Mos juftliklarni toping:\n1. Yomg‘ir chuvalchanglarining turlari soni\n2. Ko‘p tuklilar sinfidagi turlar soni\n3. Zuluklar sinfidagi turlar soni\nA) 400 ga yaqin\nB) 5 000\nC) 180 dan ortiq",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Tuproqqa ta’siri. Mos juftliklarni toping:\n1. Chuvalchanglar tuproqni\n2. Chuvalchanglar tuproqqa o‘tkazishni yaxshilaydigan narsa\n3. Chuvalchanglar tuproqni boyitadigan modda\nA) chirindi\nB) suv va havo\nC) yumshatadi",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Tuproqni qayta ishlash. Mos juftliklarni toping:\n1. Bir gektar maydonda qayta ishlanadigan tuproq miqdori\n2. Qayta ishlash davri\n3. Qayta ishlaydigan jonivor\nA) bir yil\nB) 250–600 t\nC) chuvalchanglar",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Biogumus. Mos juftliklarni toping:\n1. Chuvalchanglar ayrim turlaridan olinadigan o‘g‘it\n2. Biogumus olinadigan xomashyo\n3. Biogumus qimmatli o‘g‘it bo‘ladigan ekinlar\nA) biogumus\nB) sabzavot va poliz ekinlari\nC) chorvachilik va uy-ro‘zg‘or chiqindilari",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Chuvalchang — oziq. Mos juftliklarni toping:\n1. Chuvalchanglar oziq bo‘ladigan hayvonlar guruhi\n2. Chuvalchanglar oziq bo‘ladigan sutemizuvchilar\n3. Chuvalchanglar oziq bo‘ladigan tuproq jonzotlari\nA) tuproq hayvonlari\nB) qushlar\nC) ayrim sutemizuvchilar",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Parrandalar uchun oziq. Mos juftliklarni toping:\n1. Uy parrandalari uchun chuvalchang\n2. Chuvalchanglar tarkibi\n3. Chuvalchanglardan foydalanadigan hayvonlar\nA) oqsilga boy\nB) oqsilga boy to‘yimli oziq\nC) uy parrandalari",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Parrandalar mahsuldorligi. Mos juftliklarni toping:\n1. Parrandalar ozig‘iga chuvalchang qo‘shilganda\n2. Ko‘p tuxum qiladigan hayvonlar\n3. Parrandalar ozig‘iga qo‘shiladigan narsa\nA) chuvalchanglar\nB) parrandalar\nC) ko‘p tuxum qiladi",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "Kam tukli qizil chuvalchanglar. Mos juftliklarni toping:\n1. Kam tukli qizil chuvalchanglar yashaydigan muhit\n2. Ularning suvdagi vazifasi\n3. Ularning bajaradigan vazifa turi\nA) sanitarlik vazifasi\nB) chuchuk suvlar\nC) suvni ifloslikdan tozalash",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Suv chuvalchanglari — oziq. Mos juftliklarni toping:\n1. Chuchuk suv chuvalchanglari oziq bo‘ladigan hayvonlar\n2. Ularning baliqlar uchun ahamiyati\n3. Ular oziq bo‘ladigan jumladan\nA) asosiy oziq\nB) turli suv hayvonlari\nC) baliqlar",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Akvarium baliqlari. Mos juftliklarni toping:\n1. Chuchuk suv chuvalchanglari ko‘paytiriladigan maqsad\n2. Ko‘paytirishdan olinadigan foyda\n3. Yemishni oladigan baliqlar\nA) yemish\nB) akvarium baliqlari uchun yemish\nC) akvarium baliqlari",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Ko‘p tuklilar sinfi. Mos juftliklarni toping:\n1. Ko‘p tuklilar yashash muhiti\n2. Ko‘p tuklilarning yashash usuli (ikki xil)\n3. Ko‘p tuklilar turlari soni\nA) 5 000\nB) dengiz\nC) suzib yuradi yoki tubida yopishib yashaydi",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Nereida. Mos juftliklarni toping:\n1. Nereida yashaydigan joy\n2. Nereidaning boshi\n3. Nereidaning tanasi\nA) tanasidan alohida ixtisoslashgan\nB) dengiz tubi\nC) ko‘p miqdorda uzun tuklar bilan qoplangan",
+      "options": [
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C",
+        "1-C, 2-A, 3-B",
+        "1-A, 2-C, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Tuklarning joylashuvi. Mos juftliklarni toping:\n1. Tuklar joylashgan joy\n2. Tuklarning joylashish usuli\n3. Tuklarning uzunligi\nA) uzun\nB) to‘p-to‘p\nC) tananing ikki yonidagi muskulli o‘simtalar",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Harakatlanish. Mos juftliklarni toping:\n1. Chuvalchanglar suzadigan a’zo\n2. Chuvalchanglar suv tubida harakatlanish usuli\n3. Suzishni ta’minlaydigan o‘simtalar\nA) o‘rmalab yuradi\nB) o‘simtalar\nC) muskulli o‘simtalar",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Ilk oyoqlar. Mos juftliklarni toping:\n1. Ilk bor paydo bo‘lgan oyoqlar\n2. Ilk oyoqlar paydo bo‘lgan hayvonlar\n3. O‘simtalarning evolyutsion ahamiyati\nA) ko‘p tuklilar\nB) oyoqlarning ilk shakli\nC) muskulli o‘simtalar",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Ko‘p tuklilar — oziq. Mos juftliklarni toping:\n1. Ko‘p tuklilar oziq bo‘ladigan hayvonlar\n2. Ularning baliqlar uchun ahamiyati\n3. Ko‘p tuklilar yashaydigan joy\nA) asosiy oziq\nB) dengiz\nC) baliqlar",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Zuluklar sinfi. Mos juftliklarni toping:\n1. Zuluklar yashaydigan muhit\n2. Zuluklarning qonni so‘radigan hayvonlar\n3. Zuluklar turlari soni\n4. Zuluklarning yirtqich hayot kechiruvchi turlari\nA) umurtqali hayvonlar\nB) chuchuk suvlar\nC) 400 ga yaqin\nD) yirtqichlar",
+      "options": [
+        "1-D, 2-C, 3-B, 4-A",
+        "1-A, 2-B, 3-C, 4-D",
+        "1-D, 2-A, 3-B, 4-C",
+        "1-B, 2-A, 3-C, 4-D"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Tibbiyot zulugi. Mos juftliklarni toping:\n1. Tibbiyot zulugidan foydalanish\n2. Tibbiyot zulugi ishlatiladigan soha\n3. Tibbiyot zulugi davolaydigan kasalliklar\nA) qon tomiri kasalliklarini davolash\nB) qon tomiri kasalliklari\nC) tibbiyot",
+      "options": [
+        "1-B, 2-C, 3-A",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Zuluklarni ko‘paytirish. Mos juftliklarni toping:\n1. Tibbiyot zulugi ko‘paytiriladigan joy\n2. Zuluklarni ko‘paytirish maqsadi\n3. Tibbiyot zulugi\nA) tibbiyotda foydalanish\nB) maxsus ko‘paytiriladi\nC) maxsus zavodlar",
+      "options": [
+        "1-C, 2-B, 3-A",
+        "1-A, 2-B, 3-C",
+        "1-B, 2-C, 3-A",
+        "1-C, 2-A, 3-B"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Kelib chiqishi. Mos juftliklarni toping:\n1. Halqali chuvalchanglar kelib chiqqan guruh\n2. Qadimgi yassi chuvalchanglarning hayot tarzi\n3. Halqalilarning kelib chiqishi\nA) erkin yashovchi\nB) yassi chuvalchanglardan\nC) qadimgi yassi chuvalchanglar",
+      "options": [
+        "1-A, 2-C, 3-B",
+        "1-C, 2-A, 3-B",
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Ko‘p tuklilarning yassi chuvalchanglarga o‘xshashligi. Mos juftliklarni toping:\n1. Ko‘p tukli halqalilar lichinkalari tanasida bo‘ladigan\n2. Ko‘p tuklilar ayirish sistemasi o‘xshaydigan sistema\n3. Ko‘p tukli halqalilar yashaydigan muhit\nA) kipriklar\nB) dengizlar\nC) kiprikli yassi chuvalchanglar sistemasi",
+      "options": [
+        "1-C, 2-A, 3-B",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Kam tuklilarning kelib chiqishi. Mos juftliklarni toping:\n1. Kam tukli halqali chuvalchanglar kelib chiqqan guruh\n2. Ko‘p tuklilar kelib chiqqan guruh\n3. Kam tukli halqalilarning kelib chiqish bosqichi\nA) ko‘p tuklilardan keyin\nB) yassi chuvalchanglar\nC) ko‘p tukli halqalilar",
+      "options": [
+        "1-B, 2-A, 3-C",
+        "1-A, 2-B, 3-C",
+        "1-A, 2-C, 3-B",
+        "1-C, 2-B, 3-A"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
