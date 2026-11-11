@@ -563,6 +563,710 @@
         "1-C, 2-B, 3-A"
       ],
       "correctIndex": 3
+    },
+    {
+      "id": 52,
+      "question": "Yomg‘ir chuvalchangining og‘iz teshigi qayerda joylashgan?",
+      "options": [
+        "Tananing oldingi uchida, birinchi tana bo‘g‘imi ostida",
+        "Tananing orqa uchida",
+        "Birinchi tana bo‘g‘imi ustida",
+        "Tananing o‘rtasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 53,
+      "question": "Og‘iz teshigi qaysi organ orqali qizilo‘ngachga tutashgan?",
+      "options": [
+        "Ichak",
+        "Qisqa halqum",
+        "Jig‘ildon",
+        "Oshqozon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Qizilo‘ngachning kengaygan keyingi qismi nima deb ataladi?",
+      "options": [
+        "Ichak",
+        "Halqum",
+        "Jig‘ildon",
+        "Oshqozon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Jig‘ildon qaysi organga ochiladi?",
+      "options": [
+        "Ichakka",
+        "Qizilo‘ngachga",
+        "Halqumga",
+        "Kichikroq oshqozonga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Oshqozondan tananing keyingi tomoniga qarab qaysi organ ketadi?",
+      "options": [
+        "Ichak",
+        "Qizilo‘ngach",
+        "Halqum",
+        "Jig‘ildon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Yomg‘ir chuvalchanglari nima bilan oziqlanadi?",
+      "options": [
+        "Baliq qoldiqlari bilan",
+        "Chirigan o‘simlik qoldiqlari bilan",
+        "Tirik o‘simliklar bilan",
+        "Mayda hasharotlar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Chuvalchang chirindini nima bilan birga ichagidan o‘tkazadi?",
+      "options": [
+        "Qum bilan",
+        "Havo bilan",
+        "Tuproq bilan",
+        "Suv bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "Oziq ichakda qanday ta’sirda o‘zlashtiriladi?",
+      "options": [
+        "Shilimshiq modda ta’sirida",
+        "Qon ta’sirida",
+        "Kipriklar ta’sirida",
+        "Hazm shirasi ta’sirida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Oziq tarkibidagi moddalar qayerga so‘riladi?",
+      "options": [
+        "Qonga",
+        "Jig‘ildonga",
+        "Tana bo‘shlig‘iga",
+        "Terига"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Oziqning hazm bo‘lmagan qismi qayerdan tashqariga chiqariladi?",
+      "options": [
+        "Teri orqali",
+        "Anal teshigi orqali",
+        "Og‘iz teshigi orqali",
+        "Ayirish naychalari orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Qon aylanish sistemasi dastlab qaysi hayvonlarda paydo bo‘lgan?",
+      "options": [
+        "Yumaloq chuvalchanglarda",
+        "Yassi chuvalchanglarda",
+        "Halqali chuvalchanglarda",
+        "Mollyuskalarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Yomg‘ir chuvalchangining qon aylanish sistemasi qaysi tomirlardan iborat?",
+      "options": [
+        "Faqat halqa tomirlardan",
+        "Yirik yon tomirlardan",
+        "Faqat kapillyarlardan",
+        "Yirik orqa va qorin qon tomirlaridan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 64,
+      "question": "Ikki yirik qon tomir qaysi tomirlar orqali o‘zaro tutashgan?",
+      "options": [
+        "Halqa tomirlar orqali",
+        "Mayda tomirlar orqali",
+        "Ayirish naychalari orqali",
+        "Kapillyarlar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 65,
+      "question": "Qizilo‘ngach atrofida nechta yo‘g‘on halqa tomir joylashgan?",
+      "options": [
+        "8–10 ta",
+        "5–6 ta",
+        "2–3 ta",
+        "12 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Halqa tomirlarning devori nima bilan ta’minlangan?",
+      "options": [
+        "Kipriklar bilan",
+        "Shilimshiq modda bilan",
+        "Muskullar bilan",
+        "Tuklar bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 67,
+      "question": "Halqa tomirlar nima uchun «yurak» deb ataladi?",
+      "options": [
+        "Qonni tozalagani uchun",
+        "Eng yirik bo‘lgani uchun",
+        "Tananing oldingi uchida bo‘lgani uchun",
+        "Qisqarish xususiyatiga ega bo‘lgani uchun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Halqa va yirik qon tomirlardan tanadagi organlarga nima tarqaladi?",
+      "options": [
+        "Mayda qon tomirlar",
+        "Tuklar",
+        "Ayirish naychalari",
+        "Kipriklar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Eng mayda qon tomirlar nima deb ataladi?",
+      "options": [
+        "Halqa tomirlar",
+        "Kapillyarlar",
+        "Orqa tomirlar",
+        "Qorin tomirlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Kapillyar tomirlar qayerda ayniqsa ko‘p bo‘ladi?",
+      "options": [
+        "Ayirish naychalarida",
+        "Jig‘ildonda va halqumda",
+        "Terida va ichak devorida",
+        "Og‘iz teshigida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Qon orqa tomir bo‘ylab qaysi tomonga oqadi?",
+      "options": [
+        "Tana bo‘shlig‘iga",
+        "Tananing orqa tomoniga",
+        "Terining sirtiga",
+        "Tananing oldingi tomoniga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Qon qorin tomir bo‘ylab qaysi tomonga oqadi?",
+      "options": [
+        "Tananing orqa tomoniga",
+        "Tananing oldingi tomoniga",
+        "Tana bo‘shlig‘iga",
+        "Faqat tananing yon tomoniga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 73,
+      "question": "Chuvalchang qoni faqat qon tomirlarda oqishi qanday sistemani hosil qiladi?",
+      "options": [
+        "Hazm sistemasini",
+        "Yopiq qon aylanish sistemasini",
+        "Ochiq qon aylanish sistemasini",
+        "Ayirish sistemasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Qon orqali nimalar tashiladi?",
+      "options": [
+        "Faqat hazm shirasi",
+        "Faqat karbonat angidrid",
+        "Kislorod va oziq moddalar",
+        "Faqat suv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "Yomg‘ir chuvalchangi qaysi a’zosi orqali nafas oladi?",
+      "options": [
+        "Traxeya orqali",
+        "Jabra orqali",
+        "O‘pka orqali",
+        "Teri orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 76,
+      "question": "Kislorod teri orqali qayerdagi qonga o‘tadi?",
+      "options": [
+        "Kapillyarlardagi qonga",
+        "Jig‘ildondagi qonga",
+        "Ichakdagi oziqqa",
+        "Tana bo‘shlig‘iga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "Moddalar almashinuvi natijasida hosil bo‘lgan karbonat angidrid qayerdan chiqib ketadi?",
+      "options": [
+        "Og‘iz teshigi orqali",
+        "Teri orqali",
+        "Ayirish naychalarining voronkasi orqali",
+        "Anal teshigi orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "Chuvalchang terisi nima bilan namlanib turadi?",
+      "options": [
+        "Qon bilan",
+        "Hazm shirasi bilan",
+        "Shilimshiq modda bilan",
+        "Tana suyuqligi bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Nam teri qaysi gazni yaxshi o‘tkazadi?",
+      "options": [
+        "Metanni",
+        "Azotni",
+        "Vodorodni",
+        "Kislorodni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "Ayirish sistemasi har bir tana bo‘g‘imida nechta naychadan joylashgan?",
+      "options": [
+        "Bir juftdan",
+        "Bittadan",
+        "Faqat birinchi bo‘g‘imda",
+        "Uch juftdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Ayirish naychalari qanday shaklga ega?",
+      "options": [
+        "Shar shaklida",
+        "Sirtmoqqa o‘xshash ingichka uzun",
+        "Tekis plastinka shaklida",
+        "Qisqa va yo‘g‘on"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 82,
+      "question": "Ayirish naychasining bir uchi qayerga ochiladi?",
+      "options": [
+        "Qon tomirga",
+        "Ichakka",
+        "Tana bo‘shlig‘iga",
+        "Og‘iz teshigiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Ayirish naychasining ikkinchi uchi qayerga ochiladi?",
+      "options": [
+        "Anal teshigiga",
+        "Halqa tomirga",
+        "Jig‘ildonga",
+        "Teri orqali tashqariga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Naychaning tana bo‘shlig‘iga ochilgan uchi qanday shaklda?",
+      "options": [
+        "Voronkaga o‘xshab kengaygan",
+        "Spiral shaklida",
+        "Berk",
+        "Ingichkalashgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Naychaning kengaygan uchi nima bilan ta’minlangan?",
+      "options": [
+        "Muskullar bilan",
+        "Ko‘p kipriklar bilan",
+        "Kapillyarlar bilan faqat",
+        "Tuklar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 86,
+      "question": "Kipriklar harakati tufayli zararli moddalar qanday suyuqlik bilan naychalarga o‘tadi?",
+      "options": [
+        "Qon bilan",
+        "Hazm shirasi bilan",
+        "Tana suyuqligi bilan",
+        "Shilimshiq modda bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "Zararli moddalar tashqariga qanday chiqarib yuboriladi?",
+      "options": [
+        "Og‘iz orqali",
+        "Anal teshigi orqali",
+        "Halqum orqali",
+        "Teridagi teshikchalar orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 88,
+      "question": "Yomg‘ir chuvalchanglarining nechta dan ortiq turi bor?",
+      "options": [
+        "180 dan",
+        "50 dan",
+        "400 dan",
+        "5 000 dan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 89,
+      "question": "Yomg‘ir chuvalchanglari tuproqqa qanday ta’sir ko‘rsatadi?",
+      "options": [
+        "Suv o‘tishini qiyinlashtiradi",
+        "Yumshatib, suv va havo o‘tishini yaxshilaydi",
+        "Zichlashtiradi",
+        "Tuzlantiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "Bir gektar maydonda chuvalchanglar bir yilda qancha tuproqni qayta ishlaydi?",
+      "options": [
+        "25–60 t",
+        "1–2 t",
+        "250–600 t",
+        "2 500–6 000 t"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 91,
+      "question": "Chuvalchanglar ayrim turlaridan qanday qimmatli o‘g‘it olinadi?",
+      "options": [
+        "Mochevina",
+        "Superfosfat",
+        "Selitra",
+        "Biogumus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 92,
+      "question": "Biogumus qaysi chiqindilarni qayta ishlab olinadi?",
+      "options": [
+        "Chorvachilik va uy-ro‘zg‘or chiqindilarini",
+        "Plastmassa chiqindilarini",
+        "Metall chiqindilarini",
+        "Sanoat chiqindilarini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 93,
+      "question": "Biogumus qaysi ekinlar uchun qimmatli o‘g‘it hisoblanadi?",
+      "options": [
+        "Faqat paxta",
+        "Sabzavot va poliz ekinlari",
+        "Faqat daraxtlar",
+        "Faqat g‘alla ekinlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 94,
+      "question": "Yomg‘ir chuvalchanglari qaysi hayvonlar uchun oziq bo‘ladi?",
+      "options": [
+        "Faqat hasharotlar",
+        "Faqat suvda yashovchilar",
+        "Qushlar, ayrim sutemizuvchilar va tuproq hayvonlari",
+        "Faqat baliqlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "Chuvalchanglar uy parrandalari uchun qanday oziq hisoblanadi?",
+      "options": [
+        "Kraxmalga boy oziq",
+        "Zararli oziq",
+        "Yog‘siz oziq",
+        "Oqsilga boy to‘yimli oziq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 96,
+      "question": "Parrandalar ozig‘iga chuvalchang qo‘shilsa, ular nima qiladi?",
+      "options": [
+        "Ko‘p tuxum qiladi",
+        "Tuxum qilmay qo‘yadi",
+        "Tezroq ucha boshlaydi",
+        "Kam tuxum qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 97,
+      "question": "Chuchuk suvlarda yashaydigan kam tukli qizil chuvalchanglar qanday vazifani bajaradi?",
+      "options": [
+        "Suv rangini o‘zgartirish",
+        "Suvni ifloslikdan tozalab, sanitarlik vazifasini",
+        "Suvni tuzlantirish",
+        "Suv sathini ko‘tarish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 98,
+      "question": "Chuchuk suv chuvalchanglari baliqlar uchun nima hisoblanadi?",
+      "options": [
+        "Yirtqich dushman",
+        "Zararli hayvon",
+        "Asosiy oziq",
+        "Faqat yashash joyi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "Chuchuk suv chuvalchanglari akvarium baliqlari uchun nima sifatida ko‘paytiriladi?",
+      "options": [
+        "Bezak sifatida",
+        "Dori sifatida",
+        "O‘g‘it sifatida",
+        "Yemish sifatida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 100,
+      "question": "Ko‘p tuklilar sinfiga nechta tur kiradi?",
+      "options": [
+        "5 000",
+        "50",
+        "400",
+        "180"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 101,
+      "question": "Ko‘p tuklilar qayerda yashaydi?",
+      "options": [
+        "Faqat quruqlikda",
+        "Dengizda suzib yuradi yoki dengiz tubida yopishib yashaydi",
+        "Faqat chuchuk suvda",
+        "Faqat tuproqda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 102,
+      "question": "Dengiz tubida yashaydigan halqali chuvalchang qaysi?",
+      "options": [
+        "Tibbiyot zulugi",
+        "Yomg‘ir chuvalchangi",
+        "Nereida",
+        "Zuluk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 103,
+      "question": "Nereidaning boshi qanday?",
+      "options": [
+        "Tanasidan ajralmagan",
+        "Tuklar bilan qoplangan",
+        "Muskulli o‘simtali",
+        "Tanasidan alohida ixtisoslashgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 104,
+      "question": "Nereidaning tanasi nima bilan qoplangan?",
+      "options": [
+        "Ko‘p miqdorda uzun tuklar bilan",
+        "Tangachalar bilan",
+        "Shilimshiq pardalar bilan faqat",
+        "Qattiq chig‘anoq bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 105,
+      "question": "Nereidada tuklar qayerda to‘p-to‘p bo‘lib joylashgan?",
+      "options": [
+        "Qorin tomonida",
+        "Tananing ikki yonidagi muskulli o‘simtalarda",
+        "Tananing orqa uchida",
+        "Boshida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 106,
+      "question": "Ko‘p tukli chuvalchanglar nima yordamida suzadi yoki o‘rmalab yuradi?",
+      "options": [
+        "Qanotlar yordamida",
+        "Kipriklar yordamida",
+        "Muskulli o‘simtalar yordamida",
+        "Jabralar yordamida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 107,
+      "question": "Muskulli o‘simtalar nimani anglatadi?",
+      "options": [
+        "Ilk paydo bo‘lgan yurakni",
+        "Ilk paydo bo‘lgan tuklarni",
+        "Ilk paydo bo‘lgan jabralarni",
+        "Ilk bor paydo bo‘lgan oyoqlarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 108,
+      "question": "Dengiz ko‘p tuklilari baliqlar uchun nima hisoblanadi?",
+      "options": [
+        "Asosiy oziq",
+        "Parazit",
+        "Zararkunanda",
+        "Yirtqich"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 109,
+      "question": "Zuluklar sinfiga nechta tur kiradi?",
+      "options": [
+        "50",
+        "400 ga yaqin",
+        "180",
+        "5 000"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 110,
+      "question": "Zuluklar qayerda yashaydi?",
+      "options": [
+        "Dengizda",
+        "Quruq tuproqda",
+        "Chuchuk suvlarda",
+        "Faqat issiq cho‘llarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 111,
+      "question": "Tibbiyot zulugidan tibbiyotda nima uchun foydalaniladi?",
+      "options": [
+        "Suyak sinishini davolashda",
+        "Teri kasalliklarini davolashda",
+        "Ko‘z kasalliklarini davolashda",
+        "Qon tomiri kasalliklarini davolashda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 112,
+      "question": "Tibbiyot zulugi qayerda ko‘paytiriladi?",
+      "options": [
+        "Maxsus zavodlarda",
+        "Dalada",
+        "Uyda",
+        "Tabiiy suv havzalarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 113,
+      "question": "Halqali chuvalchanglar qaysi hayvonlardan kelib chiqqan?",
+      "options": [
+        "Zuluklardan",
+        "Erkin yashovchi qadimgi yassi chuvalchanglardan",
+        "Mollyuskalardan",
+        "Yumaloq chuvalchanglardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 114,
+      "question": "Ko‘p tukli halqalilar lichinkalari tanasida nima bo‘lishi yassi chuvalchanglar bilan qarindoshlikdan dalolat beradi?",
+      "options": [
+        "Jabralar",
+        "Tuklar",
+        "Kipriklar",
+        "Qanotlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 115,
+      "question": "Kam tukli halqali chuvalchanglar qaysi guruhdan kelib chiqqan?",
+      "options": [
+        "Yumaloq chuvalchanglardan",
+        "Yassi chuvalchanglardan to‘g‘ridan-to‘g‘ri",
+        "Zuluklardan",
+        "Ko‘p tukli halqalilardan"
+      ],
+      "correctIndex": 3
     }
   ]
 }
