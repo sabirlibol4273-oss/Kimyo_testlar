@@ -2,5 +2,556 @@
   "topicId": 11,
   "title": "To‘garak chuvalchanglar tipi: odam askaridasi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ta'rifga mos javobni toping: «Tanasi ko'ndalang kesimi to'garak, shakli ipsimon, ichki organlari tana bo'shlig'ida joylashgan, erkin va parazit yashovchi hayvonlar tipi».",
+      "options": [
+        "Yassi chuvalchanglar",
+        "To'garak chuvalchanglar",
+        "Bo'shliqichlilar",
+        "Kiprikli chuvalchanglar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "To'garak chuvalchanglarning tabiatda tarqalishi qaysi javobda to'liq aks ettirilgan?",
+      "options": [
+        "Faqat sovuq dengiz tublarida",
+        "Dengiz, chuchuk suv va tuproqda; odam, hayvon va o'simliklarda parazitlik qiladi",
+        "Faqat o'troq koloniya hosil qiluvchi poliplar ichida",
+        "Faqat sutemizuvchilarning jigarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Odam askaridasining gavda shakli va o'lchamlari bo'yicha jinsiy dimorfizmi qanday ifodalangan?",
+      "options": [
+        "Urg'ochisi 15–25 sm, erkagi 20–40 sm; urg'ochisining dumi ilmoqsimon",
+        "Urg'ochisi 20–40 sm, erkagi 15–25 sm; erkagining dumi ilmoqqa o'xshash egilgan",
+        "Ikkala jins ham 8–10 m bo'lib, 1 000 tagacha bo'g'imdan iborat",
+        "Erkagi va urg'ochisi bir xil o'lchamda bo'lib, bargsimon shaklga ega"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Farqni toping: Odam askaridasi jigar qurti va qoramol tasmasimon chuvalchangidan yopishuv a'zolari bo'yicha qanday farq qiladi?",
+      "options": [
+        "Askaridada 4 ta so'rg'ich bor, parazit yassi chuvalchanglarda esa yo'q",
+        "Askaridada yopishuv organlari rivojlanmagan, u elastik tanasi bilan ichak devoriga taqalib turadi",
+        "Askaridaning og'zi atrofida 12 ta kuchli ilmoq joylashgan",
+        "Askarida ichak devoriga faqat ilmoqsimon dumi bilan yopishib oladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Odam askaridasining hazm qilish sistemasining anatomik ketma-ketligi qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Og'iz (3 ta lab) -> qisqa halqum -> qizilo'ngach -> o'rta ichak -> keyingi ichak -> anal teshigi",
+        "Og'iz -> 3 shoxli ichak -> berk yon shoxchalar -> anal teshigi",
+        "Og'iz so'rg'ichi -> qizilo'ngach -> 2 shoxli ichak -> og'iz teshigi",
+        "Tana yuzasi -> ichki bo'shliq -> nerv halqasi -> anal teshigi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Farqni toping: Hazm qilish sistemasining tuzilishiga ko'ra to'garak chuvalchanglar barcha yassi chuvalchanglardan (planariya, jigar qurti) qaysi tub belgisi bilan farq qiladi?",
+      "options": [
+        "Oziqni tana yuzasi orqali shimib olishi bilan",
+        "Ikki uchi ochiq nay shaklida bo'lib, orqa ichak va anal (orqa chiqaruv) teshigiga ega bo'lishi bilan",
+        "Ichagining uch shoxli bo'lib, uchi berk tugashi bilan",
+        "Hazm qilish sistemasining butunlay yo'qolib ketganligi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Odam askaridasining tanasi oldingi uchidagi og'iz teshigi nechta lab bilan o'ralgan?",
+      "options": [
+        "2 ta lab bilan",
+        "3 ta lab bilan",
+        "4 ta doirasimon lab bilan",
+        "Lablari bo'lmaydi, o'rniga so'rg'ich bor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Odam askaridasi xo'jayin organizmida qanday oziqlanadi va hazm bo'lmagan qoldiqlar qayerdan chiqariladi?",
+      "options": [
+        "Jigar to'qimasini yeydi; qoldiqlar og'izdan chiqadi",
+        "Ingichka ichakda hazm bo'layotgan oziqni so'rib oladi; hazm bo'lmagan qismi anal teshigidan chiqadi",
+        "Qon va o't suyuqligini so'radi; qoldiqlar tana yuzasidan ajraladi",
+        "Faqat bakteriyalarni yutadi; qoldiqlar ayirish nayi orqali haydaladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Farqni toping: Odam askaridasining ayirish sistemasi oq planariyanikidan qanday tuzilishi bilan ajralib turadi?",
+      "options": [
+        "Planariyada bitta teshik, askaridada esa yuzlab teshiklar bor",
+        "Planariyada g'ovak to'qimadagi uchi berk naychalar va 2 ta yon nay; askaridada tana bo'ylab o'tgan 2 ta nay oldinda birlashib yagona teshik bilan ochiladi",
+        "Askaridada ayirish organoidi qisqaruvchi vakuolalardan iborat",
+        "Planariyada ayirish nayi bo'lmaydi, askaridada esa buyraklar rivojlangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Odam askaridasining nerv sistemasi qanday elementlardan iborat?",
+      "options": [
+        "Oldingi qismidagi 2 ta nerv tuguni va tarqoq to'rdan",
+        "Halqumni o'rab olgan nerv halqasi hamda undan oldingi va keyingi tomonga ketuvchi nervlardan",
+        "Bosh miya, orqa miya va periferik tugunlardan",
+        "Faqat orqa chiqaruv teshigi atrofidagi nerv pufaklaridan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Farqni toping: Jinsiy tizimiga ko'ra odam askaridasi oq planariya, jigar qurti va qoramol tasmasimon chuvalchangidan tubdan qanday farq qiladi?",
+      "options": [
+        "Askarida germafrodit, yassi chuvalchanglar esa ayrim jinsli",
+        "Yassi chuvalchanglar germafrodit (bir tanada ikki xil jins), askarida esa ayrim jinsli (urg'ochi va erkak alohida)",
+        "Askaridada jinsiy ko'payish umuman bo'lmaydi, faqat kurtaklanadi",
+        "Yassi chuvalchanglar faqat bitta urug'donga ega, askarida esa jinsiy organga ega emas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Odam askaridasining jinsiy organlari tana bo'shlig'ida qanday shaklda joylashgan va tarkibi nimadan iborat?",
+      "options": [
+        "Pufaksimon shaklda; urg'ochisida bitta tuxumdon, erkagida 2 ta urug'don",
+        "Bir uchi berk ingichka naychaga o'xshash bo'lib buralib yotadi; urg'ochisida 2 ta tuxumdon, erkagida 1 ta urug'don",
+        "Bo'g'imlarda takrorlanuvchi juft tuxumdon va bachadondan iborat",
+        "Dumi ichida bitta yirik kapsula shaklida bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Odam askaridasi bir kecha-kunduzda qancha tuxum qo'yadi?",
+      "options": [
+        "1 000 tagacha",
+        "240 000 tagacha",
+        "50 000 tagacha",
+        "1 000 000 tagacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Askarida tuxumlarining ichida lichinka rivojlanishi uchun qanday tashqi sharoit zarur?",
+      "options": [
+        "Quruq va issiq qum",
+        "Nam joy va yetarli kislorod",
+        "Faqat suv shillig'ining tana bo'shlig'i",
+        "Faqat qoramolning qon tomirlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Odam askaridasining odam organizmidagi to'liq migratsiya (harakat) yo'li qaysi qatorda to'g'ri ifodalangan?",
+      "options": [
+        "Oshqozon -> jigar -> o't yo'llari -> to'g'ri ichak",
+        "Ichak (tuxumdan lichinka chiqadi) -> qon orqali o'pka -> balg'am bilan yana yutilib -> ingichka ichak (voyaga yetish)",
+        "Ichak -> muskulda finna hosil qilish -> qon tomirlari -> anal teshik",
+        "Teri orqali qonga kirish -> o'pka -> jigar -> ingichka ichak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Odam askaridasini yuqtirib olmaslik uchun qanday gigiyena qoidalariga rioya qilish zarur?",
+      "options": [
+        "Faqat go'shtni 2 soat qaynatish",
+        "Sabzavot, meva va poliz mahsulotlarini yaxshilab yuvib iste'mol qilish hamda shaxsiy gigiyenaga qat'iy rioya qilish",
+        "Pichan ivitmasidan saqlanish",
+        "Suv havzalarida cho'milmaslik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "To'garak chuvalchanglarning kelib chiqishi to'g'risidagi ilmiy nazariya qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "Bo'shliqichlilar to'g'ridan-to'g'ri to'garak chuvalchanglarga aylangan",
+        "Tarixiy rivojlanishda qadimgi yassi chuvalchanglarda tana bo'shlig'i va orqa chiqaruv teshigi paydo bo'lib, ulardan to'garak chuvalchanglar kelib chiqqan",
+        "To'garak chuvalchanglardan kiprikli chuvalchanglar kelib chiqqan",
+        "Parazit sporalilardan to'g'ridan-to'g'ri askaridalar ajralib chiqqan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Farqni toping: Tana qatlamlari va bo'shlig'i tuzilishiga ko'ra yassi chuvalchanglar va to'garak chuvalchanglarning farqi nimada?",
+      "options": [
+        "Yassi chuvalchanglarda keng ikkilamchi bo'shliq bor, to'garakda esa yo'q",
+        "Yassi chuvalchanglarda tana bo'shlig'i bo'lmay, organlar oralig'i g'ovak to'qima bilan to'lgan; to'garak chuvalchanglarda esa ichki organlar tana bo'shlig'ida joylashgan",
+        "To'garak chuvalchanglar bir qavatli, yassi chuvalchanglar ikki qavatli",
+        "Ikkala tipda ham haqiqiy suyak skeleti mavjud"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Farqni toping: Odam askaridasi jigar qurti va qoramol tasmasimon chuvalchangidan hayotiy siklida oraliq xo'jayin ishtiroki bo'yicha qanday farq qiladi?",
+      "options": [
+        "Askaridaga ikkita oraliq xo'jayin (chivin va shillikqurt) kerak",
+        "Jigar qurti va tasmasimon chuvalchang oraliq xo'jayinga (suv shillig'i, qoramol) muhtoj; askarida esa oraliq xo'jayinsiz to'g'ridan-to'g'ri tuxum orqali yuqadi",
+        "Askaridaning oraliq xo'jayini faqat qoramol hisoblanadi",
+        "Uchala chuvalchang ham faqat suv shillig'i orqali ko'payadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Ta'rifga mos javobni toping: «Askarida va parazit yassi chuvalchanglarning gavdasini xo'jayin ichidagi hazm shiralaridan saqlovchi pishiq va qalin tashqi po'st».",
+      "options": [
+        "Kiprikli epiteliy",
+        "Kutikula",
+        "Mezogleya",
+        "Xitin qobiq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Moslashtiring (Chuvalchang — Tana shakli):\n1. Oq planariya; 2. Jigar qurti; 3. Qoramol tasmasimon chuvalchangi; 4. Odam askaridasi\na) Uzun yassi tasma (bo'g'imli);\nb) Ikki uchi ingichkalashgan duksimon (ko'ndalang kesimi to'garak);\nc) Kichikroq bargsimon (yassi);\nd) Yassi bargsimon (bo'g'imsiz, oqish)",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Moslashtiring (Parazit — Asosiy xo'jayin organizmidagi o'rni):\n1. Jigar qurti; 2. Qoramol tasmasimon chuvalchangi; 3. Odam askaridasi\na) Odam va sutemizuvchilarning jigar o't yo'llari;\nb) Odamning ingichka ichagi (butun tana yuzasi bilan oziqlanadi);\nc) Odamning ingichka ichagi (tayyor hazm bo'layotgan oziqni og'zi bilan so'radi)",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Moslashtiring (Chuvalchang — Fiksatsiya yoki harakat xususiyati):\n1. Oq planariya;\n2. Jigar qurti;\n3. Qoramol tasmasimon chuvalchangi;\n4. Odam askaridasi\na) 4 ta so'rg'ich bilan ichak devoriga yopishadi;\nb) Kipriklari yordamida sirpanib harakatlanadi;\nc) Og'iz va qorin so'rg'ichlari bilan o't yo'llariga yopishadi;\nd) Yopishuv organi yo'q, elastik tanasi bilan ichak devoriga taqalib turadi",
+      "options": [
+        "1-b, 2-c, 3-a, 4-d",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Moslashtiring (Vakil — Hazm qilish sistemasi xususiyati):\n1. Oq planariya; 2. Jigar qurti; 3. Qoramol tasmasimon chuvalchangi; 4. Odam askaridasi\na) 2 uchi ochiq nay, anal teshigi bor;\nb) Hazm sistemasi butunlay yo'qolgan;\nc) 2 shoxli berk ichak;\nd) 3 shoxli berk ichak, og'izdan chiqaradi",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-c, 2-a, 3-d, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Moslashtiring (Parazit — Odamga yoki xo'jayinga yuqish yo'li):\n1. Jigar qurti; 2. Qoramol tasmasimon chuvalchangi; 3. Odam askaridasi\na) Finnali go'shtni xom yoki chala pishirib iste'mol qilganda;\nb) Yuvilmagan sabzavot, mevalar yoki iflos qo'l orqali tuxumini yutganda;\nc) Suv yoki o't-o'lan bilan sistani yutib yuborganda",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Moslashtiring (Chuvalchang — Jinsiy xususiyati):\n1. Oq planariya;\n2. Qoramol tasmasimon chuvalchangi;\n3. Odam askaridasi\na) Ayrim jinsli, urg'ochisida 2 ta tuxumdon, erkagida 1 ta urug'don;\nb) Germafrodit, har bir bo'g'imida juft tuxumdon, bitta bachadon va ko'p urug'don;\nc) Germafrodit, tananing oldida 2 ta tuxumdon, orqaroqda pufaksimon urug'donlar",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Ta'rifga mos javobni toping: «Halqumni o'rab olgan va undan oldingi hamda keyingi tomonga uzun nerv tolalari tarqaladigan to'garak chuvalchanglar nerv tuzilmasi».",
+      "options": [
+        "Nerv to'ri",
+        "Nerv halqasi",
+        "Bosh miya",
+        "Nerv pufagi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Odam organizmiga o'rnashib olgan yetuk askaridalarni yo'qotish va tanadan chiqarish qanday amalga oshiriladi?",
+      "options": [
+        "Jarrohlik yo'li bilan jigar ochiladi",
+        "Maxsus antigelmint dorilar yordamida haydaladi",
+        "Faqat ko'p miqdorda tuzli suv ichish orqali",
+        "O'z-o'zidan bir necha kunda parchalanib ketadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Farqni toping: Lichinkaning qon orqali o'pkaga borishi va nafas yo'llaridan qayta yutilishi qaysi parazitning biologik rivojlanishiga xos?",
+      "options": [
+        "Jigar qurtiga",
+        "Qoramol tasmasimon chuvalchangiga",
+        "Odam askaridasiga",
+        "Oq planariyaga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Nima sababdan odam askaridasi odamning ingichka ichagida erkin tursa ham, ichak peristaltikasi (to'lqinsimon qisqarishi) natijasida axlat bilan chiqib ketmaydi?",
+      "options": [
+        "Ichak shilliq qavatiga so'rg'ichlari bilan chuqur so'rilib oladi",
+        "Uning elastik va tarang tanasi ichak devoriga doimiy taqalib, qarshilik ko'rsatib turadi",
+        "Ichak shirasini qotirib, o'zini yopishtirib qo'yadi",
+        "Ilmoqsimon dumi bilan ichak vorsinkalarini bog'lab oladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "To'garak chuvalchanglarda orqa chiqaruv (anal) teshigining paydo bo'lishi evolyutsiyada hazm qilish samaradorligini qanday oshirdi?",
+      "options": [
+        "Oziq endi og'iz orqali qaytib chiqmaydi, hazm jarayoni bir tomonlama uzluksiz oqimga aylanadi va ixtisoslashuv kuchayadi",
+        "Chuvalchang faqat suyuq qon bilan oziqlanishga o'tadi",
+        "Oziq hazm bo'lmasdan to'g'ridan-to'g'ri tashqariga tashlanadi",
+        "Hazm qilish vakuolalarining soni keskin ortadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Farqni toping: Erkak askaridani urg'ochisidan tashqi ko'rinishiga ko'ra qaysi o'ziga xos belgisi orqali darhol ajratish mumkin?",
+      "options": [
+        "Kallasida 4 ta yirik so'rg'ich borligi bilan",
+        "Gavdasi kaltaroq (15–25 sm) bo'lib, dumi ilmoqqa o'xshash egilganligi bilan",
+        "Tanasi bo'g'imlarga bo'linganligi bilan",
+        "Tanasi sirtida qalin kipriklar borligi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Quyidagi parazitlardan qaysi biri bir kecha-kunduzda 240 000 tagacha tuxum qo'yish qobiliyatiga ega?",
+      "options": [
+        "Jigar qurti",
+        "Oq planariya",
+        "Odam askaridasi",
+        "Gidra"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Tushirib qoldirilgan so'zlarni moslashtiring:\n«Askaridaning ayirish sistemasi tana bo'ylab o'tgan (...) uzun naydan iborat bo'lib, ular tananing oldingi qismida birlashib, (...) teshik bilan tashqariga ochiladi.»",
+      "options": [
+        "to'rtta; ikkita",
+        "ikkita; yagona",
+        "uchta; uchta",
+        "juda ko'p; ikkita"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Farqni toping: Gidra va askaridaning tana simmetriyasidagi tafovut qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Gidrada radial (nurli) simmetriya, askaridada ikki tomonlama (bilateral) simmetriya",
+        "Gidrada ikki tomonlama, askaridada radial simmetriya",
+        "Ikkalasida ham simmetriya mavjud emas",
+        "Gidrada spiralsimon, askaridada disksimon simmetriya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Moslashtiring (Hayvonlar guruhi — Ularda ilk bor paydo bo'lgan aromorfoz/belgi):\n1. Bo'shliqichlilar (gidra);\n2. Yassi chuvalchanglar (oq planariya);\n3. To'garak chuvalchanglar (askarida)\na) Ikki tomonlama simmetriya, 3 qavatli tana, uchi berk ichak, ayirish naychalari;\nb) Tana bo'shlig'i, anal teshigi, ikki uchi ochiq nay shaklidagi hazm sistemasi;\nc) Ikki qavatli tana, diffuz nerv to'ri, tana bo'shlig'i (ichak vazifasida), otuvchi hujayralar",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Ta'rifga mos javobni toping: «Ichida lichinkasi rivojlangan, qalin va pishiq po'st bilan qoplangan, tashqi muhitda namlikda uzoq saqlanib iflos qo'l yoki sabzavotlar orqali odamga yuquvchi bosqich».",
+      "options": [
+        "Finna pufagi",
+        "Askaridaning urug'langan tuxumi",
+        "Kiprikli lichinka",
+        "Meduzaning blastulasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Farqni toping: Jigar qurti va odam askaridasining asosiy ozuqa manbai o'rtasidagi farq nimada?",
+      "options": [
+        "Jigar qurti o't suyuqligi va qonni so'radi; askarida esa ichakda hazm bo'layotgan tayyor oziqni so'rib oladi",
+        "Jigar qurti odam ichagidagi kletchatkani yeydi; askarida faqat jigar hujayralarini yemirib yashaydi",
+        "Ikkalasi ham faqat suv tubidagi mikroorganizmlarni filtrlaydi",
+        "Askarida qon so'radi, jigar qurti esa hazm shiralarini shimadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Quyidagi belgilarning qaysi biri FAQAT to'garak chuvalchanglarga xos bo'lib, yassi chuvalchanglarda UCHRAMAYDI?",
+      "options": [
+        "Kutikula bilan qoplangan tana",
+        "Anal (orqa chiqaruv) teshigi va tana bo'shlig'i",
+        "Ichki a'zolarning bo'lishi",
+        "Parazitlik hayot tarzi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Moslashtiring (Parazit — Zararlaydigan asosiy organ/to'qima):\n1. Jigar qurti; 2. Qoramol tasmasimon chuvalchangi (lichinkasi); 3. Odam askaridasi (voyaga yetgani)\na) Qoramolning muskullari va jigari (finna shaklida);\nb) Odamning ingichka ichagi;\nc) Qoramol va odamning jigar o't yo'llari",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Nima sababdan askarida lichinkasi ichakdan to'g'ridan-to'g'ri qonga o'tib, aynan o'pka to'qimalariga boradi?",
+      "options": [
+        "O'pkada hazm shiralaridan qochib yashirinish uchun",
+        "Lichinkaning rivojlanishi va nafas olishi uchun kislorodga boy muhit zarur bo'lganligi sababli",
+        "O'pka to'qimasini yeb, finna hosil qilish uchun",
+        "U yerda jinsiy ko'payish sodir bo'lishi uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Moslashtiring (Hayvon — Tana bo'g'imlanishi holati):\n1. Oq planariya; 2. Qoramol tasmasimon chuvalchangi; 3. Odam askaridasi\na) 1000 tagacha bo'g'imlardan iborat tasmaga o'xshash;\nb) Bo'g'imlarga bo'linmagan duksimon, ko'ndalang kesimi to'garak;\nc) Bo'g'imlarga bo'linmagan bargsimon, yassi",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Askarida tanasining pishiq va qalin kutikula bilan qoplanganligi unga qanday ikki tomonlama biologik ustunlik beradi?",
+      "options": [
+        "1) Ichak shirasida erib ketmaslik; 2) Taranglik va elastiklikni saqlab ichak devoriga tiranish",
+        "1) Qanot hosil qilish; 2) Xo'jayinni chaqish",
+        "1) Suv tubida suzish; 2) Quyosh nurini yutish",
+        "1) Jinsiy hujayralarni oziqlantirish; 2) Nerv impulsini tezlashtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Moslashtiring (Vakil — Nerv sistemasi tuzilishi):\n1. Gidra;\n2. Oq planariya;\n3. Odam askaridasi\na) Halqum atrofidagi nerv halqasi va undan ketuvchi uzun nerv tolalari;\nb) Tarqoq yulduzsimon hujayralar tutashgan nerv to'ri;\nc) 2 ta nerv tuguni va tananing keyingi tomoniga ketuvchi 2 ta yirik nervlar",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Farqni toping: Odamga qoramol tasmasimon chuvalchangi va odam askaridasi qaysi omillar orqali yuqadi?",
+      "options": [
+        "Tasmasimon chuvalchang — yuvilmagan mevalardan; Askarida — xom mol go'shtidan",
+        "Tasmasimon chuvalchang — finnali go'shtni yaxshi pishirmay yeganda; Askarida — iflos qo'l yoki yuvilmagan poliz/sabzavot orqali tuxumini yutganda",
+        "Ikkalasi ham faqat suv shillig'ini iste'mol qilganda",
+        "Ikkalasi ham pashshalar va chivinlar chaqqanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Tushirib qoldirilgan ma'lumotlarni moslashtiring:\n«Odam askaridasining urg'ochisining uzunligi (...) sm bo'lib, uning jinsiy organi (...) ta tuxumdondan; erkagining uzunligi (...) sm bo'lib, jinsiy organi (...) ta urug'dondan iborat.»",
+      "options": [
+        "15–25; 1; 20–40; 2",
+        "20–40; 2; 15–25; 1",
+        "8–10; 4; 5–7; 2",
+        "2–3; 2; 1–2; 1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Agar odam yangi qo'yilgan (tashqi muhitda turmagan) askarida tuxumlarini tasodifan yutib yuborsa, nima uchun askaridoz bilan kasallanmaydi?",
+      "options": [
+        "Chunki tuxumlar oshqozon shirasida nobud bo'ladi",
+        "Chunki askarida tuxumlari ichida lichinka rivojlanishi uchun tashqi muhitda namlik va kislorodli sharoitda ma'lum vaqt yetilishi shart",
+        "Chunki yangi tuxumlar faqat qoramol muskulida rivojlana oladi",
+        "Chunki urg'ochi askarida urug'lanmagan tuxum qo'yadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Moslashtiring (Hayvon guruhi — Tana bo'shlig'i holati):\n1. Bo'shliqichlilar (gidra);\n2. Yassi chuvalchanglar (planariya, tasmasimonlar);\n3. To'garak chuvalchanglar (askarida)\na) Haqiqiy tana bo'shlig'i yo'q, organlar oralig'i g'ovak to'qima bilan to'lgan;\nb) Ichki organlar joylashgan tana bo'shlig'iga ega;\nc) Tana devori ichak vazifasini bajaruvchi keng ichki bo'shliqni o'rab turadi",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Quyidagi xulosalardan qaysi biri parazit chuvalchanglarning evolyutsion moslashuvini eng to'liq va to'g'ri ifodalaydi?",
+      "options": [
+        "Barcha parazit chuvalchanglar harakatlanish organoidlarini kuchaytirgan",
+        "Parazitizm tufayli himoya qobig'i (kutikula) va serpushtlik (juda ko'p tuxum qo'yish) kuchaygan, ayrimlarida esa hazm organlari soddalashgan yoki yo'qolgan",
+        "Parazitlar faqat germafrodit bo'lishi shart, ayrim jinsli turlari yashab qololmaydi",
+        "Parazit chuvalchanglarning hammasida albatta oraliq xo'jayin qatnashadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Ta'rifga mos javobni toping: «Tarixiy rivojlanish jarayonida qadimgi yassi chuvalchanglar tanasida tana bo'shlig'i va orqa chiqaruv teshigi paydo bo'lishi natijasida kelib chiqqan hayvonlar tipi».",
+      "options": [
+        "Kiprikli chuvalchanglar",
+        "Bo'shliqichlilar",
+        "To'garak chuvalchanglar",
+        "So'rg'ichlilar"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
