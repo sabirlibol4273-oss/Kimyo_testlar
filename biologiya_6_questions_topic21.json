@@ -2,5 +2,479 @@
   "topicId": 21,
   "title": "GULLARNING XILMA-XILLIGI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Gullar jinsiga ko'ra qanday bo'ladi?",
+      "options": [
+        "Bir jinsli yoki ikki jinsli",
+        "To'g'ri yoki qiyshiq",
+        "Ostki yoki ustki",
+        "Oddiy yoki murakkab"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Qanday gul ikki jinsli gul deyiladi?",
+      "options": [
+        "Gulda faqat urug'chi bo'lsa",
+        "Gulqo'rg'on ikki bo'lakka ajralsa",
+        "Gulda faqat changchi bo'lsa",
+        "Bitta gulda ham changchi, ham urug'chi bo'lsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Qanday gul bir jinsli gul deyiladi?",
+      "options": [
+        "Gulda ham changchi, ham urug'chi bo'lsa",
+        "Gulqo'rg'on teng bo'laklarga ajralsa",
+        "Gulkosacha va gultoj bo'lsa",
+        "Gulda faqat urug'chi yoki changchining o'zi bo'lsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Qaysi qatorda ikki jinsli gulli o'simliklar berilgan?",
+      "options": [
+        "Gazanda, tut, qayin",
+        "O'rik, gilos, olma, shaftoli",
+        "Tol, gazanda, tut, terak",
+        "Qayin, tol, terak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Qaysi qatorda bir jinsli gulli o'simliklar berilgan?",
+      "options": [
+        "O'rik, gilos, olma",
+        "Tol, gazanda, tut, terak, qayin",
+        "Shaftoli, olma, gilos",
+        "O'rik, tol, olma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Juda ko'pchilik o'simliklarning guli qanday bo'ladi?",
+      "options": [
+        "Faqat urug'chili",
+        "Faqat changchili",
+        "Ikki jinsli",
+        "Bir jinsli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Quyidagilardan qaysi birining guli ikki jinsli?",
+      "options": [
+        "Qayin",
+        "Gilos",
+        "Tol",
+        "Gazanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Quyidagilardan qaysi birining guli bir jinsli?",
+      "options": [
+        "O'rik",
+        "Shaftoli",
+        "Qayin",
+        "Olma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Gulda faqat changchi bo'lsa, u qanday gul deyiladi?",
+      "options": [
+        "Changchili gul",
+        "To'g'ri gul",
+        "Ikki jinsli gul",
+        "Urug'chili gul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Gulda faqat urug'chi bo'lsa, u qanday gul deyiladi?",
+      "options": [
+        "Qiyshiq gul",
+        "Ikki jinsli gul",
+        "Urug'chili gul",
+        "Changchili gul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Qanday o'simliklar bir uyli o'simlik deyiladi?",
+      "options": [
+        "Changchili gullar bir tupda, urug'chili gullar boshqa tupda bo'lsa",
+        "Bitta gulda changchi va urug'chi bo'lsa",
+        "Gulqo'rg'oni teng bo'laklarga ajralsa",
+        "Bitta tupida ham changchili, ham urug'chili gul alohida joylashsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Qanday o'simliklar ikki uyli o'simlik deyiladi?",
+      "options": [
+        "Bitta gulda changchi va urug'chi bo'lsa",
+        "Gulqo'rg'oni ikki bo'lakka ajralsa",
+        "Changchili gullari bir tupda, urug'chili gullari boshqa tupda bo'lsa",
+        "Bitta tupda ikki xil gul alohida joylashsa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Bir uyli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Gazanda, terak, tol",
+        "Nastarin, rayhon",
+        "Makkajo'xori, qovoq",
+        "O'rik, gilos"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Ikki uyli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Loviya, beda",
+        "Gazanda, terak, tol",
+        "Olma, shaftoli",
+        "Makkajo'xori, qovoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Quyidagilardan qaysi biri bir uyli o'simlik?",
+      "options": [
+        "Tol",
+        "Qovoq",
+        "Terak",
+        "Gazanda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Quyidagilardan qaysi biri ikki uyli o'simlik?",
+      "options": [
+        "O'rik",
+        "Terak",
+        "Makkajo'xori",
+        "Qovoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Makkajo'xorining urug'chili gullari qanday to'pgulga yig'ilgan?",
+      "options": [
+        "Savatcha",
+        "So'ta",
+        "Soyabon",
+        "Murakkab shingil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Makkajo'xorining changchili gullari qanday to'pgulga yig'ilgan?",
+      "options": [
+        "Savatcha",
+        "Murakkab shingil",
+        "So'ta",
+        "Boshoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Makkajo'xorining so'tasida qanday gullar bo'ladi?",
+      "options": [
+        "Qiyshiq gullar",
+        "Changchili gullar",
+        "Urug'chili gullar",
+        "Ikki jinsli gullar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Bir uyli va ikki uyli o'simliklarning farqi qaysi javobda to'g'ri?",
+      "options": [
+        "Bir uylida ikki xil gul bir tupda, ikki uylida turli tuplarda bo'ladi",
+        "Ikkalasida ham gullar ikki jinsli",
+        "Bir uylida gullar ikki jinsli, ikki uylida bir jinsli",
+        "Ikkalasida ham gullar bir tupda bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Gullar gulqo'rg'onining bo'linishiga ko'ra qanday bo'ladi?",
+      "options": [
+        "Changchili va urug'chili",
+        "Bir va ikki jinsli",
+        "To'g'ri va qiyshiq",
+        "Bir va ikki uyli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Qanday gul to'g'ri gul deyiladi?",
+      "options": [
+        "Gulqo'rg'on faqat teng ikki bo'lakka ajralsa",
+        "Gulqo'rg'on ikkitadan ortiq teng bo'lakka ajralsa",
+        "Gulqo'rg'on umuman teng bo'lakka ajralmasa",
+        "Gulda faqat changchi bo'lsa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qanday gul qiyshiq gul deyiladi?",
+      "options": [
+        "Ham changchi, ham urug'chi bo'lsa",
+        "Gulqo'rg'oni bo'lmasa",
+        "Ikkitadan ortiq teng bo'lakka ajralsa",
+        "Faqat teng ikki bo'lakka ajralsa yoki umuman teng bo'lakka ajralmasa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Qaysi qatorda to'g'ri gulli o'simliklar berilgan?",
+      "options": [
+        "Binafsha, rayhon, parpi",
+        "Olma, behi, shaftoli, g'o'za, na'matak",
+        "Nastarin, gladiolus, kiyiko't",
+        "Loviya, beda, burchoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Qaysi qatorda qiyshiq gulli o'simliklar berilgan?",
+      "options": [
+        "Nastarin, gladiolus, kiyiko't, marmarak",
+        "G'o'za, na'matak, olma",
+        "Olma, behi, shaftoli",
+        "Behi, g'o'za, na'matak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Quyidagilardan qaysi birining guli to'g'ri?",
+      "options": [
+        "Loviya",
+        "Rayhon",
+        "Binafsha",
+        "Behi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Quyidagilardan qaysi birining guli qiyshiq?",
+      "options": [
+        "Shaftoli",
+        "Angishvonagul",
+        "Na'matak",
+        "G'o'za"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Isfarak guli qanday gul?",
+      "options": [
+        "Bir jinsli",
+        "To'g'ri",
+        "Changchili",
+        "Qiyshiq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "G'o'za guli qanday gul?",
+      "options": [
+        "To'g'ri",
+        "Qiyshiq",
+        "Urug'chili",
+        "Bir jinsli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Gulqo'rg'oni faqat teng ikki bo'lakka ajraladigan gul qanday ataladi?",
+      "options": [
+        "Bir uyli gul",
+        "Qiyshiq gul",
+        "To'g'ri gul",
+        "Ikki jinsli gul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Moslang: 1) ikki jinsli gul, 2) bir jinsli gul; a) o'rik, b) tut, c) olma, d) qayin.",
+      "options": [
+        "1 – a, d; 2 – b, c",
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Moslang: 1) bir uyli, 2) ikki uyli; a) makkajo'xori, b) gazanda, c) qovoq, d) tol.",
+      "options": [
+        "1 – b, d; 2 – a, c",
+        "1 – a, b; 2 – c, d",
+        "1 – a, c; 2 – b, d",
+        "1 – a, d; 2 – b, c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Moslang: 1) to'g'ri gul, 2) qiyshiq gul; a) na'matak, b) parpi, c) shaftoli, d) burchoq.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Moslang: 1) so'ta, 2) murakkab shingil; a) makkajo'xorining changchili gullari, b) makkajo'xorining urug'chili gullari.",
+      "options": [
+        "1b, 2a",
+        "1a, 2a",
+        "1b, 2b",
+        "1a, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Ortiqchasini toping (gul jinsi bo'yicha): tol, tut, terak, gilos.",
+      "options": [
+        "Terak",
+        "Tut",
+        "Tol",
+        "Gilos"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Ortiqchasini toping (gul shakli bo'yicha): loviya, beda, burchoq, behi.",
+      "options": [
+        "Loviya",
+        "Burchoq",
+        "Behi",
+        "Beda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Ortiqchasini toping (gul shakli bo'yicha): olma, g'o'za, na'matak, gladiolus.",
+      "options": [
+        "Gladiolus",
+        "Na'matak",
+        "G'o'za",
+        "Olma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Ortiqchasini toping (uyliligi bo'yicha): gazanda, terak, tol, qovoq.",
+      "options": [
+        "Gazanda",
+        "Terak",
+        "Qovoq",
+        "Tol"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Qaysi o'simlik guli ham ikki jinsli, ham to'g'ri gul?",
+      "options": [
+        "Gazanda",
+        "Tol",
+        "Terak",
+        "Shaftoli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Qaysi o'simlik ham bir jinsli gulli, ham ikki uyli?",
+      "options": [
+        "Olma",
+        "O'rik",
+        "Gilos",
+        "Tol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "To'g'ri fikrlarni toping: 1) Olma guli ikki jinsli; 2) Makkajo'xori bir uyli o'simlik; 3) Rayhon guli to'g'ri gul; 4) Terak ikki uyli o'simlik.",
+      "options": [
+        "1, 2, 4",
+        "1, 2, 3",
+        "1, 3",
+        "2, 3, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Noto'g'ri fikrlarni toping: 1) Ko'pchilik o'simliklarning guli ikki jinsli; 2) Qovoq ikki uyli o'simlik; 3) Binafsha guli qiyshiq; 4) Behi guli qiyshiq.",
+      "options": [
+        "3, 4",
+        "1, 2",
+        "2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Kiyiko't guli qiyshiq",
+        "Makkajo'xorining urug'chili gullari murakkab shingilga yig'ilgan",
+        "Gazanda ikki uyli o'simlik",
+        "Gilos guli ikki jinsli"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
