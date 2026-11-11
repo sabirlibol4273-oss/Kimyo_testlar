@@ -2,5 +2,501 @@
   "topicId": 8,
   "title": "Dengiz bo‘shliqichlilari",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Dengiz bo'shliqichlilariga hayot tarziga ko'ra quyidagi qaysi guruhlar kiradi?",
+      "options": [
+        "Faqat suv tubida o'troq yashovchi aktiniyalar",
+        "Yakka o'troq aktiniyalar, o'troq koloniya hosil qiluvchi korall poliplar va erkin suzuvchi meduzalar",
+        "Faqat koloniya hosil qiluvchi bir hujayralilar va aktiniyalar",
+        "Suv yuzasida suzib yuruvchi gidrasimonlar va parazit sporalilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Dengiz tubida yakka o'troq yashovchi bo'shliqichli hayvon qaysi?",
+      "options": [
+        "Aureliya",
+        "Aktiniya",
+        "Ildizog'iz",
+        "Qutb meduzasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Aktiniyalar tashqi ko'rinishi va tuzilishiga ko'ra qaysi hayvonga o'xshash bo'ladi?",
+      "options": [
+        "Tufelkaga",
+        "Gidraga",
+        "Meduzaga",
+        "Yashil evglenaga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Aktiniya gidradan asosan qaysi belgilari bilan farq qiladi?",
+      "options": [
+        "Kichik o'lchamli va rangsizligi bilan",
+        "Ancha yirik (tana diametri 0,5 m gacha) va rangli bo'lishi bilan",
+        "Tana bo'shlig'i va paypaslagichlarining yo'qligi bilan",
+        "Faqat jinsiy yo'l bilan ko'payishi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Aktiniyaning tana diametri qanchagacha yetishi mumkin?",
+      "options": [
+        "5–7 mm gacha",
+        "0,5 m gacha",
+        "1–2 m gacha",
+        "0,1–0,3 mm gacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Aktiniyaning paypaslagichlari og'iz teshigi atrofida qanday joylashgan?",
+      "options": [
+        "Faqat bir qator bo'lib",
+        "Bir necha qator bo'lib",
+        "Faqat pastki tovon sohasida",
+        "Doirasimon emas, balki tarqoq holda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Aktiniyalar qanday harakatlana oladi?",
+      "options": [
+        "Reaktiv usulda tez suzadi",
+        "Suv tubidagi narsalarga yopishib yashaydi, ba'zan tovonida asta-sekin harakat qiladi",
+        "Umbaloq oshib tez sakraydi",
+        "Kipriklari yordamida suv tubini qazib siljiydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Aktiniyalar o'ljasini qanday tutadi va og'ziga soladi?",
+      "options": [
+        "Soxta oyoqlari bilan o'rab olib yutadi",
+        "O'ljasini otiluvchi tolalari bilan jarohatlab, paypaslagichlari yordamida og'ziga soladi",
+        "Suv oqimi bilan so'rib oladi",
+        "Ohak skeletiga qisib maydalaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Aktiniyalar qaysi hayvonlar bilan simbioz yashashga moslashgan?",
+      "options": [
+        "Dafniya va sikloplar bilan",
+        "Zohid qisqichbaqalar va baliqlar bilan",
+        "Korall poliplari va gidralar bilan",
+        "Chig'anoqli parazit chuvalchanglar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Aktiniya va zohid qisqichbaqa simbiozida har ikki tomonning o'zaro foydasi qanday ifodalanadi?",
+      "options": [
+        "Aktiniya qisqichbaqani yeydi, qisqichbaqa esa unga boshpana beradi",
+        "Aktiniya qisqichbaqa chig'anog'iga o'tirib olib uni yirtqichlardan himoya qiladi, qisqichbaqa esa uni o'z ozig'iga sherik qiladi",
+        "Qisqichbaqa aktiniyaga tuxum qo'yadi, aktiniya undan zahar oladi",
+        "Ikkalasi ham bir-birining tana bo'shlig'ida yashaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Koloniya hosil qiluvchi poliplar koloniyasi nimalardan tashkil topgan?",
+      "options": [
+        "Bir-biridan alohida yashovchi mustaqil meduzalardan",
+        "Gidraga o'xshash tuzilgan juda ko'p sonli poliplardan",
+        "Faqat jonsiz ohaktosh toshlardan",
+        "Yakka yashovchi yirik aktiniyalardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Koloniyadagi har bir polip tutgan oziq nima sababdan barcha koloniya a'zolari o'rtasida teng taqsimlanadi?",
+      "options": [
+        "Poliplar bir-biriga og'zi orqali oziq uzatgani sababli",
+        "Koloniyadagi poliplarning ichki bo'shliqlari o'zaro tutashgan bo'lgani uchun",
+        "Har bir polip o'z ozuqasini tashqi muhitga chiqarib qayta so'rgani uchun",
+        "Ular orasida umumiy qon aylanish sistemasi mavjudligi uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Koloniya hosil qiluvchi poliplar asosan nimalar bilan oziqlanadi?",
+      "options": [
+        "Katta yirtqich baliqlar bilan",
+        "Mayda organik qoldiqlar va mikroorganizmlar bilan",
+        "Faqat suv o'tlari barglari bilan",
+        "Suv tubidagi loy va qum bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Qattiq skeletli, koloniya bo'lib yashovchi bo'shliqichlilar nima deb ataladi?",
+      "options": [
+        "Gidroidlar",
+        "Korall poliplar",
+        "Meduza koloniyalari",
+        "Aktiniyalar to'dasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Ko'pchilik korall poliplarining tana devorida qanday skelet hosil bo'ladi?",
+      "options": [
+        "Kremniyli skelet",
+        "Ohak skelet",
+        "Xitinli qobiq",
+        "Fosfatli suyak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Koloniya bo'lib yashovchi poliplar jinsiy ko'payganda tuxumdan chiqqan lichinkaning taqdiri qanday kechadi?",
+      "options": [
+        "Meduza kabi doimiy erkin suzib yuradi",
+        "Suv tubiga yopishib, kichkina polip hosil qiladi",
+        "Suv betiga chiqib, o'simlikka aylanadi",
+        "Darhol nobud bo'lib, uning o'rniga zohid qisqichbaqa joylashadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Korall poliplari polip davrida qanday yo'l bilan ko'payadi?",
+      "options": [
+        "Faqat jinsiy yo'l bilan",
+        "Gidra singari jinssiz kurtaklanish orqali",
+        "Sporalar hosil qilish orqali",
+        "Bo'yiga teng ikkiga bo'linish orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Korall poliplarida nima sababdan yakka polip emas, balki yaxlit koloniya shakllanadi?",
+      "options": [
+        "Kurtakdan hosil bo'lgan yosh poliplar ona tanasidan ajralmasdan birga kurtaklana boshlaydi",
+        "Yakka poliplar bir-biriga yopishib erib ketadi",
+        "Lichinkalar doimiy ravishda bitta markazga to'planib qoladi",
+        "Ohak moddasi poliplarni majburiy tutashtirib qo'yadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Korall riflari qayerlarda zich joylashib, yirik koloniyalarni hosil qiladi?",
+      "options": [
+        "Shimoliy Muz okeanining chuqur qatlamlarida",
+        "Tropik dengiz sohillari yaqinida, okeanning uncha chuqur bo'lmagan joylarida",
+        "Faqat sovuq oqimli dengiz tublarida",
+        "Daryolarning quyilish havzalarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Korall koloniyalari qaysi yo'nalishda o'sadi va ularning suv tubidagi ostki qismi nima bo'ladi?",
+      "options": [
+        "Suv tubiga qarab o'sadi; ustki qismi erib ketadi",
+        "Suv yuzasiga qarab o'sadi; suv tubida esa koloniyaning halok bo'lgan ostki qismi ko'plab to'planib qoladi",
+        "Gorizontal kengayadi; ostki qismi yangi lichinkalarni hosil qiladi",
+        "Faqat toshlar ichiga qarab o'sadi; qolgan qismi meduzaga aylanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Vaqt o'tishi bilan poliplar koloniyasi to'planib nimalarni hosil qiladi?",
+      "options": [
+        "Muzlik qatlamlarini",
+        "Korall orollarini (riflarini)",
+        "Chuqur okean botiqliklarini",
+        "Ohaktoshsiz qum cho'llarini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Korall orollari va riflarida hayot qanday vositalar orqali o'simlik urug'lari kelib qolishi bilan boshlanadi?",
+      "options": [
+        "Kemalar va suvosti qayiqlari orqali",
+        "Shamol, suv va qushlar orqali",
+        "Meduzalar va aktiniyalar yordamida",
+        "Faqat baliqchilarning faoliyati natijasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Korall riflari dunyoning qaysi mintaqalarida, ayniqsa, ko'p uchraydi?",
+      "options": [
+        "Atlantika okeanining shimolida",
+        "Tinch okeanning tropik qismida, ayniqsa, Avstraliya qirg'oqlari yaqinida",
+        "Boltiq va Oq dengiz bo'ylarida",
+        "Kaspiy va Orol dengizida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Korall riflarining xalq xo'jaligidagi ahamiyati qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Qurilish materiali (ohaktosh) sifatida va zeb-ziynat buyumlari tayyorlashda (qizil korall)",
+        "Faqat qog'oz ishlab chiqarish sanoatida",
+        "Yoqilg'i (ko'mir va torf) xomashyosi sifatida",
+        "Faqat metallurgiya pechlarida erituvchi sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Nima sababdan korall riflari tarqalgan ko'plab joylar davlat tomonidan qo'riqxonalarga aylantirilgan?",
+      "options": [
+        "Ular navigatsiyaga xalaqit bergani uchun",
+        "Ular turli baliqlar va boshqa dengiz hayvonlari uchun makon (yashash joyi) bo'lgani uchun",
+        "U yerda doimiy zilzilalar sodir bo'lgani sababli",
+        "U yerda xavfli meduzalar ko'payib ketishining oldini olish uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Meduzalarning tanasi qanday moddadan iborat va u qanday shaklga ega?",
+      "options": [
+        "Qattiq ohakli qobiqdan; disksimon shaklda",
+        "Birmuncha tiniq, shishasimon dildiroq moddadan; shakli soyabonga o'xshash",
+        "Xitin moddasidan; silindrsimon shaklda",
+        "Yog' to'qimasidan; spiralsimon shaklda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Meduzalarda og'iz teshigi va paypaslagichlar tanasining qaysi sohasida joylashgan?",
+      "options": [
+        "Soyabonning ustki markazida",
+        "Soyabonning ostki tomoni markazida (og'iz) hamda uning atrofida va soyabon chetida (paypaslagichlar)",
+        "Faqat tovon plastinkasining chekkalarida",
+        "Soyabonning ichki tana qatlamlari orasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Meduzalarning tana devori tuzilishida boshqa bo'shliqichlilardan asosiy farqi nimada?",
+      "options": [
+        "Ular uch qavatli hujayralardan iborat",
+        "Hujayralari ikki qavat joylashgan, lekin oraliq moddasi juda kuchli rivojlangan",
+        "Ularda ektoderma qavati butunlay yo'q",
+        "Tana bo'shlig'i bir nechta mustaqil qismlarga bo'lingan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Meduzalarning harakatlanish mexanizmi qanday amalga oshadi?",
+      "options": [
+        "Kiprikchalarini bir maromda tebratishi natijasida",
+        "Soyaboni qisqarganda ostidagi suv kuch bilan otilib chiqib, reaktiv harakat paydo bo'lishi orqali",
+        "Tovoni bilan substratdan itarilish orqali",
+        "Otuvchi tolalarni tashqariga zarb bilan otish orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Meduzalar oziqlanish xususiyatiga ko'ra qanday hayvonlar hisoblanadi va nimalar bilan oziqlanadi?",
+      "options": [
+        "O'txo'r; faqat mikroskopik suvo'tlar bilan",
+        "Yirtqich; qisqichbaqasimonlar, chuvalchanglar, baliq chavoqlari va mayda suv hayvonlari bilan",
+        "Saprofit; suv tubidagi chiriyotgan qoldiqlar bilan",
+        "Parazit; baliqlarning qoni bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Meduzalar o'ljasini qanday zararsizlantiradi va og'ziga olib boradi?",
+      "options": [
+        "O'ljasini otiluvchi tolalari yordamida falajlab, og'iz atrofidagi yirik paypaslagichlari yordamida og'ziga soladi",
+        "Soxta oyoqlari bilan o'rab, darhol hujayra ichiga yutadi",
+        "Ohakli jag'lari yordamida maydalab, keyin yutadi",
+        "Suv oqimi bilan to'g'ridan-to'g'ri oshqozoniga surib yuboradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Cho'miluvchi insonlar uchun xavfli hisoblangan meduzalar qaysi qatorda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Aureliya va dengiz likopchasi",
+        "Shimoliy dengizlardagi qutb meduzasi va Qora dengizdagi ildizog'iz meduza",
+        "Yashil gidra va korall poliplari",
+        "Aktiniya va zohid qisqichbaqa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Odamlar uchun zararsiz bo'lgan, barcha dengizlarda keng tarqalgan 'dengiz likopchasi' qaysi meduza hisoblanadi?",
+      "options": [
+        "Qutb meduzasi",
+        "Ildizog'iz meduza",
+        "Aureliya meduzasi",
+        "Gidromedusa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Meduzalar inson xo'jaligiga, xususan baliqchilikka qanday ziyon yetkazadi?",
+      "options": [
+        "Baliqlarning to'rlarini yirtib yuboradi",
+        "Baliqlar chavoqlarini yeb, ularning sonini kamaytiradi",
+        "Suvdagi barcha kislorodni yutib yuboradi",
+        "Suvni zaharli loyqa bilan ifloslantiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Bo'shliqichlilarning eng qadimgi hayvonlar ekanligini qaysi biologik belgilar isbotlaydi?",
+      "options": [
+        "Ohak skeletga ega bo'lishi va paypaslagichlarining ko'pligi",
+        "Tanasidagi hujayralarning kuchsiz ixtisoslashganligi va kuchli regeneratsiya qilish xususiyati",
+        "Yorug'lik sezuvchi ko'zlarining murakkabligi",
+        "Uch qavatli tana tuzilishiga egaligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Olimlarning fikricha, bo'shliqichlilar dastlab qanday ajdodlardan kelib chiqqan?",
+      "options": [
+        "Qadimgi koloniya bo'lib yashovchi bir hujayrali xivchinlilardan",
+        "Ko'p hujayrali xalqali chuvalchanglardan",
+        "Qadimgi yashil suvo'tlardan",
+        "Quruqlikda yashovchi qadimgi hasharotlardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Olimlarning nazariyasiga ko'ra, bo'shliqichlilar evolyutsiyasining to'g'ri ketma-ketligi qaysi?",
+      "options": [
+        "Meduzalar -> korall poliplar -> gidrasimonlar",
+        "Qadimgi koloniya xivchinlilari -> dastlab gidrasimonlar -> ulardan korall poliplar va meduzalar",
+        "Korall poliplar -> gidrasimonlar -> bir hujayralilar",
+        "Aktiniyalar -> meduzalar -> sporalilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Bo'shliqichlilarning qadimgi bir hujayrali xivchinlilardan kelib chiqqanligiga asosiy dalil nima?",
+      "options": [
+        "Ularning faqat suvda yashashi",
+        "Bo'shliqichlilar tanasida oziqni qamrab olib hazm qiladigan (soxta oyoqli, xivchinli) hujayralarning bo'lishi",
+        "Tana shaklining soyabonga o'xshashi",
+        "Yirtqich hayot kechirishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Quyidagi bo'shliqichlilardan qaysi biri yakka yashamaydi, balki ulkan koloniyalar hosil qiladi?",
+      "options": [
+        "Aktiniya",
+        "Gidra",
+        "Korall polipi",
+        "Aureliya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Qora dengizda cho'miluvchilarni kuydirishi bilan xavf soluvchi meduza qaysi?",
+      "options": [
+        "Aureliya",
+        "Ildizog'iz",
+        "Qutb meduzasi",
+        "Aktiniya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Shimoliy dengizlarda uchraydigan va otiluvchi tolalari kuydirish xususiyatiga ega yirik meduza qaysi?",
+      "options": [
+        "Ildizog'iz",
+        "Aureliya",
+        "Qutb meduzasi",
+        "Dengiz likopchasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Zeb-ziynat buyumlari tayyorlashda ishlatiladigan korall turi qaysi javobda ko'rsatilgan?",
+      "options": [
+        "Oq korall",
+        "Qizil korall",
+        "Qora korall",
+        "Moviy korall"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Aktiniyalarning tanasi rang-barang va yorqin bo'lishi bilan birga shakli qaysi hayvonga aynan o'xshaydi?",
+      "options": [
+        "Yassi chuvalchangga",
+        "Gidraga",
+        "Meduza soyaboniga",
+        "Bakteriya hujayrasiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Meduzalarning tana qatlamlari orasidagi oraliq modda (mezogleya) haqida qaysi fikr to'g'ri?",
+      "options": [
+        "Juda yupqa pardadan iborat",
+        "Umuman bo'lmaydi",
+        "Juda kuchli rivojlangan bo'lib, tanaga shishasimon dildiroqlik beradi",
+        "Faqat ohak moddasidan iborat bo'lib, suyak hosil qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Korall riflaridan insonlar qurilishda qanday xomashyo materiali sifatida keng foydalanadi?",
+      "options": [
+        "Marmar sifatida",
+        "Ohaktosh sifatida",
+        "Gips sifatida",
+        "Sement kukuni sifatida"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
