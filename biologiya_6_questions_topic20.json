@@ -2,5 +2,919 @@
   "topicId": 20,
   "title": "GUL - 0‘SIMLIKLARNING GENERATIV  KO‘PAYISH ORGANI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Gul qanday organ hisoblanadi?",
+      "options": [
+        "Oziqlanish organi",
+        "Vegetativ ko'payish organi",
+        "Yopiq urug'li o'simliklarning jinsiy ko'payish organi",
+        "Ochiq urug'li o'simliklarning organi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Gul nimaning shakli o'zgarishidan hosil bo'lgan?",
+      "options": [
+        "Ildizning",
+        "Bargning",
+        "Mevaning",
+        "Novdaning"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Gullar nimaga qarab xilma-xil bo'ladi?",
+      "options": [
+        "Faqat tuproq turiga qarab",
+        "O'simlik qaysi sistematik birlikka mansubligiga qarab",
+        "Faqat barg shakliga qarab",
+        "Faqat faslga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Guldan nima hosil bo'ladi?",
+      "options": [
+        "Ildizpoya",
+        "Tugunak",
+        "Meva (urug')",
+        "Ildiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Gul qanday qismlardan tashkil topgan?",
+      "options": [
+        "Poya, barg, kurtak",
+        "Gulband, gulo'rni, gulqo'rg'on, changchi, urug'chi",
+        "Barg yaprog'i va barg bandi",
+        "Tuguncha, ildiz, poya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Gulqo'rg'on qanday qismlardan iborat?",
+      "options": [
+        "Tuguncha va ustuncha",
+        "Gulband va gulo'rni",
+        "Gulkosa va gultoj",
+        "Changdon va changchi ipi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Gulni novdaga biriktirib turadigan qism nima deyiladi?",
+      "options": [
+        "Gulo'rni",
+        "Changchi ipi",
+        "Ustuncha",
+        "Gulband"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Gulbandning yuqori qismidagi biroz kengaygan joy nima deyiladi?",
+      "options": [
+        "Gulkosacha",
+        "Gulo'rni",
+        "Tumshuqcha",
+        "Tuguncha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Gulning hamma qismlari qayerda joylashadi?",
+      "options": [
+        "Gulbandda",
+        "Tugunchada",
+        "Gulo'rnida",
+        "Changdonda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Gulbandi rivojlanmaydigan gullar qanday ataladi?",
+      "options": [
+        "Oddiy gullar",
+        "Erkin gullar",
+        "Murakkab gullar",
+        "O'troq gullar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Gulni tashqi tomondan o'rab turadigan qavat qaysi?",
+      "options": [
+        "Urug'chi",
+        "Gulkosacha",
+        "Gultoj",
+        "Changchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Gulkosacha nimadan tashkil topgan?",
+      "options": [
+        "Urug'chibarglardan",
+        "Gultojbarglardan",
+        "Changdonlardan",
+        "Gulkosachabarglardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Gulkosacha ko'pincha qanday rangda bo'ladi?",
+      "options": [
+        "Oq",
+        "Sariq",
+        "Yashil",
+        "Qizil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Guldagi gulkosachadan ichkarida joylashgan gulqo'rg'on qavati qaysi?",
+      "options": [
+        "Gulband",
+        "Gulo'rni",
+        "Gultoj",
+        "Tuguncha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Gultoj nimadan iborat?",
+      "options": [
+        "Gulkosachabarglardan",
+        "Tugunchalardan",
+        "Changchilardan",
+        "Gultojbarglar yig'indisidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Gultoj qanday rangda bo'ladi?",
+      "options": [
+        "Turli rangda",
+        "Faqat yashil",
+        "Faqat oq",
+        "Rangsiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Changchi gulning qayerida joylashgan?",
+      "options": [
+        "Gulqo'rg'on ichida",
+        "Tuguncha ichida",
+        "Gulbandda",
+        "Gulkosachadan tashqarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Changchi qanday qismlardan tashkil topgan?",
+      "options": [
+        "Tumshuqcha va ustunchadan",
+        "Changdon va changchi ipidan",
+        "Tuguncha va ustunchadan",
+        "Gulkosa va gultojdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Changchi iplarining vazifasi nima?",
+      "options": [
+        "Gulni novdaga biriktiradi",
+        "Changdonni ushlab turadi va gulo'rni bilan bog'laydi",
+        "Urug'kurtakni saqlaydi",
+        "Changlarni ushlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Changchilar soni qanday bo'ladi?",
+      "options": [
+        "Doimo o'nta",
+        "Doimo bitta",
+        "Doimo beshta",
+        "O'simlik turiga qarab bittadan bir nechtagacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Changchi iplari gulo'rniga qanday joylashadi?",
+      "options": [
+        "Alohida-alohida, qo'shilib yoki tutam hosil qilib",
+        "Faqat qo'shilib",
+        "Faqat alohida-alohida",
+        "Faqat halqa shaklida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Ayrim gullarda changchining qaysi qismi bo'lmaydi?",
+      "options": [
+        "Changdon",
+        "Changchi iplari",
+        "Tuguncha",
+        "Tumshuqcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Urug'chi gulning qayerida joylashgan?",
+      "options": [
+        "Gulkosachada",
+        "Gulning tashqi qavatida",
+        "Gulbandda",
+        "Gulning o'rtasida (markazida)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Urug'chi qanday qismlardan iborat?",
+      "options": [
+        "Gulkosa va gultoj",
+        "Tuguncha, ustuncha, tumshuqcha",
+        "Gulband va gulo'rni",
+        "Changdon va changchi ipi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Urug'chining kengaygan pastki qismi nima deyiladi?",
+      "options": [
+        "Tumshuqcha",
+        "Tuguncha",
+        "Ustuncha",
+        "Changdon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Tuguncha ichida nima joylashgan?",
+      "options": [
+        "Chang",
+        "Changdon",
+        "Gulkosachabarg",
+        "Urug'kurtak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Meva gulning qaysi qismidan hosil bo'ladi?",
+      "options": [
+        "Tugunchadan",
+        "Changdondan",
+        "Gulbanddan",
+        "Gultojdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Tugunchalar gulning boshqa a'zolariga nisbatan joylanishiga ko'ra qanday bo'ladi?",
+      "options": [
+        "Ostki va ustki",
+        "Bir va ko'p uyali",
+        "Oddiy va murakkab",
+        "Qo'shilgan va erkin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Tuzilishiga ko'ra tuguncha qanday bo'ladi?",
+      "options": [
+        "Oddiy va murakkab",
+        "Ostki va ustki",
+        "Tukli va tuksiz",
+        "Bir va ko'p uyali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Urug'chining o'rta qismi nima deyiladi?",
+      "options": [
+        "Tuguncha",
+        "Ustuncha",
+        "Tumshuqcha",
+        "Changchi ipi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Ustuncha nimalarni birlashtirib turadi?",
+      "options": [
+        "Gulband bilan novdani",
+        "Changdon bilan gulo'rnini",
+        "Gulkosa bilan gultojni",
+        "Tuguncha bilan tumshuqchani"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Ustunchaning ichi qanday bo'ladi?",
+      "options": [
+        "G'ovak",
+        "Suv bilan to'la",
+        "To'liq qattiq",
+        "Changga to'la"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Urug'chining eng yuqori qismi (uchi) nima deyiladi?",
+      "options": [
+        "Changdon",
+        "Tuguncha",
+        "Tumshuqcha",
+        "Ustuncha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Tumshuqcha qanday vazifani bajaradi?",
+      "options": [
+        "Urug'kurtakni saqlaydi",
+        "Changdonni ushlab turadi",
+        "Changlarni ushlaydi",
+        "Meva hosil qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Urug'chi qismlarini pastdan yuqoriga tartiblang.",
+      "options": [
+        "Tumshuqcha → ustuncha → tuguncha",
+        "Ustuncha → tuguncha → tumshuqcha",
+        "Tuguncha → ustuncha → tumshuqcha",
+        "Tuguncha → tumshuqcha → ustuncha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Gulqo'rg'onning vazifasi nima?",
+      "options": [
+        "Changlarni ushlaydi",
+        "Gulni novdaga biriktiradi",
+        "Gul ochilguncha changchi va urug'chini tashqi ta'sirdan saqlaydi",
+        "Meva hosil qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Gulqo'rg'on qanday bo'ladi?",
+      "options": [
+        "Oddiy yoki murakkab",
+        "Bir yoki ko'p uyali",
+        "Ostki yoki ustki",
+        "Bandli yoki bandsiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Qanday gulqo'rg'on oddiy gulqo'rg'on deyiladi?",
+      "options": [
+        "Bo'laklari qo'shilgan bo'lsa",
+        "Gulkosacha va gultojdan iborat bo'lsa",
+        "Gulqo'rg'on yo'qolgan bo'lsa",
+        "Bo'laklarining rangi asosan bir xil bo'lsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Oddiy gulqo'rg'on nimadan iborat bo'ladi?",
+      "options": [
+        "Yashil oddiy gulkosacha yoki rangli gultojdan",
+        "Gulkosacha va gultojdan birga",
+        "Faqat changchilardan",
+        "Tangachalardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Qanday gulqo'rg'on murakkab gulqo'rg'on deyiladi?",
+      "options": [
+        "Gulkosacha va gultojdan tashkil topgan bo'lsa",
+        "Faqat gultojdan iborat bo'lsa",
+        "Tangachaga aylangan bo'lsa",
+        "Bo'laklari rangi bir xil bo'lsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Qaysi qatorda oddiy gulqo'rg'onli o'simliklar berilgan?",
+      "options": [
+        "Lola, chuchmoma, gulsafsar",
+        "Na'matak, g'o'za, olma",
+        "Olma, olcha, nok",
+        "Tol, terak, tut"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Qaysi qatorda murakkab gulqo'rg'onli o'simliklar berilgan?",
+      "options": [
+        "Chuchmoma, olma, lola",
+        "Tol, terak, yong'oq",
+        "Olma, olcha, nok, na'matak, g'o'za",
+        "Lola, chuchmoma, gulsafsar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Gulqo'rg'on bo'laklari qo'shilgan gullar qaysi qatorda berilgan?",
+      "options": [
+        "Tol, terak, tut",
+        "Lola, boychechak, o'sma",
+        "Qo'ypechak, kamaygul, marmarak",
+        "Olma, nok, g'o'za"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Gulqo'rg'on bo'laklari qo'shilmagan (erkin) gullar qaysi qatorda berilgan?",
+      "options": [
+        "Tol, terak, tut, yong'oq",
+        "Kamaygul, olma, marmarak",
+        "Olma, nok, g'o'za, o'sma, lola, boychechak",
+        "Qo'ypechak, kamaygul, marmarak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Qaysi o'simliklar gulining gulqo'rg'oni yo'qolib ketgan yoki tangachaga aylangan?",
+      "options": [
+        "Tol, terak, tut, yong'oq",
+        "Olma, nok",
+        "Qo'ypechak, kamaygul",
+        "Lola, chuchmoma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Gul tuzilishining sxema bilan ifodalanishi nima deyiladi?",
+      "options": [
+        "Gulqo'rg'on",
+        "Gul formulasi",
+        "Gul metamorfozi",
+        "Gul diagrammasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Gul formulasida qismlar nomi qanday belgilanadi?",
+      "options": [
+        "Qism nomining boshlang'ich harfi bilan",
+        "Raqamlar bilan",
+        "Ranglar bilan",
+        "Rasmlar bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Gul formulasida qismlar soni qanday belgilanadi?",
+      "options": [
+        "Belgilanmaydi",
+        "Raqamlar bilan",
+        "Rasmlar bilan",
+        "Harflar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Gul formulasida \"Gk\" nimani bildiradi?",
+      "options": [
+        "Gulkosachabarglarni",
+        "Gultojbarglarni",
+        "Changchilarni",
+        "Oddiy gulqo'rg'onni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Gul formulasida \"Gt\" nimani bildiradi?",
+      "options": [
+        "Gultojbarglarni",
+        "Urug'chilarni",
+        "Gulkosachabarglarni",
+        "Oddiy gulqo'rg'onni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Gul formulasida \"Ch\" nimani bildiradi?",
+      "options": [
+        "Gulkosachabarglarni",
+        "Gultojbarglarni",
+        "Urug'chilarni",
+        "Changchilarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 52,
+      "question": "Gul formulasida \"U\" nimani bildiradi?",
+      "options": [
+        "Changchilarni",
+        "Gulkosachabarglarni",
+        "Oddiy gulqo'rg'onni",
+        "Urug'chilarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Gul formulasida \"Og\" nimani bildiradi?",
+      "options": [
+        "Urug'chilarni",
+        "Oddiy gulqo'rg'onni",
+        "Gulkosachabarglarni",
+        "Gultojbarglarni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Halqadagi qismlar qo'shilgan bo'lsa, ularning soni formulada qanday yoziladi?",
+      "options": [
+        "Cheksizlik belgisi bilan",
+        "0 bilan",
+        "Qavssiz (ochiq)",
+        "Qavs ichida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Halqadagi qismlar qo'shilmagan bo'lsa, ularning soni formulada qanday yoziladi?",
+      "options": [
+        "Qavs ichida",
+        "+ ishorasi bilan",
+        "0 bilan",
+        "Qavssiz (ochiq)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Halqadagi qismlar soni ko'p bo'lsa, formulada qanday belgi qo'yiladi?",
+      "options": [
+        "+ (plus)",
+        "Qavs",
+        "0 (nol)",
+        "Cheksizlik belgisi (∞)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Halqada bo'lishi kerak bo'lgan qism rivojlanmagan bo'lsa, formulada qanday belgilanadi?",
+      "options": [
+        "+ ishorasi bilan",
+        "Cheksizlik belgisi bilan",
+        "Qavs bilan",
+        "0 (nol) bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Gul qismlari ikki halqada joylashgan bo'lsa, formulada qanday ishora qo'yiladi?",
+      "options": [
+        "+ (plus)",
+        "Qavs",
+        "Cheksizlik belgisi",
+        "0 (nol)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Gul formulasiga qarab nimani bilish mumkin?",
+      "options": [
+        "O'simlikning qaysi oilaga kirishini",
+        "O'simlikning yoshini",
+        "Ildiz uzunligini",
+        "Tuproq unumdorligini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Jag'-jag' (achambiti) gulining formulasi qaysi?",
+      "options": [
+        "Og3+3Ch3+3U(3)",
+        "Gk0Gt(5)Ch(5)U(2)",
+        "Gk4Gt4Ch4+2U(2)",
+        "Gk5Gt5Ch∞U1"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Lola gulining formulasi qaysi?",
+      "options": [
+        "Og3+3Ch3+3U(3)",
+        "Gk0Gt(5)Ch(5)U(2)",
+        "Gk4Gt4Ch4+2U(2)",
+        "Gk5Gt5Ch∞U1"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Sachratqi gulining formulasi qaysi?",
+      "options": [
+        "Og3+3Ch3+3U(3)",
+        "Gk0Gt(5)Ch(5)U(2)",
+        "Gk4Gt4Ch4+2U(2)",
+        "Gk5Gt5Ch∞U1"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Olxo'ri gulining formulasi qaysi?",
+      "options": [
+        "Og3+3Ch3+3U(3)",
+        "Gk0Gt(5)Ch(5)U(2)",
+        "Gk5Gt5Ch∞U1",
+        "Gk4Gt4Ch4+2U(2)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Jag'-jag' gulida nechta changchi bor?",
+      "options": [
+        "8 ta",
+        "6 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Jag'-jag' gulida changchilar qanday joylashgan?",
+      "options": [
+        "Ikki halqada 3 tadan",
+        "Bir halqada 6 ta",
+        "Bir halqada 4 ta",
+        "Ikki halqada: birinchisida 4 ta, ikkinchisida 2 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Jag'-jag' gulining urug'chisi nechta urug'chibargning qo'shilishidan hosil bo'lgan?",
+      "options": [
+        "4 ta",
+        "2 ta",
+        "3 ta",
+        "1 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "Olxo'ri gulida changchilar soni qancha?",
+      "options": [
+        "5 ta",
+        "Cheksiz (ko'p)",
+        "10 ta",
+        "6 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 68,
+      "question": "Lola gulida gulqo'rg'on qanday?",
+      "options": [
+        "Oddiy, 6 ta bo'lak, ikki halqada 3 tadan",
+        "Murakkab, gulkosacha va gultojli",
+        "Gulqo'rg'on yo'q",
+        "Oddiy, 3 ta bo'lak, bir halqada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Lola gulining urug'chisi nechta urug'chibargning qo'shilishidan hosil bo'lgan?",
+      "options": [
+        "6 ta",
+        "3 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Sachratqi gulida gulkosachabarglar qanday?",
+      "options": [
+        "5 ta, qo'shilgan",
+        "Rivojlanmagan",
+        "Cheksiz",
+        "4 ta, qo'shilmagan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Sachratqi gulida gultojbarglar qanday?",
+      "options": [
+        "4 ta, qo'shilmagan",
+        "Rivojlanmagan",
+        "5 ta, bir-biri bilan qo'shilgan",
+        "5 ta, qo'shilmagan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "Formulasi Gk0 bilan boshlanadigan gulda nima rivojlanmagan?",
+      "options": [
+        "Changchilar",
+        "Urug'chi",
+        "Gulkosachabarglar",
+        "Gultojbarglar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Ch(5) yozuvi nimani bildiradi?",
+      "options": [
+        "5 ta changchi, qo'shilmagan",
+        "5 ta changchi, bir-biri bilan qo'shilgan",
+        "Changchilar rivojlanmagan",
+        "5 ta urug'chi, qo'shilgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Gt5 yozuvi nimani bildiradi?",
+      "options": [
+        "Gultoj rivojlanmagan",
+        "5 ta gulkosachabarg",
+        "5 ta gultojbarg, qo'shilgan",
+        "5 ta gultojbarg, qo'shilmagan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "Ch3+3 yozuvi nimani bildiradi?",
+      "options": [
+        "Changchilar qo'shilgan",
+        "3 ta changchi",
+        "6 ta changchi, ikki halqada 3 tadan",
+        "33 ta changchi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "Moslang: 1) tuguncha, 2) ustuncha, 3) tumshuqcha; a) changlarni ushlaydi, b) ichida urug'kurtak bor, c) ichi g'ovak, ikki qismni birlashtiradi.",
+      "options": [
+        "1b, 2c, 3a",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a",
+        "1b, 2a, 3c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "Moslang: 1) oddiy gulqo'rg'on, 2) murakkab gulqo'rg'on; a) lola, b) olma, c) chuchmoma, d) na'matak.",
+      "options": [
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, c; 2 – b, d",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Moslang: 1) qavs, 2) ∞, 3) 0, 4) +; a) qism rivojlanmagan, b) qismlar qo'shilgan, c) ikki halqa, d) soni ko'p.",
+      "options": [
+        "1b, 2a, 3d, 4c",
+        "1d, 2b, 3a, 4c",
+        "1c, 2d, 3a, 4b",
+        "1b, 2d, 3a, 4c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Ortiqchasini toping (gulqo'rg'on bo'laklari qo'shilgan): qo'ypechak, kamaygul, marmarak, boychechak.",
+      "options": [
+        "Kamaygul",
+        "Boychechak",
+        "Marmarak",
+        "Qo'ypechak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "Ortiqchasini toping (gulqo'rg'oni yo'qolgan yoki tangachaga aylangan): tol, terak, tut, olcha.",
+      "options": [
+        "Tol",
+        "Olcha",
+        "Terak",
+        "Tut"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "To'g'ri fikrlarni toping: 1) Gul shakli o'zgargan novda; 2) Tumshuqcha changlarni ushlaydi; 3) Lola murakkab gulqo'rg'onli; 4) Tugunchadan meva hosil bo'ladi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3",
+        "2, 3, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Noto'g'ri fikrlarni toping: 1) Gulkosacha ko'pincha yashil bo'ladi; 2) Changchi tuguncha va ustunchadan iborat; 3) Ustunchaning ichi g'ovak; 4) Qo'shilgan qismlar soni qavssiz yoziladi.",
+      "options": [
+        "1, 3",
+        "3, 4",
+        "1, 2",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 83,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Olxo'ri gulida changchilar soni cheksiz",
+        "Sachratqi gulida gulkosachabarglar 5 ta",
+        "Lola gulida oddiy gulqo'rg'on bor",
+        "Jag'-jag' gulida changchilar 6 ta"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
