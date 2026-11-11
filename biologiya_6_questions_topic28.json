@@ -2,5 +2,468 @@
   "topicId": 28,
   "title": "0 ‘SIMLIKLARNING NAFAS OLISHI, OZIQLANISHI. 0 ‘SIMLIKLARDA MODDALAR  ALMASHINUVI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yashil barglar hujayrasida fotosintez bilan bir qatorda yana qanday jarayon boradi?",
+      "options": [
+        "Nafas olish",
+        "Ildiz bosimi",
+        "Urug'lanish",
+        "Changlanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "O'simlikning qaysi organlari nafas oladi?",
+      "options": [
+        "Faqat gullari",
+        "Faqat mevasi",
+        "Faqat ildizi",
+        "Barglari ham, boshqa organlari ham"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Nafas olishda o'simlik havodan qaysi gazni oladi?",
+      "options": [
+        "Karbonat angidrid",
+        "Azot",
+        "Vodorod",
+        "Kislorod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Nafas olishda o'simlik qaysi gazni ajratib chiqaradi?",
+      "options": [
+        "Vodorod",
+        "Karbonat angidrid",
+        "Kislorod",
+        "Azot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Nafas olishda organik moddalar bilan nima sodir bo'ladi?",
+      "options": [
+        "Hosil bo'ladi",
+        "Parchalanadi",
+        "O'zgarmaydi",
+        "Kraxmalga aylanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Nafas olish uchun yorug'lik kerakmi?",
+      "options": [
+        "Faqat elektr nurida boradi",
+        "Faqat quyosh nurida boradi",
+        "Yorug'lik talab etilmaydi",
+        "Faqat yorug'likda boradi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "O'simliklar qachon nafas oladi?",
+      "options": [
+        "Faqat kechasi",
+        "Kecha-kunduz uzluksiz",
+        "Faqat kunduzi",
+        "Faqat bahorda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Kunduzi barg hujayrasida qaysi jarayonlar bir vaqtda o'tadi?",
+      "options": [
+        "Faqat nafas olish",
+        "Faqat fotosintez",
+        "Organik moddalar hosil bo'lishi va nafas olish",
+        "Changlanish va urug'lanish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Fotosintez va nafas olish jarayonlari bizga seziladimi?",
+      "options": [
+        "Ikkalasi ham sezilmaydi",
+        "Faqat fotosintez seziladi",
+        "Faqat nafas olish seziladi",
+        "Ikkalasi ham yaxshi seziladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "O'simlik nafas olishda qaysi kisloroddan foydalanadi?",
+      "options": [
+        "Kisloroddan foydalanmaydi",
+        "Suvdagi kisloroddan",
+        "Fotosintezda o'zi ajratgan kislorodning bir qismidan",
+        "Faqat tuproqdagi kisloroddan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Nafas olish oziqlanish (fotosintez)dan qanday farq qiladi?",
+      "options": [
+        "Organik moddalar hosil bo'ladi va yorug'lik kerak",
+        "Kislorod ajraladi",
+        "Faqat kunduzi boradi",
+        "Organik moddalar parchalanadi va yorug'lik talab etilmaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Fotosintez va nafas olishning gazlar almashinuvi bo'yicha farqi qaysi javobda to'g'ri?",
+      "options": [
+        "Ikkalasida ham karbonat angidrid ajraladi",
+        "Fotosintezda karbonat angidrid ajraladi, nafasda kislorod",
+        "Fotosintezda kislorod ajraladi, nafasda karbonat angidrid ajraladi",
+        "Ikkalasida ham kislorod ajraladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Nafas olish tajribasi uchun qanday idishlar olinadi?",
+      "options": [
+        "Bitta ochiq kosa",
+        "Plastik paket",
+        "Og'zi shisha plastinka bilan mahkam berkiladigan ikkita shisha stakan",
+        "Ikkita probirka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Stakanlarga nima solinadi?",
+      "options": [
+        "Ildizmevalar",
+        "Yangi kesib olingan bargli novdalar",
+        "Tuproq",
+        "Quruq urug'lar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Stakanga yonib turgan cho'p tushirilganda o'chmasa, bu nimani bildiradi?",
+      "options": [
+        "Stakanda suv bor",
+        "Stakan havosida kislorod bor",
+        "Stakan havosida kislorod yo'q",
+        "Stakanda karbonat angidrid ko'p"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Tajribada stakanlar qayerga qo'yiladi?",
+      "options": [
+        "Ikkalasi ham muzlatgichga",
+        "Biri yorug' joyga, ikkinchisi qorong'i joyga",
+        "Ikkalasi ham yorug' joyga",
+        "Ikkalasi ham qorong'i joyga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Tajribada stakan havosi necha vaqtdan keyin tekshiriladi?",
+      "options": [
+        "Bir oydan keyin",
+        "Bir necha soatdan keyin",
+        "Bir yildan keyin",
+        "Bir necha daqiqadan keyin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Stakan ichidagi havoning tarkibi nima yordamida tekshiriladi?",
+      "options": [
+        "Termometr",
+        "Yonib turgan cho'p",
+        "Yod eritmasi",
+        "Rangli suv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Nafas olish tajribasi bosqichlari to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Cho'p bilan tekshirish → qorong'iga qo'yish → novda solish → berkitish",
+        "Berkitish → novda solish → yorug'ga qo'yish → cho'p bilan tekshirish",
+        "Novda solish → cho'p bilan tekshirish → berkitish → yorug' va qorong'iga qo'yish → yana tekshirish",
+        "Qorong'iga qo'yish → novda solish → berkitish → cho'p bilan tekshirish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "O'simlik qanday organizm hisoblanadi?",
+      "options": [
+        "Bir butun organizm",
+        "Jonsiz tuzilma",
+        "Alohida-alohida organlar yig'indisi",
+        "Faqat hujayralar to'plami"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "O'simlikning qaysi hujayralari nafas oladi?",
+      "options": [
+        "Faqat o'lik hujayralari",
+        "Faqat barg hujayralari",
+        "Hamma tirik hujayralari",
+        "Faqat ildiz hujayralari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "O'simliklar yashash uchun tashqi muhitdan nimalarni o'zlashtiradi?",
+      "options": [
+        "Faqat suvni",
+        "Zarur moddalar va energiyani",
+        "Faqat tuproqni",
+        "Faqat kislorodni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "O'zlashtirilgan moddalar o'simlik hujayralarida nimaga aylanadi?",
+      "options": [
+        "Faqat suvga",
+        "Faqat gazga",
+        "Faqat kulga",
+        "O'simlik tanasi qurilishida ishtirok etuvchi moddalarga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Energiya o'simlikda nimalarga sarflanadi?",
+      "options": [
+        "Sarflanmaydi",
+        "Organizm qurilishiga, hujayralarning o'sishi va bo'linishiga",
+        "Faqat suv bug'latishga",
+        "Faqat rang berishga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Yashil o'simliklar qanday organizmlar hisoblanadi?",
+      "options": [
+        "Avtotrof",
+        "Parazit",
+        "Geterotrof",
+        "Saprofit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Avtotrof o'simliklar qaysi energiyani yutadi?",
+      "options": [
+        "Shamol energiyasini",
+        "Elektr energiyasini",
+        "Issiqlik energiyasini",
+        "Yorug'lik energiyasini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Fotosintez jarayonida qaysi moddalar ishtirokida shakar hosil bo'ladi?",
+      "options": [
+        "Kul va tuz",
+        "Karbonat angidrid va suv",
+        "Kraxmal va oqsil",
+        "Kislorod va azot"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Fotosintezda shakar nimaning hisobiga hosil bo'ladi?",
+      "options": [
+        "Tuproq energiyasi hisobiga",
+        "Nafas olish energiyasi hisobiga",
+        "Shamol energiyasi hisobiga",
+        "Yorug'lik energiyasi hisobiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Fotosintezda hosil bo'lgan shakar o'simlik to'qimalarida nimalarga aylanadi?",
+      "options": [
+        "Kraxmal, kletchatkaga yoki oqsil, yog', vitaminlar hosil bo'lishiga sarflanadi",
+        "Faqat suvga",
+        "Faqat kulga",
+        "Faqat karbonat angidridga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Shakardan hosil bo'lgan moddalar nima uchun zarur?",
+      "options": [
+        "Zarur emas",
+        "O'simlik hujayralari va to'qimalarining qurilishi uchun",
+        "Faqat hid berish uchun",
+        "Faqat rang berish uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Nafas olishda organik moddalar nimalargacha parchalanadi?",
+      "options": [
+        "Kislorodgacha",
+        "Suv va karbonat angidridgacha",
+        "Shakar va kraxmalgacha",
+        "Oqsil va yog'gacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Nafas olishda organik moddalar parchalanishi natijasida nima ajraladi?",
+      "options": [
+        "Yorug'lik",
+        "Faqat shakar",
+        "Hayotiy faoliyat uchun zarur energiya",
+        "Xlorofill"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Fotosintez va nafas olish jarayonlari o'zaro qanday?",
+      "options": [
+        "Bir-biri bilan bog'liq",
+        "Bir-biriga mutlaqo bog'liq emas",
+        "Faqat bittasi boradi",
+        "Bir-birini to'xtatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "O'simlik to'qimalarida kechadigan modda va energiyaning o'zgarishi nima deyiladi?",
+      "options": [
+        "Moddalar almashinuvi",
+        "Transpiratsiya",
+        "Metamorfoz",
+        "Fotosintez"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Moddalar almashinuvi qanday xususiyat hisoblanadi?",
+      "options": [
+        "Faqat urug'larga xos",
+        "Faqat o'lik organizmlarga xos",
+        "Faqat hayvonlarga xos",
+        "Barcha tirik organizmlar, jumladan o'simliklarning muhim xususiyati"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Moslang: 1) fotosintez, 2) nafas olish; a) organik moddalar parchalanadi, b) organik moddalar hosil bo'ladi, c) yorug'lik talab etilmaydi, d) yorug'lik energiyasi kerak.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, c; 2 – a, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Moslang: 1) fotosintez, 2) nafas olish; a) kislorod oladi, karbonat angidrid chiqaradi, b) karbonat angidrid va suvdan shakar hosil qiladi.",
+      "options": [
+        "1b, 2a",
+        "1b, 2b",
+        "1a, 2a",
+        "1a, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Fotosintez va nafas olishda moddalar o'zgarishi to'g'ri berilgan javobni toping.",
+      "options": [
+        "Fotosintez: shakar → CO2 + suv; nafas: CO2 + suv → shakar",
+        "Ikkalasida ham shakar hosil bo'ladi",
+        "Fotosintez: CO2 + suv → shakar; nafas: organik moddalar → suv + CO2",
+        "Ikkalasida ham organik moddalar parchalanadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Ortiqchasini toping (shakardan hosil bo'ladigan moddalar): kraxmal, kletchatka, oqsil, karbonat angidrid.",
+      "options": [
+        "Oqsil",
+        "Kraxmal",
+        "Kletchatka",
+        "Karbonat angidrid"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "To'g'ri fikrlarni toping: 1) O'simliklar kecha-kunduz nafas oladi; 2) Nafas olishda organik moddalar parchalanadi; 3) Nafas olish uchun yorug'lik shart; 4) Yashil o'simliklar avtotrof.",
+      "options": [
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 3",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Noto'g'ri fikrlarni toping: 1) Nafas olishda karbonat angidrid ajraladi; 2) O'simliklar faqat kunduzi nafas oladi; 3) Fotosintez va nafas olish bog'liq jarayonlar; 4) Nafas olishda energiya yutiladi, ajralmaydi.",
+      "options": [
+        "2, 4",
+        "3, 4",
+        "1, 3",
+        "1, 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Moddalar almashinuvi tirik organizmlarning muhim xususiyati",
+        "Yonib turgan cho'p kislorodda o'chmaydi",
+        "Nafas olishda barglarda organik moddalar hosil bo'ladi",
+        "O'simlik – bir butun organizm"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
