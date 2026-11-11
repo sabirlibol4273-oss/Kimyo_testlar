@@ -2,5 +2,721 @@
   "topicId": 13,
   "title": "Yomg‘ir chuvalchangining tashqi tuzilishi, nerv sistemasi va rivojlanishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yomg‘ir chuvalchangi qaysi tip va sinfga kiradi?",
+      "options": [
+        "Halqali chuvalchanglar tipining kam tuklilar sinfiga",
+        "Yassi chuvalchanglar tipining tasmasimon chuvalchanglar sinfiga",
+        "To‘garak chuvalchanglar tipiga",
+        "Halqali chuvalchanglar tipining ko‘p tuklilar sinfiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Kam tuklilar sinfiga kiruvchi hayvonlar qayerlarda yashaydi?",
+      "options": [
+        "Tuproqda va chuchuk suvlarda",
+        "Faqat dengizlarda",
+        "Faqat tuproqda",
+        "Dengiz va sho‘r ko‘llarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Yomg‘ir chuvalchangi qanday tuproqlarda hayot kechiradi?",
+      "options": [
+        "Qumloq quruq tuproqlarda",
+        "Chirindiga boy nam tuproqlarda",
+        "Sho‘rxok tuproqlarda",
+        "Toshloq tuproqlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Yomg‘ir chuvalchangini qayerda uchratish mumkin?",
+      "options": [
+        "Ariqlar bo‘yida, beda, sabzavot va poliz ekinlari ekilgan dalalarda",
+        "Cho‘l qumliklarida",
+        "Tog‘ qoyalarida",
+        "Dengiz qirg‘og‘ida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Nima uchun bu hayvon yomg‘ir chuvalchangi deb ataladi?",
+      "options": [
+        "Yomg‘ir suvida yashashi sababli",
+        "Tanasi yomg‘ir tomchisiga o‘xshashi sababli",
+        "Faqat yomg‘irli faslda ko‘payishi sababli",
+        "Kuchli jaladan so‘ng ba’zan ko‘plab yer yuziga chiqishi sababli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Yomg‘ir chuvalchangi tanasining uzunligi qancha?",
+      "options": [
+        "8–10 sm",
+        "8–10 mm",
+        "80–100 sm",
+        "1–2 sm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Yomg‘ir chuvalchangi tanasining oldingi uchi qanday shaklda?",
+      "options": [
+        "Konussimon o‘tkirlashgan",
+        "Yassi va kengaygan",
+        "Sharsimon",
+        "Pona shaklida yo‘g‘onlashgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Yomg‘ir chuvalchangi tanasi nima bilan bo‘g‘imlarga bo‘lingan?",
+      "options": [
+        "Bo‘ylama chiziqlar bilan",
+        "Halqaga o‘xshash tortmalar bilan",
+        "Shilimshiq parda bilan",
+        "Tuklar qatori bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Tuklar tana bo‘g‘imining qaysi tomonida joylashgan?",
+      "options": [
+        "Orqa tomonida",
+        "Qorin tomonida",
+        "Faqat boshida",
+        "Belbog‘ida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Har bir tana bo‘g‘imida nechta juft tuk bor?",
+      "options": [
+        "Bir juft",
+        "Ikki juft",
+        "O‘n juft",
+        "To‘rt juft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Har bir tana bo‘g‘imining qorin tomonidagi tuklar soni jami nechta?",
+      "options": [
+        "4 ta",
+        "16 ta",
+        "8 ta",
+        "2 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Chuvalchang harakatlanayotganda tuklar qanday vazifani bajaradi?",
+      "options": [
+        "Sezgi vazifasini",
+        "Tayanch vazifasini",
+        "Himoya vazifasini",
+        "Nafas olish vazifasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Belbog‘ qanday hosil bo‘ladi?",
+      "options": [
+        "Orqa tomondagi halqalarning yo‘g‘onlashishidan",
+        "Oldingi tomondagi bir necha tana halqalarining yo‘g‘onlashishidan",
+        "Barcha halqalarning birlashishidan",
+        "Tuklarning to‘planishidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Yomg‘ir chuvalchangining terisi qanday tuzilgan?",
+      "options": [
+        "Bir qavat epiteliy hujayralaridan iborat yupqa teri",
+        "Ko‘p qavatli qalin teri",
+        "Shox qavatli qattiq qobiq",
+        "Xitinli qalin qobiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Chuvalchang terisini doim namlab turadigan shilimshiq modda qayerda ishlab chiqariladi?",
+      "options": [
+        "Halqasimon muskullarda",
+        "Tana bo‘shlig‘ida",
+        "Nerv tugunlarida",
+        "Teridagi epiteliy hujayralarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Teri ostida qanday muskullar joylashgan?",
+      "options": [
+        "Faqat bo‘ylama muskullar",
+        "Halqasimon va bo‘ylama muskullar",
+        "Faqat halqasimon muskullar",
+        "Ko‘ndalang-targ‘il muskullar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Muskullar ostida joylashgan ichki epiteliy qavati nimani o‘rab turadi?",
+      "options": [
+        "Tana bo‘shlig‘ini",
+        "Nerv zanjirini",
+        "Terini",
+        "Tuklarni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Teri-muskul xaltasi nimalardan hosil bo‘ladi?",
+      "options": [
+        "Tashqi va ichki epiteliy, halqasimon va bo‘ylama muskullardan",
+        "Faqat tashqi epiteliy va shilimshiq moddadan",
+        "Hazm kanali va qon tomirlaridan",
+        "Nerv tugunlari va tuklardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Yomg‘ir chuvalchangining ichki organlari qayerda joylashgan?",
+      "options": [
+        "Teri ostidagi muskullar orasida",
+        "Tashqi epiteliy qavatida",
+        "Tana bo‘shlig‘ida",
+        "Belbog‘ ichida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Yomg‘ir chuvalchangining tana shakli va tashqi tuzilishi nimaga moslashgan?",
+      "options": [
+        "Suvda suzib yurishga",
+        "Daraxtlarga tirmashib chiqishga",
+        "Havoda uchishga",
+        "Tuproqda in qazib hayot kechirishga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Harakatlanayotganda oldingi qismidagi halqasimon muskullar qisqarsa, chuvalchangning tanasi qanday o‘zgaradi?",
+      "options": [
+        "Yo‘g‘onlashadi va qisqaradi",
+        "Cho‘ziladi va ingichkalashadi",
+        "Spiral shaklda buraladi",
+        "O‘zgarmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Chuvalchang tanasining oldingi uchini qayerga tiqadi?",
+      "options": [
+        "Ariq suviga",
+        "Pilla ichiga",
+        "Tuproq zarralari orasiga",
+        "Chirindi qatlamiga yopishtirib qo‘yadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Qaysi muskullar qisqarganda tananing oldingi qismi yo‘g‘onlashib, tuproq zarralari suriladi?",
+      "options": [
+        "Tana devoridagi bo‘ylama muskullar",
+        "Halqasimon muskullar",
+        "Belbog‘dagi muskullar",
+        "Tuklar muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Oldingi qism tuproq zarralarini surgandan keyin chuvalchang nima qiladi?",
+      "options": [
+        "Tanasining oldingi qismini uzib tashlaydi",
+        "Joyida qotib turadi",
+        "Orqaga qaytib chiqadi",
+        "Tanasining keyingi qismini tortib oladi va o‘ziga yo‘l ochadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Chuvalchang terisi ustidagi shilimshiq parda nima uchun xizmat qiladi?",
+      "options": [
+        "Tuproqni yeyishga yordam beradi",
+        "Yorug‘likni sezadi",
+        "Uning siljishini yengillashtiradi",
+        "Tuxumlarni himoya qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Chuvalchangning harakatlanish bosqichlari to‘g‘ri tartibda qaysi qatorda berilgan?\n1. Oldingi qismdagi halqasimon muskullar qisqaradi, tana cho‘ziladi\n2. Oldingi uch tuproq zarralari orasiga tiqiladi\n3. Bo‘ylama muskullar qisqaradi, oldingi qism yo‘g‘onlashadi\n4. Tananing keyingi qismi tortib olinadi",
+      "options": [
+        "2–1–3–4",
+        "1–3–2–4",
+        "1–2–4–3",
+        "1–2–3–4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Yomg‘ir chuvalchangining tana bo‘shlig‘i nima bilan to‘lgan?",
+      "options": [
+        "Havo bilan",
+        "Suyuqlik bilan",
+        "Shilimshiq modda bilan",
+        "Tuproq zarralari bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Tana bo‘shlig‘i alohida bo‘lmalarga nima yordamida ajralgan?",
+      "options": [
+        "Yupqa pardadan iborat ko‘ndalang to‘siqlar bilan",
+        "Bo‘ylama muskullar bilan",
+        "Nerv tolalari bilan",
+        "Tuklar bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Tana bo‘shlig‘i bo‘lmalarining soni nimaga teng?",
+      "options": [
+        "Tuklar soniga",
+        "Tashqi tana halqalari soniga",
+        "Nerv tugunlari soniga",
+        "Muskul qavatlari soniga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Chuvalchangning tashqi tana halqalari soni 120 ta bo‘lsa, tana bo‘shlig‘ida nechta bo‘lma bo‘ladi?",
+      "options": [
+        "60 ta",
+        "240 ta",
+        "120 ta",
+        "12 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Tana bo‘shlig‘i devorining ichki yuzasi nimadan iborat?",
+      "options": [
+        "Ko‘p qavatli muskuldan",
+        "Nerv hujayralaridan",
+        "Shilimshiq pardadan",
+        "Bir qavat bo‘lib joylashgan epiteliydan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Tananing oldingi qismidagi nerv hujayralari to‘planib nimani hosil qiladi?",
+      "options": [
+        "Faqat bitta bosh miyani",
+        "Halqum usti va halqum osti yirik nerv tugunlarini",
+        "Qorin nerv zanjirini",
+        "Faqat halqum usti nerv tuguni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Halqum usti va halqum osti nerv tugunlarini nima birlashtirib turadi?",
+      "options": [
+        "Qorin nerv zanjiri",
+        "Halqasimon muskullar",
+        "Halqumni ikki tomondan aylanib o‘tadigan halqa nerv tolalari",
+        "Ichki epiteliy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Halqum osti nerv tuguni nima bilan tutashgan?",
+      "options": [
+        "Orqa tomondagi nerv zanjiri bilan",
+        "Tuklar bilan",
+        "Qorin bo‘ylab ketadigan nerv zanjiri bilan",
+        "Belbog‘ bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Qorin nerv zanjirida har bir tana bo‘g‘ini to‘g‘risida nima joylashgan?",
+      "options": [
+        "Ikkitadan katta nerv tugunlari",
+        "Bittadan sezgi organi",
+        "Bittadan yurak",
+        "Bittadan kichikroq nerv tugunlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Nerv tugunlaridan chiqqan nervlar qayerlarga boradi?",
+      "options": [
+        "Faqat teriga",
+        "Faqat ichki organlarga",
+        "Teriga va ichki organlarga",
+        "Faqat muskullarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Yomg‘ir chuvalchangining sezgi organlari haqida qaysi fikr to‘g‘ri?",
+      "options": [
+        "Maxsus ko‘rish organlari yaxshi rivojlangan",
+        "Maxsus sezgi organlari bo‘lmaydi",
+        "Ikki juft maxsus sezgi organi bor",
+        "Faqat maxsus eshitish organi bor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Chuvalchang tashqi ta’sirlarni qanday sezadi?",
+      "options": [
+        "Terisida joylashgan nerv tolalari orqali",
+        "Halqum usti nerv tuguni orqali",
+        "Tuklari orqali",
+        "Belbog‘i orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Yomg‘ir chuvalchangi quyidagi ta’sirlardan qaysilarini yaxshi sezadi?",
+      "options": [
+        "Faqat yorug‘likni",
+        "Faqat haroratni",
+        "Faqat mexanik ta’sirlarni",
+        "Yorug‘lik, harorat, kimyoviy va mexanik ta’sirlarni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Yomg‘ir chuvalchangining reflekslari qanday?",
+      "options": [
+        "Juda oddiy va bir xil",
+        "Ancha murakkab va xilma-xil",
+        "Mutlaqo yo‘q",
+        "Faqat ko‘payish davrida paydo bo‘ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Chuvalchang tanasining qaysi qismiga ta’sir qilinsa, qanday javob kuzatiladi?",
+      "options": [
+        "Butun tanasi bir xilda qisqaradi",
+        "Faqat oldingi uchi harakat qiladi",
+        "Hech qanday javob bo‘lmaydi",
+        "O‘sha tomoni ta’sirlanib, har xil harakat qiladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 42,
+      "question": "Reflekslar yordamida yomg‘ir chuvalchangi nimalarni amalga oshiradi?",
+      "options": [
+        "Faqat ozig‘ini topadi",
+        "Faqat dushmanlaridan saqlanadi",
+        "Ozig‘ini topadi, dushmanlaridan saqlanadi, kuchli yorug‘lik va issiqlikdan yashirinadi",
+        "Faqat issiqlikdan yashirinadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Yomg‘ir chuvalchangi jinsiy belgisiga ko‘ra qanday hayvon?",
+      "options": [
+        "Germafrodit",
+        "Ayrim jinsli, urg‘ochi",
+        "Ayrim jinsli, erkak",
+        "Jinssiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Ko‘payish davrida yomg‘ir chuvalchanglari nima qiladi?",
+      "options": [
+        "Har biri o‘zini o‘zi urug‘lantiradi",
+        "Faqat bitta chuvalchang urug‘lantiradi",
+        "Kurtaklanish yo‘li bilan ko‘payadi",
+        "Ikki chuvalchang bir-birini urug‘lantiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Tuxum qo‘yish davrida chuvalchang belbog‘chasidan nima ajratadi?",
+      "options": [
+        "Hazm shirasi",
+        "Shilimshiq modda",
+        "Zaharli suyuqlik",
+        "Yog‘simon modda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Belbog‘dan ajralgan shilimshiq moddadan nima hosil bo‘ladi?",
+      "options": [
+        "Lichinka",
+        "Finna",
+        "Kurtak",
+        "Pilla"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Chuvalchang har qaysi pillaga nechta tuxum qo‘yadi?",
+      "options": [
+        "1 ta",
+        "50–60 tagacha",
+        "100–200 tagacha",
+        "2–3, ba’zan 6–20 tagacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 48,
+      "question": "Pilla tuproqqa qanday tushadi?",
+      "options": [
+        "Chuvalchang tanasidan sirg‘alib",
+        "Chuvalchang uni ko‘mib qo‘yadi",
+        "Suv oqimi olib ketadi",
+        "Chuvalchang uni yutib yuboradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Pilladagi tuxumlardan yosh chuvalchanglar qancha vaqtdan keyin chiqadi?",
+      "options": [
+        "Bir kundan keyin",
+        "Uch kundan keyin",
+        "Bir oydan keyin",
+        "Bir yildan keyin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Yomg‘ir chuvalchanglari qancha yashaydi?",
+      "options": [
+        "Bir necha kun",
+        "Bir necha yil",
+        "Bir necha soat",
+        "Faqat bir mavsum"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Yomg‘ir chuvalchangi tiklanish (regeneratsiya) xususiyati bo‘yicha qaysi hayvonlarga o‘xshaydi?",
+      "options": [
+        "Jigar qurti va exinokokkka",
+        "Askarida va rishtaga",
+        "Gidra va oq planariyaga",
+        "Qoramol tasmasimon chuvalchangiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Yomg‘ir chuvalchangi tanasi uzilib qolsa, nima sodir bo‘ladi?",
+      "options": [
+        "Ikkala qism ham halok bo‘ladi",
+        "Faqat oldingi qismi tiriladi",
+        "Undan yangi chuvalchanglar hosil bo‘ladi",
+        "Qismlar o‘zaro qayta qo‘shiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Quyidagilardan qaysi biri yomg‘ir chuvalchangiga xos EMAS?",
+      "options": [
+        "Terisi ostida tuk o‘rniga xitinli qobig‘i bor",
+        "Germafrodit",
+        "Teri-muskul xaltasi mavjud",
+        "Tanasi halqasimon bo‘g‘imlarga bo‘lingan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Quyidagilardan qaysi biri teri-muskul xaltasi tarkibiga kirmaydi?",
+      "options": [
+        "Tashqi epiteliy",
+        "Halqasimon muskullar",
+        "Bo‘ylama muskullar",
+        "Nerv tugunlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Quyidagilardan qaysi biri yomg‘ir chuvalchangining nerv sistemasi tarkibiga kirmaydi?",
+      "options": [
+        "Yurak",
+        "Halqum usti nerv tuguni",
+        "Halqa nerv tolalari",
+        "Qorin nerv zanjiri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Quyidagi muskullardan qaysi birining qisqarishi chuvalchang tanasini cho‘zadi va ingichkalashtiradi?",
+      "options": [
+        "Bo‘ylama muskullar",
+        "Belbog‘dagi muskullar",
+        "Oldingi qismdagi halqasimon muskullar",
+        "Tukdagi muskullar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Chuvalchang terisining doim nam turishini nima ta’minlaydi?",
+      "options": [
+        "Shilimshiq modda tuxumlarni urug‘lantiradi",
+        "Shilimshiq modda nervlarni himoyalaydi",
+        "Shilimshiq modda terini doim namlab turadi",
+        "Shilimshiq modda belbog‘ni hosil qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Chuvalchang tuzilishidagi qismlarni ularning vazifasi bilan moslashtiring:\n1. Tuklar\n2. Teridagi shilimshiq modda\n3. Belbog‘cha\n4. Ko‘ndalang to‘siqlar\n\na) tuxum qo‘yish davrida pilla hosil qiluvchi shilimshiq moddani ajratadi\nb) terini doim namlab turadi\nc) harakatlanayotganda tayanch vazifasini bajaradi\nd) tana bo‘shlig‘ini alohida bo‘lmalarga ajratadi",
+      "options": [
+        "1-b, 2-c, 3-a, 4-d",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-c, 2-b, 3-d, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "Tana devori qatlamlarini ularning joylashuvi bilan moslashtiring:\n1. Tashqi qavat\n2. Teri ostidagi qavat\n3. Muskullar ostidagi qavat\n4. Tana bo‘shlig‘i\n\na) bir qavat epiteliy hujayralaridan iborat yupqa teri\nb) ichki organlar joylashgan suyuqlik bilan to‘lgan bo‘shliq\nc) halqasimon va bo‘ylama muskullar\nd) tana bo‘shlig‘ini o‘rab turuvchi ichki epiteliy",
+      "options": [
+        "1-a, 2-c, 3-b, 4-d",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-a, 2-d, 3-c, 4-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "Nerv sistemasi qismlarini ularning joylashuvi yoki vazifasi bilan moslashtiring:\n1. Halqum usti va halqum osti nerv tugunlari\n2. Halqa nerv tolalari\n3. Qorin nerv zanjiri\n4. Kichikroq nerv tugunlari\n\na) qorin bo‘ylab ketadi va halqum osti tuguni bilan tutashgan\nb) har bir tana bo‘g‘ini to‘g‘risida bittadan joylashgan\nc) halqumni ikki tomondan aylanib o‘tib, tugunlarni birlashtiradi\nd) tananing oldingi qismida joylashgan yirik tugunlar",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-d, 2-c, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Yomg‘ir chuvalchangiga oid raqamlarni tegishli ma’lumot bilan moslashtiring:\n1. Tana uzunligi\n2. Har bir tana bo‘g‘imidagi tuklar\n3. Har qaysi pillaga qo‘yiladigan tuxum soni\n4. Tuxumdan yosh chuvalchang chiqish muddati\n\na) to‘rt juft\nb) 2–3, ba’zan 6–20 tagacha\nc) bir oydan keyin\nd) 8–10 sm",
+      "options": [
+        "1-d, 2-a, 3-b, 4-c",
+        "1-a, 2-d, 3-b, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-a, 3-d, 4-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Harakatlanishdagi ishtirokchilarni ularning vazifasi bilan moslashtiring:\n1. Oldingi qismdagi halqasimon muskullar qisqarsa\n2. Bo‘ylama muskullar qisqarsa\n3. Tuklar\n4. Teri ustidagi shilimshiq parda\n\na) siljishni yengillashtiradi\nb) harakat paytida tayanch bo‘ladi\nc) tana cho‘ziladi va ingichkalashadi\nd) oldingi qism yo‘g‘onlashib, tuproq zarralari suriladi",
+      "options": [
+        "1-c, 2-d, 3-b, 4-a",
+        "1-a, 2-d, 3-b, 4-c",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Sezgi va reflekslarga oid tushunchalarni mazmuni bilan moslashtiring:\n1. Maxsus sezgi organlari\n2. Ta’sirlarni sezish vositasi\n3. Sezadigan ta’sirlar\n4. Reflekslarning xarakteri\n\na) terisida joylashgan nerv tolalari\nb) ancha murakkab va xilma-xil\nc) yorug‘lik, harorat, kimyoviy va mexanik ta’sirlar\nd) bo‘lmaydi",
+      "options": [
+        "1-d, 2-a, 3-b, 4-c",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Ko‘payish bosqichlarini mazmuni bilan moslashtiring:\n1. Ko‘payish davrida\n2. Belbog‘chadan ajraladigan shilimshiq modda\n3. Tayyor pilla\n4. Pilladagi tuxumlar\n\na) pilla hosil qiladi\nb) ikki chuvalchang bir-birini urug‘lantiradi\nc) chuvalchang tanasidan sirg‘alib tuproqqa tushadi\nd) bir oydan keyin yosh chuvalchanglarga aylanadi",
+      "options": [
+        "1-b, 2-c, 3-a, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Yashash muhitiga oid ma’lumotlarni moslashtiring:\n1. Yomg‘ir chuvalchangi\n2. Kam tuklilar sinfi vakillari\n3. Kuchli jaladan so‘ng\n4. Uchratiladigan joylar\n\na) ba’zan ko‘plab yer yuziga chiqadi\nb) tuproqda va chuchuk suvlarda yashaydi\nc) chirindiga boy nam tuproqlarda yashaydi\nd) ariqlar bo‘yi, beda, sabzavot va poliz ekinlari dalalari",
+      "options": [
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-c, 2-b, 3-d, 4-a",
+        "1-c, 2-b, 3-a, 4-d"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
