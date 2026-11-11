@@ -2,5 +2,732 @@
   "topicId": 23,
   "title": "MEVALAR",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Gulli (yopiq urug'li) o'simliklarda meva qachon hosil bo'ladi?",
+      "options": [
+        "Barg to'kilgandan keyin",
+        "Gullashdan oldin",
+        "Urug'lanishdan keyin",
+        "Kurtak yozilishidan oldin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Meva asosan gulning qaysi qismidan hosil bo'ladi?",
+      "options": [
+        "Changdondan",
+        "Gulkosachadan",
+        "Gulbanddan",
+        "Urug'chi tugunchasidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Mevaning hosil bo'lishida urug'chidan tashqari gulning qaysi qismlari ishtirok etishi mumkin?",
+      "options": [
+        "Faqat changchi ipi",
+        "Gulqo'rg'on, gulo'rni",
+        "Ildiz",
+        "Faqat barg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Mevalar hosil bo'lishiga ko'ra asosan necha xil bo'ladi?",
+      "options": [
+        "Bir xil",
+        "To'rt xil",
+        "Ikki xil",
+        "Uch xil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Qanday meva chin meva deyiladi?",
+      "options": [
+        "Quruq meva",
+        "Tugunchaning o'zidan hosil bo'lgan meva",
+        "Tugunchadan tashqari gulning boshqa qismlari ham ishtirok etgan meva",
+        "Chatnaydigan meva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Qanday meva soxta meva deyiladi?",
+      "options": [
+        "Danakli meva",
+        "Rezavor meva",
+        "Shakllanishida tugunchadan tashqari gulning boshqa qismlari ham ishtirok etgan meva",
+        "Faqat tugunchadan hosil bo'lgan meva"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Chin mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Olma, nok, behi",
+        "Behi, gilos, olma",
+        "Olma, o'rik, nok",
+        "O'rik, olcha, shaftoli, olxo'ri, gilos"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Soxta mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Gilos, olma, o'rik",
+        "Olma, nok, behi",
+        "Shaftoli, olxo'ri",
+        "O'rik, olcha, gilos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Mevaning vazifalari qaysi javobda to'g'ri?",
+      "options": [
+        "Fotosintez qiladi",
+        "Suv bug'latadi",
+        "Urug'ni pishguncha himoyalaydi va tarqalishiga yordam beradi",
+        "Tuproqdan suv shimadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Qanday mevalar ho'l meva deyiladi?",
+      "options": [
+        "Oraliq qismi yupqa, etsiz, quruq bo'lsa",
+        "Qanotchali bo'lsa",
+        "Pishgach chatnasa",
+        "Oraliq qismi seret va qalin bo'lsa"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Qanday mevalar quruq meva deyiladi?",
+      "options": [
+        "Ko'p urug'li rezavor bo'lsa",
+        "Oraliq qismi yupqa, etsiz, quruq bo'lsa",
+        "Oraliq qismi seret va qalin bo'lsa",
+        "Danakli bo'lsa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Ho'l mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Mosh, o'rik, bug'doy",
+        "No'xat, mosh, loviya",
+        "Bug'doy, makkajo'xori",
+        "O'rik, shaftoli, olcha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Quruq mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Qovun, tarvuz, bodring",
+        "Uzum, pomidor, qoraqat",
+        "No'xat, mosh, loviya, bug'doy, makkajo'xori",
+        "O'rik, shaftoli, olcha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Ko'p urug'li ho'l mevalar qanday ataladi?",
+      "options": [
+        "Danakli mevalar",
+        "Dukkak mevalar",
+        "Rezavor mevalar",
+        "Don mevalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Rezavor mevalar qaysi qatorda berilgan?",
+      "options": [
+        "O'rik, olxo'ri, olcha",
+        "Olma, nok, behi",
+        "Qovoq, tarvuz, qovun",
+        "Uzum, pomidor, qoraqat, ituzum"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Uzum mevasi qaysi guruhga kiradi?",
+      "options": [
+        "Rezavor meva",
+        "Danakli meva",
+        "Qovoq meva",
+        "Olma meva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Qovoq mevalar rezavor mevalardan nimasi bilan farq qiladi?",
+      "options": [
+        "Eti qalinroq va usti qattiq po'st bilan o'ralgan",
+        "Qanotchali",
+        "Danagi qattiq",
+        "Quruq va chatnaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Qovoq mevalarga qaysi qatordagi o'simliklar kiradi?",
+      "options": [
+        "Olma, nok, behi",
+        "Qovoq, tarvuz, qovun, handalak, tomoshaqovoq, bodring",
+        "Uzum, pomidor, qoraqat",
+        "O'rik, olcha, gilos"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Bodring mevasi qaysi guruhga kiradi?",
+      "options": [
+        "Dukkak meva",
+        "Qovoq meva",
+        "Danakli meva",
+        "Rezavor meva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Danakli mevalarning belgisi qaysi javobda to'g'ri?",
+      "options": [
+        "Qanotchali, shamolda uchadi",
+        "Ko'p urug'li, eti yumshoq",
+        "Quruq, pishgach chatnaydi",
+        "Qattiq danagi, sersuv eti va danak ichida mag'zi bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Danakli meva danagi ichida odatda nechta mag'iz bo'ladi?",
+      "options": [
+        "Bittadan (ba'zan ikkitadan)",
+        "Doimo uchta",
+        "Ko'p",
+        "Mag'iz bo'lmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Danakli mevalar qaysi qatorda berilgan?",
+      "options": [
+        "Olma, nok, behi",
+        "O'rik, olxo'ri, olcha, gilos",
+        "Tarvuz, qovun",
+        "Uzum, pomidor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Danakli mevalar nimalarga boy bo'ladi?",
+      "options": [
+        "Kauchukka",
+        "Faqat kraxmalga",
+        "Faqat suberinga",
+        "Foydali moddalar va darmondorilarga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Olma, nok, behi mevasi qanday ataladi?",
+      "options": [
+        "Rezavor meva",
+        "Olma meva",
+        "Don meva",
+        "Danakli meva"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Quruq mevalar qanday turlarga bo'linadi?",
+      "options": [
+        "Danakli va rezavor",
+        "Chatnaydigan va chatnamaydigan",
+        "Chin va soxta",
+        "Ho'l va qovoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Chatnamaydigan mevalarga qaysi meva kiradi?",
+      "options": [
+        "Qo'zoq meva",
+        "Dukkak meva",
+        "Ko'sak meva",
+        "Bir urug'li don meva"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Don mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Bug'doy, arpa, suli, makkajo'xori",
+        "Mosh, loviya, no'xat",
+        "G'o'za, lola, boychechak",
+        "Karam, turp, rediska"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Chatnaydigan mevalarga qaysilar kiradi?",
+      "options": [
+        "Qo'zoq, qo'zoqcha, dukkak, ko'sak",
+        "Don, danakli, rezavor",
+        "Olma meva, qovoq meva",
+        "Qanotchali, don"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Chatnaydigan mevalar pishgach qanday ochiladi?",
+      "options": [
+        "Bandidan",
+        "Danagidan",
+        "Ochilmaydi",
+        "Chokidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Ko'sak meva nechta mevabargdan tashkil topgan?",
+      "options": [
+        "Bitta",
+        "Bir nechta",
+        "Ikkita",
+        "Mevabargsiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Ko'p urug'li ko'sak mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Zarang, qayrag'och, shumtol",
+        "No'xat, mosh, loviya",
+        "Karam, qurttana, turp",
+        "G'o'za, lola, bangidevona, chuchmoma, boychechak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "G'o'za mevasi qanday meva?",
+      "options": [
+        "Ko'sak",
+        "Qo'zoq",
+        "Dukkak",
+        "Don"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Lola mevasi qanday meva?",
+      "options": [
+        "Rezavor",
+        "Dukkak",
+        "Ko'sak",
+        "Qo'zoq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Dukkak mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Karam, qurttana, rediska",
+        "Bug'doy, arpa, suli",
+        "No'xat, mosh, loviya, burchoq, oq akatsiya",
+        "G'o'za, lola, mingdevona"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Dukkak meva nechta mevabargdan hosil bo'ladi?",
+      "options": [
+        "Ikkita",
+        "Bir nechta",
+        "Bitta",
+        "Uchta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Dukkak meva pishgach qanday ochiladi?",
+      "options": [
+        "Ikki pallaga ajralib, o'rtada to'siq qoladi",
+        "Ochilmaydi",
+        "Mevapallasi yon tomonidagi chokidan",
+        "Uchidan teshik ochiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Dukkak mevada urug'lar nimaga birikib turadi?",
+      "options": [
+        "Mevapallaga",
+        "Danakka",
+        "Yupqa to'siqqa",
+        "Tuklarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Oq akatsiya mevasi qanday meva?",
+      "options": [
+        "Ko'sak",
+        "Qo'zoq",
+        "Qanotchali",
+        "Dukkak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Qo'zoq mevali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Karam, qurttana, rediska, turp",
+        "No'xat, mosh, loviya",
+        "G'o'za, lola",
+        "Zarang, shumtol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Qo'zoq meva nechta mevabargdan hosil bo'ladi?",
+      "options": [
+        "Ikkita",
+        "Bir nechta",
+        "Beshta",
+        "Bitta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Qo'zoq meva pishgach necha pallaga ajraladi?",
+      "options": [
+        "Ikkita",
+        "Uchta",
+        "Bitta",
+        "Ajralmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Qo'zoq mevada urug'lar nimaga birikadi?",
+      "options": [
+        "Tuklarga",
+        "Danakka",
+        "Pallalar orasidagi yupqa to'siqqa",
+        "Mevapallaga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Qo'zoqcha meva qo'zoq mevadan nimasi bilan farq qiladi?",
+      "options": [
+        "Chatnamaydi",
+        "Ho'l bo'ladi",
+        "Bo'yi kaltaroq bo'ladi",
+        "Bitta mevabargdan hosil bo'ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Qanotchali meva qaysi daraxtlarga xos?",
+      "options": [
+        "O'rik, olcha, gilos",
+        "Tol, terak, tut",
+        "Zarang, qayrag'och, shumtol",
+        "Olma, nok, behi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Terak mevasi qanday tarqaladi?",
+      "options": [
+        "Bir tutam tuklari yordamida uchib",
+        "Chatnab otilib",
+        "Suvda oqib",
+        "Qanotchalari yordamida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Terakning qaysi tuplari mevasi bahorda paxtaga o'ralgandek ko'rinadi?",
+      "options": [
+        "Barcha tuplari",
+        "Changchi tuplari",
+        "Yosh nihollari",
+        "Urug'chi tuplari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Mevalar birinchi navbatda nima uchun kerak?",
+      "options": [
+        "O'simliklarning ko'payishi, tarqalishi va nasl qoldirishi uchun",
+        "Faqat odamlar ovqatlanishi uchun",
+        "Faqat bezak uchun",
+        "Faqat tuproqni boyitish uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Yerga to'kilib chirigan mevalar tabiatda qanday ahamiyatga ega?",
+      "options": [
+        "Ahamiyati yo'q",
+        "Yerni organik moddalarga boyitadi",
+        "Yerni qotiradi",
+        "Yerni sho'rlantiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Mevalardan olinadigan moylar qaysi sohalarda ishlatiladi?",
+      "options": [
+        "Oziq-ovqat, texnika, og'ir sanoat, atir-upa",
+        "Faqat tibbiyotda",
+        "Faqat qurilishda",
+        "Ishlatilmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Mevasidan dori-darmon tayyorlanadigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Marmarak, zubturum, na'matak",
+        "Bug'doy, mosh, tariq",
+        "Olma, yong'oq, o'rik",
+        "Zira, alqor, kashnich"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Mevasidan oziq-ovqat sifatida foydalaniladigan o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Bangidevona, mingdevona",
+        "Zarang, shumtol",
+        "Marmarak, zubturum, na'matak",
+        "Olma, yong'oq, uzum, tariq, qo'noq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 52,
+      "question": "Kundalik nonimiz nimadan tayyorlanadi?",
+      "options": [
+        "Makkajo'xori unidan",
+        "Arpa unidan",
+        "Suli unidan",
+        "Bug'doy unidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Yog' qaysi mevalardan olinadi?",
+      "options": [
+        "Bug'doy, arpa, suli",
+        "G'o'za chigiti, kungaboqar pistasi, zaytun mag'zi",
+        "Uzum, pomidor, qoraqat",
+        "O'rik danagi, olma, nok"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "O'zbekistonda eng ko'p tarqalgan ziravorlar qaysi qatorda berilgan?",
+      "options": [
+        "Bug'doy, mosh, tariq",
+        "Olma, nok, behi",
+        "Marmarak, zubturum, na'matak",
+        "Zira, alqor, kashnich, sedana, murch"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Moslang: 1) chin meva, 2) soxta meva; a) olxo'ri, b) behi, c) gilos, d) nok.",
+      "options": [
+        "1 – b, d; 2 – a, c",
+        "1 – a, b; 2 – c, d",
+        "1 – a, d; 2 – b, c",
+        "1 – a, c; 2 – b, d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Moslang: 1) dukkak, 2) qo'zoq, 3) ko'sak, 4) don; a) suli, b) burchoq, c) mingdevona, d) qurttana.",
+      "options": [
+        "1b, 2c, 3d, 4a",
+        "1a, 2d, 3c, 4b",
+        "1d, 2b, 3c, 4a",
+        "1b, 2d, 3c, 4a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Moslang: 1) rezavor, 2) qovoq meva, 3) danakli; a) handalak, b) olxo'ri, c) qoraqat.",
+      "options": [
+        "1b, 2a, 3c",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a",
+        "1c, 2a, 3b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Moslang: 1) dukkak, 2) qo'zoq; a) bitta mevabargdan, b) ikkita mevabargdan, c) urug'lar mevapallaga birikadi, d) urug'lar yupqa to'siqqa birikadi.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, c; 2 – a, d",
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "O'rik mevasi qaysi guruhlarga kiradi?",
+      "options": [
+        "Chin, ho'l, danakli meva",
+        "Soxta, ho'l, olma meva",
+        "Soxta, quruq, dukkak meva",
+        "Chin, quruq, don meva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Olma mevasi qaysi guruhlarga kiradi?",
+      "options": [
+        "Chin meva, danakli meva",
+        "Chin meva, rezavor meva",
+        "Soxta meva, olma meva",
+        "Quruq meva, ko'sak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Ortiqchasini toping (dukkak meva): no'xat, mosh, loviya, turp.",
+      "options": [
+        "Turp",
+        "Mosh",
+        "No'xat",
+        "Loviya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Ortiqchasini toping (ko'sak meva): g'o'za, lola, boychechak, karam.",
+      "options": [
+        "Lola",
+        "Karam",
+        "G'o'za",
+        "Boychechak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Ortiqchasini toping (rezavor meva): uzum, pomidor, ituzum, tarvuz.",
+      "options": [
+        "Pomidor",
+        "Ituzum",
+        "Tarvuz",
+        "Uzum"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "To'g'ri fikrlarni toping: 1) Meva asosan tugunchadan hosil bo'ladi; 2) Behi soxta meva; 3) Dukkak meva ikkita mevabargdan hosil bo'ladi; 4) Zarang mevasi qanotchali.",
+      "options": [
+        "1, 2, 3",
+        "1, 2, 4",
+        "1, 3",
+        "2, 3, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Noto'g'ri fikrlarni toping: 1) Don meva chatnamaydigan meva; 2) Qo'zoqcha qo'zoqdan uzunroq bo'ladi; 3) Ko'sak meva bir nechta mevabargdan iborat; 4) Shaftoli quruq meva.",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "3, 4",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Danakli mevalar darmondorilarga boy",
+        "Terak mevasi qanotchalari yordamida tarqaladi",
+        "Rediska qo'zoq mevali o'simlik",
+        "Qovoq mevaning usti qattiq po'st bilan o'ralgan"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
