@@ -2,5 +2,501 @@
   "topicId": 9,
   "title": "Yassi chuvalchanglar tipi. kiprikli chuvalchanglar sinfi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kiprikli chuvalchanglar sinfi vakillarining gavda shakli va tana qoplami qanday tuzilgan?",
+      "options": [
+        "Silindrsimon shaklda, qattiq xitin qobiq bilan qoplangan",
+        "Bargsimon shaklda bo'lib, mayda kipriklar bilan qoplangan",
+        "Ip shaklida, kutikula bilan qoplangan",
+        "Disksimon shaklda, ohakli plastinkalar bilan qoplangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Kiprikli chuvalchanglarning tabiiy yashash muhiti qayerlar hisoblanadi?",
+      "options": [
+        "Faqat quruqlikda va qumli cho'llarda",
+        "Dengiz va chuchuk suvlarda erkin yashaydi",
+        "Faqat odam va hayvonlar ichagida parazitlik qiladi",
+        "Faqat tuproqning chuqur chirindi qatlamida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Kiprikli chuvalchanglar sinfining odatda o'rganiladigan tipik vakili qaysi?",
+      "options": [
+        "Jigar qurti",
+        "Oq planariya",
+        "Askarida",
+        "Exinokokk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Oq planariyaning tabiiy yashash muhiti to'g'ri ko'rsatilgan qatorni aniqlang:",
+      "options": [
+        "Sho'r dengizlarning chuqur suv qa'ri",
+        "Daryo va ko'llarning tubi hamda kichikroq soylarning tubidagi tosh, barg va cho'plarning osti",
+        "Baland tog'lardagi muzliklar usti",
+        "O'simliklar ildiz tizimi ichida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Oq planariya tanasining uzunligi va rangi qanday bo'ladi?",
+      "options": [
+        "0,1–0,3 mm, shaffof qizg'ish",
+        "2–3 sm, oqish yoki kulrang tusda",
+        "5–7 mm, yashil tusda",
+        "10–15 sm, qora tusda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Oq planariya tanasining biroz kengaygan oldingi tomoni ikki yonida nimalar joylashgan?",
+      "options": [
+        "Kalta o'simtalarga o'xshash ikkita sezgi paypaslagichlari va ikkita qora nuqta shaklidagi ko'zchalari",
+        "O'ljani tutuvchi ikkita kuchli so'rg'ich va og'iz teshigi",
+        "To'rtta harakatlantiruvchi uzun xivchinlar",
+        "Ikkita chiqaruvchi qisqaruvchi vakuolalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Oq planariya tanasi sirti qanday hujayralar bilan qoplangan?",
+      "options": [
+        "Ko'p qavatli muguz pardali hujayralar bilan",
+        "Bir qavat kiprikli epiteliy hujayralari bilan",
+        "Teri-muskul va otuvchi hujayralar bilan",
+        "Pushti rangli qobiqsiz oraliq hujayralar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Oq planariya qanday mexanizm yordamida harakat qiladi?",
+      "options": [
+        "Tovonida umbaloq oshib sakraydi",
+        "Kipriklari yordamida sirpanib harakat qiladi",
+        "Reaktiv usulda suv purkab suzadi",
+        "Soxta oyoqlari vositasida emaklaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Oq planariyaga xos tana simmetriyasi qanday nomlanadi va uning mohiyati nimada?",
+      "options": [
+        "Radial simmetriya; tana bir necha teng bo'lakka bo'linadi",
+        "Ikki tomonlama (bilateral) simmetriya; xayolan o'tkazilgan chiziqning ikki tomonida organlar bir xil miqdorda joylashadi",
+        "Asimmetriya; tanada hech qanday mutanosiblik bo'lmaydi",
+        "Spiral simmetriya; a'zolar burama shaklda o'sadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Oq planariyaning og'iz teshigi tanasining qaysi tomonida joylashgan?",
+      "options": [
+        "Oldingi kengaygan uchida",
+        "Qorin tomonida",
+        "Orqa dum qismida",
+        "Yon tomonidagi tarnovsimon chuqurchada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Oq planariyada og'iz teshigi qaysi a'zo bilan tutashgan?",
+      "options": [
+        "Keng qizilo'ngach bilan",
+        "Qisqa halqum bilan",
+        "Tuxumdon pufagi bilan",
+        "Nerv tuguni bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Oq planariya ichagining umumiy shakli va shoxlanishi qanday tuzilgan?",
+      "options": [
+        "To'g'ri nay shaklida, shoxlanmagan",
+        "Uch shoxli; biri oldinga, ikkitasi keyingi tomonga yo'nalgan va ko'p berk yon shoxchalar hosil qilgan",
+        "To'rt shoxli; barchasi qorin tomonga yo'nalgan",
+        "Ikki shoxli; har ikkisi faqat tovon qismiga yo'nalgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Oq planariyaning hazm qilish sistemasini qaysi a'zolar tashkil etadi?",
+      "options": [
+        "Og'iz teshigi, oshqozon, jigar va to'g'ri ichak",
+        "Og'iz teshigi, halqum va ichak",
+        "Sezgi paypaslagichlari, halqum va anal teshigi",
+        "Kiprikli epiteliy, soxta oyoqlar va qisqaruvchi vakuola"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Oq planariyaning hazm qilish sistemasida qaysi qismlar mutlaqo mavjud emas?",
+      "options": [
+        "Halqum va og'iz teshigi",
+        "Orqa ichagi va orqa chiqaruv (anal) teshigi",
+        "Ichakning oldingi shoxi",
+        "Ichakning berk yon shoxchalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Planariyaning oziqlanish xususiyati va ratsioni qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "O'simlikxo'r; mikroskopik suvo'tlar bilan",
+        "Yirtqich; mayda chuvalchanglar, qisqichbaqasimonlar va hasharotlarning lichinkalari bilan",
+        "Parazit; odamning qoni va to'qima suyuqligi bilan",
+        "Saprofit; suv tubidagi chirigan loy bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Oq planariya o'ljasini qanday qilib tutadi va oziqlanadi?",
+      "options": [
+        "Otuvchi tolalari bilan falajlab, paypaslagichida og'ziga olib keladi",
+        "O'ljani tanasi bilan qoplab olib, so'radi",
+        "Soxta oyoqlari bilan o'rab, hujayra ichiga yutadi",
+        "Zaharli naychalari bilan kuydirib halok qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Hazm bo'lgan oziq moddalarining planariya tanasi bo'ylab tarqalishi qaysi tizim orqali ta'minlanadi?",
+      "options": [
+        "Murakkab qon tomirlari tizimi orqali",
+        "Uchi berk juda ko'p ichak shoxchalari orqali",
+        "Nerv tolalari va tugunlari orqali",
+        "G'ovak to'qimadagi ayirish naychalari orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Oq planariyada hazm bo'lmagan oziq qoldiqlari tashqi muhitga qayerdan chiqarib yuboriladi?",
+      "options": [
+        "Maxsus anal teshigi orqali",
+        "Og'iz teshigi orqali",
+        "Ikki yon tomondagi ayirish teshikchalari orqali",
+        "Tananing orqa tomonidagi teshikcha orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Planariyaning ayirish sistemasi tanasining qaysi qismida boshlanadi?",
+      "options": [
+        "Teri sirtidagi kipriklar ostida",
+        "Tanasining g'ovak to'qimasida joylashgan juda ko'p uchi berk naychalarda",
+        "Faqat oldingi nerv tugunlari atrofida",
+        "Tuxumdon va urug'donlar ichida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Oq planariyada moddalar almashinuvining zararli mahsulotlari qanday chiqariladi?",
+      "options": [
+        "Keraksiz mahsulotlar ortiqcha suv bilan birga mayda naychalarga sizib o'tib, ikki yon tomondagi yirik naylar orqali chiqariladi",
+        "Qisqaruvchi vakuolalarda to'planib, galma-galdan otilib chiqadi",
+        "Faqat og'iz teshigi orqali qayt qilinadi",
+        "Kiprikli epiteliy hujayralarining erishi hisobiga yo'qotiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Oq planariyaning nerv sistemasi qanday elementlardan tashkil topgan?",
+      "options": [
+        "Faqat diffuz to'rsimon nerv hujayralaridan",
+        "Tananing oldingi qismidagi 2 ta nerv tuguni, ulardan ketuvchi 2 ta yirik nerv va boshqa nerv tolalari",
+        "Bosh miya, orqa miya va periferik tugunlardan",
+        "Faqat qorin tomonida joylashgan bitta yirik zanjirdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Nerv tugunlaridan chiquvchi ikkita yirik nerv qaysi yo'nalishda boradi?",
+      "options": [
+        "Faqat oldingi sezgi paypaslagichlariga",
+        "Tananing keyingi tomoniga yo'naladi",
+        "Ichakning berk shoxchalari ichiga kiradi",
+        "Faqat qorin tomonidagi og'iz teshigiga keladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Oq planariyaning sezgi organlariga qaysi a'zolar kiradi?",
+      "options": [
+        "Faqat ikkita qora ko'zchalari",
+        "Paypaslagichlari, terisi va ko'zchalari",
+        "Faqat sezuvchi kipriklari va so'rg'ichlari",
+        "Halqumi va ichak shoxlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Oq planariyaga biror narsa tegib ketsa, u qanday refleksiv ta'sirlanish ko'rsatadi?",
+      "options": [
+        "Tanasidan kuydiruvchi suyuqlik purkaydi",
+        "Tanasini birdaniga qisqartirib oladi",
+        "Suv yuzasiga qarab reaktiv sakraydi",
+        "Darhol bo'laklarga ajralib ketadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Oq planariya tanasining oldingi qismida joylashgan urg'ochilik jinsiy organlari nima deb ataladi va nechta?",
+      "options": [
+        "1 ta urug'don",
+        "2 ta tuxumdon",
+        "4 ta pilla kamerasi",
+        "Juda ko'p mayda pufakchalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Oq planariyaning erkaklik jinsiy organlari qanday shaklda va qayerda joylashgan?",
+      "options": [
+        "Oldingi kengaygan qismda bitta loviyasimon urug'don",
+        "Tuxumdonlardan keyinroqda joylashgan pufakka o'xshash urug'donlar",
+        "Tana bo'shlig'i devorida qator bo'lib ketgan kiprikchalar",
+        "Faqat dumi yaqinida bitta yirik kapsula"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Tuxumdonlarda va urug'donlarda nimalar yetiladi?",
+      "options": [
+        "Tuxumdonlarda zigotalar, urug'donlarda pillalar",
+        "Tuxumdonlarda tuxumlar, urug'donlarda urug' hujayralari (spermatozoidlar)",
+        "Tuxumdonlarda spermatozoidlar, urug'donlarda sporalar",
+        "Ikkala organda ham faqat oraliq hujayralar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Planariyada urug'langan tuxumlar qanday saqlanadi va ulardan yosh planariyalar qanday chiqadi?",
+      "options": [
+        "To'g'ridan-to'g'ri suv tubidagi balchiqqa sochiladi",
+        "To'p-to'p bo'lib pilla ichiga qo'yiladi; yosh planariyalar pilla devorini yorib suvga chiqadi",
+        "Ona planariyaning ichak bo'shlig'ida qishlab chiqadi",
+        "Baliqlarning terisiga yopishtirib qo'yiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Bir organizmning o'zida ham tuxum, ham urug' hujayralari rivojlansa, bunday hayvonlar nima deyiladi?",
+      "options": [
+        "Aflagellata",
+        "Germafrodit",
+        "Geterotrof",
+        "Gomozigota"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Oq planariyaning regeneratsiyasi qanday noqulay sharoitlarda yaqqol namoyon bo'ladi?",
+      "options": [
+        "Harorat keskin pasayganda va oziq ko'payganda",
+        "Harorat oshganda va kislorod yetishmaganda",
+        "Suv sho'rligi me'yorida bo'lganida",
+        "Faqat bahor oylarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Noqulay omillar ta'sirida mayda bo'laklarga bo'linib ketgan planariyaning keyingi taqdiri qanday kechadi?",
+      "options": [
+        "Barcha bo'laklari butunlay chirib nobud bo'ladi",
+        "Qulay sharoit tug'ilganda har bir bo'lakdan yana alohida mustaqil organizm rivojlanadi",
+        "Bo'laklar yana birlashib bitta yirik planariyani hosil qiladi",
+        "Faqat bosh qismi qolib, boshqa qismlari yo'qoladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Oq planariyaning ko'zchalari qayerda va qanday ko'rinishda joylashgan?",
+      "options": [
+        "Qorin tomonida, yulduzsimon dog'lar shaklida",
+        "Oldingi tomoni ikki yonida, ikkita qora nuqta shaklida",
+        "Halqum atrofida, oqish pufaklar ko'rinishida",
+        "Tananing orqa dum qismida, bitta rangli doira holida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Moslashtiring (Organ — Vazifasi):\n1. Kiprikli epiteliy; 2. Sezgi paypaslagichlari va ko'zchalar; 3. Uchi berk naychalar to'ri; 4. Halqum va 3 shoxli ichak\na) Hazm qilish; b) Harakatlanish; c) Ayirish; d) Sezish",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Moslashtiring (Tizim — Tarkibiy qismlari):\n1. Ayirish sistemasi; 2. Nerv sistemasi; 3. Jinsiy sistema\na) 2 ta nerv tuguni va ulardan chiquvchi 2 ta yirik nerv tolalari;\nb) G'ovak to'qimadagi uchi berk mayda naychalar va 2 ta yirik yon nay;\nc) 2 ta tuxumdon va pufaksimon urug'donlar",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Moslashtiring (Jinsiy a'zo — Yetiladigan mahsulot):\n1. Tuxumdon; 2. Urug'don; 3. Pilla\na) Spermatozoidlar (urug' hujayralari);\nb) Urug'langan tuxumlar to'plami;\nc) Tuxum hujayralari",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Moslashtiring (Tana tomoni — Joylashgan a'zolar):\n1. Tana oldingi kengaygan qismi;\n2. Qorin tomoni;\n3. Tana ikki yoni\na) Og'iz teshigi va halqum;\nb) 2 ta ko'zcha, 2 ta sezgi paypaslagichi, 2 ta nerv tuguni;\nc) Yirik ayirish naychalari",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Tushirib qoldirilgan atamalarni moslashtiring:\n«Oq planariyaning tana organlari bitta o'q chizig'ining ikki tomonida teng joylashgani sababli unda (...) simmetriya kuzatiladi, tanasida ham erkaklik, ham urg'ochilik organlari bo'lgani uchun u (...) hayvon hisoblanadi.»",
+      "options": [
+        "nurli; geterotrof",
+        "ikki tomonlama; germafrodit",
+        "spiral; parazit",
+        "radial; autotrof"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Tushirib qoldirilgan ketma-ketlikni to'g'ri moslashtiring:\n«Oziq qabul qilish: Og'iz teshigi -> (...) -> Uch shoxli ichak -> Berk yon shoxchalar -> (...) orqali chiqarish»",
+      "options": [
+        "halqum; og'iz teshigi",
+        "qizilo'ngach; anal teshik",
+        "oshqozon; ayirish nayi",
+        "jigar; pilla devori"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Tushirib qoldirilgan miqdorlarni to'g'ri moslashtiring:\n«Oq planariya tanasining uzunligi (...) sm bo'lib, uning ichagi (...) ta asosiy shoxga bo'linadi, ulardan bittasi (...) tomonga, ikkitasi (...) tomonga yo'nalgan.»",
+      "options": [
+        "5–7 sm; 2 ta; qorin; orqa",
+        "2–3 sm; 3 ta; oldingi; keyingi",
+        "10–12 sm; 4 ta; o'ng; chap",
+        "0,1–0,3 sm; 1 ta; tovon; og'iz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Moslashtiring (Hayvon turi — Tana simmetriyasi turi):\n1. Gidra va meduza; 2. Oq planariya; 3. Oddiy amyoba\na) Ikki tomonlama (bilateral) simmetriya;\nb) Radial (nurli) simmetriya;\nc) Simmetriyasiz (shaklsiz)",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Nima sababdan oq planariya qorin tomonidagi og'iz teshigi orqali nafaqat oziqlanadi, balki oziq qoldiqlarini ham chiqaradi?",
+      "options": [
+        "Chunki uning ichagi halqum bilan tutashmagan",
+        "Chunki uning orqa ichagi va anal chiqaruv teshigi bo'lmaydi",
+        "Chunki og'iz teshigi ayirish naychalariga ulanadi",
+        "Chunki u oziqni faqat hujayra tashqarisida hazm qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Oq planariyadagi ayirish naychalarining o'ziga xos biologik tuzilishi qaysi?",
+      "options": [
+        "Tashqi tomonga ochiluvchi ochiq voronkasimon shaklda",
+        "G'ovak to'qimada uchi berk bo'lib, suyuqlik uning ichiga sizib o'tadi",
+        "Faqat nerv tugunlarini o'rab turuvchi halqa shaklida",
+        "Uch shoxli ichak devoriga tutashgan spiralsimon naylar holida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Planariyada nerv impulsining uzatilishi va ta'sirga reaksiya qanday kechadi?",
+      "options": [
+        "Terisi orqali sezadi -> nerv tugunlari va tolalari orqali tana mushaklariga o'tadi -> tana birdan qisqaradi",
+        "Ko'zlari orqali sezadi -> qisqaruvchi vakuolani ishga tushiradi -> suv purkaydi",
+        "Faqat paypaslagich sezadi -> og'iz teshigi ochiladi -> otuvchi tola otiladi",
+        "G'ovak to'qima orqali qon tomirlariga signal boradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Planariyaning pillasi va undan yangi avlodning chiqishi to'g'risida qaysi fikr to'g'ri?",
+      "options": [
+        "Pilladan qanotli lichinkalar chiqib havoga uchadi",
+        "Urug'langan tuxumlar to'p-to'p bo'lib pilla ichiga qo'yiladi, yosh planariyalar pilla devorini yorib chiqadi",
+        "Pilla faqat qishda muzlab erigach ochiladi",
+        "Har bir pilladan faqat bitta yirik germafrodit tuxumdon chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Oq planariya tanasidagi to'qima va organlarning o'zaro bog'liqligi haqida qaysi xulosa to'g'ri?",
+      "options": [
+        "Ayirish naylari hazm sistemasiga quyilib, oziqni hazm qiladi",
+        "Ichak shoxlari juda ko'p uchi berk yon shoxchalar hosil qilib, hazm bo'lgan moddalarni maxsus qon tomirlarisiz butun tanaga tarqatadi",
+        "Nerv sistemasi faqat jinsiy organlar faoliyatini boshqaradi",
+        "Kiprikli epiteliy orqali oziq tana ichiga qamrab olinadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
