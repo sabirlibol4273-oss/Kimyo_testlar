@@ -107,6 +107,12 @@
       "title": "BARGLARNING ICHKI TUZILISHI",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 19,
+      "title": "SHAKLI 0‘ZGARGAN NOVDALAR",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
