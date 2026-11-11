@@ -2,5 +2,556 @@
   "topicId": 10,
   "title": "Yassi chuvalchanglar tipi: so‘rg‘ichlilar va tasmasimon chuvalchanglar sinflari",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ta'rifga mos javobni toping: «Tanasi qalin kutikula bilan qoplangan, voyaga yetgan davrida umurtqali hayvonlarda, lichinkasi esa umurtqasiz hayvonlarda parazitlik qiluvchi bargsimon shakldagi yassi chuvalchanglar sinfi».",
+      "options": [
+        "Kiprikli chuvalchanglar",
+        "So'rg'ichlilar",
+        "Tasmasimon chuvalchanglar",
+        "Xalqali chuvalchanglar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "So'rg'ichlilar sinfining odatda o'rganiladigan tipik vakili qaysi?",
+      "options": [
+        "Oq planariya",
+        "Jigar qurti",
+        "Qoramol tasmasimon chuvalchangi",
+        "Exinokokk"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Jigar qurti voyaga yetgan davrida qaysi sutemizuvchilarning jigarida parazitlik qiladi?",
+      "options": [
+        "Qoramol, qo'y, echki, cho'chqa, tuya va boshqa yirik sutemizuvchilar",
+        "Faqat quyon va kemiruvchilar",
+        "Faqat suvda suzuvchi qushlar",
+        "Faqat baliqlar va sudralib yuruvchilar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Jigar qurtining tana uzunligi va tashqi shakli qanday?",
+      "options": [
+        "0,1–0,3 mm, poyabzal osti shaklida",
+        "3–4 sm, bargsimon shaklda",
+        "8–10 m, tasmasimon shaklda",
+        "5–7 mm, silindrsimon shaklda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Jigar qurtining so'rg'ichlari va ularning joylashuvi to'g'ri ko'rsatilgan javobni aniqlang:",
+      "options": [
+        "Boshida to'rtta doirasimon so'rg'ich",
+        "Tanasining oldingi uchida og'iz so'rg'ichi, undan sal keyinroqda esa qorin so'rg'ichi",
+        "Tovonida bitta yopishuvchi so'rg'ich",
+        "Qorin tomoni markazida ikkita yirik va bitta orqa so'rg'ich"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Jigar qurtining so'rg'ichlari qanday biologik vazifani bajaradi?",
+      "options": [
+        "O'ljani falajlash va harakatlantirish",
+        "Jigarning o't yo'llari devoriga mustahkam yopishib turish",
+        "Tuxumlarni tashqi muhitga haydash",
+        "Kutikula orqali nafas olishni ta'minlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Farqni toping: Oq planariya va jigar qurtining hazm qilish sistemasidagi asosiy tafovut nimada?",
+      "options": [
+        "Planariyada og'iz yo'q, jigar qurtida 3 ta og'iz bor",
+        "Planariyada ichak 3 shoxli, jigar qurtida esa ichak 2 shoxli bo'lib, ular yana ko'p yon shoxlarga ajraladi",
+        "Planariyaning ichagi to'g'ri nay, jigar qurtida esa orqa ichak mavjud",
+        "Planariya qon so'radi, jigar qurti esa o'ljani butunligicha yutadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Jigar qurti organizmda qanday ozuqa bilan oziqlanadi?",
+      "options": [
+        "Ichakdagi yarim hazm bo'lgan ozuqa bo'tqasi bilan",
+        "O't suyuqligi va qonni so'rib",
+        "Jigar to'qimasidagi ohakli tuzlar bilan",
+        "Bakteriyalar va mikroskopik suvo'tlar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Jigar qurtining urug'langan tuxumlari tashqi muhitga qanday biologik yo'l bilan chiqariladi?",
+      "options": [
+        "To'g'ridan-to'g'ri jigar devorini teshib o'tadi",
+        "O't yo'llaridan ichakka va undan axlat bilan tashqi muhitga",
+        "Qon tomirlari orqali buyraklarga va siydik bilan tashqariga",
+        "Og'iz so'rg'ichi orqali nafas yo'llariga qaytish yo'li bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Jigar qurtining tuxumi suvga tushganda undan qanday lichinka chiqadi?",
+      "options": [
+        "Qalin qobiqli dumli lichinka",
+        "Juda mayda kiprikli lichinka",
+        "Pufaksimon finna lichinkasi",
+        "Soxta oyoqli yassi lichinka"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Jigar qurtining kiprikli lichinkasi suv shillig'i tanasiga kirgach qanday o'zgarish sodir bo'ladi?",
+      "options": [
+        "Darhol finnaga aylanadi",
+        "Kiprikchalarini tashlab, yangi lichinkalarni hosil qiladi",
+        "Yelimsimon qobiq hosil qilib qishlab qoladi",
+        "Shilliqurtni yeb tugatib, voyaga yetgan qurtga aylanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Suv shillig'i tanasidan suvga chiqqan jigar qurti lichinkasida qanday yangi tuzilma paydo bo'ladi?",
+      "options": [
+        "Og'iz va qorin so'rg'ichi",
+        "Dum",
+        "Kiprikli qoplama",
+        "Ohakli pilla"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Jigar qurtining sista davriga o'tishi qayerda va qanday sodir bo'ladi?",
+      "options": [
+        "Suv shillig'ining o'pka bo'shlig'ida",
+        "Suvda dumini tashlab yumaloqlanadi va qalin qobiqqa o'raladi",
+        "Qoramollarning muskullarida yupqa pardaga o'ralib",
+        "Qon plazmasida oqsil qatlam bilan qoplanib"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Hayvonlar (qoramol, qo'y va b.) jigar qurtini qanday yo'l bilan yuqtirib oladi?",
+      "options": [
+        "Chivin yoki so'na chaqqanda",
+        "Suv yoki oziq (o't-o'lan) bilan sistani yutib yuborishi natijasida",
+        "Lichinkalar teri orqali teshib kirishi orqali",
+        "Kiprikli lichinka bilan to'g'ridan-to'g'ri nafas olganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Sista hayvon ichagiga tushgandan so'ng parazitning jigarga yetib borish mexanizmi qaysi javobda to'g'ri?",
+      "options": [
+        "Sistadan chiqqan lichinka to'g'ridan-to'g'ri qorin bo'shlig'i orqali o'rmalab boradi",
+        "Sistadan lichinka chiqadi, qon orqali jigarga boradi va o't yo'llariga yopishadi",
+        "Ichak devoriga yopishib, o'sha yerda qoladi",
+        "Sista shaklida o't yo'llariga tushib, keyin lichinka hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Ta'rifga mos javobni toping: «Parazitning voyaga yetgan davri yashaydigan organizm (...) deyiladi, uning lichinkalik davri rivojlanadigan organizm esa (...) deyiladi».",
+      "options": [
+        "oraliq xo'jayin; asosiy xo'jayin",
+        "asosiy xo'jayin; oraliq xo'jayin",
+        "simbiont; kommensal",
+        "yirtqich; o'lja"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Jigar qurtining asosiy va oraliq xo'jayinlari to'g'ri ko'rsatilgan qatorni aniqlang:",
+      "options": [
+        "Asosiy — suv shillig'i; Oraliq — qoramol va odam",
+        "Asosiy — odam va sutemizuvchi hayvonlar; Oraliq — suv shillig'i",
+        "Asosiy — qoramol; Oraliq — bezgak chivini",
+        "Asosiy — nozema; Oraliq — asalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Ta'rifga mos javobni toping: «Tanasi kutikula bilan qoplangan, shakli uzun yassi tasmaga o'xshash, hazm qilish sistemasi butunlay yo'qolgan parazit chuvalchanglar sinfi».",
+      "options": [
+        "Kiprikli chuvalchanglar",
+        "So'rg'ichlilar",
+        "Tasmasimon chuvalchanglar",
+        "Bo'shliqichlilar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Tasmasimon chuvalchanglar sinfining asosiy vakili qaysi?",
+      "options": [
+        "Oq planariya",
+        "Qoramol tasmasimon chuvalchangi",
+        "Jigar qurti",
+        "Askariya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Qoramol tasmasimon chuvalchangi voyaga yetgan davrida va lichinkalik davrida qayerlarda parazitlik qiladi?",
+      "options": [
+        "Voyaga yetgani qoramol o'tida; lichinkasi odam o'pkasida",
+        "Voyaga yetgani odamning ingichka ichagida; lichinkasi qoramol muskuli, jigari va boshqa organlarida",
+        "Voyaga yetgani suv shillig'ida; lichinkasi suv havzalarida",
+        "Voyaga yetgani odam terisida; lichinkasi tuproqda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Qoramol tasmasimon chuvalchangi gavdasining uzunligi qancha bo'ladi?",
+      "options": [
+        "2–3 sm",
+        "3–4 sm",
+        "8–10 m",
+        "200 mm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Qoramol tasmasimon chuvalchangi tanasi qanday asosiy tana bo'limlaridan iborat?",
+      "options": [
+        "Bosh, ko'krak va qorin bo'limlaridan",
+        "Kichkina bosh, ingichka bo'yin va bo'g'imlarga bo'lingan tanadan",
+        "Tovon, tana va paypaslagichlardan",
+        "Bosh-ko'krak va dumsiz tanadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qoramol tasmasimon chuvalchangining boshida yopishish uchun qanday a'zolar bor va ular nechta?",
+      "options": [
+        "2 ta og'iz va qorin so'rg'ichi",
+        "Doira shaklidagi to'rtta so'rg'ich",
+        "Ikkita ilmoq va to'rtta kiprikcha",
+        "Ko'p sonli otuvchi kapsulalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Qoramol tasmasimon chuvalchangi tanasi taxminan nechta bo'g'imdan tashkil topgan?",
+      "options": [
+        "10–20 tagacha",
+        "100 tagacha",
+        "1 000 tagacha",
+        "50 tagacha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Farqni toping: Oq planariya, jigar qurti va qoramol tasmasimon chuvalchangining hazm qilish organlaridagi farq qaysi qatorda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Planariyada ichak yo'q, jigar qurtida 3 shoxli, tasmasimonda anal teshigi bor",
+        "Planariyada 3 shoxli ichak, jigar qurtida 2 shoxli ichak bor; tasmasimon chuvalchangda esa hazm organlari mutlaqo rivojlanmagan",
+        "Har uchala chuvalchangda ham hazm organlari bir xil tuzilgan",
+        "Tasmasimon chuvalchang o't suyuqligini so'radi, jigar qurti oziqni tana yuzasi bilan shimadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Hazm qilish organlari rivojlanmagan qoramol tasmasimon chuvalchangi qanday oziqlanadi?",
+      "options": [
+        "Odam oshqozonidagi ovqatlarni og'iz teshigi bilan yutadi",
+        "Odam ichagida hazm bo'la boshlagan oziqni butun tana yuzasi orqali shimib oladi",
+        "Qon tomirlarini teshib qon so'radi",
+        "Suv shillig'i kabi bakteriyalarni tutib filtrlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Qoramol tasmasimon chuvalchangining har bir bo'g'imida qanday jinsiy organlar joylashgan?",
+      "options": [
+        "Bitta tuxumdon va bitta urug'don",
+        "Bir juft tuxumdon, bitta bachadon va juda ko'p urug'donlar",
+        "Faqat bitta pilla va 2 ta urug'don",
+        "Faqat bachadon, urug'donlar faqat boshida bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Qoramol tasmasimon chuvalchangi tuxumlari tashqi muhitga qanday yo'l bilan tushadi?",
+      "options": [
+        "Bosh qismidagi teshiklar yorilib tuxumlar sochiladi",
+        "Bachadoni tuxumlarga to'lgach, bo'g'imlar tananing keyingi qismidan uzilib, ichak bo'shlig'iga tushadi va axlat bilan chiqadi",
+        "Tuxumlar qon orqali teriga o'tib, teri teshiklaridan to'kiladi",
+        "Har bir bo'g'im alohida-alohida suvga tuxum qo'yadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Tuxumlar qoramol organizmiga qanday yo'l bilan yuqadi?",
+      "options": [
+        "Suvda erkin suzuvchi kiprikli lichinkalarning teriga sanchilishi orqali",
+        "Yem-xashak yoki suv orqali tuxumlarni yutib yuborishi bilan",
+        "Go'shtxo'r hayvonlar tishlaganda",
+        "Najas bilan ifloslangan havoni nafas olganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Qoramol ichagiga tushgan tuxumdan chiqqan lichinkaning keyingi harakat yo'li qaysi?",
+      "options": [
+        "Ichak bo'shlig'ida qolib, darhol 8 metrlik lentaga aylanadi",
+        "Ichak devori orqali qonga o'tadi va qon orqali jigar, muskul va boshqa organlarga borib o'rnashadi",
+        "O't yo'llari orqali to'g'ri o'pkaga o'tadi",
+        "Muskullarni yemirib, tashqariga teshik ochib chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Ta'rifga mos javobni toping: «Lichinkalar organlarda (muskul, jigar) yupqa pardaga o'ralib hosil qilgan, ichi suyuqlik bilan to'lgan pufakcha».",
+      "options": [
+        "Sista",
+        "Finna",
+        "Pilla",
+        "Polip"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Odam qoramol tasmasimon chuvalchangini qanday qilib o'ziga yuqtiradi?",
+      "options": [
+        "Finnali go'shtni yaxshi pishirilmasdan iste'mol qilganda",
+        "Qoramolni silaganida va parvarishlaganida",
+        "Qaynatilmagan pichan ivitmasini ichganda",
+        "Kiprikli lichinkalar suvda suzib yurganda terini teshib kirsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Qoramol tasmasimon chuvalchangining asosiy va oraliq xo'jayinlari to'g'ri ko'rsatilgan javobni aniqlang:",
+      "options": [
+        "Asosiy — qoramol; Oraliq — odam",
+        "Asosiy — odam; Oraliq — qoramollar",
+        "Asosiy — suv shillig'i; Oraliq — qoramol",
+        "Asosiy — it; Oraliq — qo'y"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Yassi chuvalchanglar orasida eng qadimgi hisoblangan ajdod shakl qaysi?",
+      "options": [
+        "Jigar qurti lichinkasi",
+        "Ichaksiz kiprikli chuvalchanglar",
+        "Korall poliplari",
+        "Bo'g'imli tasmasimon chuvalchanglar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Ichaksiz kiprikli chuvalchanglarning tuzilishi qaysi organizmlarning lichinkasiga o'xshash bo'ladi?",
+      "options": [
+        "Bo'shliqichlilarning lichinkasiga",
+        "Bo'g'imoyoqlilarning lichinkasiga",
+        "Qon paraziti sporalilariga",
+        "Yashil evglenaning sistasiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Olimlarning fikricha, so'rg'ichlilar va tasmasimon chuvalchanglar qanday qilib kelib chiqqan?",
+      "options": [
+        "Meduzalarning quruqlikka chiqishi natijasida",
+        "Kiprikli chuvalchanglarning parazit yashashga moslashishi tufayli tuzilishi soddalashib borishidan",
+        "Oddiy amyobaning ko'p hujayraga bo'linishidan",
+        "Aktiniyalarning koloniyalari birlashishidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Farqni toping: Erkin yashovchi oq planariya bilan parazit yashovchi jigar qurti va tasmasimon chuvalchangning tana qoplamidagi asosiy farq nimada?",
+      "options": [
+        "Planariyada qalin kutikula, parazitlarda bir qavatli kiprikli epiteliy",
+        "Planariyada bir qavat kiprikli epiteliy, parazitlarda esa ichki muhitdan saqlovchi qalin kutikula",
+        "Parazitlarda ohak skelet, planariyada yupqa parda mavjud",
+        "Har uchalasida ham qoplama bir xil kiprikli epiteliy bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Farqni toping: Jigar qurtining sistasi va qoramol tasmasimon chuvalchangining finnasi o'rtasidagi to'g'ri farq qaysi?",
+      "options": [
+        "Sista — qoramol muskulida hosil bo'ladi; Finna — ochiq suv havzasida hosil bo'ladi",
+        "Sista — tashqi muhitda (suvda/o'tda) qalin qobiqqa o'raladi; Finna — oraliq xo'jayin (qoramol) a'zolarida yupqa pardaga o'ralgan suyuqlikli pufakcha",
+        "Sista — ko'p bo'g'imli lenta; Finna — kiprikli mikroorganizm",
+        "Ikkalasi ham faqat odam ingichka ichagida paydo bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Moslashtiring (Tur — Sinf):\n1. Oq planariya; 2. Jigar qurti; 3. Qoramol tasmasimon chuvalchangi\na) Tasmasimon chuvalchanglar sinfi;\nb) Kiprikli chuvalchanglar sinfi;\nc) So'rg'ichlilar sinfi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Moslashtiring (Parazit — Asosiy xo'jayin — Oraliq xo'jayin):\n1. Jigar qurti; 2. Qoramol tasmasimon chuvalchangi\na) Asosiy: odam; Oraliq: qoramollar;\nb) Asosiy: odam va sutemizuvchi hayvonlar; Oraliq: suv shillig'i",
+      "options": [
+        "1-b, 2-a",
+        "1-a, 2-b",
+        "1-a, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Moslashtiring (Vakil — Gavda o'lchami va bo'g'imlanishi):\n1. Oq planariya; 2. Jigar qurti; 3. Qoramol tasmasimon chuvalchangi\na) 8–10 metr, 1000 tagacha bo'g'imlardan iborat;\nb) 2–3 sm, bargsimon, bo'g'imlarga bo'linmagan;\nc) 3–4 sm, bargsimon, bo'g'imlarga bo'linmagan",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Moslashtiring (Chuvalchang — Oziqlanish xususiyati):\n1. Oq planariya;\n2. Jigar qurti;\n3. Qoramol tasmasimon chuvalchangi\na) O't suyuqligi va qonni 2 shoxli ichagi yordamida so'radi;\nb) Ichak sistemasiga ega emas, hazm bo'layotgan oziqni tana yuzasi bilan shimadi;\nc) Yirtqich, 3 shoxli ichagi orqali mayda suv jonivorlarini so'rib hazm qiladi",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Moslashtiring (Vakil — Yopishish (fiksatsiya) organi):\n1. Oq planariya; 2. Jigar qurti; 3. Qoramol tasmasimon chuvalchangi\na) Boshida doira shaklidagi 4 ta so'rg'ich;\nb) Maxsus so'rg'ichlari yo'q, kipriklari bilan sirpanadi;\nc) Og'iz so'rg'ichi va undan keyinroqdagi qorin so'rg'ichi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Moslashtiring (Bosqich — Tavsif):\n1. Kiprikli lichinka; 2. Dumli lichinka; 3. Sista; 4. Finna\na) Jigar qurtining suv shillig'idan chiqib suvda harakatlanuvchi davri;\nb) Jigar qurtining tuxumdan chiqib suv shillig'ini qidiruvchi davri;\nc) Tasmasimon chuvalchangning muskul va jigarda suyuqlik to'plagan pufakcha davri;\nd) Jigar qurtining o't-o'lan yoki suvda qalin qobiqqa o'ralgan tinchlik davri",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Tushirib qoldirilgan atamalarni to'g'ri moslashtiring:\n«Qoramol tasmasimon chuvalchangining har bir bo'g'imida (...) tuxumdon, (...) bachadon va (...) urug'donlar bo'ladi.»",
+      "options": [
+        "bitta; ikkita; bitta",
+        "bir juft; bitta; juda ko'p",
+        "to'rtta; bir juft; ikkita",
+        "uchta; uchta; cheklangan miqdorda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Jigar qurtining rivojlanish bosqichlari to'g'ri ko'rsatilgan zanjirni aniqlang:",
+      "options": [
+        "Tuxum -> Sista -> Finna -> Kiprikli lichinka -> Voyaga yetgan qurt",
+        "Tuxum -> Kiprikli lichinka -> Suv shillig'i -> Dumli lichinka -> Sista -> Asosiy xo'jayin (ichak, qon, jigar)",
+        "Sista -> Kiprikli lichinka -> Suv shillig'i -> Finna -> Odam",
+        "Tuxum -> Finna -> Muskul -> Dumli lichinka -> Jigar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Qoramol tasmasimon chuvalchangining rivojlanish zanjirini to'g'ri moslashtiring:",
+      "options": [
+        "Yetuk bo'g'im (axlat bilan) -> Tuxum (yem-xashak orqali) -> Qoramol ichagi -> Qon -> Muskulda finna -> Xom go'sht orqali odam",
+        "Lichinka -> Suv shillig'i -> Finna -> Odam o'pkasi -> Qoramol",
+        "Pilla -> Kiprikli lichinka -> Finna -> Qoramol suti orqali odam",
+        "Tuxum -> Suvda sista -> Qoramol terisi -> Odam ichagi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Nima sababdan parazit chuvalchanglar (jigar qurti, tasmasimon chuvalchang) erkin yashovchi planariyaga nisbatan juda ko'p miqdorda tuxum ishlab chiqaradi?",
+      "options": [
+        "Chunki ularning harakatlanish organi yo'q",
+        "Chunki xo'jayin almashtirish murakkab bo'lib, tuxum va lichinkalarning nobud bo'lish ehtimoli juda yuqori",
+        "Chunki ular faqat o't suyuqligi bilan oziqlanadi",
+        "Chunki ularning tanasi bo'g'imlarga bo'linmagan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Qoramol tasmasimon chuvalchangining tanasi bo'g'imlarga bo'lingan bo'lishiga qaramay, nima uchun u chin bo'g'imli chuvalchanglarga emas, yassi chuvalchanglar tipiga kiritiladi?",
+      "options": [
+        "Gavdasi yassi tasmasimon, tana bo'shlig'i yo'q, ichki a'zolari oraliqlari to'qima bilan to'lgan va orqa chiqaruv teshigi yo'qligi sababli",
+        "Faqat kipriklari borligi uchun",
+        "Bo'g'imlari faqat bosh qismida joylashgani sababli",
+        "Unda yurak va qon tomirlari halqasimon bo'lgani uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Ta'rifga mos javobni toping: «Parazit hayot tarziga o'tishi natijasida ba'zilarida ichak 2 shoxli bo'lib qolgan (so'rg'ichlilar), boshqalarida esa hazm qilish sistemasi butunlay reduksiyaga uchragan (tasmasimonlar) umumiy hayvonlar tipi».",
+      "options": [
+        "Bir hujayralilar tipi",
+        "Bo'shliqichlilar tipi",
+        "Yassi chuvalchanglar tipi",
+        "Xalqali chuvalchanglar tipi"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
