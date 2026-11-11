@@ -101,6 +101,12 @@
       "title": "NOVDADA BARGLARNING JOYLASHISHI",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 18,
+      "title": "BARGLARNING ICHKI TUZILISHI",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
