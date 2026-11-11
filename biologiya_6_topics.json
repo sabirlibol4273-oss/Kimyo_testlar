@@ -95,6 +95,12 @@
       "title": "ODDIY VA MURAKKAB BARGLAR",
       "description": "BoburObidov",
       "unlocked": true
+    },
+    {
+      "id": 17,
+      "title": "NOVDADA BARGLARNING JOYLASHISHI",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
