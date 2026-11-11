@@ -2,5 +2,501 @@
   "topicId": 7,
   "title": "1-Mavzu; Kirish",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Gidra qanday xususiyatga ega bo'lgan suv havzalarida hayot kechiradi?",
+      "options": [
+        "Tez oqadigan loyqa tog' daryolarida",
+        "Tiniq suvli tinch oqadigan yoki oqmaydigan chuchuk suv havzalarida",
+        "Chuqur va sho'r dengiz ko'rfazlarida",
+        "Faqat yer osti minerallashgan buloqlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Gidrani sun'iy sharoitda qayerda uchratish mumkin?",
+      "options": [
+        "Terrariumlarda",
+        "Akvariumlarda",
+        "Inkubatorlarda",
+        "Gerbariylarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Gidra tanasining uzunligi qancha va u qanday shaklga ega?",
+      "options": [
+        "1–2 mm, disksimon",
+        "5–7 mm, silindrsimon",
+        "10–15 mm, ipsimon",
+        "20–30 mm, sharsimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Gidra tanasining ostki, substratga yopishuvchi qismi nima deb ataladi?",
+      "options": [
+        "Paypaslagich",
+        "Og'iz diski",
+        "Tovon",
+        "Kurtak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Gidra tanasida paypaslagichlar bilan o'ralgan og'iz teshigi qayerda joylashgan?",
+      "options": [
+        "Tovonning markaziy qismida",
+        "Tovonning qarama-qarshi tomonida",
+        "Tana devorining yon qismida",
+        "Kurtak chiqadigan bo'rtmachada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Gidra suvdagi narsalarga qaysi qismi orqali yopishib oladi?",
+      "options": [
+        "Paypaslagichlari orqali",
+        "Og'iz teshigi orqali",
+        "Tovoni bilan",
+        "Otuvchi kapsulalari bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Suv tubidagi narsalarga yopishib olib hayot kechiradigan bo'shliqichlilar nima deb ataladi?",
+      "options": [
+        "Meduza",
+        "Polip",
+        "Planktongidra",
+        "Sifonozooid"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Tana qismlarining bitta o'q atrofida o'zaro mutanosib joylashuviga nima deyiladi?",
+      "options": [
+        "Regeneratsiya",
+        "Metamorfoz",
+        "Simmetriya",
+        "Polimorfizm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Hayvonlar tanasini bitta o'q chiziqdan chiquvchi nurlar bo'ylab mos keladigan teng qismlarga bo'linishi qanday simmetriya deyiladi?",
+      "options": [
+        "Ikki tomonlama (bilateral) simmetriya",
+        "Radial, ya'ni nurli simmetriya",
+        "Asimmetriya",
+        "Spiral simmetriya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Gidra tanasining devori necha qavat hujayralardan tashkil topgan?",
+      "options": [
+        "Faqat bir qavat",
+        "Ikki qavat (ektoderma va endoderma)",
+        "Uch qavat (ektoderma, mezoderma, endoderma)",
+        "To'rt qavatli murakkab parda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Gidra tana devoridagi tashqi va ichki qavatlar o'zaro qanday ajralgan?",
+      "options": [
+        "Qalin ohakli skelet bilan",
+        "Yupqa parda bilan",
+        "Qon tomirlari to'ri bilan",
+        "Zaharli naychalar orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Gidraning keng ichki tana bo'shlig'i qanday qo'shimcha vazifani ham bajaradi?",
+      "options": [
+        "Nafas olish organi vazifasini",
+        "Ayirish va qon aylanish vazifasini",
+        "Ichak vazifasini",
+        "Skelet va tayanch vazifasini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Gidra tana devorining tashqi (ektoderma) qavati asosan qaysi hujayralardan iborat?",
+      "options": [
+        "Bezsiz xivchinli hujayralardan",
+        "Teri-muskul hujayralaridan",
+        "Yirik tuxum hujayralaridan",
+        "Faqat otuvchi hujayralardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Teri-muskul hujayralarining qaysi qismida muskul tolalari joylashgan bo'ladi?",
+      "options": [
+        "Tashqi tomonga qaragan uchida",
+        "Tana devoriga botib kirib kengaygan tomonida",
+        "Hujayra yadrosining ichida",
+        "Paypaslagichning so'rg'ichlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Muskul tolalarining qisqarishi tufayli gidra qanday harakatlanadi?",
+      "options": [
+        "Faqat suvda erkin reaktiv suzadi",
+        "Umbaloq oshib yoki odimlab harakatlanadi",
+        "Kipriklari yordamida to'lqinsimon siljiydi",
+        "Tovonini ichkariga tortib, sakrab harakatlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Gidrada otuvchi hujayralar asosan tana devorining qaysi qismida ko'p uchraydi?",
+      "options": [
+        "Tovonida",
+        "Ichak bo'shlig'ida",
+        "Paypaslagichlarida",
+        "Endoderma qavatining tubida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Otuvchi hujayraning tuzilishiga oid to'g'ri qismlarni ko'rsating:",
+      "options": [
+        "Mayda sezuvchi tukchasi va otuvchi kapsulasi",
+        "Xivchini va soxta oyoqlari",
+        "Loviyasimon yadrosi va hazm vakuolasi",
+        "Tovon plastinkasi va halqum naychasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Otuvchi hujayra kapsulasining ichida nima joylashgan bo'ladi?",
+      "options": [
+        "Soxta oyoq hosil qiluvchi suyuqlik",
+        "Naysimon ingichka otiluvchi tola",
+        "Zaxira kraxmal donachalari",
+        "Yirik ko'payish yadrosi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Dafniya, siklop yoki baliq chavoqlari nima qilganda kapsuladagi tola otilib chiqadi?",
+      "options": [
+        "Gidra tovoniga tegib ketganda",
+        "Otuvchi hujayraning sezuvchi tukchasiga tegib ketganda",
+        "Gidra suv tubiga cho'kkan vaqtda",
+        "Osh tuzi konsentratsiyasi o'zgarganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Otuvchi kapsuladan chiqadigan zaharli suyuqlik o'ljaga qanday ta'sir ko'rsatadi?",
+      "options": [
+        "O'ljaning tanasini eritiyuborib yo'q qiladi",
+        "O'lja tanasiga o'tib, uni falajlaydi",
+        "O'ljani darhol jinsiy ko'payishga undaydi",
+        "O'ljada nurli simmetriyani buzadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Gidraning nerv hujayralari qayerda joylashgan va ular qanday shaklga ega?",
+      "options": [
+        "Endodermada, loviyasimon shaklda",
+        "Ektodermada, uzun o'simtali yulduzsimon shaklda",
+        "Ichki bo'shliqda, sharsimon shaklda",
+        "Tovon qavatida, duksimon shaklda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Gidraning nerv to'ri qanday hosil bo'ladi?",
+      "options": [
+        "Tana bo'shlig'idagi suyuqlik quyuqlashuvidan",
+        "Yulduzsimon nerv hujayralari o'simtalarining o'zaro tutashuvidan",
+        "Teri-muskul hujayralarining birlashuvidan",
+        "Otuvchi tolalarning to'qima hosil qilishidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Gidra tashqi muhit ta'sirini sezganda qanday javob harakatini amalga oshiradi?",
+      "options": [
+        "Kiprikchalarini to'kib yuboradi",
+        "Tanasini yig'ib oladi (qisqaradi)",
+        "Tezlik bilan tovonidan ajralib suzib ketadi",
+        "Barcha otuvchi kapsulalarini tashqariga to'kadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Gidraning tashqi ta'sirlanishga javob berish xususiyati nima deb ataladi?",
+      "options": [
+        "Taksis",
+        "Instinkt",
+        "Refleks",
+        "Regeneratsiya"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Gidraning ichki (endoderma) qavati qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Teri-muskul va otuvchi hujayralardan",
+        "Soxta oyoqlar chiqarish xususiyatiga ega bo'lgan yirik xivchinli va bezli hujayralardan",
+        "Faqat mayda oraliq hujayralardan",
+        "Yulduzsimon nerv hujayralaridan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Endodermadagi bezli hujayralarning asosiy funksiyasi nimadan iborat?",
+      "options": [
+        "Zahar ishlab chiqarib o'ljani falajlash",
+        "Hazm shirasi ishlab chiqarish",
+        "Hujayra devoriga tayanch berish",
+        "Kurtak hosil qilishni boshqarish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Gidrada oziqning hazm bo'lishi qaysi jihati bilan bir hujayralilarga o'xshaydi?",
+      "options": [
+        "Oziqning tana bo'shlig'ida to'liq so'rilishi bilan",
+        "Oziqning hujayra ichida hazm bo'lishi bilan",
+        "Oziqning faqat og'izoldi chuqurchasida parchalanishi bilan",
+        "Hazm qilinmagan oziqning anal teshikdan chiqishi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Gidra tutilgan o'ljani qanday qilib og'ziga olib boradi?",
+      "options": [
+        "Tovonining qisqarish kuchi bilan",
+        "Paypaslagichlariga yopishtirib",
+        "Suvning oqimi orqali itarib",
+        "Otuvchi kapsulalarni qayta so'rib olish orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Tana bo'shlig'iga tushgan oziqqa birinchi bo'lib nima ta'sir qiladi va oziq nima yordamida hujayralarga haydaladi?",
+      "options": [
+        "Zaharli tola ta'sir qiladi; soxta oyoqlar bilan haydaladi",
+        "Hazm suyuqligi ta'sirida maydalanadi; xivchinlar yordamida hujayralarga haydaladi",
+        "Kurtak suyuqligi ta'sir qiladi; nerv tolalari bilan itariladi",
+        "Kislorod ta'sirida chiriydi; tovon bosimi bilan haydaladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Endoderma hujayralari tana bo'shlig'idagi maydalangan oziqni qanday qamrab oladi?",
+      "options": [
+        "Kiprikchalari orqali",
+        "Soxta oyoqlari yordamida",
+        "Otuvchi kapsulalari bilan",
+        "Maxsus tishchalari vositasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Ektodermada joylashgan oraliq hujayralarning o'ziga xos tuzilishi qanday?",
+      "options": [
+        "Mayda va yirik yadroli",
+        "Yirik va yadrosiz",
+        "Uzun xivchinli va shaklsiz",
+        "Zaharli modda bilan to'la"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Gidra tanasi jarohatlanganda qaysi hujayralar tez o'sib, shikastlangan hujayralar o'rnini to'ldiradi?",
+      "options": [
+        "Teri-muskul hujayralari",
+        "Oraliq hujayralar",
+        "Bezli hujayralar",
+        "Otuvchi hujayralar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Tananing jarohatlangan yoki yo'qotilgan qismining qayta tiklanishi nima deb ataladi?",
+      "options": [
+        "Simmetriya",
+        "Refleks",
+        "Regeneratsiya",
+        "Embrionallanish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Gidra tanasi necha bo'lakka ajratilganda ham har bir bo'lakdan butun gidra tiklanishi aniqlangan?",
+      "options": [
+        "50 bo'lakka",
+        "100 bo'lakka",
+        "200 bo'lakka",
+        "500 bo'lakka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Gidraning jinssiz (kurtaklanib) ko'payishi qaysi fasllarda va qanday sharoitda ro'y beradi?",
+      "options": [
+        "Qish mavsumida, suv muzlaganda",
+        "Oziq yetarli bo'lgan iliq bahor va yoz mavsumida",
+        "Faqat kech kuzda, noqulay sharoit oldidan",
+        "Erta ko'klamda, loyqa sellar kelganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Kurtaklanish jarayonida kurtaklar qachon mustaqil yosh gidralarga aylanadi?",
+      "options": [
+        "Tana bo'shlig'i yo'qolishi bilanoq",
+        "Paypaslagichlar va og'iz teshigi paydo bo'lishi bilan",
+        "Kurtak ichida tuxum hujayra yetilgach",
+        "Ona organizm qishlab nobud bo'lgandan so'ng"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Gidraning jinsiy ko'payishi qaysi faslda va qanday sababga ko'ra boshlanadi?",
+      "options": [
+        "Yozning o'rtasida, oziq haddan tashqari ko'payganda",
+        "Kuzda, noqulay sharoit tug'ilishidan oldin",
+        "Bahorda, suvlar isiy boshlaganda",
+        "Qishda, suv muz ostida qorong'i bo'lganda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Kuzda jinsiy ko'payish oldidan gidra tanasi sirtida nimalar paydo bo'ladi?",
+      "options": [
+        "Yangi paypaslagichlar halqasi",
+        "Kichik bo'rtmachalar",
+        "Qattiq ohakli qalqonlar",
+        "Qo'shimcha so'rg'ichlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Gidra bo'rtmachalarida jinsiy hujayralar qanday taqsimotda yetiladi?",
+      "options": [
+        "Bitta bo'rtmachada millionlab tuxum hujayralar",
+        "Bittadan yirik tuxum hujayra yoki ko'p miqdorda spermatozoidlar",
+        "Har doim ikkala hujayra bitta bo'rtmacha ichida qo'shilib yetiladi",
+        "Faqat bittadan spermatozoid yetiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Gidra tuxum hujayrasining boshqa hayvonlardan ajralib turuvchi o'ziga xos xususiyati nimada?",
+      "options": [
+        "Unda uzun harakatlanuvchi xivchinlar bo'ladi",
+        "Uning soxta oyoqlari bo'ladi",
+        "Unda otuvchi kapsulalar joylashgan",
+        "U butunlay qobiqsiz va yadrosiz bo'ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Gidraning spermatozoidlari qanday tuzilgan va ular tuxum hujayra tomon qanday yetib boradi?",
+      "options": [
+        "Yirik va harakatsiz bo'lib, shamol orqali tarqaladi",
+        "Mayda, tez harakatlanadigan kichik hujayralar bo'lib, suv orqali boradi",
+        "Loviyasimon bo'lib, tovon orqali emaklab boradi",
+        "Kapsulali bo'lib, otilib tuxumga sanchiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Urug'langan tuxum hujayra biologiyada nima deb ataladi?",
+      "options": [
+        "Polip",
+        "Kurtak",
+        "Zigota",
+        "Spora"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Gidraning hosil bo'lgan zigotasi noqulay qish sharoitidan qanday himoyalanadi?",
+      "options": [
+        "Ona gidraning ichak bo'shlig'iga yashirinadi",
+        "Sirti qalin qobiq bilan qoplanadi",
+        "Tuproqqa 1 metr chuqurlikkacha botib kiradi",
+        "Yog'och po'stlog'i bilan o'raladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Qish mavsumida gidra populyatsiyasi qanday saqlanib qoladi?",
+      "options": [
+        "Katta yoshli gidralar suv tubida uxlaydi, zigota esa nobud bo'ladi",
+        "Gidra qishda nobud bo'ladi, zigota esa qishlab qoladi",
+        "Gidra va zigota ikkalasi ham muzlab, bahorda erib tiriladi",
+        "Gidra baliqlarga parazit bo'lib yashab qoladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Bahor kelganda qishlagan zigotadan yangi avlodning chiqishi qanday sodir bo'ladi?",
+      "options": [
+        "Tuxum po'sti yorilishi bilan yosh gidra suvga chiqadi va mustaqil hayotini davom ettiradi",
+        "Zigota dastlab meduzaga aylanadi, so'ng gidra hosil qiladi",
+        "Zigotadan ko'p sonli xivchinli lichinkalar ajraladi",
+        "Zigota to'g'ridan-to'g'ri bir necha ming oraliq hujayralarga bo'linadi"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
