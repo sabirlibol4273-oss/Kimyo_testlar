@@ -2,5 +2,490 @@
   "topicId": 25,
   "title": "0‘SIMLIKLARNING MINERAL OZIQLANISHI. ILDIZ BOSIMI. 0 ‘G‘ITLAR",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "O'simlik ildizining muhim vazifasi nima?",
+      "options": [
+        "Suv bug'latish",
+        "Fotosintez qilish",
+        "Tuproqdan suv va erigan oziq moddalarni shimib, yerusti qismiga uzatish",
+        "Gul va meva hosil qilish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Tuproqdagi suv va oziq moddalar dastlab qayerga o'tadi?",
+      "options": [
+        "Po'stloq hujayralariga",
+        "O'tkazuvchi qismga",
+        "Barglarga",
+        "Ildiz tukchalariga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Ildiz tukchalaridan suv qaysi hujayralarga o'tadi?",
+      "options": [
+        "Barg hujayralariga",
+        "Ular bilan yonma-yon joylashgan po'stloq hujayralariga",
+        "Urug' hujayralariga",
+        "Gul hujayralariga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Hujayradan hujayraga so'rilgan suv ildizning qaysi qismiga yetib boradi?",
+      "options": [
+        "O'suvchi qismiga",
+        "Ildiz qinchasiga",
+        "O'tkazuvchi qismiga",
+        "Bo'linuvchi qismiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Suvning tuproqdan yerusti qismiga borish yo'li to'g'ri berilgan javobni toping.",
+      "options": [
+        "Ildiz tukchalari → tuproq → po'stloq → barg",
+        "Tuproq → ildiz tukchalari → po'stloq hujayralari → o'tkazuvchi qism → yerusti qismi",
+        "Tuproq → o'tkazuvchi qism → ildiz tukchalari → barg",
+        "Po'stloq → ildiz tukchalari → tuproq → poya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "O'simliklardagi ko'pgina biologik jarayonlar nima tufayli amalga oshadi?",
+      "options": [
+        "Faqat tuproq tufayli",
+        "Faqat sovuq tufayli",
+        "Suv tufayli",
+        "Faqat havo tufayli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "O'simliklar uchun zarur oziq moddalar suvda qanday holda bo'ladi?",
+      "options": [
+        "Qattiq holda",
+        "Muzlagan holda",
+        "Gaz holida",
+        "Erigan holda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Oziq moddalar hujayra, to'qima va organlarga nima orqali o'tadi?",
+      "options": [
+        "Kul orqali",
+        "Suv orqali",
+        "Yorug'lik orqali",
+        "Havo orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Suv yetarli bo'lganda o'simlik hujayrasi qanday holatda bo'ladi?",
+      "options": [
+        "So'lgan",
+        "Qurigan",
+        "Tarang",
+        "Muzlagan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Suv yetishmasa o'simlik qanday bo'ladi?",
+      "options": [
+        "Tez o'sadi",
+        "Tarang bo'ladi",
+        "Gullaydi",
+        "So'lib qoladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "So'ligan o'simlikka suv quyilsa nima bo'ladi?",
+      "options": [
+        "O'zgarmaydi",
+        "Tiklanadi",
+        "Darhol quriydi",
+        "Rangini yo'qotadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "O'simlik poyasi yoki shoxi kesilsa nima sodir bo'ladi?",
+      "options": [
+        "Hech narsa bo'lmaydi",
+        "Darhol gullaydi",
+        "Kul ajraladi",
+        "Suv tomchilari sizib chiqadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Qaysi o'simliklar novdalari shira harakati boshlangan vaqtda kesilsa ko'p suv chiqadi?",
+      "options": [
+        "Kaktus, zirk",
+        "Bug'doy, arpa, suli",
+        "Tok, terak, tol",
+        "Lola, chuchmoma, boychechak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Yantoqning qayeridan kesilsa suv tomchilari yumalab tushadi?",
+      "options": [
+        "Barg uchidan",
+        "Mevasidan",
+        "Ildiz bo'g'zidan",
+        "Gulidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Kesilgan poyadan chiqadigan suyuqlik qanday kuch ta'sirida harakatga keladi?",
+      "options": [
+        "Shamol kuchi",
+        "O'z-o'zidan",
+        "Quyosh kuchi",
+        "Ildiz bosimi kuchi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Ildiz bosimi suvni qanday yo'nalishda harakatlantiradi?",
+      "options": [
+        "Pastdan yuqoriga",
+        "Yuqoridan pastga",
+        "Faqat yon tomonga",
+        "Harakatlantirmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Ildiz bosimi suv va oziq moddalarni qanday harakatga majbur etadi?",
+      "options": [
+        "Bir hujayradan ikkinchisiga o'tib, pastdan yuqoriga ko'tarilishga",
+        "Havoga bug'lanishga",
+        "Bargdan ildizga tushishga",
+        "Tuproqqa qaytishga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Kesilgan novdadan suv qachon ko'p chiqadi?",
+      "options": [
+        "Kech kuzda",
+        "Shira harakati boshlangan vaqtda",
+        "Qishning o'rtasida",
+        "Barglar to'kilgandan keyin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Qish kirishi bilan ko'p yillik o'simliklarning ildiz tukchalari qanday bo'ladi?",
+      "options": [
+        "Gullaydi",
+        "Faoliyatini to'xtatadi",
+        "Ko'payadi",
+        "Faollashadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Ildiz tukchalari qachon yana faollashadi?",
+      "options": [
+        "Hech qachon",
+        "Qish o'rtasida",
+        "Kech kuzda",
+        "Bahor kelib, kunlar isishi bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Yoz oylarida O'zbekistonda o'simliklarning suvga ehtiyoji nima sababdan ortadi?",
+      "options": [
+        "Yog'ingarchilik deyarli bo'lmay, harorat ko'tariladi",
+        "Harorat pasayadi",
+        "Ko'p yomg'ir yog'adi",
+        "Kunlar qisqaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Shuning uchun O'zbekistonda deyarli hamma madaniy o'simliklar qanday o'stiriladi?",
+      "options": [
+        "Sug'orilmasdan",
+        "Sug'orib",
+        "Faqat tog'larda",
+        "Faqat issiqxonada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Ekinlarni sug'orishda nimaga yo'l qo'ymaslik kerak?",
+      "options": [
+        "O'simlik o'sishiga",
+        "Ildizga suv yetishiga",
+        "Tuproq namlanishiga",
+        "Suvning ortiqcha isrof bo'lishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "O'simliklar suv va erigan moddalarni nima orqali tuproqdan shimib oladi?",
+      "options": [
+        "Gul orqali",
+        "Ildiz bosimi kuchi ta'sirida ildiz tukchalari orqali",
+        "Meva orqali",
+        "Barg og'izchalari orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Tuproqqa o'g'it nima uchun solinadi?",
+      "options": [
+        "O'simlikni quritish uchun",
+        "O'simlik yaxshi o'sishi, mo'l hosil berishi va uzoq yashashi uchun",
+        "Tuproqni qotirish uchun",
+        "Suvni ko'paytirish uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "O'g'it tarkibida nimalar bo'ladi?",
+      "options": [
+        "Faqat kraxmal",
+        "Faqat suv",
+        "Faqat qum",
+        "Turli mineral tuzlar, mikroelementlar va boshqalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "O'g'itlar asosan necha guruhga bo'linadi?",
+      "options": [
+        "Ikki",
+        "Uch",
+        "Bitta",
+        "To'rt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "O'g'itlarning asosiy guruhlari qaysilar?",
+      "options": [
+        "Organik va mineral",
+        "Azotli va fosforli",
+        "Kaliyli va selitra",
+        "Suyuq va qattiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Organik o'g'itga misol qaysi?",
+      "options": [
+        "Fosforli o'g'it",
+        "Selitra",
+        "Kaliyli o'g'it",
+        "Go'ng"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Go'ng tuproqda qanday ta'sir ko'rsatadi?",
+      "options": [
+        "Tuproqni sho'rlantiradi",
+        "Chirib, tuproq holatini yaxshilaydi va hosildorlikni oshiradi",
+        "Tuproqni qotiradi",
+        "Hech qanday ta'sir qilmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Mineral o'g'itlar qayerda tayyorlanadi?",
+      "options": [
+        "O'rmonda",
+        "Fermada",
+        "Dalada o'z-o'zidan",
+        "Kimyo zavodlarida maxsus"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Mineral o'g'itlar qaysi turlarga bo'linadi?",
+      "options": [
+        "Azotli, fosforli, kaliyli",
+        "Organik va noorganik",
+        "Go'ng, kompost",
+        "Suyuq va gazsimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Selitra qanday o'g'it?",
+      "options": [
+        "Organik o'g'it",
+        "Fosforli o'g'it",
+        "Azotli o'g'it",
+        "Kaliyli o'g'it"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Azotli o'g'itlar o'simlikka qanday ta'sir qiladi?",
+      "options": [
+        "Hosilni tez pishiradi",
+        "Ildizni quritadi",
+        "O'sishini tezlashtiradi",
+        "O'sishni to'xtatadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Fosforli va kaliyli o'g'itlar o'simlikka qanday ta'sir qiladi?",
+      "options": [
+        "Faqat o'sishni tezlashtiradi",
+        "Barglarni to'kadi",
+        "Mo'l hosil to'planishiga va tez pishib yetilishiga yordam beradi",
+        "Hech qanday ta'sir qilmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Matnga ko'ra o'g'itlar nimaning garovi?",
+      "options": [
+        "Tuproq qotishi",
+        "O'simlik so'lishi",
+        "Mo'l hosil",
+        "Suv tejalishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Moslang: 1) azotli o'g'it, 2) fosforli va kaliyli o'g'itlar; a) o'sishni tezlashtiradi, b) mo'l hosil va tez pishish.",
+      "options": [
+        "1a, 2b",
+        "1a, 2a",
+        "1b, 2a",
+        "1b, 2b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Moslang: 1) organik o'g'it, 2) mineral o'g'it; a) go'ng, b) selitra, c) kimyo zavodida tayyorlanadi, d) tuproqda chiriydi.",
+      "options": [
+        "1 – a, b; 2 – c, d",
+        "1 – b, c; 2 – a, d",
+        "1 – a, c; 2 – b, d",
+        "1 – a, d; 2 – b, c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Moslang: 1) qish, 2) bahor, 3) yoz; a) ildiz tukchalari faollashadi, b) ildiz tukchalari faoliyatini to'xtatadi, c) suvga ehtiyoj ortadi.",
+      "options": [
+        "1b, 2a, 3c",
+        "1a, 2b, 3c",
+        "1c, 2a, 3b",
+        "1b, 2c, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Ortiqchasini toping (mineral o'g'itlar): azotli, fosforli, kaliyli, go'ng.",
+      "options": [
+        "Go'ng",
+        "Fosforli",
+        "Kaliyli",
+        "Azotli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Ortiqchasini toping (shira harakatida kesilsa ko'p suv chiqadigan novdalar): tok, terak, tol, lola.",
+      "options": [
+        "Lola",
+        "Terak",
+        "Tok",
+        "Tol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "To'g'ri fikrlarni toping: 1) Suv yetarli bo'lsa hujayra tarang bo'ladi; 2) Ildiz bosimi suvni pastdan yuqoriga ko'taradi; 3) Selitra fosforli o'g'it; 4) Go'ng organik o'g'it.",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Noto'g'ri fikrlarni toping: 1) Suv avval ildiz tukchalariga o'tadi; 2) Qishda ildiz tukchalari faollashadi; 3) Mineral o'g'itlar kimyo zavodlarida tayyorlanadi; 4) Azotli o'g'it hosilni tez pishiradi.",
+      "options": [
+        "3, 4",
+        "1, 2",
+        "2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Yozda O'zbekistonda ekinlar sug'oriladi",
+        "Fosforli o'g'it mo'l hosilga yordam beradi",
+        "Kesilgan novdadan suyuqlik o'z-o'zidan chiqadi",
+        "Oziq moddalar suv orqali organlarga o'tadi"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
