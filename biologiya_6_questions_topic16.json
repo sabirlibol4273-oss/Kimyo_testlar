@@ -2,5 +2,435 @@
   "topicId": 16,
   "title": "ODDIY VA MURAKKAB BARGLAR",
   "description": "BoburObidov",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tuzilishiga ko'ra barglar qanday bo'ladi?",
+      "options": [
+        "Parallel va to'rsimon",
+        "Bandli va bandsiz",
+        "Oddiy va murakkab",
+        "Tukli va tuksiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Qanday barg oddiy barg deyiladi?",
+      "options": [
+        "Barg bandida bitta barg yaprog'i joylashsa",
+        "Bandi bo'lmasa",
+        "Qipiq shaklida bo'lsa",
+        "Bitta bandda bir nechta bargcha bo'lsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Qanday barg murakkab barg deyiladi?",
+      "options": [
+        "Barg bandida bitta yaproq bo'lsa",
+        "Bitta barg bandida bir nechta bargchalar bandchalari orqali joylashsa",
+        "Barg tukli bo'lsa",
+        "Barg qirrasi tishli bo'lsa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Murakkab bargda bargchalar umumiy bandga nima orqali birikadi?",
+      "options": [
+        "Bandchalari orqali",
+        "Gajaklar orqali",
+        "Tomirlar orqali",
+        "Yon bargchalar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Qaysi qatorda oddiy bargli o'simliklar berilgan?",
+      "options": [
+        "Loviya, no'xat, yeryong'oq",
+        "Soxta kashtan, shirinmiya",
+        "Yong'oq, na'matak, beda",
+        "Olma, nok, o'rik, shaftoli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Qaysi qatorda murakkab bargli o'simliklar berilgan?",
+      "options": [
+        "G'o'za, rovoch, olma",
+        "Tut, tok, terak, yantoq",
+        "Shaftoli, o'rik, nok",
+        "Soxta kashtan, yong'oq, na'matak, shirinmiya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Quyidagilardan qaysi birining bargi oddiy?",
+      "options": [
+        "Beda",
+        "Rovoch",
+        "Na'matak",
+        "Yong'oq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Quyidagilardan qaysi birining bargi murakkab?",
+      "options": [
+        "Qulupnay",
+        "Yantoq",
+        "Tut",
+        "G'o'za"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Ortiqchasini toping (barg tuzilishi bo'yicha): olma, tok, terak, beda.",
+      "options": [
+        "Olma",
+        "Tok",
+        "Terak",
+        "Beda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Ortiqchasini toping (barg tuzilishi bo'yicha): loviya, no'xat, yeryong'oq, g'o'za.",
+      "options": [
+        "Loviya",
+        "Yeryong'oq",
+        "G'o'za",
+        "No'xat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Barglar yaprog'ining nimasiga qarab yumaloq, tuxumsimon, yuraksimon va boshqa shakllarda bo'ladi?",
+      "options": [
+        "Qirrasiga",
+        "Bandiga",
+        "Shakliga",
+        "Tomirlanishiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Qaysi qatorda barg yaprog'ining shakllari berilgan?",
+      "options": [
+        "Juft patsimon, toq patsimon",
+        "Yumaloq, tuxumsimon, yuraksimon, nashtarsimon",
+        "Tekis, tishli, arrasimon",
+        "Tukli, tuksiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Quyidagilardan qaysi biri barg yaprog'ining shakli hisoblanadi?",
+      "options": [
+        "Arrasimon",
+        "O'yilgan",
+        "Rombsimon",
+        "Ikki karra tishli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Qaysi qatorda barg yaprog'i qirrasining turlari berilgan?",
+      "options": [
+        "Tekis, tishli, ikki karra tishli, arrasimon, o'yilgan",
+        "Tukli, tuksiz",
+        "Uch bargchali, panjasimon",
+        "Yumaloq, ovalsimon, qalami"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Quyidagilardan qaysi biri barg qirrasining turi?",
+      "options": [
+        "Arrasimon",
+        "Qalami",
+        "Yuraksimon",
+        "Uchburchaksimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Barglar o'simlik turiga qarab yana qanday bo'ladi?",
+      "options": [
+        "Ildizli va ildizsiz",
+        "Yashil va qizil",
+        "Tukli va tuksiz",
+        "Gulli va gulsiz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Oddiy barglar yaprog'ining tuzilishiga ko'ra qanday bo'ladi?",
+      "options": [
+        "Toq patsimon va juft patsimon",
+        "Patsimon, panjasimon va uch bo'lakli qirqilgan",
+        "Uch bargchali va panjasimon murakkab",
+        "Tekis va tishli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Murakkab barglar qanday turlarga bo'linadi?",
+      "options": [
+        "Yumaloq, tuxumsimon, yuraksimon",
+        "Patsimon, panjasimon, uch bo'lakli qirqilgan",
+        "Tekis, tishli, arrasimon",
+        "Uch bargchali, panjasimon, toq patsimon, juft patsimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Uch bargchali murakkab barg qaysi qatordagi o'simliklarda bo'ladi?",
+      "options": [
+        "Soxta kashtan, yong'oq",
+        "Yeryong'oq, shirinmiya",
+        "Sebarga, beda, loviya, mosh, qulupnay",
+        "Olma, nok, tut"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Quyidagilardan qaysi birida uch bargchali murakkab barg bor?",
+      "options": [
+        "Yeryong'oq",
+        "Mosh",
+        "Soxta kashtan",
+        "Shirinmiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Panjasimon murakkab barg qaysi o'simlikda bo'ladi?",
+      "options": [
+        "Yeryong'oqda",
+        "Soxta kashtanda",
+        "Bedada",
+        "Shirinmiyada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Qanday barg juft patsimon barg deyiladi?",
+      "options": [
+        "Umumiy bandning uchi bitta barg bilan tugasa",
+        "Bargchalar umumiy bandning oxirigacha qarama-qarshi joylashsa",
+        "Bargchalar panja shaklida joylashsa",
+        "Bitta bandda uchta bargcha bo'lsa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qanday barg toq patsimon barg deyiladi?",
+      "options": [
+        "Bargi qipiq shaklida bo'lsa",
+        "Umumiy barg bandining uchi bitta barg bilan tugasa",
+        "Bitta bandda uchta bargcha bo'lsa",
+        "Bargchalar bandning oxirigacha qarama-qarshi joylashsa"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Juft patsimon barg qaysi o'simlikda bo'ladi?",
+      "options": [
+        "Shirinmiyada",
+        "Bedada",
+        "Soxta kashtanda",
+        "Yeryong'oqda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Toq patsimon barg qaysi o'simlikda bo'ladi?",
+      "options": [
+        "Yeryong'oqda",
+        "Soxta kashtanda",
+        "Qulupnayda",
+        "Shirinmiyada"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Ba'zan toq bargchalar o'rnida nima hosil bo'ladi?",
+      "options": [
+        "Tikanlar",
+        "Kurtaklar",
+        "Ildizlar",
+        "Gajaklar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Toq bargchalar o'rnida gajaklar qaysi o'simliklarda hosil bo'ladi?",
+      "options": [
+        "Yeryong'oq va shirinmiyada",
+        "Loviya va moshda",
+        "Beda va sebargada",
+        "No'xat va burchoqda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Qaysi o'simliklarning bargi juda maydalashib, qipiq shakliga kelib qolgan?",
+      "options": [
+        "Saksovul, qandim",
+        "Olma, nok",
+        "No'xat, burchoq",
+        "Sebarga, beda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Saksovul bargi uzunligi qanchadan oshmaydi?",
+      "options": [
+        "2 mm dan",
+        "2 sm dan",
+        "10 mm dan",
+        "5 sm dan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Saksovul va qandim bargining bandi qanday?",
+      "options": [
+        "Gajakli bandli",
+        "Uzun bandli",
+        "Bandchalari ko'p",
+        "Bandi bo'lmaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Qipiq shaklidagi barg qaysi o'simlikka xos?",
+      "options": [
+        "Rovoch",
+        "Qandim",
+        "Qulupnay",
+        "Yantoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Moslang: 1) oddiy barg, 2) murakkab barg; a) tut, b) beda, c) yantoq, d) na'matak.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Moslang: 1) uch bargchali, 2) panjasimon murakkab, 3) juft patsimon, 4) toq patsimon; a) yeryong'oq, b) soxta kashtan, c) shirinmiya, d) sebarga.",
+      "options": [
+        "1a, 2b, 3d, 4c",
+        "1d, 2b, 3a, 4c",
+        "1b, 2d, 3a, 4c",
+        "1d, 2b, 3c, 4a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Moslang: 1) barg shakli, 2) barg qirrasi; a) yuraksimon, b) tishli, c) nashtarsimon, d) o'yilgan.",
+      "options": [
+        "1 – b, d; 2 – a, c",
+        "1 – a, c; 2 – b, d",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Juft patsimon va toq patsimon barglarning farqi qaysi javobda to'g'ri?",
+      "options": [
+        "Juft patsimonda bargchalar oxirigacha qarama-qarshi, toq patsimonda uchi bitta barg bilan tugaydi",
+        "Juft patsimonda uchi bitta barg bilan tugaydi, toq patsimonda bargchalar qarama-qarshi",
+        "Ikkalasi ham oddiy barg",
+        "Ikkalasida ham uchta bargcha bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "To'g'ri fikrlarni toping: 1) Olma bargi oddiy; 2) Soxta kashtan bargi panjasimon murakkab; 3) Shirinmiya bargi juft patsimon; 4) Saksovul bargi 2 mm dan oshmaydi.",
+      "options": [
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 4",
+        "1, 2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Noto'g'ri fikrlarni toping: 1) Beda uch bargchali murakkab bargli; 2) Yeryong'oq bargi toq patsimon; 3) No'xatda toq bargcha o'rnida gajak hosil bo'ladi; 4) G'o'za bargi murakkab.",
+      "options": [
+        "1, 3",
+        "1, 2",
+        "2, 4",
+        "3, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Rovoch bargi oddiy bo'ladi",
+        "Qandim bargi uzun bandli bo'ladi",
+        "Barglar qirrasi arrasimon bo'lishi mumkin",
+        "Qulupnay bargi uch bargchali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Qaysi javobda o'simlik va barg turi to'g'ri berilgan?",
+      "options": [
+        "Yeryong'oq – toq patsimon",
+        "Shirinmiya – juft patsimon",
+        "Burchoq – toq bargcha o'rnida gajak",
+        "Soxta kashtan – uch bargchali"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
