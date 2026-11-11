@@ -2,5 +2,380 @@
   "topicId": 17,
   "title": "NOVDADA BARGLARNING JOYLASHISHI",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "O'simliklar bargi novdada qanday joylashadi?",
+      "options": [
+        "Faqat novda uchida",
+        "Ma'lum tartibda",
+        "Faqat ildiz yonida",
+        "Tartibsiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Barglar novdada asosan qanday joylashadi?",
+      "options": [
+        "Faqat qarama-qarshi",
+        "Navbat bilan, qarama-qarshi va halqa hosil qilib",
+        "Faqat navbat bilan",
+        "Juft patsimon va toq patsimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Barglarning novdada joylashish turlari nechta?",
+      "options": [
+        "2 ta",
+        "4 ta",
+        "5 ta",
+        "3 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 4,
+      "question": "Qaysi qatorda barglari navbat bilan joylashgan o'simliklar berilgan?",
+      "options": [
+        "Olma, o'rik, do'lana, terak",
+        "Rayhon, yalpiz, chinnigul",
+        "Sambitgul, qirqbo'g'im, qumrio't",
+        "Nastarin, dalachoy, kiyiko't"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Quyidagilardan qaysi birining barglari navbat bilan joylashgan?",
+      "options": [
+        "Sambitgul",
+        "Rayhon",
+        "Yalpiz",
+        "Atirgul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Pomidor barglari novdada qanday joylashgan?",
+      "options": [
+        "Qarama-qarshi",
+        "Juft-juft",
+        "Navbat bilan",
+        "Halqasimon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "G'o'za barglari novdada qanday joylashgan?",
+      "options": [
+        "Qarama-qarshi",
+        "To'p-to'p",
+        "Navbat bilan",
+        "Halqasimon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Oqquray barglari novdada qanday joylashgan?",
+      "options": [
+        "Bitta-bitta uchida",
+        "Navbat bilan",
+        "Qarama-qarshi",
+        "Halqasimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Qanday barglar qarama-qarshi joylashgan barglar deyiladi?",
+      "options": [
+        "Har bir bo'g'imning ikki tomonida bir-biriga qarama-qarshi joylashsa",
+        "Har bir bo'g'imda bittadan barg navbat bilan joylashsa",
+        "Barglar faqat novda uchida joylashsa",
+        "Har bir bo'g'imdan bir nechtadan barg chiqib halqa hosil qilsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Qaysi qatorda barglari qarama-qarshi joylashgan o'simliklar berilgan?",
+      "options": [
+        "O'rik, terak, pomidor",
+        "Olma, tut, tok, g'o'za",
+        "Rayhon, yalpiz, chinnigul, nastarin",
+        "Sambitgul, qirqbo'g'im, qumrio't"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Quyidagilardan qaysi birining barglari qarama-qarshi joylashgan?",
+      "options": [
+        "Tut",
+        "Yalpiz",
+        "Tok",
+        "Qumrio't"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Ligustrum barglari novdada qanday joylashgan?",
+      "options": [
+        "Halqasimon",
+        "Tartibsiz",
+        "Qarama-qarshi",
+        "Navbat bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Kampirchopon barglari novdada qanday joylashgan?",
+      "options": [
+        "To'p-to'p",
+        "Navbat bilan",
+        "Qarama-qarshi",
+        "Halqasimon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Marmarak barglari novdada qanday joylashgan?",
+      "options": [
+        "Tartibsiz",
+        "Halqasimon",
+        "Navbat bilan",
+        "Qarama-qarshi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Gazanda barglari novdada qanday joylashgan?",
+      "options": [
+        "Qarama-qarshi",
+        "Halqasimon",
+        "Bitta-bitta uchida",
+        "Navbat bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Qanday joylashish halqasimon joylashish deyiladi?",
+      "options": [
+        "Har bir bo'g'imdan bir nechtadan barg chiqib halqa hosil qilsa",
+        "Barglar faqat novda uchida joylashsa",
+        "Bo'g'imning ikki tomonida barglar qarama-qarshi joylashsa",
+        "Barglar navbat bilan joylashsa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Qaysi qatorda barglari halqasimon joylashgan o'simliklar berilgan?",
+      "options": [
+        "Olma, o'rik, tut",
+        "Atirgul, g'o'za, pomidor",
+        "Sambitgul, qirqbo'g'im, qumrio't",
+        "Rayhon, yalpiz, dalachoy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Quyidagilardan qaysi birining barglari halqasimon joylashgan?",
+      "options": [
+        "Chinnigul",
+        "Kiyiko't",
+        "Qirqbo'g'im",
+        "Do'lana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Sambitgul barglari novdada qanday joylashgan?",
+      "options": [
+        "Tartibsiz",
+        "Qarama-qarshi",
+        "Navbat bilan",
+        "Halqasimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Halqasimon joylashishda har bir bo'g'imdan nechta barg chiqadi?",
+      "options": [
+        "Bir nechtadan",
+        "Faqat bittadan",
+        "Faqat ikkitadan",
+        "Umuman chiqmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Qarama-qarshi joylashishda barglar bo'g'imning qayerida joylashadi?",
+      "options": [
+        "Halqa shaklida",
+        "Ikki tomonida bir-biriga qarama-qarshi",
+        "Bo'g'im oralig'ida",
+        "Faqat bir tomonida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Novdada barglar qanday holatda joylashadi?",
+      "options": [
+        "Faqat soyada",
+        "Yerga qarab",
+        "Quyoshdan to'silgan holatda",
+        "Quyosh nuri bevosita tushib turadigan holatda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Barglar qayoqqa qarab o'girilib turadi?",
+      "options": [
+        "Shimolga qarab",
+        "Quyoshga qarab",
+        "Yerga qarab",
+        "Ildizga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Barglar novdada ko'p va qalin bo'lsa ham qanday joylashadi?",
+      "options": [
+        "Hamma vaqt quyosh nuri bevosita tushadigan holatda",
+        "Tartibsiz",
+        "Bir-birini to'sib",
+        "Faqat pastki barglar yorug'lik oladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Moslang: 1) navbat bilan, 2) qarama-qarshi, 3) halqasimon; a) qumrio't, b) tut, c) nastarin.",
+      "options": [
+        "1a, 2c, 3b",
+        "1b, 2c, 3a",
+        "1b, 2a, 3c",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Moslang: 1) navbat bilan, 2) qarama-qarshi; a) olma, b) rayhon, c) terak, d) dalachoy.",
+      "options": [
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d",
+        "1 – a, c; 2 – b, d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Moslang: 1) qarama-qarshi, 2) halqasimon; a) har bo'g'imdan bir nechta barg halqa hosil qiladi, b) bo'g'imning ikki tomonida barglar bir-biriga qarama-qarshi.",
+      "options": [
+        "1a, 2b",
+        "1b, 2a",
+        "1b, 2b",
+        "1a, 2a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Ortiqchasini toping (barg joylashishi bo'yicha): olma, o'rik, tok, yalpiz.",
+      "options": [
+        "O'rik",
+        "Tok",
+        "Olma",
+        "Yalpiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Ortiqchasini toping (barg joylashishi bo'yicha): rayhon, chinnigul, nastarin, sambitgul.",
+      "options": [
+        "Nastarin",
+        "Sambitgul",
+        "Rayhon",
+        "Chinnigul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Ortiqchasini toping (barg joylashishi bo'yicha): sambitgul, qirqbo'g'im, qumrio't, g'o'za.",
+      "options": [
+        "Qirqbo'g'im",
+        "Qumrio't",
+        "Sambitgul",
+        "G'o'za"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Qaysi qatorda uchala joylashish turiga bittadan misol berilgan?",
+      "options": [
+        "Do'lana, kiyiko't, qirqbo'g'im",
+        "Olma, o'rik, tut",
+        "Sambitgul, qumrio't, olma",
+        "Rayhon, yalpiz, marmarak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "To'g'ri fikrlarni toping: 1) Atirgul barglari navbat bilan joylashgan; 2) Dalachoy barglari qarama-qarshi joylashgan; 3) Qumrio't barglari navbat bilan joylashgan; 4) Barglar quyoshga qarab o'giriladi.",
+      "options": [
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Noto'g'ri fikrlarni toping: 1) Tut barglari navbat bilan joylashgan; 2) Sambitgul barglari qarama-qarshi joylashgan; 3) Kiyiko't barglari qarama-qarshi joylashgan; 4) Pomidor barglari halqasimon joylashgan.",
+      "options": [
+        "3, 4",
+        "1, 3",
+        "2, 4",
+        "1, 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Qirqbo'g'im barglari halqasimon joylashgan",
+        "Yalpiz barglari qarama-qarshi joylashgan",
+        "Do'lana barglari navbat bilan joylashgan",
+        "Chinnigul barglari halqasimon joylashgan"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
