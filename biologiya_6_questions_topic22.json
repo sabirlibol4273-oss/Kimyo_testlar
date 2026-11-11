@@ -2,5 +2,534 @@
   "topicId": 22,
   "title": "TO‘PGULLAR",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "To'pgul deb nimaga aytiladi?",
+      "options": [
+        "Gul bandiga",
+        "Bitta yirik gulga",
+        "Bir-biriga yaqin joylashgan bir nechta gullar yig'indisiga",
+        "Gulning gulqo'rg'oniga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "To'pgul hosil qilmaydigan, yakka gulli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Karam, rediska, jag'-jag'",
+        "Olma, nok, gilos",
+        "Sabzi, ukrop, petrushka",
+        "Lola, binafsha, behi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Quyidagilardan qaysi birining guli yakka joylashgan?",
+      "options": [
+        "Karam",
+        "Binafsha",
+        "Kungaboqar",
+        "Sebarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "To'pguldagi gullar yakka gullarga qaraganda qanday changlanadi?",
+      "options": [
+        "Bir xil changlanadi",
+        "Umuman changlanmaydi",
+        "Yaxshi changlanadi",
+        "Yomon changlanadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Asosiy gulpoyaning boshqa nomi nima?",
+      "options": [
+        "Gulo'rni",
+        "To'pgul o'qi",
+        "Gulband",
+        "Ustuncha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Qanday to'pgullar oddiy to'pgullar deyiladi?",
+      "options": [
+        "Yakka gullar",
+        "Gulqo'rg'onsiz gullar",
+        "Gullari asosiy gulpoyada (to'pgul o'qida) joylashgan to'pgullar",
+        "Bir qancha oddiy to'pgullar yig'indisi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Murakkab to'pgul qanday hosil bo'ladi?",
+      "options": [
+        "Bitta yakka guldan",
+        "Faqat urug'chili gullardan",
+        "Faqat changchili gullardan",
+        "Bir qancha oddiy to'pgullarning yig'indisidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Shingil to'pgulda gullar qanday joylashadi?",
+      "options": [
+        "Likopchasimon gulpoya uchida",
+        "Uzun gulpoyada gulbandlari yordamida navbat bilan",
+        "Gulpoya uchida bir xil uzun bandlarda",
+        "Uzun gulpoyada bandsiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Shingil to'pgulli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Olma, nok, gilos, olcha",
+        "Kungaboqar, qoqio't",
+        "Karam, qurttana, jag'-jag', rediska",
+        "Sabzi, ukrop, petrushka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Rediskaning to'pguli qanday?",
+      "options": [
+        "Soyabon",
+        "Boshoq",
+        "Savatcha",
+        "Shingil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Zubturumning to'pguli qanday ataladi?",
+      "options": [
+        "Kuchala",
+        "Oddiy boshoq",
+        "Shingil",
+        "So'ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Oddiy boshoqda gullar qanday joylashadi?",
+      "options": [
+        "Gulpoya uchida soyabonsimon",
+        "Uzun gulpoyada bandlari bilan",
+        "Kalta gulpoyada sharsimon",
+        "Uzun gulpoyada bandsiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Olma, nok, gilos, olchaning to'pguli qanday?",
+      "options": [
+        "Murakkab boshoq",
+        "Soyabon",
+        "Oddiy qalqonsimon",
+        "Shingil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Qalqoncha to'pgulda gullar qanday joylashadi?",
+      "options": [
+        "Bir xil uzunlikdagi bandli gullar gulpoya uchida",
+        "Likopchasimon gulpoyada",
+        "Turlicha uzunlikdagi bandli gullar kalta gulpoyada navbat bilan",
+        "Bandsiz gullar uzun gulpoyada"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Qalqonchada gulpoyaning pastki qismidagi gullar bandi qanday bo'ladi?",
+      "options": [
+        "Yuqoridagilarga nisbatan qisqaroq",
+        "Bandsiz",
+        "Hammasiniki bir xil",
+        "Yuqoridagilarga nisbatan uzunroq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Qalqonchada gullarning yuqori qismi qanday holatda bo'ladi?",
+      "options": [
+        "Bir xil tekislikda",
+        "Har xil balandlikda",
+        "Sharsimon",
+        "Osilgan holda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Qanday to'pgul so'ta deyiladi?",
+      "options": [
+        "Yo'g'on va uzun gulpoyada bandsiz gullar joylashgan to'pgul",
+        "Gulpoya uchi likopchasimon kengaygan to'pgul",
+        "Uzun gulpoyada bandli gullar joylashgan to'pgul",
+        "Kalta gulpoyada sharsimon to'pgul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Makkajo'xorining qaysi gullari so'tada to'plangan?",
+      "options": [
+        "Yakka gullari",
+        "Urug'chili gullari",
+        "Changchili gullari",
+        "Ikki jinsli gullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Sebarganing to'pguli qanday ataladi?",
+      "options": [
+        "Shingil",
+        "Boshcha (kallakcha)",
+        "Soyabon",
+        "Savatcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Boshcha to'pgulda gullar qanday joylashadi?",
+      "options": [
+        "Likopchasimon gulpoyada",
+        "Uzun gulpoyada bandli",
+        "Osilgan gulpoyada",
+        "Kalta va yo'g'on gulpoyada bandsiz, sharsimon shaklda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Soyabon to'pgulda gullar qanday joylashadi?",
+      "options": [
+        "Bir xil uzunlikdagi bandi bilan gulpoyaning uchki qismida",
+        "Bandsiz uzun gulpoyada",
+        "Turlicha uzunlikdagi bandlar bilan navbat bilan",
+        "Osilgan gulpoyada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Piyozning to'pguli qanday?",
+      "options": [
+        "Savatcha",
+        "Soyabon",
+        "So'ta",
+        "Shingil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qanday to'pgul savatcha deyiladi?",
+      "options": [
+        "Bandsiz gullar uzun gulpoyada joylashgan to'pgul",
+        "Gullari sharsimon joylashgan to'pgul",
+        "Gulpoyasi osilib turadigan to'pgul",
+        "Gulpoyasining uchi etdor likopchasimon kengaygan to'pgul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Savatchani tashqi tomondan nima o'rab turadi?",
+      "options": [
+        "Tangachalar",
+        "O'rama barglar",
+        "Gajaklar",
+        "Gulkosachabarglar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Savatcha to'pgulli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Sebarga, zubturum",
+        "Kungaboqar, qoqio't",
+        "Piyoz, sabzi",
+        "Olma, nok"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Qaysi o'simliklarning changchili gullari kuchala to'pgulga yig'ilgan?",
+      "options": [
+        "Bug'doy, arpa, javdar",
+        "Olma, nok, gilos",
+        "Kungaboqar, qoqio't",
+        "Yong'oq, oqqayin, tol"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Kuchala qaysi to'pgulga o'xshaydi?",
+      "options": [
+        "Boshoqqa",
+        "Savatchaga",
+        "Qalqonchaga",
+        "Soyabonga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Kuchala boshoqdan nimasi bilan farq qiladi?",
+      "options": [
+        "Asosiy gulpoyasining osilib turishi bilan",
+        "Gullarining bandi uzunligi bilan",
+        "Gulpoyasining likopchasimonligi bilan",
+        "Gullari sharsimon joylashishi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Murakkab soyabon to'pgulli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Bug'doy, arpa, javdar",
+        "Piyoz, lola, binafsha",
+        "Nastarin, tok, sholi",
+        "Sabzi, ukrop, petrushka, shashir, bodiyon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Murakkab soyabon nimadan tashkil topadi?",
+      "options": [
+        "Oddiy boshoqchalardan",
+        "Asosiy gulpoya uchidagi oddiy soyabonchalardan",
+        "Shingillardan",
+        "Savatchalardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Ukropning boshqa nomi nima?",
+      "options": [
+        "Shashir",
+        "Petrushka",
+        "Bodiyon",
+        "Shivit"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Murakkab boshoq to'pgulli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Bug'doy, arpa, javdar, bug'doyiq",
+        "Nastarin, tok",
+        "Sabzi, ukrop, petrushka",
+        "Zubturum, sebarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Murakkab boshoq nimadan tarkib topadi?",
+      "options": [
+        "Qalqonchalardan",
+        "Oddiy soyabonchalardan",
+        "Asosiy gulpoyadagi oddiy boshoqchalardan",
+        "Savatchalardan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Murakkab shingil nimalardan iborat bo'ladi?",
+      "options": [
+        "Faqat soyabonchalardan",
+        "Faqat yakka gullardan",
+        "Asosiy gulpoyadagi shingillardan yoki boshoqchalardan",
+        "Faqat savatchalardan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Shingillardan iborat murakkab shingil qaysi o'simliklarda bo'ladi?",
+      "options": [
+        "Sholi, suli",
+        "Bug'doy, arpa",
+        "Nastarin, tok",
+        "Sabzi, ukrop"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Boshoqchalardan iborat murakkab shingil qaysi o'simliklarda bo'ladi?",
+      "options": [
+        "Nastarin, tok",
+        "Kungaboqar, qoqio't",
+        "Sholi, suli",
+        "Sabzi, petrushka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Makkajo'xorining changchili gullari qanday to'pgulga yig'ilgan?",
+      "options": [
+        "Murakkab shingil",
+        "Murakkab soyabon",
+        "So'ta",
+        "Savatcha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Moslang: 1) shingil, 2) savatcha, 3) soyabon, 4) boshcha; a) piyoz, b) sebarga, c) karam, d) kungaboqar.",
+      "options": [
+        "1c, 2a, 3d, 4b",
+        "1d, 2c, 3a, 4b",
+        "1b, 2d, 3a, 4c",
+        "1c, 2d, 3a, 4b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Moslang: 1) murakkab soyabon, 2) murakkab boshoq, 3) kuchala; a) javdar, b) oqqayin, c) bodiyon.",
+      "options": [
+        "1c, 2a, 3b",
+        "1a, 2c, 3b",
+        "1b, 2a, 3c",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Moslang: 1) oddiy to'pgul, 2) murakkab to'pgul; a) qalqoncha, b) murakkab boshoq, c) so'ta, d) murakkab soyabon.",
+      "options": [
+        "1 – a, c; 2 – b, d",
+        "1 – a, b; 2 – c, d",
+        "1 – a, d; 2 – b, c",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Makkajo'xori to'pgullari to'g'ri berilgan javobni toping.",
+      "options": [
+        "Urug'chili gullari – so'ta, changchili gullari – murakkab shingil",
+        "Ikkalasi ham so'ta",
+        "Urug'chili gullari – murakkab shingil, changchili gullari – so'ta",
+        "Ikkalasi ham murakkab boshoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Soyabon va murakkab soyabon misollari to'g'ri berilgan javobni toping.",
+      "options": [
+        "Soyabon – kungaboqar; murakkab soyabon – bug'doy",
+        "Ikkalasi ham – piyoz",
+        "Soyabon – piyoz; murakkab soyabon – sabzi",
+        "Soyabon – sabzi; murakkab soyabon – piyoz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Ortiqchasini toping (murakkab soyabon): sabzi, petrushka, shashir, karam.",
+      "options": [
+        "Shashir",
+        "Petrushka",
+        "Karam",
+        "Sabzi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Ortiqchasini toping (yakka gulli): lola, binafsha, behi, olma.",
+      "options": [
+        "Binafsha",
+        "Behi",
+        "Olma",
+        "Lola"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Ortiqchasini toping (murakkab boshoq): bug'doy, arpa, javdar, zubturum.",
+      "options": [
+        "Zubturum",
+        "Arpa",
+        "Javdar",
+        "Bug'doy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "To'g'ri fikrlarni toping: 1) Qoqio't to'pguli savatcha; 2) Olcha to'pguli qalqonsimon; 3) Piyoz to'pguli murakkab soyabon; 4) Tok to'pguli murakkab shingil.",
+      "options": [
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 3",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Noto'g'ri fikrlarni toping: 1) To'pguldagi gullar yaxshi changlanadi; 2) Zubturum to'pguli savatcha; 3) Sebarga to'pguli boshcha; 4) Behi to'pgul hosil qiladi.",
+      "options": [
+        "2, 4",
+        "1, 3",
+        "3, 4",
+        "1, 2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Jag'-jag' to'pguli shingil",
+        "Qalqonchada pastki gullarning bandi qisqaroq bo'ladi",
+        "Savatchani o'rama barglar o'raydi",
+        "Kuchala gulpoyasi osilib turadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
