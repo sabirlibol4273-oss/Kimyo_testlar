@@ -2,5 +2,1018 @@
   "topicId": 12,
   "title": "Parazit chuvalchanglarning xilma-xilligi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Exinokokk yassi chuvalchanglar tipining qaysi sinfiga kiradi?",
+      "options": [
+        "Tasmasimon chuvalchanglar sinfi",
+        "So‘rg‘ichlilar sinfi",
+        "Kiprikli chuvalchanglar sinfi",
+        "Birlamchi bo‘shliqlilar sinfi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Exinokokkning uzunligi qancha bo‘ladi?",
+      "options": [
+        "3–6 sm",
+        "5–10 mm",
+        "32–100 sm",
+        "0,3–0,6 mm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Exinokokk qaysi hayvonlar ichagida parazitlik qiladi?",
+      "options": [
+        "It, bo‘ri va tulki",
+        "Qoramol, qo‘y va ot",
+        "Cho‘chqa va tuya",
+        "Odam va maymun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Exinokokk ichak devoriga nima yordamida yopishib oladi?",
+      "options": [
+        "Boshidagi ikki juft so‘rg‘ichi yordamida",
+        "Tanasining oxirgi bo‘g‘imi yordamida",
+        "Kipriklari yordamida",
+        "Og‘iz atrofidagi tikanlari yordamida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Exinokokk tanasi nechta bo‘g‘imdan iborat?",
+      "options": [
+        "2–3 ta",
+        "10–12 ta",
+        "20–25 ta",
+        "5–6 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Exinokokkning qaysi bo‘g‘imi hayvon axlati bilan tashqariga chiqib ketadi?",
+      "options": [
+        "Boshidagi birinchi bo‘g‘imi",
+        "Tanasining o‘rtasidagi bo‘g‘imi",
+        "Tuxumga to‘lgan oxirgi bo‘g‘imi",
+        "Barcha bo‘g‘imlari birdaniga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Exinokokkning oxirgi bo‘g‘imi chiqib ketgach nima sodir bo‘ladi?",
+      "options": [
+        "Uning o‘rniga yana boshqasi hosil bo‘ladi",
+        "Parazit nobud bo‘ladi",
+        "Tanasi qisqarib, bo‘g‘imlari yo‘qoladi",
+        "Yangi bo‘g‘im hosil bo‘lmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Exinokokk tuxumlari qoramol, qo‘y, ot va tuya ichagiga qanday yo‘l bilan tushadi?",
+      "options": [
+        "Havo orqali",
+        "Yem-xashak orqali",
+        "Teri orqali",
+        "Hasharotlar chaqishi orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Exinokokk tuxumlaridan chiqqan lichinkalar qon orqali qayerlarga boradi?",
+      "options": [
+        "Faqat ichak devoriga",
+        "O‘pka, jigar yoki boshqa organlarga",
+        "Faqat teri ostiga",
+        "Faqat suyak iligiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Exinokokk pufagi (finna) qanday kattalikda bo‘ladi?",
+      "options": [
+        "No‘xatdek, hech qachon undan katta bo‘lmaydi",
+        "Faqat mikroskopda ko‘rinadigan darajada kichik",
+        "Juda yirik, ba’zan chaqaloq boshidek va undan ham katta",
+        "Mushtdek, hech qachon undan katta bo‘lmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Exinokokk pufagi ichidagi suyuqlikda nima bo‘ladi?",
+      "options": [
+        "Voyaga yetgan chuvalchanglar",
+        "Faqat bitta yirik lichinka",
+        "Hazm shirasi va yog‘ tomchilari",
+        "Mikroskopda ko‘rinadigan juda ko‘p sonli lichinkalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Itlar va yirtqich hayvonlar exinokokkni qanday yuqtiradi?",
+      "options": [
+        "Ifloslangan suvni ichganida",
+        "Ko‘katlarni yeganida",
+        "O‘txo‘r hayvonlarning pufakli ichki organlarini yeganida",
+        "Chivinlar chaqqanida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Exinokokk lichinkalari itlar va yirtqichlarning qayerida voyaga yetadi?",
+      "options": [
+        "O‘pkasida",
+        "Jigarida",
+        "Ichagida",
+        "Qonida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Kasal hayvon ichagidan axlat bilan nima ko‘p miqdorda chiqib turadi?",
+      "options": [
+        "Voyaga yetgan chuvalchanglar",
+        "Exinokokk tuxumlari",
+        "Tirik lichinkalar",
+        "Pufaklar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Exinokokk tuxumlari hayvonning qaysi qismiga yopishib qolishi odamga yuqish xavfini tug‘diradi?",
+      "options": [
+        "Tuyoqlariga",
+        "Tishlariga",
+        "Ko‘ziga",
+        "Yungiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Odam exinokokk tuxumlarini qanday yuqtiradi?",
+      "options": [
+        "Yaxshi pishirilmagan cho‘chqa go‘shtini yeganida",
+        "Siklopli suvni ichganida",
+        "Kasal itni erkalatganida",
+        "Kasal odamning to‘shagidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Exinokokk uchun odam qanday xo‘jayin hisoblanadi?",
+      "options": [
+        "Oraliq xo‘jayin",
+        "Asosiy xo‘jayin",
+        "Yagona xo‘jayin",
+        "Vaqtinchalik xo‘jayin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Exinokokkning asosiy xo‘jayini kim?",
+      "options": [
+        "Odam va o‘txo‘r hayvonlar",
+        "It va boshqa yirtqich hayvonlar",
+        "Qoramol va qo‘y",
+        "Faqat bo‘ri"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Exinokokkning oraliq xo‘jayinlari qatoriga qaysi hayvon kiradi?",
+      "options": [
+        "It",
+        "Bo‘ri",
+        "Tulki",
+        "Qo‘y"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Cho‘chqa tasmasimon chuvalchangi qaysi tip va sinfga kiradi?",
+      "options": [
+        "To‘garak chuvalchanglar tipiga",
+        "Halqali chuvalchanglar tipiga",
+        "Yassi chuvalchanglar tipining tasmasimon chuvalchanglar sinfiga",
+        "Yassi chuvalchanglar tipining so‘rg‘ichlilar sinfiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Cho‘chqa tasmasimon chuvalchangining tuzilishi va hayot kechirishi qaysi chuvalchangnikiga o‘xshash?",
+      "options": [
+        "Jigar qurtinikiga",
+        "Askaridanikiga",
+        "Exinokokknikiga",
+        "Qoramol tasmasimon chuvalchanginikiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Cho‘chqa tasmasimon chuvalchangi voyaga yetgan davrida qayerda yashaydi?",
+      "options": [
+        "Odam ichagida",
+        "Cho‘chqa muskulida",
+        "It ichagida",
+        "Cho‘chqa jigarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Cho‘chqa tasmasimon chuvalchangining lichinkasi qayerda uchraydi?",
+      "options": [
+        "Cho‘chqalar muskulida",
+        "Odam ichagida",
+        "Qoramol jigarida",
+        "It ichagida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Odam cho‘chqa tasmasimon chuvalchangining finnasini qanday yuqtiradi?",
+      "options": [
+        "Kasal itni erkalatib",
+        "Yaxshi pishirilmagan cho‘chqa go‘shtini iste’mol qilib",
+        "Siklopli suvni ichib",
+        "Iflos qo‘l orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Bolalar gijjasi qaysi tipga kiradi?",
+      "options": [
+        "To‘garak chuvalchanglar tipiga",
+        "Yassi chuvalchanglar tipiga",
+        "Halqali chuvalchanglar tipiga",
+        "Bo‘g‘imoyoqlilar tipiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Bolalar gijjasi ayniqsa qaysi odamlar ichagida parazitlik qiladi?",
+      "options": [
+        "Keksa yoshdagi odamlar",
+        "Faqat chaqaloqlar",
+        "Kichik yoshdagi bolalar",
+        "Homilador ayollar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Bolalar gijjasining rangi va o‘lchami qanday?",
+      "options": [
+        "Qizil rangli, 32–100 sm",
+        "Qora rangli, 0,3–0,6 mm",
+        "Oqish rangli, 5–10 mm",
+        "Och yashil, 3–6 sm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Urug‘langan urg‘ochi bolalar gijjasi qayerda yashay boshlaydi?",
+      "options": [
+        "Oshqozonda",
+        "Orqa chiqaruv teshigi yaqinida",
+        "Jigarda",
+        "O‘pkada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Bolalar gijjasining urg‘ochisi tuxumni qachon qo‘yadi?",
+      "options": [
+        "Kunduzi",
+        "Ovqatlangandan keyin",
+        "Faqat yozda",
+        "Kechasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Gijja tuxum qo‘yayotganda odamda qanday holat kuzatiladi?",
+      "options": [
+        "Teri qizarmasdan og‘riq paydo bo‘ladi",
+        "Teri qattiq qichishib, kishini bezovta qiladi",
+        "Ho‘l yara hosil bo‘ladi",
+        "Teri ostida kalavasimon o‘ram sezilib turadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Gijja tuxumlari ichakka qanday tushsa, qaytadan rivojlana boshlaydi?",
+      "options": [
+        "Pishmagan go‘sht orqali",
+        "Siklopli suv orqali",
+        "Hasharotlar orqali",
+        "Iflos qo‘l orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Gijja tuxumlari qaysi buyumlar orqali yuqadi?",
+      "options": [
+        "Faqat ichimlik suvi",
+        "Faqat cho‘chqa go‘shti",
+        "Faqat kasal hayvonlarning yungi",
+        "Kasal odamning kiyimi, to‘shagi va boshqa buyumlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Rishta qaysi tipga mansub parazit?",
+      "options": [
+        "To‘garak chuvalchanglar tipiga",
+        "Yassi chuvalchanglar tipiga",
+        "Halqali chuvalchanglar tipiga",
+        "Bo‘g‘imoyoqlilar tipiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Rishta qaysi hududlarda tarqalgan?",
+      "options": [
+        "Tropik va subtropik o‘lkalarda",
+        "Sovuq mo‘tadil o‘lkalarda",
+        "Faqat qutb hududlarida",
+        "Faqat cho‘l va tog‘li hududlarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Rishtaning tanasi va uzunligi qanday?",
+      "options": [
+        "Tasmasimon, 0,3–0,6 mm",
+        "Oqish, 5–10 mm",
+        "Bo‘g‘imli, 5–6 bo‘g‘imdan iborat",
+        "Ipga o‘xshash, 32 sm dan 100 sm gacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Rishta qayerda parazitlik qiladi?",
+      "options": [
+        "Oyoq, ba’zan qo‘l terisi ostidagi biriktiruvchi to‘qimada",
+        "Ichakda",
+        "Jigarda",
+        "O‘pkada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Terining rishta bilan zararlangan joyida nima paydo bo‘ladi?",
+      "options": [
+        "Quruq po‘st",
+        "Qora dog‘",
+        "Ho‘l yara",
+        "Bo‘rtma va qichima"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Rishtaning qaysi qismi yaradan chiqib turadi?",
+      "options": [
+        "Tanasining bir qismi",
+        "Faqat boshi",
+        "Tuxumlari",
+        "Faqat lichinkalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Rishtaning qolgan qismi yara ostida qanday holatda bo‘ladi?",
+      "options": [
+        "Kalavaga o‘xshab o‘ralib yotadi",
+        "To‘g‘ri cho‘zilib yotadi",
+        "Pufak hosil qiladi",
+        "Ichakka tushib ketadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Rishta qanday ko‘payadi?",
+      "options": [
+        "Tuxum qo‘yib",
+        "Bo‘laklarga bo‘linib",
+        "Kurtaklanib",
+        "Tirik lichinkalar tug‘ib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Rishta lichinkalari qachon suvga chiqadi?",
+      "options": [
+        "Odam ovqatlanganida",
+        "Hayvon axlati bilan tashqariga chiqqanida",
+        "Zararlangan odam yoki hayvon suvga tushganida",
+        "Lichinka voyaga yetganida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Suvdagi rishta lichinkalarini kim yutib yuboradi?",
+      "options": [
+        "Daydi it",
+        "Qoramol",
+        "Suv o‘tlari",
+        "Siklop"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "Siklop qanday jonivor?",
+      "options": [
+        "Suvda yashovchi mayda chuvalchang",
+        "Suvdagi juda mayda qisqichbaqasimon",
+        "Suv o‘simligi",
+        "Baliq lichinkasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Odam rishtani qanday yuqtiradi?",
+      "options": [
+        "Kasal itni erkalatganida",
+        "Siklopli suvni ichganida",
+        "Pishmagan go‘sht yeganida",
+        "Iflos qo‘l orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Rishta lichinkasi odam tanasida qancha vaqtda voyaga yetadi?",
+      "options": [
+        "Bir yil davomida",
+        "Bir hafta davomida",
+        "Bir oy davomida",
+        "Besh yil davomida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "O‘zbekistonda rishta aholi orasida qanday natija bilan tugatilgan?",
+      "options": [
+        "Barcha itlarni yo‘q qilish natijasida",
+        "Aholini toza ichimlik suv bilan ta’minlash natijasida",
+        "Go‘shtni yaxshi pishirish natijasida",
+        "Ko‘lmak suvlarni quritish natijasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Hozirgi paytda rishta bilan zararlanish qayerda uchrab turadi?",
+      "options": [
+        "Aholi orasida keng tarqalgan",
+        "Faqat uy hayvonlarida",
+        "Yovvoyi hayvonlarda",
+        "Faqat bolalarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Bo‘rtma nematoda qayerda parazitlik qiladi?",
+      "options": [
+        "O‘simliklarning barglarida",
+        "O‘simliklarning yer ostki qismida",
+        "O‘simlik mevasida",
+        "Hayvonlar ichagida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Kasallangan o‘simlik ildizida nima hosil bo‘ladi?",
+      "options": [
+        "Qora dog‘lar",
+        "Oq mog‘orlar",
+        "No‘xatdek va undan yirikroq bo‘rtmalar",
+        "Pufaklar (finna)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Nematoda bilan zararlangan o‘simlikning holati qanday bo‘ladi?",
+      "options": [
+        "Tez o‘sib, hosili ko‘payadi",
+        "Faqat bargi to‘kiladi",
+        "O‘zgarishsiz qoladi",
+        "O‘sish va rivojlanishdan qoladi, hosili kamayadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Kuchli zararlangan o‘simliklar bilan nima bo‘ladi?",
+      "options": [
+        "Bir yildan keyin tuzaladi",
+        "Hosildorligi oshadi",
+        "Faqat mevasi o‘zgaradi",
+        "Tez orada halok bo‘ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 52,
+      "question": "Bo‘rtma nematoda ayniqsa qaysi ekinlarga katta ziyon yetkazadi?",
+      "options": [
+        "Bug‘doy va arpaga",
+        "Sholi va makkajo‘xoriga",
+        "Bodring va pomidorga",
+        "Arpa va javdarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Parazit hayot kechirish chuvalchanglarning nimasiga katta ta’sir qilgan?",
+      "options": [
+        "Faqat rangiga",
+        "Faqat o‘lchamiga",
+        "Tashqi tuzilishiga va hayot kechirish xususiyatlariga",
+        "Faqat yashash joyiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "Parazit hayotga moslashishdagi o‘zgarishlar qaysi chuvalchanglarda ayniqsa yaxshi ko‘zga tashlanadi?",
+      "options": [
+        "Yassi chuvalchanglarda",
+        "To‘garak chuvalchanglarda",
+        "Halqali chuvalchanglarda",
+        "Barcha chuvalchanglarda bir xil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Parazit yassi chuvalchanglarda qanday organlar paydo bo‘lgan?",
+      "options": [
+        "Kuchli harakat organlari",
+        "Ko‘rish organlari",
+        "Maxsus yopishish organlari",
+        "Nafas olish organlari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Parazit yassi chuvalchanglarda qaysi sistema yo‘qolgan?",
+      "options": [
+        "Jinsiy sistema",
+        "Yopishish organlari",
+        "Ko‘paytiruvchi sistema",
+        "Hazm qilish sistemasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Parazit yassi chuvalchanglarda qaysi organlar juda kuchli rivojlangan?",
+      "options": [
+        "Hazm qilish organlari",
+        "Jinsiy organlar",
+        "Sezgi organlari",
+        "Harakat organlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Parazit chuvalchanglar nima uchun juda ko‘p nasl qoldiradi?",
+      "options": [
+        "Ko‘pchiligi tashqi muhitda o‘z xo‘jayinini topolmay qirilib ketadi",
+        "Ular juda uzoq yashaydi",
+        "Ular doimo bitta xo‘jayinda yashaydi",
+        "Xo‘jayinlari ularni himoya qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Qaysi parazitlar lichinkalik davrida ham ko‘payish xususiyatiga ega?",
+      "options": [
+        "Jigar qurti va exinokokk",
+        "Askarida va bolalar gijjasi",
+        "Rishta va bo‘rtma nematoda",
+        "Cho‘chqa va qoramol tasmasimon chuvalchangi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Tasmasimon chuvalchanglarni yuqtirmaslik uchun nima qilish lozim?",
+      "options": [
+        "Ko‘lmak suvni qaynatib ichish",
+        "Go‘sht mahsulotlarini yaxshi pishirib iste’mol qilish",
+        "Itlarni erkalatmaslik",
+        "Faqat qo‘lni yuvish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "Tasmasimon chuvalchanglar tarqalishining oldini olish uchun hayvonlarning zararlangan organlari bilan nima qilish kerak?",
+      "options": [
+        "Itlarga pishirib berish",
+        "Daladagi ko‘katlar ustiga tashlash",
+        "Itlarga bermaslik",
+        "Suvga tashlash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 62,
+      "question": "Kushxonalardan chiqayotgan go‘sht mahsulotlariga nisbatan qanday chora zarur?",
+      "options": [
+        "Pishirmasdan sotish",
+        "Qat’iy nazorat ostiga olish",
+        "Faqat itlarga berish",
+        "Nazorat qilmasdan ruxsat berish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Exinokokk bilan zararlanishning oldini olish uchun nima qilish kerak?",
+      "options": [
+        "Faqat ko‘lmak suvlarni ichmaslik",
+        "Faqat go‘shtni yaxshi pishirish",
+        "Faqat sabzavotlarni yuvish",
+        "Daydi itlarga qarshi kurashish va shaxsiy gigiyena qoidalariga rioya qilish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 64,
+      "question": "Jigar qurti yuqmasligi uchun nima qilish kerak?",
+      "options": [
+        "Itlarni erkalatmaslik",
+        "Cho‘chqa go‘shtini yaxshi pishirish",
+        "Kechasi terini yuvish",
+        "Ko‘lmak suvlarni ichmaslik va ko‘katlarni yaxshi yuvish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 65,
+      "question": "Askarida va bolalar gijjasini yuqtirmaslik uchun qaysi chora zarur?",
+      "options": [
+        "Faqat suvni qaynatish",
+        "Ovqatlanishdan oldin qo‘lni sovunlab yuvish, meva va sabzavotlarni yuvish",
+        "Daydi itlarga qarshi kurash",
+        "Faqat go‘shtni yaxshi pishirish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Parazit chuvalchanglarni qaysi fan o‘rganadi?",
+      "options": [
+        "Gelmintologiya",
+        "Entomologiya",
+        "Ornitologiya",
+        "Gidrobiologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Gelmintlarga qarshi kurash choralarini ishlab chiqishda qaysi olim boshchilik qilgan?",
+      "options": [
+        "A.T. To‘laganov",
+        "M.A. Sultonov",
+        "K.I. Skryabin",
+        "E.X. Ergashev"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "Ibn Sino parazit chuvalchanglar haqida qaysi asarida yozgan?",
+      "options": [
+        "«Kitob ush-shifo»",
+        "«Tib qonunlari»",
+        "«Donishnoma»",
+        "«Hayy ibn Yaqzon»"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Ibn Sino odam ichagidagi parazit chuvalchanglarni qanday haydab chiqarish haqida yozgan?",
+      "options": [
+        "Jarrohlik yo‘li bilan",
+        "Faqat parhez yordamida",
+        "Suv muolajalari yordamida",
+        "Dorivor giyohlar yordamida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "O‘zbek olimlaridan A.T. To‘laganov nimalarni o‘rgangan?",
+      "options": [
+        "Faqat uy hayvonlari gelmintlarini",
+        "O‘simlik gelmintlarini",
+        "Faqat yovvoyi hayvonlar gelmintlarini",
+        "Faqat odam gelmintlarini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "M.A. Sultonov, J.A. Azimov va E.X. Ergashev qanday gelmintlarni o‘rganishgan?",
+      "options": [
+        "Faqat odam gelmintlarini",
+        "Yovvoyi va uy hayvonlari hamda o‘simlik gelmintlarini",
+        "Faqat suv gelmintlarini",
+        "Faqat tuproq gelmintlarini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 72,
+      "question": "Olimlar olib borgan tadqiqotlar nimaga imkon berdi?",
+      "options": [
+        "Parazit turlarini ko‘paytirishga",
+        "Rishtani butun dunyoda tarqatishga",
+        "Parazit chuvalchanglar yetkazadigan zararni keskin kamaytirishga",
+        "Gelmintologiya fanini bekor qilishga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Quyidagilardan qaysi biri exinokokkka xos EMAS?",
+      "options": [
+        "Tanasi 5–6 bo‘g‘imdan iborat",
+        "Boshida ikki juft so‘rg‘ichi bor",
+        "Uzunligi 32–100 sm bo‘ladi",
+        "It ichagida parazitlik qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "Quyidagilardan qaysi biri bolalar gijjasiga xos EMAS?",
+      "options": [
+        "To‘garak chuvalchanglar tipiga kiradi",
+        "Kechasi chiqaruv teshigi atrofiga tuxum qo‘yadi",
+        "Kichik yoshdagi bolalar ichagida parazitlik qiladi",
+        "Yassi chuvalchanglar tipiga kiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "Quyidagilardan qaysi biri rishtaga xos EMAS?",
+      "options": [
+        "Tirik lichinka tug‘adi",
+        "Odam ichagida voyaga yetadi",
+        "Teri ostida parazitlik qiladi",
+        "Lichinkasini siklop yutadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 76,
+      "question": "Quyidagilardan qaysi biri yassi chuvalchanglarning parazitlikka moslashish belgisi EMAS?",
+      "options": [
+        "Hazm qilish sistemasining kuchli rivojlanishi",
+        "Yopishish organlarining paydo bo‘lishi",
+        "Jinsiy organlarning kuchli rivojlanishi",
+        "Nasl qoldirishning ko‘p bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "Quyidagi parazitlardan qaysi biri hayvon yoki odam organizmida EMAS, balki o‘simlikda parazitlik qiladi?",
+      "options": [
+        "Bo‘rtma nematoda",
+        "Rishta",
+        "Exinokokk",
+        "Bolalar gijjasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 78,
+      "question": "Quyidagi parazitlardan qaysi birida odam oraliq xo‘jayin hisoblanadi?",
+      "options": [
+        "Cho‘chqa tasmasimon chuvalchangi",
+        "Bolalar gijjasi",
+        "Bo‘rtma nematoda",
+        "Exinokokk"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Itni erkalatgan odam nima uchun exinokokkni yuqtirishi mumkin?",
+      "options": [
+        "It tishlaganda lichinkalar qonga o‘tadi",
+        "It nafasi orqali tuxumlar tarqaladi",
+        "Tuxumlar hayvonning yungiga yopishib qoladi",
+        "Itning terisida rishta bo‘ladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 80,
+      "question": "Cho‘chqa go‘shtini yaxshi pishirmaslik qanday xavf tug‘diradi?",
+      "options": [
+        "Bolalar gijjasini yuqtiradi",
+        "Parazit finnasini yuqtirishga olib keladi",
+        "Rishtani yuqtiradi",
+        "Bo‘rtma nematodani yuqtiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "Parazitlarni ular parazitlik qiladigan joy bilan moslashtiring:\n1. Exinokokk (voyaga yetgan davri)\n2. Bolalar gijjasi\n3. Rishta\n4. Bo‘rtma nematoda\n\na) it, bo‘ri va tulki ichagi\nb) oyoq yoki qo‘l terisi ostidagi biriktiruvchi to‘qima\nc) o‘simlikning yer ostki qismi (ildizi)\nd) odam, ayniqsa kichik yoshdagi bolalar ichagi",
+      "options": [
+        "1-a, 2-b, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-a, 2-d, 3-b, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 82,
+      "question": "Parazitlarning tashqi belgilarini ularning nomi bilan moslashtiring:\n1. Uzunligi 0,3–0,6 mm, tanasi 5–6 bo‘g‘imdan iborat\n2. Oqish rangli, uzunligi 5–10 mm\n3. Ipga o‘xshash, uzunligi 32–100 sm\n4. O‘simlik ildizida no‘xatdek va undan yirik bo‘rtmalar hosil qiladi\n\na) Rishta\nb) Exinokokk\nc) Bo‘rtma nematoda\nd) Bolalar gijjasi",
+      "options": [
+        "1-a, 2-d, 3-b, 4-c",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-b, 2-a, 3-d, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Zararlanish yo‘lini parazit bilan moslashtiring:\n1. Kasal itni erkalatganda yuqadi\n2. Yaxshi pishirilmagan cho‘chqa go‘shti orqali yuqadi\n3. Iflos qo‘l, kasal odamning kiyimi va to‘shagi orqali yuqadi\n4. Mayda qisqichbaqasimon siklopli suvni ichganda yuqadi\n\na) Exinokokk\nb) Rishta\nc) Cho‘chqa tasmasimon chuvalchangi\nd) Bolalar gijjasi",
+      "options": [
+        "1-a, 2-d, 3-c, 4-b",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-a, 2-b, 3-d, 4-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 84,
+      "question": "Xo‘jayin turlarini tegishli hayvon yoki organ bilan moslashtiring:\n1. Exinokokkning asosiy xo‘jayini\n2. Exinokokkning oraliq xo‘jayini\n3. Cho‘chqa tasmasimon chuvalchangi voyaga yetgan davrida yashaydigan joy\n4. Cho‘chqa tasmasimon chuvalchangi lichinkasi uchraydigan joy\n\na) odam va o‘txo‘r hayvonlar\nb) cho‘chqa muskuli\nc) odam ichagi\nd) it va boshqa yirtqich hayvonlar",
+      "options": [
+        "1-a, 2-d, 3-c, 4-b",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-a, 3-c, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 85,
+      "question": "Rishtaning hayot kechirishiga oid ma’lumotlarni moslashtiring:\n1. Ko‘payish usuli\n2. Lichinkalarni suvdan yutib yuboradigan organizm\n3. Odam tanasida lichinkaning voyaga yetish muddati\n4. Tarqalgan hududlari\n\na) bir yil\nb) tirik lichinkalar tug‘adi\nc) siklop\nd) tropik va subtropik o‘lkalar",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Saqlanish choralarini ular oldini oladigan kasallik bilan moslashtiring:\n1. Ko‘lmak suvlarni ichmaslik, ko‘katlarni yaxshilab yuvish\n2. Daydi itlarga qarshi kurashish, hayvonlarning zararlangan organlarini itlarga bermaslik\n3. Go‘sht mahsulotlarini yaxshilab pishirib iste’mol qilish\n4. Ovqatlanishdan oldin qo‘lni sovunlab yuvish, meva va sabzavotlarni yuvish\n\na) Jigar qurti\nb) Tasmasimon chuvalchanglar\nc) Askarida va bolalar gijjasi\nd) Exinokokk",
+      "options": [
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-a, 3-b, 4-c",
+        "1-a, 2-d, 3-c, 4-b",
+        "1-a, 2-d, 3-b, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "Olimlarni ularning gelmintologiyaga qo‘shgan hissasi bilan moslashtiring:\n1. K.I. Skryabin\n2. Ibn Sino\n3. A.T. To‘laganov\n4. Gelmintologiya\n\na) parazit chuvalchanglarni o‘rganuvchi fan\nb) «Tib qonunlari» asarida dorivor giyohlar yordamida ichakdan parazitlarni haydash haqida yozgan\nc) gelmintlarga qarshi kurash choralarini ishlab chiqishda olimlarga boshchilik qilgan\nd) o‘simlik gelmintlarini o‘rgangan",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-c, 2-b, 3-d, 4-a",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "Chuvalchanglarning parazit hayotga moslashishini tegishli o‘zgarish bilan moslashtiring:\n1. Maxsus yopishish organlari\n2. Hazm qilish sistemasi\n3. Jinsiy organlar\n4. Tashqi muhitda ko‘pchilik tuxum va lichinkalar o‘z xo‘jayinini topolmay qirilib ketishi\n\na) juda ko‘p nasl qoldirish bilan qoplanadi\nb) juda kuchli rivojlangan\nc) yo‘qolgan\nd) paydo bo‘lgan",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-a, 3-b, 4-c",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 89,
+      "question": "Exinokokkning tuzilishi va rivojlanishidagi bosqichlarni moslashtiring:\n1. Boshidagi ikki juft so‘rg‘ich\n2. Tuxumga to‘lgan oxirgi bo‘g‘im\n3. Tuxumdan chiqqan lichinkalar\n4. Pufak (finna)\n\na) qon orqali o‘pka, jigar va boshqa organlarga boradi\nb) ichak devoriga yopishib olishga xizmat qiladi\nc) ba’zan chaqaloq boshidek bo‘lib, ichida mikroskopik lichinkalar to‘la suyuqlik bo‘ladi\nd) hayvon axlati bilan tashqariga chiqib ketadi",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 90,
+      "question": "Parazit lichinka yoki tuxumlarning joylashadigan yoki chiqadigan joyini moslashtiring:\n1. Exinokokk lichinkasi (oraliq xo‘jayinda)\n2. Cho‘chqa tasmasimon chuvalchangi lichinkasi\n3. Rishta lichinkasi (kasal odam suvga tushganda)\n4. Bolalar gijjasining tuxumi (kechasi)\n\na) suv, so‘ngra siklop tanasi\nb) orqa chiqaruv teshigi atrofidagi teri\nc) cho‘chqa muskuli\nd) o‘pka, jigar va boshqa ichki organlar",
+      "options": [
+        "1-d, 2-a, 3-c, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-b, 3-a, 4-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 91,
+      "question": "Parazit chuvalchanglardan saqlanish choralarini maqsadi bilan moslashtiring:\n1. Kushxonalardan chiqayotgan go‘shtni qat’iy nazoratga olish\n2. Hayvonlarning zararlangan organlarini itlarga bermaslik\n3. Ko‘lmak suvlarni ichmaslik\n4. Shaxsiy gigiyena qoidalariga qat’iy rioya qilish\n\na) exinokokk tarqalishining oldini olish\nb) jigar qurti yuqmasligi\nc) tasmasimon chuvalchanglar tarqalishining oldini olish\nd) askarida va bolalar gijjasi yuqmasligi",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 92,
+      "question": "Rishtaga oid holatlarni mazmuni bilan moslashtiring:\n1. O‘zbekistonda aholini toza ichimlik suv bilan ta’minlash natijasi\n2. Hozirgi paytda rishta bilan zararlanish\n3. Zararlangan teri joyida paydo bo‘ladigan o‘zgarish\n4. Tananing yara ostidagi qismi\n\na) ho‘l yara\nb) kalavaga o‘xshab o‘ralib yotadi\nc) rishta aholi orasida tugatilgan\nd) yovvoyi hayvonlarda uchrab turadi",
+      "options": [
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
