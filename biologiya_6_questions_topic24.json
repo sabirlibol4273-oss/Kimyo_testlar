@@ -2,5 +2,545 @@
   "topicId": 24,
   "title": "URUG‘",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Urug' qanday organ hisoblanadi?",
+      "options": [
+        "Nafas olish organi",
+        "Oziqlanish organi",
+        "Urug'li o'simliklarning ko'payish organi",
+        "Vegetativ organ"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Urug' qanday qismlardan iborat?",
+      "options": [
+        "Tuguncha, ustuncha, tumshuqcha",
+        "Ildiz, poya, barg",
+        "Changdon va changchi ipi",
+        "Murtak, endosperm va po'st"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "O'simliklar nimaga qarab bir va ikki urug'pallali o'simliklarga bo'linadi?",
+      "options": [
+        "Barg shakliga qarab",
+        "Urug'palla soniga qarab",
+        "Ildiz uzunligiga qarab",
+        "Gul rangiga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Ikki urug'pallali o'simliklar murtagi qanday qismlardan tashkil topgan?",
+      "options": [
+        "Faqat urug'pallalardan",
+        "Faqat endospermdan",
+        "Ildizcha, poyacha, kurtakcha va ikkita urug'pallabarg",
+        "Ildizcha, poyacha, kurtakcha va bitta urug'palla"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Qanday o'simliklar ikki urug'pallali o'simliklar deyiladi?",
+      "options": [
+        "Urug'pallasiz o'simliklar",
+        "Urug'i ikkita urug'pallaga ega bo'lgan o'simliklar",
+        "Bitta urug'pallaga ega o'simliklar",
+        "Ikkita endospermli o'simliklar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "G'o'za chigiti ustidan nima bilan o'ralgan?",
+      "options": [
+        "Endosperm bilan",
+        "Meva qobig'i bilan",
+        "Qalin yog'ochsimon qobiq bilan",
+        "Yupqa sariq po'st bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "G'o'za chigitining qobiq hujayralarida nima joylashgan?",
+      "options": [
+        "Kraxmal donachalari",
+        "Zaharli moddalar",
+        "Efir moylari",
+        "Juda uzun tuklar – tolalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "G'o'za chigitida yog'ochsimon qobiq ostida nima joylashgan?",
+      "options": [
+        "Meva qobig'i",
+        "Oq va yupqa po'st",
+        "Tolalar",
+        "Endosperm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "G'o'za chigitida oq yupqa po'st ostida nima o'rnashgan?",
+      "options": [
+        "Bitta urug'palla va endosperm",
+        "Faqat endosperm",
+        "Qat-qat joylashgan ikki urug'pallali murtak",
+        "Tolalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "G'o'za chigiti tuzilishini tashqaridan ichkariga tartiblang.",
+      "options": [
+        "Oq yupqa po'st → yog'ochsimon qobiq → murtak",
+        "Yog'ochsimon qobiq → endosperm → bitta urug'palla",
+        "Murtak → yog'ochsimon qobiq → oq po'st",
+        "Yog'ochsimon qobiq → oq yupqa po'st → ikki urug'pallali murtak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Ikki urug'pallali o'simliklar urug'i yer yuziga qanday chiqadi?",
+      "options": [
+        "Endosperm bilan",
+        "Ikkita urug'palla bargi bilan",
+        "Bitta urug'palla bilan",
+        "Urug'pallasiz"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Bir urug'pallali o'simliklar urug'i qanday qismlardan tashkil topgan?",
+      "options": [
+        "Faqat po'stdan",
+        "Yog'ochsimon qobiq va ikki urug'pallali murtak",
+        "Faqat murtakdan",
+        "Urug' po'sti, murtak (bitta urug'palla bilan) va endosperm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Bir urug'pallali o'simlik murtagida nechta urug'palla bor?",
+      "options": [
+        "Urug'palla yo'q",
+        "Uchta",
+        "Bitta",
+        "Ikkita"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Bir urug'pallali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "G'o'za, loviya, no'xat",
+        "Kungaboqar, shaftoli",
+        "Bug'doy, arpa, suli, makkajo'xori",
+        "Yong'oq, bodom, o'rik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Yer yuzida eng ko'p tarqalgan bir urug'pallali o'simliklardan biri qaysi?",
+      "options": [
+        "G'o'za",
+        "Yong'oq",
+        "Loviya",
+        "Bug'doy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Bug'doy urug'i (doni) qanday shaklda?",
+      "options": [
+        "Cho'ziq",
+        "Yumaloq",
+        "Yassi",
+        "Uchburchak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Bug'doy doni sirti nima bilan qoplangan?",
+      "options": [
+        "Yupqa sariq po'st bilan",
+        "Oq yupqa po'st bilan",
+        "Qalin yog'ochsimon qobiq bilan",
+        "Uzun tolalar bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Bug'doy donining sariq po'sti nechta qobiqdan iborat?",
+      "options": [
+        "Qobiqsiz",
+        "Qo'shilib o'sgan ikkita qobiqdan",
+        "Bitta qobiqdan",
+        "Uchta qobiqdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Bug'doy donining tashqi qobig'i nima hisoblanadi?",
+      "options": [
+        "Urug'palla",
+        "Meva qobig'i",
+        "Endosperm",
+        "Urug' po'sti"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Bug'doy donining ichki qobig'i nima hisoblanadi?",
+      "options": [
+        "Murtak",
+        "Meva qobig'i",
+        "Endosperm",
+        "Urug' po'sti"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Qaysi qatordagi o'simliklarning urug'i don deb yuritiladi?",
+      "options": [
+        "Bug'doy, arpa, javdar, suli, sholi, makkajo'xori",
+        "Yong'oq, bodom, o'rik",
+        "Loviya, mosh, no'xat",
+        "G'o'za, kungaboqar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Bir urug'pallali urug'ning aksariyat qismini nima tashkil etadi?",
+      "options": [
+        "Murtak",
+        "Endosperma",
+        "Urug'palla",
+        "Urug' po'sti"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Endosperma nima?",
+      "options": [
+        "Mevaning qobig'i",
+        "Urug'ning tashqi po'sti",
+        "Murtakning ildizchasi",
+        "Oziq moddalar to'plamini tashkil etuvchi hujayralar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Urug'ning tarkibi nimaga qarab har xil bo'ladi?",
+      "options": [
+        "Faqat rangiga qarab",
+        "O'simlik turiga qarab",
+        "Faqat kattaligiga qarab",
+        "Faqat yoshiga qarab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Urug' tashqaridan quruq ko'rinsa ham tarkibida nima bo'ladi?",
+      "options": [
+        "Faqat havo",
+        "Oz miqdorda suv",
+        "Ko'p miqdorda suv",
+        "Faqat kul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Probirkadagi urug' qizdirilganda probirka devorida nima hosil bo'ladi?",
+      "options": [
+        "Kraxmal",
+        "Kul",
+        "Moy dog'lari",
+        "Suv tomchilari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Urug'ni qizdirish davom ettirilsa nima sodir bo'ladi?",
+      "options": [
+        "Tutaydi, kuygan hid taraladi, qorayib yoriladi",
+        "Ko'karadi va unib chiqadi",
+        "Muzlab qoladi",
+        "Rangi o'zgarmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Urug' qizdirilganda uning qaysi moddalari kuyadi?",
+      "options": [
+        "Organik moddalar",
+        "Mineral moddalar",
+        "Suv",
+        "Kul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Urug' kuyib bo'lgach probirka ostida nima qoladi?",
+      "options": [
+        "Kraxmal",
+        "Suv",
+        "Moy",
+        "Kul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Urug' kuygandan keyin qolgan kul qanday moddalardan iborat?",
+      "options": [
+        "Organik moddalardan",
+        "Mineral moddalardan",
+        "Suvdan",
+        "Kraxmaldan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Urug'ni qizdirish tajribasida hodisalar to'g'ri ketma-ketlikda berilgan javobni toping.",
+      "options": [
+        "Qorayish → suv tomchilari → unib chiqish",
+        "Kul qolishi → suv tomchilari → tutash",
+        "Tutash → kul → suv tomchilari",
+        "Suv tomchilari → tutash va qorayish → kul qolishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Urug'lar tarkibidagi organik moddalarga nimalar kiradi?",
+      "options": [
+        "Kraxmal, oqsil va moylar",
+        "Faqat kul",
+        "Suv va mineral tuzlar",
+        "Faqat suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Qaysi o'simliklar urug'ida kraxmal nihoyatda ko'p bo'ladi?",
+      "options": [
+        "Zira, shivit",
+        "Loviya, mosh, no'xat",
+        "Bug'doy, makkajo'xori va boshqa donlilar",
+        "Yong'oq, bodom, yeryong'oq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Qaysi o'simliklar urug'ida oqsil ko'p uchraydi?",
+      "options": [
+        "Bug'doy, makkajo'xori",
+        "Kungaboqar, g'o'za",
+        "Loviya, mosh, no'xat",
+        "Yong'oq, bodom"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Qaysi qatorda moy ko'p bo'lgan urug'lar berilgan?",
+      "options": [
+        "Bug'doy, makkajo'xori, arpa",
+        "Loviya, mosh, no'xat",
+        "Yong'oq, bodom, yeryong'oq mag'zi, kungaboqar pistasi",
+        "Zira, shivit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "G'o'za chigitida qaysi modda ko'p bo'ladi?",
+      "options": [
+        "Kraxmal",
+        "Zaharli modda",
+        "Moy",
+        "Efir moyi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Urug'lar tarkibidagi oziq moddalar qayerda saqlanadi?",
+      "options": [
+        "Urug'palla va endospermada",
+        "Faqat murtak ildizchasida",
+        "Faqat urug' po'stida",
+        "Meva qobig'ida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Bug'doy endospermasi hujayralarida nimalar bo'ladi?",
+      "options": [
+        "Zaharli moddalar",
+        "Efir moylari",
+        "Faqat suv",
+        "Kraxmal va ko'p sonli oqsil donachalari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Qaysi o'simliklar urug'ida efir moylari bo'ladi?",
+      "options": [
+        "Zira, shivit",
+        "Mastak, kampirchopon",
+        "Bug'doy, arpa",
+        "Loviya, mosh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Qaysi qatorda zaharli moddali urug'lar berilgan?",
+      "options": [
+        "Mastak, achchiq bodom, kampirchopon",
+        "Loviya, mosh, no'xat",
+        "Bug'doy, makkajo'xori",
+        "Zira, shivit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Moslang: 1) kraxmal, 2) oqsil, 3) moy; a) no'xat, b) yeryong'oq, c) makkajo'xori.",
+      "options": [
+        "1c, 2a, 3b",
+        "1b, 2a, 3c",
+        "1a, 2c, 3b",
+        "1c, 2b, 3a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Moslang: 1) efir moyi, 2) zaharli modda; a) zira, b) mastak, c) shivit, d) achchiq bodom.",
+      "options": [
+        "1 – a, d; 2 – b, c",
+        "1 – a, b; 2 – c, d",
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Moslang: 1) bir urug'pallali, 2) ikki urug'pallali; a) g'o'za, b) suli, c) arpa.",
+      "options": [
+        "1 – c; 2 – a, b",
+        "1 – a, b; 2 – c",
+        "1 – b, c; 2 – a",
+        "1 – a; 2 – b, c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Bir va ikki urug'pallali o'simliklar murtagining asosiy farqi nima?",
+      "options": [
+        "Poyacha bor-yo'qligi",
+        "Kurtakcha bor-yo'qligi",
+        "Urug'pallalar soni: birida bitta, ikkinchisida ikkita",
+        "Ildizcha bor-yo'qligi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Ortiqchasini toping (oqsilga boy urug'lar): loviya, mosh, no'xat, bug'doy.",
+      "options": [
+        "Bug'doy",
+        "Mosh",
+        "No'xat",
+        "Loviya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Ortiqchasini toping (don): bug'doy, javdar, sholi, loviya.",
+      "options": [
+        "Javdar",
+        "Bug'doy",
+        "Sholi",
+        "Loviya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "To'g'ri fikrlarni toping: 1) Urug' murtak, endosperm va po'stdan iborat; 2) G'o'za chigiti qobig'ida tolalar bor; 3) Bug'doy ikki urug'pallali o'simlik; 4) Urug' kuygach kul qoladi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3",
+        "1, 2, 3",
+        "2, 3, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Noto'g'ri fikrlarni toping: 1) Mosh urug'ida oqsil ko'p; 2) Kul organik moddalardan iborat; 3) Bug'doy donining tashqi qobig'i meva qobig'i; 4) Zira urug'ida zaharli modda bor.",
+      "options": [
+        "3, 4",
+        "2, 4",
+        "1, 2",
+        "1, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Urug'ning tarkibida umuman suv bo'lmaydi",
+        "Oziq moddalar urug'palla va endospermada saqlanadi",
+        "Bug'doy endospermasida oqsil donachalari bor",
+        "Kampirchopon urug'ida zaharli modda bor"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
