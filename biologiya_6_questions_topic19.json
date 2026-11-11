@@ -2,5 +2,644 @@
   "topicId": 19,
   "title": "SHAKLI 0‘ZGARGAN NOVDALAR",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Shakli o'zgargan novdalar qanday turlarga bo'linadi?",
+      "options": [
+        "Oddiy va murakkab",
+        "Bandli va bandsiz",
+        "Vegetativ va generativ",
+        "Yerosti va yerusti"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Shakli o'zgargan yerosti novdalariga nimalar kiradi?",
+      "options": [
+        "Piyozbosh, tugunak, ildizpoya",
+        "Ildizmeva, tayanch ildiz",
+        "Sabzi, lavlagi, turp",
+        "Jingalak, gajak, tikan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Shakli o'zgargan yerusti novdalariga nimalar misol bo'ladi?",
+      "options": [
+        "Piyozbosh, tugunak, ildizpoya",
+        "Jingalak, gajak, tikan",
+        "Kurtak, bo'g'im",
+        "Ildizmeva, havo ildizi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Shakli o'zgargan yerosti novdalarining biologik ahamiyati qaysi javobda to'g'ri?",
+      "options": [
+        "Faqat gul hosil qiladi",
+        "Faqat fotosintez qiladi",
+        "Noqulay muhitdan saqlaydi, oziq to'playdi, vegetativ ko'payishga xizmat qiladi",
+        "Faqat suv bug'latadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "O'simlikda organik (oziq) moddalar qayerda hosil bo'ladi?",
+      "options": [
+        "Bargda",
+        "Tugunakda",
+        "Ildizda",
+        "Piyozboshda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Organik moddalar o'simlikda nima uchun sarflanadi?",
+      "options": [
+        "Sarflanmaydi",
+        "Faqat gul uchun",
+        "Faqat ildiz uchun",
+        "O'sish va rivojlanish uchun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Piyozboshli o'simlik deb qanday o'simlikka aytiladi?",
+      "options": [
+        "Ildizmeva hosil qiladigan o'simlikka",
+        "Jingalakli o'simlikka",
+        "Tugunak hosil qiladigan o'simlikka",
+        "Tuproq orasida piyoz hosil qiladigan o'simlikka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Bosh piyoz tashqi tomondan nima bilan o'ralgan?",
+      "options": [
+        "Seret barglar bilan",
+        "Po'kak bilan",
+        "Tikanlar bilan",
+        "Quruq qobiq bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Piyozning quruq qobig'i uni nimadan saqlaydi?",
+      "options": [
+        "Faqat suvdan",
+        "Yozda issiqdan, qishda sovuqdan",
+        "Faqat hasharotlardan",
+        "Yorug'likdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Piyoz uzunasiga kesilsa, tubida nima ko'rinadi?",
+      "options": [
+        "Tugunak",
+        "Ildizpoya",
+        "Uzun ildizmeva",
+        "Qisqargan kalta poyacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Piyoz tubidagi kalta poyacha asosidan pastga qarab nima hosil bo'ladi?",
+      "options": [
+        "Gulpoya",
+        "Asosiy ildiz",
+        "Seret barglar",
+        "Mayda qo'shimcha ildizlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Piyozning seret qobiqlari nima hisoblanadi?",
+      "options": [
+        "Shakli o'zgargan barglar",
+        "Shakli o'zgargan poya",
+        "Shakli o'zgargan ildizlar",
+        "Kurtak qobig'i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Piyozning seret barglari hujayralarida nima to'planadi?",
+      "options": [
+        "Oziq moddalar",
+        "Kauchuk",
+        "Suberin",
+        "Havo"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Vaqt o'tishi bilan piyoz kurtagidan nima o'sib chiqadi?",
+      "options": [
+        "Tikanlar",
+        "Barglar va gulpoya",
+        "Ildizpoya",
+        "Tugunaklar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Piyozning gulpoyasi uchida nima hosil bo'ladi?",
+      "options": [
+        "Ildiz",
+        "To'pgul",
+        "Seret barg",
+        "Tugunak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Piyozbosh qanday novda hisoblanadi?",
+      "options": [
+        "Generativ novda",
+        "Ildizmeva",
+        "Shakli o'zgargan yerosti novda",
+        "Shakli o'zgargan yerusti novda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Piyozboshning tuzilishi pastdan yuqoriga to'g'ri berilgan javobni toping.",
+      "options": [
+        "Kurtaklar → qo'shimcha ildizlar → kalta poyacha",
+        "Seret barglar → kalta poyacha → qo'shimcha ildizlar",
+        "Kalta poyacha → qo'shimcha ildizlar → seret barglar",
+        "Qo'shimcha ildizlar → kalta poyacha → seret barglar va kurtaklar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Tugunakli o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Sabzi, lavlagi",
+        "Piyoz, lola",
+        "G'umay, qamish",
+        "Kartoshka, topinambur"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Kartoshkaning tugunaklari nimadan hosil bo'ladi?",
+      "options": [
+        "Gulpoyadan",
+        "Asosiy ildizdan",
+        "Bargdan",
+        "Yerosti poyasidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 20,
+      "question": "Kartoshka tugunagi asosan qanday shaklda bo'ladi?",
+      "options": [
+        "Yumaloq",
+        "Yassi",
+        "Uzun ingichka",
+        "Uchburchak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Kartoshka tugunagida ayniqsa qaysi oziq modda ko'p saqlanadi?",
+      "options": [
+        "Suberin",
+        "Kauchuk",
+        "Kraxmal",
+        "Yog'"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Kartoshka tugunagi ichki tuzilishi jihatidan nimaga o'xshaydi?",
+      "options": [
+        "Bargga",
+        "Ildizga",
+        "Gulga",
+        "Novdaga (poyaga)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Kartoshka tugunagidagi kurtaklar qayerda joylashgan?",
+      "options": [
+        "Ildizlarida",
+        "Chuqurchalarda – ko'zchalarida",
+        "Faqat po'stida tekis",
+        "Tugunak ichida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Tugunak boshqa yerosti novdalardan nimasi bilan farq qiladi?",
+      "options": [
+        "Tikanlari bilan",
+        "Seret barglari bilan",
+        "Ko'zchalarida kurtaklar joylashganligi bilan",
+        "Quruq qobig'i bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Tugunaklar qanday sharoitda tez ko'kara boshlaydi?",
+      "options": [
+        "Issiq, sernam sharoitda",
+        "Suvsiz joyda",
+        "Sovuq, quruq sharoitda",
+        "Qorong'i, sovuq joyda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Tugunakdagi kurtaklardan nima o'sib chiqadi?",
+      "options": [
+        "Ildizmeva",
+        "Yangi novda",
+        "Ildizpoya",
+        "Piyozbosh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Kartoshka tugunagida kurtaklarning ko'p qismi qayerda joylashadi?",
+      "options": [
+        "Tugunakning uchiga yaqinroq",
+        "Tugunakning o'rtasida",
+        "Tugunakning tubida",
+        "Bir tekis tarqalgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Kartoshka odatda qaysi kurtaklardan o'sa boshlaydi?",
+      "options": [
+        "Pastki kurtaklardan",
+        "Uchki kurtaklardan",
+        "Ildizdagi kurtaklardan",
+        "Yon kurtaklardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Kartoshka tugunagida kraxmal borligi nima yordamida aniqlanadi?",
+      "options": [
+        "Spirt",
+        "Suv",
+        "Sirka",
+        "Kuchsiz yod eritmasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Kesilgan tugunakka kuchsiz yod eritmasi tomizilsa, u qanday bo'ladi?",
+      "options": [
+        "Sarg'ayadi",
+        "Qizaradi",
+        "Asta-sekin ko'karadi",
+        "O'zgarmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Kraxmal dastlab o'simlikning qayerida hosil bo'ladi?",
+      "options": [
+        "Ko'zchalarda",
+        "Ildizda",
+        "Tugunakda",
+        "Barglarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Bargda hosil bo'lgan kraxmal tugunakka qanday holatda keladi?",
+      "options": [
+        "Yog'ga aylanib",
+        "Kraxmal holida",
+        "Oqsilga aylanib",
+        "Shakarga aylanib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Shakar tugunakka nima orqali keladi?",
+      "options": [
+        "Yog'ochlik naylari orqali",
+        "Og'izchalar orqali",
+        "Po'stloqning elaksimon naychalari orqali",
+        "Ildiz tukchalari orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Kraxmalning tugunakda to'planish yo'li to'g'ri berilgan javobni toping.",
+      "options": [
+        "Ildizda kraxmal → bargda shakar → tugunakda oqsil",
+        "Bargda shakar → yog'ochlik naylari → tugunakda yog'",
+        "Bargda kraxmal → shakar → elaksimon naychalar → tugunakda yana kraxmal",
+        "Tugunakda shakar → bargda kraxmal → ildizda yog'"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Ildizpoyalarda nimalar bo'ladi?",
+      "options": [
+        "Seret barglar va quruq qobiq",
+        "Qo'shimcha ildiz, shakli o'zgargan barg va qo'shimcha kurtaklar",
+        "Faqat asosiy ildiz",
+        "Ko'zchalar va kraxmal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Ildizpoya kurtaklaridan qulay sharoitda nima o'sib chiqadi?",
+      "options": [
+        "Yangi yerusti poya",
+        "Ildizmeva",
+        "Piyozbosh",
+        "Tugunak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Ildizpoyali o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Piyoz, karam, aloe",
+        "Kaktus, zirk",
+        "Kartoshka, topinambur",
+        "G'umay, qamish, ajriq, yalpiz"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Quyidagilardan qaysi biri ildizpoyali o'simlik?",
+      "options": [
+        "Kaktus",
+        "Topinambur",
+        "Kartoshka",
+        "Ajriq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "G'umay qanday o'simlik?",
+      "options": [
+        "Daraxt",
+        "Bir yillik tugunakli o't",
+        "Piyozboshli o'simlik",
+        "Ko'p yillik yo'g'on ildizpoyali o't"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "G'umay qanday ekinlarga katta zarar keltiradi?",
+      "options": [
+        "Zarar keltirmaydi",
+        "Faqat bog'larga",
+        "Sug'oriladigan ekinlarga",
+        "Faqat cho'l o'simliklariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Ildizpoya o'simlikning qaysi ko'payishiga xizmat qiladi?",
+      "options": [
+        "Urug' orqali ko'payishiga",
+        "Spora orqali ko'payishiga",
+        "Vegetativ ko'payishiga",
+        "Gul orqali ko'payishiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Tugunak va ildizpoya nimadan hosil bo'ladi?",
+      "options": [
+        "Ildizlar shaklining o'zgarishidan",
+        "Yerosti novdalari shaklining o'zgarishidan",
+        "Gullar shaklining o'zgarishidan",
+        "Barglar shaklining o'zgarishidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Barg metamorfozi nima?",
+      "options": [
+        "Bargning sarg'ayishi",
+        "Bargning to'kilishi",
+        "Bargning o'sishi",
+        "Bargning shakl o'zgarishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Shakli o'zgargan barg qanday vazifaga moslashgan?",
+      "options": [
+        "Faqat fotosintezga",
+        "Boshqa fiziologik funksiyani bajarishga",
+        "Faqat suv bug'latishga",
+        "Hech qanday vazifaga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Qaysi o'simliklarning barglari tikanga aylangan?",
+      "options": [
+        "Kaktus, zirk",
+        "No'xat, loviya",
+        "G'umay, qamish",
+        "Piyoz, karam"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Kaktus va zirkning tikanga aylangan barglari qanday vazifani bajaradi?",
+      "options": [
+        "Himoya",
+        "Zaxira to'plash",
+        "Ko'payish",
+        "Ilashish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 47,
+      "question": "Ilashib o'suvchi o'simliklarda barglar nimaga aylangan?",
+      "options": [
+        "Seret barglarga",
+        "Jingalaklarga",
+        "Tikanlarga",
+        "Tugunaklarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Jingalagi bor o'simliklar qaysi qatorda berilgan?",
+      "options": [
+        "Kartoshka, topinambur",
+        "Karam, aloe",
+        "No'xat, loviya",
+        "Kaktus, zirk"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Jingalaklar o'simlikka nima beradi?",
+      "options": [
+        "Himoyani",
+        "Zaxira oziq to'plashni",
+        "Ilashib, bargga yorug'lik tushishini va poyani tutib turishni",
+        "Ildiz hosil qilishni"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Qaysi o'simliklarning barglari etli bo'lib, zaxira ozuqa saqlaydi?",
+      "options": [
+        "Piyozbosh, karam, aloe",
+        "Kaktus, zirk",
+        "G'umay, ajriq",
+        "No'xat, loviya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Moslang: 1) piyozbosh, 2) tugunak, 3) ildizpoya; a) g'umay, b) kartoshka, c) bosh piyoz.",
+      "options": [
+        "1c, 2b, 3a",
+        "1b, 2c, 3a",
+        "1a, 2b, 3c",
+        "1c, 2a, 3b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Moslang: 1) tikanga aylangan barg, 2) jingalakka aylangan barg, 3) etli barg; a) aloe, b) zirk, c) loviya.",
+      "options": [
+        "1b, 2a, 3c",
+        "1b, 2c, 3a",
+        "1c, 2b, 3a",
+        "1a, 2c, 3b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Moslang: 1) tugunak, 2) ildizpoya; a) topinambur, b) qamish, c) kartoshka, d) shirinmiya.",
+      "options": [
+        "1 – a, b; 2 – c, d",
+        "1 – a, c; 2 – b, d",
+        "1 – b, d; 2 – a, c",
+        "1 – a, d; 2 – b, c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Ortiqchasini toping (ildizpoyali o'simliklar): g'umay, qamish, ajriq, kartoshka.",
+      "options": [
+        "Qamish",
+        "Kartoshka",
+        "G'umay",
+        "Ajriq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Ortiqchasini toping (shakli o'zgargan yerosti novdalar): piyozbosh, tugunak, ildizpoya, tikan.",
+      "options": [
+        "Ildizpoya",
+        "Piyozbosh",
+        "Tikan",
+        "Tugunak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "To'g'ri fikrlarni toping: 1) Piyozning seret qobiqlari shakli o'zgargan barglar; 2) Kartoshka tugunagi yerosti poyasidan hosil bo'ladi; 3) G'umay tugunakli o'simlik; 4) Kaktus barglari himoya vazifasini bajaradi.",
+      "options": [
+        "1, 2, 4",
+        "2, 3, 4",
+        "1, 3",
+        "1, 2, 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Noto'g'ri fikrlarni toping: 1) Yod ta'sirida kraxmal ko'karadi; 2) Kraxmal tugunakda hosil bo'ladi; 3) Ildizpoyada qo'shimcha kurtaklar bo'ladi; 4) Kartoshka pastki kurtaklaridan o'sa boshlaydi.",
+      "options": [
+        "3, 4",
+        "1, 3",
+        "2, 4",
+        "1, 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Noto'g'ri fikrni toping.",
+      "options": [
+        "Aloe barglari etli bo'ladi",
+        "Kartoshka tugunagining ichki tuzilishi ildiznikiga o'xshaydi",
+        "Piyoz qobig'i uni issiq va sovuqdan saqlaydi",
+        "No'xat jingalaklari yordamida ilashadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
