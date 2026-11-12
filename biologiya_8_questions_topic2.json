@@ -2,5 +2,930 @@
   "topicId": 2,
   "title": "To‘qimalar, organlar va organlar sistemasi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kelib chiqishi, tuzilishi, funksiyasi va hayotiy jarayonlari o'xshash hujayralar to'plami nima deb ataladi?",
+      "options": [
+        "To'qima",
+        "Organ",
+        "Organlar sistemasi",
+        "Hujayralararo modda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Odam organizmida nechta xil to'qima mavjud?",
+      "options": [
+        "3 xil",
+        "5 xil",
+        "6 xil",
+        "4 xil"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Quyidagi qatorlarning qaysi biri odam organizmidagi to'qima turlarini to'g'ri ko'rsatgan?",
+      "options": [
+        "Epiteliy, biriktiruvchi, suyak, nerv",
+        "Qoplovchi, muskul, nerv, qon",
+        "Epiteliy, biriktiruvchi, muskul, nerv",
+        "Epiteliy, tog'ay, muskul, nerv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Qoplovchi to'qimaning ikkinchi nomi qaysi?",
+      "options": [
+        "Biriktiruvchi to'qima",
+        "Epiteliy to'qima",
+        "Silliq to'qima",
+        "Neyrogliya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Epiteliy to'qima quyidagilardan qaysi birini qoplab turmaydi?",
+      "options": [
+        "Teri sirtini",
+        "Skelet muskullarining ichki tolalarini",
+        "Nafas olish organlarining ichki yuzasini",
+        "Ayirish organlarining ichki yuzasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Organlarning ichki pardasi, ya'ni shilliq qavat qaysi to'qimadan hosil bo'ladi?",
+      "options": [
+        "Epiteliy to'qimadan",
+        "Biriktiruvchi to'qimadan",
+        "Silliq muskul to'qimasidan",
+        "Nerv to'qimasidan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Epiteliy to'qima shakliga ko'ra qaysi turlarga bo'linadi?",
+      "options": [
+        "Yassi, duksimon, silindrsimon",
+        "Yulduzsimon, kubsimon, yassi",
+        "Yassi, noksimon, kubsimon",
+        "Yassi, kubsimon, silindrsimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Epiteliy to'qimani qavatlar soniga ko'ra qanday turlarga ajratish mumkin?",
+      "options": [
+        "Yassi va kubsimon",
+        "Tukli va tuksiz",
+        "Bir qavatli va ko'p qavatli",
+        "Ichki va tashqi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Teri sirtini qoplab turuvchi epiteliy qaysi shaklga ega?",
+      "options": [
+        "Kubsimon",
+        "Silindrsimon",
+        "Yassi (yapaloq)",
+        "Tukli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Buyrakda qaysi shakldagi epiteliy joylashgan?",
+      "options": [
+        "Yassi",
+        "Kubsimon",
+        "Silindrsimon",
+        "Tukli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Ichakning ichki yuzasida qaysi epiteliy joylashgan?",
+      "options": [
+        "Silindrsimon",
+        "Kubsimon",
+        "Yassi",
+        "Tukli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Burun bo'shlig'ining ichki yuzasida qaysi epiteliy joylashgan?",
+      "options": [
+        "Yassi",
+        "Silindrsimon",
+        "Kubsimon",
+        "Tukli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Quyidagi juftliklardan qaysi biri to'g'ri moslashtirilgan?",
+      "options": [
+        "Kubsimon epiteliy – teri",
+        "Yassi epiteliy – burun bo'shlig'i",
+        "Tukli epiteliy – buyrak",
+        "Silindrsimon epiteliy – ichak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Terining ustki qismi va burun bo'shlig'ini qoplagan epiteliy qanday vazifani bajaradi?",
+      "options": [
+        "Ovqat hazm qilishda ishtirok etish vazifasini",
+        "Qon aylanishini ta'minlash vazifasini",
+        "Himoya vazifasini",
+        "Ta'sirni uzatish vazifasini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Me'da-ichaklarning ichki yuzasidagi epiteliy qanday vazifani bajaradi?",
+      "options": [
+        "Faqat himoya vazifasini bajaradi",
+        "Ovqat hazm qilishda ishtirok etadi",
+        "Gaz almashinuvini ta'minlaydi",
+        "Qoldiq moddalarni qondan ajratadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Epiteliy to'qimasi qanday hujayralardan iborat?",
+      "options": [
+        "O'zaro zich joylashgan hujayralardan",
+        "Orasi keng hujayralardan",
+        "Uzun o'simtali hujayralardan",
+        "Elastik tolali hujayralardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Epiteliy to'qimada hujayralararo modda haqida qaysi fikr to'g'ri?",
+      "options": [
+        "Bo'lmaydi yoki juda kam bo'ladi",
+        "Juda ko'p bo'ladi",
+        "Faqat suyuq holda bo'ladi",
+        "Elastik tolalar ko'rinishida bo'ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Epiteliy hujayralarining qaysi xususiyati matnda ta'kidlangan?",
+      "options": [
+        "Qisqaruvchanlik xususiyati",
+        "Ta'sirni uzatish xususiyati",
+        "Elastiklik xususiyati",
+        "Tez ko'payish xususiyati"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Hujayralari orasida hujayralararo moddalar bo'ladigan to'qima qaysi?",
+      "options": [
+        "Epiteliy to'qima",
+        "Faqat nerv to'qimasi",
+        "Biriktiruvchi to'qima",
+        "Qoplovchi to'qima"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Quyidagilardan qaysi biri biriktiruvchi to'qimaga kiradi?",
+      "options": [
+        "Teri epiteliysi",
+        "Qon",
+        "Yurak muskuli",
+        "Neyrogliya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Quyidagi qatorning qaysi biri biriktiruvchi to'qimaga to'liq mos keladi?",
+      "options": [
+        "Suyak, qon, limfa, tog'ay, teri",
+        "Suyak, qon, limfa, tog'ay, pay",
+        "Suyak, qon, silliq muskul, tog'ay, pay",
+        "Qon, limfa, neyron, tog'ay, pay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Quyidagilardan qaysi biri biriktiruvchi to'qimaga kirmaydi?",
+      "options": [
+        "Shilliq qavat",
+        "Limfa",
+        "Tog'ay",
+        "Pay"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Pay va tog'aylar tarkibidagi biriktiruvchi to'qima hujayralari orasida nima ko'proq bo'ladi?",
+      "options": [
+        "Miofibrillar",
+        "Akson va dendritlar",
+        "Tukchalar",
+        "Elastik tolalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Pay va tog'aylar qanday ta'sirlarga chidamli bo'ladi?",
+      "options": [
+        "Faqat siqilish",
+        "Qo'zg'alish va qisqarish",
+        "Cho'zilish, bukilish, qisqarish",
+        "Cho'zilish va qo'zg'alish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Muskul va suyaklarni o'zaro tutashtirib turuvchi to'qima qaysi?",
+      "options": [
+        "Epiteliy to'qima",
+        "Silliq muskul to'qimasi",
+        "Biriktiruvchi to'qima",
+        "Nerv to'qimasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Oziq va kislorodni barcha organlarga yetkazib beruvchi biriktiruvchi to'qima qaysi?",
+      "options": [
+        "Pay",
+        "Qon",
+        "Tog'ay",
+        "Neyrogliya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Muskul to'qimasi nechta turga bo'linadi?",
+      "options": [
+        "3 ta",
+        "2 ta",
+        "4 ta",
+        "5 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Quyidagi qatorda muskul to'qimasining turlari to'g'ri ko'rsatilgan?",
+      "options": [
+        "Skelet, silliq, nerv",
+        "Ko'ndalang-targ'il, duksimon, tukli",
+        "Silliq, yurak, biriktiruvchi",
+        "Ko'ndalang-targ'il, silliq tolali, yurak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Muskul tolasining qisqarish-yozilish xususiyatini nima ta'minlaydi?",
+      "options": [
+        "Neyrogliya hujayralari",
+        "Elastik tolalar",
+        "Akson o'simtalari",
+        "Miofibril tolachalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Skelet muskullari tuzilishiga ko'ra qanday ataladi?",
+      "options": [
+        "Silliq tolali",
+        "Duksimon",
+        "Ko'ndalang-targ'il",
+        "Tukli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Skelet muskullari qayerda joylashadi?",
+      "options": [
+        "Ichki organlar devorida",
+        "Odam tanasining tashqi sohasida, suyaklarga birikib",
+        "Qon tomirlari devorida",
+        "Faqat yurak atrofida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Ko'ndalang-targ'il muskullar nima uchun skelet muskullari deb ataladi?",
+      "options": [
+        "Suyaklarga birikib turgani uchun",
+        "Ichki organlar devorida joylashgani uchun",
+        "Ixtiyorga bog'liq bo'lmagani uchun",
+        "Duksimon shaklda bo'lgani uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Skelet muskullarining harakati qanday?",
+      "options": [
+        "Odam ixtiyoriga bog'liq",
+        "Odam ixtiyoriga bog'liq emas",
+        "Faqat uyqu vaqtida ishlaydi",
+        "Faqat nerv bilan bog'liq emas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Qo'l, oyoq, bosh bilan xohlagan harakatni bajarish qaysi muskullarning xususiyatiga bog'liq?",
+      "options": [
+        "Silliq muskullarning",
+        "Yurak muskullarining",
+        "Neyrogliyaning",
+        "Skelet muskullarining"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Skelet muskullari qachon yaxshi rivojlanadi?",
+      "options": [
+        "Uzoq vaqt harakatsiz tursa",
+        "Faqat uxlaganda",
+        "Muntazam jismoniy mashqlar bilan shug'ullanilsa",
+        "Faqat silliq muskullar ishlaganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Silliq tolali muskul hujayrasi qanday shaklga ega?",
+      "options": [
+        "Noksimon",
+        "Duksimon",
+        "Yulduzsimon",
+        "Doirasimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Silliq muskul tolasining uzunligi taxminan qancha?",
+      "options": [
+        "1 mm",
+        "0,1 mm",
+        "0,01 mm",
+        "10 mm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Silliq muskul hujayrasida nechta yadro bo'ladi?",
+      "options": [
+        "Bitta",
+        "Ikkita",
+        "Ko'p",
+        "Yadro bo'lmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Silliq muskul sitoplazmasida qanday miofibrillar bo'ladi?",
+      "options": [
+        "Uzun va ko'ndalang-targ'il miofibrillar",
+        "Elastik miofibrillar",
+        "Miofibrillar bo'lmaydi",
+        "Qisqarish xususiyatiga ega kalta miofibrillar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Silliq muskullar quyidagilardan qaysi birining devorida joylashmagan?",
+      "options": [
+        "Oshqozon-ichak",
+        "Siydik chiqarish yo'llari",
+        "Suyak",
+        "Qon va limfa tomirlari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Silliq muskullarning faoliyati qanday?",
+      "options": [
+        "Odam ixtiyoriga bog'liq",
+        "Faqat uyg'oqlikda ishlaydi",
+        "Odam ixtiyoriga bog'liq emas, tinch turganda ham ishlaydi",
+        "Faqat jismoniy mashq vaqtida ishlaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Yurak muskullari tuzilishiga ko'ra qaysi muskullarga o'xshaydi?",
+      "options": [
+        "Silliq muskullarga",
+        "Ko'ndalang-targ'il muskullarga",
+        "Tukli epiteliyga",
+        "Neyronlarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Yurak muskullari ish faoliyati jihatidan qaysi muskullarga o'xshaydi?",
+      "options": [
+        "Silliq muskullarga",
+        "Skelet muskullarga",
+        "Pay va tog'aylarga",
+        "Neyrogliyaga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Yurak muskullari haqida to'g'ri fikrni tanlang.",
+      "options": [
+        "Tuzilishi silliq muskulga o'xshaydi, ixtiyorga bog'liq",
+        "Tuzilishi ko'ndalang-targ'ilga o'xshaydi, ixtiyorga bog'liq",
+        "Tuzilishi silliq muskulga o'xshaydi, ixtiyorga bog'liq emas",
+        "Tuzilishi ko'ndalang-targ'ilga o'xshaydi, lekin murakkabroq; ixtiyorga bog'liq emas"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Muskul to'qimasining asosiy xususiyatlari qaysilar?",
+      "options": [
+        "Qo'zg'aluvchanlik va elastiklik",
+        "Qisqaruvchanlik va hujayralararo modda ko'pligi",
+        "Tez ko'payish va qo'zg'aluvchanlik",
+        "Qo'zg'aluvchanlik va qisqaruvchanlik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Muskul to'qimasi nima ta'sirida qo'zg'aladi?",
+      "options": [
+        "Qondan kelgan kislorod ta'sirida",
+        "Epiteliydan kelgan ta'sir natijasida",
+        "Nerv sistemasidan kelgan ta'sir natijasida",
+        "Neyrogliya ta'sirida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Muskul to'qimasi qo'zg'alishga qanday javob beradi?",
+      "options": [
+        "Ko'payib",
+        "Qisqarib",
+        "Elastik tolalar hosil qilib",
+        "Hujayralararo modda ajratib"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Nerv to'qimasi qaysi organlarni tashkil etadi?",
+      "options": [
+        "Bosh va orqa miyani",
+        "Faqat bosh miyani",
+        "Yurak va qon tomirlarini",
+        "Skelet muskullarini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Nerv to'qimasi organizm ishini qaysi tolalar orqali boshqaradi?",
+      "options": [
+        "Sezuvchi va harakatlanuvchi nerv tolalari",
+        "Elastik va silliq tolalar",
+        "Faqat sezuvchi tolalar",
+        "Miofibril tolalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Nerv to'qimasi qanday hujayralardan tashkil topgan?",
+      "options": [
+        "Neyron va miofibrildan",
+        "Neyrogliya va epiteliydan",
+        "Faqat neyronlardan",
+        "Neyron va neyrogliyadan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Nerv hujayrasining ikkinchi nomi qaysi?",
+      "options": [
+        "Neyrogliya",
+        "Akson",
+        "Neyron",
+        "Dendrit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Neyronlar bajaradigan vazifasiga ko'ra qanday turlarga bo'linadi?",
+      "options": [
+        "Uzun va kalta",
+        "Sezuvchi va harakatlantiruvchi",
+        "Yassi va kubsimon",
+        "Qo'zg'aluvchi va qisqaruvchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Neyron qaysi shakllarga ega bo'lishi mumkin?",
+      "options": [
+        "Doirasimon, duksimon, kubsimon, tukli",
+        "Doirasimon, yulduzsimon, oval, noksimon",
+        "Yassi, oval, noksimon, yulduzsimon",
+        "Oval, silindrsimon, kubsimon, doirasimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Neyronning hajmi qanday oraliqda bo'ladi?",
+      "options": [
+        "4–130 mikron",
+        "0,1 mm",
+        "1–10 mikron",
+        "40–1300 mikron"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Neyronning boshqa hujayralardan farqi nimada?",
+      "options": [
+        "Yadrosi bo'lmaydi",
+        "Faqat bitta uzun o'simtasi bor",
+        "Faqat bir nechta kalta o'simtasi bor",
+        "Membrana, sitoplazma, yadrodan tashqari uzun va kalta o'simtalari bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Neyronning uzun o'simtasi nima deb ataladi?",
+      "options": [
+        "Dendrit",
+        "Neyrogliya",
+        "Akson",
+        "Miofibril"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Neyronning kalta o'simtalari nima deb ataladi?",
+      "options": [
+        "Akson",
+        "Neyrogliya",
+        "Dendrit",
+        "Neyron"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Neyronda nechta uzun va nechta kalta o'simta bo'ladi?",
+      "options": [
+        "Bir nechta uzun va bitta kalta",
+        "Bitta uzun va bir nechta kalta",
+        "Bitta uzun va bitta kalta",
+        "Bir nechta uzun va bir nechta kalta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Sezuvchi neyronning vazifasi qaysi?",
+      "options": [
+        "Tana a'zolaridan ta'sirni qabul qilib, markaziy nerv sistemasiga o'tkazish",
+        "Markaziy nerv sistemasidan buyruqni muskullarga yetkazish",
+        "Nerv hujayralarini oziqlantirish",
+        "Qonni kislorod bilan ta'minlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Harakatlantiruvchi neyronning uzun o'simtalari qayerlarga boradi?",
+      "options": [
+        "Faqat skelet muskullariga",
+        "Faqat bosh va orqa miyaga",
+        "Teri va epiteliyga",
+        "Skelet muskullariga, ichki organlarning silliq muskullariga va yurakka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Harakatlantiruvchi neyronlar nimani boshqaradi?",
+      "options": [
+        "Nerv hujayralarining oziqlanishini",
+        "Qonning tarkibini",
+        "Hujayralarning ko'payishini",
+        "Ish bajaruvchi organlarning harakatlanishini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Nerv hujayralarining kalta o'simtalari haqida to'g'ri fikrni tanlang.",
+      "options": [
+        "Tananing barcha organlariga boradi",
+        "Skelet muskullariga boradi",
+        "Bosh va orqa miyadan tashqariga chiqmaydi, hujayralarni o'zaro bog'laydi",
+        "Faqat ta'sirni qabul qilib, markazga o'tkazadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Nerv to'qimasining asosiy xususiyati qaysi?",
+      "options": [
+        "Qisqaruvchanlik",
+        "Qo'zg'aluvchanlik",
+        "Tez ko'payish",
+        "Elastiklik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Nerv hujayrasi tashqaridan berilgan ta'sirga qanday javob beradi?",
+      "options": [
+        "Qo'zg'aladi va ta'sirni ish bajaruvchi organga uzatadi",
+        "Qisqaradi va ta'sirni oziqlantiradi",
+        "Ko'payib, to'qimani qoplaydi",
+        "Ta'sirni qabul qilmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 65,
+      "question": "Neyrogliya qayerda joylashadi?",
+      "options": [
+        "Bosh va orqa miya nerv hujayralari atrofida",
+        "Yurak devorida",
+        "Suyak va tog'aylar orasida",
+        "Ichak ichki yuzasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "Neyrogliyaning vazifasi nima?",
+      "options": [
+        "Ta'sirni uzoq masofaga o'tkazish",
+        "Muskulni qisqartirish",
+        "Gaz almashinuvini ta'minlash",
+        "Nerv hujayralarini oziqlantirish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "Ma'lum funksiyani bajarishga moslashgan turli hujayra va to'qimalar to'plami nima deb ataladi?",
+      "options": [
+        "Organlar sistemasi",
+        "Organizm",
+        "Organ",
+        "To'qima"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "Yurak organizmda qanday vazifani bajaradi?",
+      "options": [
+        "Gaz almashinuvini ta'minlaydi",
+        "Qon aylanishini ta'minlaydi",
+        "Qoldiq moddalarni ajratadi",
+        "Ovqatni hazm qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "O'pkadagi alveolalarda qanday jarayon o'tadi?",
+      "options": [
+        "Qon aylanishi",
+        "Gaz almashinuvi",
+        "Qoldiq moddalarni ajratish",
+        "Ovqat hazm bo'lishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Buyraklarning vazifasi nima?",
+      "options": [
+        "Moddalar almashinuvi natijasida hosil bo'lgan qoldiq moddalarni qondan ajratish",
+        "Organizm hujayralarini kislorod bilan ta'minlash",
+        "Qon aylanishini ta'minlash",
+        "Ovqatni hazm qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "Bir xil vazifani bajaruvchi bir nechta organlar majmuasi nima deb ataladi?",
+      "options": [
+        "Organ",
+        "To'qima",
+        "Organizm",
+        "Organlar sistemasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Nafas olish organlari sistemasiga qaysi qator to'liq mos keladi?",
+      "options": [
+        "Burun, halqum, hiqildoq, qizilo'ngach, bronxlar, o'pkalar",
+        "Burun, halqum, traxeya, me'da, bronxlar, o'pkalar",
+        "Burun, halqum, hiqildoq, traxeya, bronxlar, o'pkalar",
+        "Burun, hiqildoq, traxeya, buyrak, bronxlar, o'pkalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Odam organizmi qanday sistema hisoblanadi?",
+      "options": [
+        "Oddiy fiziologik sistema",
+        "Faqat organlar yig'indisi",
+        "Murakkab biologik sistema",
+        "Faqat hujayralar yig'indisi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "Organizmning barcha to'qima va organlari bir-biri bilan qanday yo'l bilan boshqariladi?",
+      "options": [
+        "Faqat nerv yo'li bilan",
+        "Nerv va gumoral yo'l bilan",
+        "Faqat gumoral yo'l bilan",
+        "Mexanik va nerv yo'li bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Odam organizmi nima uchun bir butun deb ataladi?",
+      "options": [
+        "Barcha hujayra, to'qima va organlari uzviy bog'langan holda ishlagani uchun",
+        "Barcha to'qimalari bir xil tuzilgani uchun",
+        "Faqat bitta organlar sistemasidan iborat bo'lgani uchun",
+        "Hujayralararo moddasi bo'lmagani uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Quyidagi ketma-ketliklardan qaysi biri tuzilish murakkabligi ortib borish tartibini to'g'ri ko'rsatadi?",
+      "options": [
+        "Hujayra – organ – to'qima – organlar sistemasi – organizm",
+        "To'qima – hujayra – organ – organlar sistemasi – organizm",
+        "Hujayra – to'qima – organlar sistemasi – organ – organizm",
+        "Hujayra – to'qima – organ – organlar sistemasi – organizm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "MOSLASHTIRING. 1) Yassi epiteliy 2) Kubsimon epiteliy 3) Silindrsimon epiteliy 4) Tukli epiteliy; a) buyrak b) teri sirti c) ichakning ichki yuzasi d) burun bo'shlig'i",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-b, 2-a, 3-c, 4-d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "MOSLASHTIRING. 1) Ko'ndalang-targ'il muskul 2) Silliq muskul 3) Yurak muskuli 4) Miofibril; a) tanada suyaklarga birikadi b) ichki organ devorida, ixtiyorga bog'liq emas c) ko'ndalang-targ'ilga o'xshash, murakkabroq d) qisqarish-yozilishni ta'minlaydi",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "MOSLASHTIRING. 1) Akson 2) Dendrit 3) Neyrogliya 4) Neyron; a) uzun o'simta b) kalta o'simta c) nerv hujayralarini oziqlantiradi d) nerv hujayrasi",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "MOSLASHTIRING. 1) Yurak 2) O'pka alveolalari 3) Buyrak 4) Nafas olish sistemasi; a) qon aylanishi b) gaz almashinuvi c) qoldiq moddalarni qondan ajratish d) burun, halqum, hiqildoq, traxeya, bronxlar, o'pkalar",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-c, 2-b, 3-a, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "MOSLASHTIRING. 1) Epiteliy to'qima 2) Biriktiruvchi to'qima 3) Muskul to'qima 4) Nerv to'qima; a) hujayralari zich, hujayralararo modda kam b) hujayralar orasida hujayralararo modda bor c) qo'zg'aluvchanlik va qisqaruvchanlik d) neyron va neyrogliya",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "MOSLASHTIRING. 1) Sezuvchi neyron 2) Harakatlantiruvchi neyron 3) Pay va tog'ay 4) Qon; a) ta'sirni markaziy nerv sistemasiga o'tkazadi b) muskullar va yurak harakatini boshqaradi c) elastik tolalar ko'p d) oziq va kislorod yetkazadi",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-a, 2-b, 3-c, 4-d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 83,
+      "question": "MOSLASHTIRING. 1) Epiteliy 2) Silliq muskul 3) Skelet muskuli 4) Nerv to'qimasi; a) teri sirti va shilliq qavat b) qon tomirlari devori c) ixtiyoriy harakat d) bosh va orqa miya",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 84,
+      "question": "MOSLASHTIRING. 1) To'qima 2) Organ 3) Organlar sistemasi 4) Organizm; a) o'xshash hujayralar to'plami b) turli hujayra va to'qimalar to'plami c) bir xil vazifali organlar majmuasi d) nerv va gumoral yo'l bilan boshqariladigan bir butun",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
