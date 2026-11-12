@@ -1,0 +1,931 @@
+{
+  "topicId": 3,
+  "title": "Tayanch-harakatlanish sistemasining tuzilishi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tayanch-harakatlanish sistemasi nimalardan iborat?",
+      "options": [
+        "Skelet va muskullardan",
+        "Faqat skeletdan",
+        "Suyaklar va nerv tolalaridan",
+        "Muskullar va bo'g'imlardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Odam skeletining eng muhim funksiyalari qaysilar?",
+      "options": [
+        "Tayanch va oziqlantirish",
+        "Himoya va gaz almashinuvi",
+        "Harakat va qon ishlab chiqarish",
+        "Tayanch va himoya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Skeletning tayanch funksiyasi tufayli unga nima birikib turadi?",
+      "options": [
+        "Barcha silliq muskullar",
+        "Yurak muskullari",
+        "Barcha skelet muskullari",
+        "Faqat tog'aylar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Skelet quyidagilardan qaysi birini himoya qilmaydi?",
+      "options": [
+        "Ichki organlarni",
+        "Teri epiteliysini",
+        "Qon tomirlarini",
+        "Nerv sistemasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Bosh miya qayerda joylashgan?",
+      "options": [
+        "Umurtqa pog'onasi kanalida",
+        "Kalla suyagining miya qutisi ichida",
+        "Ko'krak qafasida",
+        "Yuz suyaklari ichida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Orqa miya qayerda joylashgan?",
+      "options": [
+        "Umurtqa pog'onasining kanalida",
+        "Kalla suyagining miya qutisida",
+        "Ko'krak qafasida",
+        "Chanoq bo'shlig'ida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Quyidagilardan qaysi biri ko'krak qafasida joylashganligi tufayli himoyalangan?",
+      "options": [
+        "Bosh miya va orqa miya",
+        "Buyrak va qovuq",
+        "Me'da va ichaklar",
+        "O'pkalar, traxeya, bronxlar, yurak va yirik qon tomirlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Qonning shaklli elementlari suyakning qaysi qismida ishlab chiqariladi?",
+      "options": [
+        "Suyak usti pardasida",
+        "Zich moddasida",
+        "Ko'mik qismida",
+        "Bo'g'im xaltachasida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Qonning shaklli elementlariga qaysi qator to'g'ri mos keladi?",
+      "options": [
+        "Eritrotsit, neyron, trombotsit",
+        "Leykotsit, miofibril, eritrotsit",
+        "Eritrotsit, leykotsit, trombotsit",
+        "Trombotsit, neyrogliya, leykotsit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Suyaklar yana qanday vazifani bajaradi?",
+      "options": [
+        "Vitaminlar sintez qiladi",
+        "Mineral tuzlar deposi bo'lib xizmat qiladi",
+        "Gazlar almashinuvini ta'minlaydi",
+        "Ovqatni hazm qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Odam skeleti nechta suyakdan tashkil topgan?",
+      "options": [
+        "206 ta",
+        "201 ta",
+        "216 ta",
+        "260 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Matnga ko'ra, odam skeletidagi juft suyaklar soni qancha?",
+      "options": [
+        "36 ta",
+        "206 ta",
+        "23 ta",
+        "85 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Matnga ko'ra, odam skeletidagi toq suyaklar soni qancha?",
+      "options": [
+        "85 ta",
+        "23 ta",
+        "46 ta",
+        "36 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Tuzilishiga ko'ra suyaklar qaysi turlarga bo'linadi?",
+      "options": [
+        "Naysimon, yassi, kubsimon, g'alvirsimon",
+        "Uzun, kalta, yassi, g'ovak",
+        "Naysimon, yassi, g'ovak, g'alvirsimon",
+        "Naysimon, duksimon, g'ovak, yassi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Naysimon suyaklar necha xil bo'ladi?",
+      "options": [
+        "Uch xil",
+        "Ikki xil",
+        "To'rt xil",
+        "Bir xil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Uzun naysimon suyaklarga qaysilar kiradi?",
+      "options": [
+        "Yelka, bilak, son, boldir",
+        "Qovurg'a, to'sh, o'mrov, son",
+        "Kaft, barmoq, yelka, bilak",
+        "Kurak, chanoq, son, boldir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Kalta naysimon suyaklarga qaysilar kiradi?",
+      "options": [
+        "Qo'l va oyoqning kaft va barmoq suyaklari",
+        "Yelka va bilak suyaklari",
+        "Umurtqa va kaftusti suyaklari",
+        "Qovurg'a va to'sh suyaklari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "G'ovak suyaklar necha xil bo'ladi?",
+      "options": [
+        "Uch xil",
+        "Bir xil",
+        "To'rt xil",
+        "Ikki xil: uzun g'ovak va kalta g'ovak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Uzun g'ovak suyaklarga qaysilar kiradi?",
+      "options": [
+        "Yelka, bilak, son",
+        "Umurtqa, kaftusti",
+        "Qovurg'a, to'sh, o'mrov",
+        "Kurak, chanoq, tepa"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Kalta g'ovak suyaklarga qaysilar kiradi?",
+      "options": [
+        "Qovurg'a va o'mrov suyaklari",
+        "Umurtqa va kaftusti suyaklari",
+        "Kaft va barmoq suyaklari",
+        "Kurak va chanoq suyaklari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Yassi suyaklarga qaysilar kiradi?",
+      "options": [
+        "Qovurg'a, to'sh va o'mrov suyaklari",
+        "Bosh suyagidagi tepa, ensa, yuz, kurak va chanoq suyaklari",
+        "Peshana, ponasimon va g'alvirsimon suyaklar",
+        "Umurtqa va kaftusti suyaklari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "G'alvirsimon suyaklarga qaysilar kiradi?",
+      "options": [
+        "Yuqorigi jag', peshana, ponasimon va g'alvirsimon suyaklar",
+        "Tepa, ensa, yuz suyaklari",
+        "Kurak va chanoq suyaklari",
+        "Qovurg'a va to'sh suyaklari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Qaysi suyak uzun g'ovak suyaklarga kiradi?",
+      "options": [
+        "Bilak",
+        "Umurtqa",
+        "Kurak",
+        "O'mrov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Qaysi suyak yassi suyaklarga kiradi?",
+      "options": [
+        "O'mrov",
+        "Qovurg'a",
+        "Kurak",
+        "Yelka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Qaysi suyak uzun naysimon suyaklarga kiradi?",
+      "options": [
+        "To'sh",
+        "Kaftusti",
+        "Boldir",
+        "Peshana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Qaysi suyak kalta g'ovak suyaklarga kiradi?",
+      "options": [
+        "Kaft",
+        "Kaftusti",
+        "Barmoq",
+        "O'mrov"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Odam tanasidagi suyaklar joylashishiga qarab qanday qismlarga bo'linadi?",
+      "options": [
+        "Bosh, gavda, qo'l va oyoq suyaklari",
+        "Bosh, gavda va oyoq suyaklari",
+        "Yuz, gavda, qo'l va oyoq suyaklari",
+        "Bosh, ko'krak, qo'l va oyoq suyaklari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Bosh suyagi nechta suyakning birikishidan tashkil topgan?",
+      "options": [
+        "33 ta",
+        "26 ta",
+        "32 ta",
+        "23 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Bosh suyagi qaysi ikki qismdan iborat?",
+      "options": [
+        "Peshana va ensa suyaklari",
+        "Tepa va chakka suyaklari",
+        "Yuqorigi va pastki jag'",
+        "Miya qutisi va yuz suyaklari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Odamning gavda skeleti qaysi ikki qismdan iborat?",
+      "options": [
+        "Umurtqa pog'onasi va chanoq",
+        "Ko'krak qafasi va kurak",
+        "Umurtqa pog'onasi va ko'krak qafasi",
+        "Bosh va umurtqa pog'onasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Umurtqa pog'onasi nechta umurtqaning birikishidan hosil bo'ladi?",
+      "options": [
+        "24–25 ta",
+        "33–34 ta",
+        "30–31 ta",
+        "36–37 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Umurtqa pog'onasining uzunligi qancha bo'lishi mumkin?",
+      "options": [
+        "70–90 sm",
+        "50–60 sm",
+        "100–120 sm",
+        "30–40 sm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Odam skeletining markaziy qismi qaysi?",
+      "options": [
+        "Umurtqa pog'onasi",
+        "Ko'krak qafasi",
+        "Bosh suyagi",
+        "Chanoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Umurtqa pog'onasi nechta qismdan iborat?",
+      "options": [
+        "4 ta",
+        "6 ta",
+        "3 ta",
+        "5 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Bo'yin umurtqalari soni qancha?",
+      "options": [
+        "12 ta",
+        "5 ta",
+        "7 ta",
+        "4–5 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Ko'krak umurtqalari soni qancha?",
+      "options": [
+        "7 ta",
+        "12 ta",
+        "5 ta",
+        "10 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Bel umurtqalari soni qancha?",
+      "options": [
+        "7 ta",
+        "5 ta",
+        "12 ta",
+        "4–5 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Dumg'aza umurtqalari soni qancha?",
+      "options": [
+        "5 ta",
+        "7 ta",
+        "4–5 ta",
+        "12 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Dum umurtqalari soni qancha?",
+      "options": [
+        "5 ta",
+        "7 ta",
+        "12 ta",
+        "4–5 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Quyidagi qatorda umurtqa pog'onasi qismlari yuqoridan pastga to'g'ri berilgan?",
+      "options": [
+        "Bo'yin – bel – ko'krak – dumg'aza – dum",
+        "Ko'krak – bo'yin – bel – dumg'aza – dum",
+        "Bo'yin – ko'krak – bel – dumg'aza – dum",
+        "Bo'yin – ko'krak – bel – dum – dumg'aza"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Quyidagilardan qaysi biri ko'krak qafasi suyaklariga kiradi?",
+      "options": [
+        "12 ta bel umurtqasi, 12 juft qovurg'a, o'mrov",
+        "7 ta bo'yin umurtqasi, 12 juft qovurg'a, to'sh",
+        "12 ta ko'krak umurtqasi, 12 juft qovurg'a, to'sh suyagi",
+        "12 ta ko'krak umurtqasi, 10 juft qovurg'a, kurak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Qovurg'alar orqa tomondan qaysi suyaklarga birikadi?",
+      "options": [
+        "Bel umurtqalariga",
+        "Ko'krak umurtqalariga",
+        "Bo'yin umurtqalariga",
+        "Dumg'azaga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Chin qovurg'alar soni qancha?",
+      "options": [
+        "7 juft",
+        "3 juft",
+        "2 juft",
+        "12 juft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Chin qovurg'alar old tomondan qaysi suyakka birikadi?",
+      "options": [
+        "Yettinchi qovurg'a tog'ayiga",
+        "O'mrov suyagiga",
+        "Qorin muskullariga",
+        "To'sh suyagiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Soxta qovurg'alar soni qancha?",
+      "options": [
+        "7 juft",
+        "2 juft",
+        "5 juft",
+        "3 juft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Soxta qovurg'alar qanday birikadi?",
+      "options": [
+        "To'sh suyagiga bevosita",
+        "Qorin muskullari orasida erkin yotadi",
+        "O'zaro va yettinchi qovurg'aning tog'ayiga",
+        "Faqat umurtqaga birikadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Yetim qovurg'alar soni qancha?",
+      "options": [
+        "Pastki 3 juft",
+        "Pastki 2 juft",
+        "Yuqorigi 2 juft",
+        "Pastki 5 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Yetim qovurg'alar qayerda yotadi?",
+      "options": [
+        "Qorin muskullari orasida",
+        "To'sh suyagi ostida",
+        "Umurtqalar orasida",
+        "Ko'krak qafasi old devorida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Qaysi juftlik to'g'ri moslashtirilgan?",
+      "options": [
+        "Soxta qovurg'alar – 3 juft",
+        "Chin qovurg'alar – 3 juft",
+        "Yetim qovurg'alar – 7 juft",
+        "Soxta qovurg'alar – 2 juft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "To'sh suyagi nechta qismdan iborat?",
+      "options": [
+        "Ikki qismdan",
+        "To'rt qismdan",
+        "Besh qismdan",
+        "Uch qismdan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "To'sh suyagining qismlari to'g'ri ko'rsatilgan qatorni toping.",
+      "options": [
+        "Dasta, tana, ponasimon o'simta",
+        "Tepa, tana, qilichsimon o'simta",
+        "Dasta, tana, qilichsimon o'simta",
+        "Dasta, bosh, qilichsimon o'simta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "To'sh suyagining yuqorigi qismi nima deb ataladi?",
+      "options": [
+        "Tana",
+        "Dasta",
+        "Qilichsimon o'simta",
+        "Bosh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "To'sh suyagining pastki qismi nima deb ataladi?",
+      "options": [
+        "Dasta",
+        "Qilichsimon o'simta",
+        "Tana",
+        "Ponasimon o'simta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Qo'l suyaklari qaysi ikki qismga bo'linadi?",
+      "options": [
+        "Yelka kamari suyaklari va qo'lning erkin suyaklari",
+        "Yelka suyaklari va bilak suyaklari",
+        "Kurak suyaklari va panja suyaklari",
+        "Qo'l kamari va oyoq kamari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Yelka kamari suyaklariga qaysilar kiradi?",
+      "options": [
+        "Yelka va bilak",
+        "Bilak va tirsak",
+        "Kaft va panja",
+        "Kurak va o'mrov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Qo'lning erkin suyaklariga qaysilar kiradi?",
+      "options": [
+        "Kurak, o'mrov, yelka va bilak suyaklari",
+        "Son, boldir, kaft va panja suyaklari",
+        "Yelka, bilak-tirsak, kaftusti, kaft va panja suyaklari",
+        "Yelka, o'mrov, kaftusti va kaft suyaklari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Quyidagilardan qaysi biri qo'lning erkin suyagi emas?",
+      "options": [
+        "Yelka",
+        "Kaftusti",
+        "O'mrov",
+        "Panja"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Oyoq suyaklari qaysi ikki guruhga bo'linadi?",
+      "options": [
+        "Son va boldir suyaklari",
+        "Oyoq kamari (chanoq) va oyoqning erkin suyaklari",
+        "Chanoq va dumg'aza suyaklari",
+        "Oyoq kamari va yelka kamari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Oyoq kamari qaysi suyaklardan tashkil topgan?",
+      "options": [
+        "Ikki tomondan nomsiz suyaklar, orqadan dumg'aza va dum umurtqa suyaklari",
+        "Ikki tomondan kurak, orqadan dumg'aza",
+        "Ikki tomondan son suyaklari, orqadan bel umurtqalari",
+        "Ikki tomondan o'mrov, orqadan dum suyagi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Oyoqning erkin suyaklariga qaysilar kiradi?",
+      "options": [
+        "Nomsiz, son, boldir, tizza qopqog'i",
+        "Son, bilak, tizza qopqog'i, panja",
+        "Dumg'aza, son, boldir, panja",
+        "Son, boldir, tizza qopqog'i, oyoq panjasi suyaklari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Quyidagilardan qaysi biri oyoqning erkin suyagi emas?",
+      "options": [
+        "Son",
+        "Boldir",
+        "Tizza qopqog'i",
+        "Nomsiz suyak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Odam tanasidagi suyaklar necha xil usulda birikadi?",
+      "options": [
+        "Uch xil",
+        "Bir xil",
+        "Ikki xil: harakatsiz va harakatli",
+        "To'rt xil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Suyaklarning harakatsiz birikishiga qaysilar misol bo'ladi?",
+      "options": [
+        "Yelka va tirsak bo'g'imlari",
+        "Bosh, umurtqa va chanoq suyaklarining tutashuvi",
+        "Tizza va boldir-tovon bo'g'imlari",
+        "Qo'l va oyoq panja suyaklari tutashuvi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Harakatsiz birikkan suyaklar nimalar yordamida bir-biriga birikadi?",
+      "options": [
+        "Boylamlar, tog'aylar, suyak choklari",
+        "Bo'g'im xaltachasi, bo'shliq",
+        "Faqat muskullar",
+        "Faqat suyuqlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 65,
+      "question": "Bosh suyagining peshana, tepa, chakka, ensa suyaklari bir-biriga qanday birikadi?",
+      "options": [
+        "Chok yordamida",
+        "Bo'g'im yordamida",
+        "Faqat tog'ay yordamida",
+        "Pay yordamida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "Bosh suyagi suyaklari nima uchun harakatsiz bo'ladi?",
+      "options": [
+        "Bo'g'im bo'shlig'i bo'lgani uchun",
+        "Elastik tolalar ko'pligi uchun",
+        "Muskullar bilan bog'langani uchun",
+        "Bir-biriga uzluksiz — zich birikkani uchun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "Bosh suyagi suyaklari qachon chok yordamida yaxlit bosh suyagini hosil qiladi?",
+      "options": [
+        "Bola tug'ilishi bilan darhol",
+        "Faqat balog'at yoshida",
+        "Bola o'sgan sari",
+        "Faqat keksalikda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "Harakatli birikish nima deb ataladi?",
+      "options": [
+        "Chok hosil qilib birikish",
+        "Bo'g'im hosil qilib birikish",
+        "Boylam yordamida birikish",
+        "Tog'ay yordamida birikish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Quyidagilardan qaysi biri harakatli (bo'g'im) birikishga misol emas?",
+      "options": [
+        "Yelka bo'g'imi",
+        "Bosh suyagidagi chok",
+        "Tizza bo'g'imi",
+        "Boldir-tovon bo'g'imi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Quyidagilardan qaysi biri harakatsiz birikishga misol bo'ladi?",
+      "options": [
+        "Chanoq suyaklarining tutashuvi",
+        "Tirsak bo'g'imi",
+        "Son-chanoq bo'g'imi",
+        "Kaftusti bo'g'imi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "Bo'g'im hosil qilib birikuvchi suyaklarning uchlari qanday bo'ladi?",
+      "options": [
+        "Ikkalasi ham qavariq",
+        "Ikkalasi ham botiq",
+        "Biri g'ovak, ikkinchisi zich",
+        "Biri qavariq, silliq, ikkinchisi botiqroq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Bo'g'im nechta qismdan iborat?",
+      "options": [
+        "Ikki qismdan",
+        "To'rt qismdan",
+        "Uch qismdan",
+        "Besh qismdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Bo'g'imning qismlari to'g'ri ko'rsatilgan qatorni toping.",
+      "options": [
+        "Bo'g'im xaltachasi, suyak choki, bo'g'im bo'shlig'i",
+        "Boylam, suyaklarning bo'g'im yuzasi, tog'ay",
+        "Bo'g'im xaltachasi, suyaklarning bo'g'im yuzasi, bo'g'im bo'shlig'i",
+        "Bo'g'im xaltachasi, suyak ko'migi, bo'g'im bo'shlig'i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "Quyidagilardan qaysi biri bo'g'imning tarkibiy qismi hisoblanadi?",
+      "options": [
+        "Suyak choki",
+        "Bo'g'im bo'shlig'i",
+        "Qilichsimon o'simta",
+        "Dasta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Quyidagi suyaklar orasida faqat umurtqa pog'onasi bilan bog'liq to'g'ri fikrni toping.",
+      "options": [
+        "U skeletning markaziy qismi bo'lib, tananing asosiy tayanchi hisoblanadi",
+        "U faqat ko'krak umurtqalaridan iborat",
+        "U 206 ta umurtqadan iborat",
+        "U faqat himoya vazifasini bajaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Ko'krak qafasida nimalar joylashadi?",
+      "options": [
+        "Faqat bosh miya",
+        "Faqat orqa miya",
+        "Faqat me'da va ichaklar",
+        "Odam hayoti uchun muhim ichki organlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "MOSLASHTIRING. 1) Bo'yin 2) Ko'krak 3) Dum 4) Bel; a) 4–5 ta b) 7 ta c) 12 ta d) 5 ta",
+      "options": [
+        "1-b, 2-c, 3-d, 4-a",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 78,
+      "question": "MOSLASHTIRING. 1) Chin qovurg'alar 2) Soxta qovurg'alar 3) Yetim qovurg'alar 4) To'sh suyagi; a) 3 juft b) 7 juft c) 2 juft d) dasta, tana, qilichsimon o'simta",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "MOSLASHTIRING. 1) Uzun naysimon 2) Kalta naysimon 3) Uzun g'ovak 4) Kalta g'ovak; a) umurtqa b) qovurg'a c) boldir d) barmoq suyagi",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "MOSLASHTIRING. 1) Yassi suyak 2) G'alvirsimon suyak 3) Uzun naysimon suyak 4) Kalta g'ovak suyak; a) peshana b) kurak c) yelka d) kaftusti",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "MOSLASHTIRING. 1) Yelka kamari 2) Qo'lning erkin suyaklari 3) Oyoq kamari 4) Oyoqning erkin suyaklari; a) kurak va o'mrov b) yelka, bilak-tirsak, kaft c) nomsiz suyaklar, dumg'aza, dum d) son, boldir, tizza qopqog'i",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "MOSLASHTIRING. 1) Skelet soni 2) Bosh suyagi 3) Umurtqa pog'onasi 4) Umurtqa pog'onasi uzunligi; a) 70–90 sm b) 33–34 ta umurtqa c) 23 ta suyak d) 206 ta suyak",
+      "options": [
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 83,
+      "question": "MOSLASHTIRING. 1) Bosh miya 2) Orqa miya 3) Yurak va o'pkalar 4) Qonning shaklli elementlari; a) umurtqa kanali b) miya qutisi c) ko'krak qafasi d) suyak ko'migi",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 84,
+      "question": "MOSLASHTIRING. 1) Harakatsiz birikish 2) Harakatli birikish 3) Bo'g'im xaltachasi 4) Bo'g'im bo'shlig'i; a) chok, boylam, tog'ay b) bo'g'im hosil qilib birikish c) bo'g'imni o'rab turuvchi qism d) bo'g'im ichidagi suyaklar orasidagi bo'shliq",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
