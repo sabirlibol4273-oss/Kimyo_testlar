@@ -1,0 +1,810 @@
+{
+  "topicId": 5,
+  "title": "Muskullar va ularning funksiyasi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Skelet muskullari tayanch-harakatlanish sistemasining qaysi qismi hisoblanadi?",
+      "options": [
+        "Faol qismi",
+        "Passiv qismi, ammo harakatni boshqaruvchi qismi",
+        "Passiv qismi",
+        "Faol qismi, ammo faqat ixtiyorsiz harakatni bajaruvchi qismi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Odam organizmidagi skelet muskullarining umumiy soni haqida matnda qaysi ma’lumot keltirilgan?",
+      "options": [
+        "400 dan ortiq",
+        "600 dan ortiq",
+        "600 dan kam",
+        "206 dan ortiq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Odam organizmida skelet muskullari tana massasining o‘rtacha necha foizini tashkil etadi?",
+      "options": [
+        "50 %",
+        "60 %",
+        "40 %",
+        "30 %"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Jismoniy mehnat va sport bilan shug‘ullanuvchi odamlarda muskullar tana massasining qancha qismini tashkil etadi?",
+      "options": [
+        "60 % ini va undan ko‘prog‘ini",
+        "40 % dan ko‘p bo‘lmagan qismini",
+        "40 % ini va undan kamrog‘ini",
+        "50 % ini va undan ko‘prog‘ini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Tana massasi 70 kg bo‘lgan o‘rtacha odamda skelet muskullarining massasi taxminan qancha bo‘ladi?",
+      "options": [
+        "28 kg",
+        "21 kg",
+        "35 kg",
+        "24,5 kg"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Tana massasi 75 kg bo‘lgan o‘rtacha odamda skelet muskullarining massasi taxminan qancha bo‘ladi?",
+      "options": [
+        "22,5 kg",
+        "30 kg",
+        "45 kg",
+        "37,5 kg"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Ikki kishining tana massasi 60 kg dan: biri oddiy odam, ikkinchisi sport bilan shug‘ullanuvchi. Matndagi ko‘rsatkichlarga ko‘ra, sportchida muskul massasi kamida qancha ko‘p bo‘ladi?",
+      "options": [
+        "4 kg",
+        "10 kg",
+        "6 kg",
+        "12 kg"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Tana massasi 90 kg bo‘lgan sportchida skelet muskullarining massasi matnga ko‘ra qanday bo‘ladi?",
+      "options": [
+        "Kamida 36 kg",
+        "Kamida 54 kg",
+        "Ko‘pi bilan 45 kg",
+        "Kamida 45 kg"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Muskul qisqarishi natijasida to‘g‘ridan-to‘g‘ri nima harakatga keladi?",
+      "options": [
+        "Suyaklar",
+        "Nerv hujayralari",
+        "Sinovial suyuqlik",
+        "Fassiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Quyidagi faoliyatlardan qaysi biri matnda muskul qisqarishi bilan bajariladigan ish sifatida keltirilmagan?",
+      "options": [
+        "So‘zlash",
+        "Suzish",
+        "Ovqatlanish",
+        "Yozish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Muskullar harakatini ta’minlovchi motoneyronlarning markazlari qaysi sohalarda joylashgan?",
+      "options": [
+        "Orqa miya, miyacha va uzunchoq miyada",
+        "Uzunchoq, o‘rta va oraliq miyada",
+        "Orqa, uzunchoq va o‘rta miyada",
+        "Orqa, oraliq va o‘rta miyada"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Quyidagi miya bo‘limlaridan qaysi birida motoneyronlarning markazlari matnga ko‘ra joylashmagan?",
+      "options": [
+        "Orqa miya",
+        "Uzunchoq miya",
+        "O‘rta miya",
+        "Oraliq miya"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Harakatlanish oliy nerv markazlari qayerda joylashgan?",
+      "options": [
+        "Bosh miya katta yarimsharlari po‘stlog‘ining oldingi markaziy egatida",
+        "Bosh miya katta yarimsharlari po‘stlog‘ining ensa qismida",
+        "Miyacha po‘stlog‘ining oldingi markaziy egatida",
+        "Bosh miya katta yarimsharlari po‘stlog‘ining orqa markaziy egatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Motoneyronlarning orqa, uzunchoq va o‘rta miyadagi markazlari funksiyasini qaysi tuzilma boshqaradi?",
+      "options": [
+        "Orqa miyadagi periferik nerv markazlari",
+        "Katta yarimsharlar po‘stlog‘idagi harakatlanish oliy nerv markazlari",
+        "Fassiyadagi nerv oxirlari",
+        "Miyachadagi muvozanat markazlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Bosh miya po‘stlog‘idagi nerv markazlari ishi buzilsa, ularning muskullarida qanday o‘zgarish yuzaga keladi?",
+      "options": [
+        "Muskul tonusi pasayib, falaj bo‘lgan qo‘l-oyoq osilib qoladi",
+        "Muskul tonusi pasayib, falaj bo‘lgan qo‘l-oyoq tarashadek qotib qoladi",
+        "Muskul tarangligi ortib, falaj bo‘lgan qo‘l-oyoq tarashadek qotib qoladi",
+        "Muskul tarangligi ortib, falaj bo‘lgan qo‘l-oyoq osilib qoladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Orqa miyada joylashgan nerv markazlari ishi buzilsa, ular boshqaradigan muskullarda qanday o‘zgarish yuzaga keladi?",
+      "options": [
+        "Markaziy falajlik: tonus pasayib, qo‘l yoki oyoq osilib qoladi",
+        "Markaziy falajlik: tonus ortib, qo‘l yoki oyoq tarashadek qotib qoladi",
+        "Periferik falajlik: tonus ortib, qo‘l yoki oyoq tarashadek qotib qoladi",
+        "Periferik falajlik: tonus pasayib, qo‘l yoki oyoq harakatsizlanib, osilib qoladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Bemorning qo‘li falaj bo‘lgan, muskullari taranglashgan va qo‘li tarashadek qotib qolgan. Matnga ko‘ra, buzilish qayerda bo‘lishi ehtimoli katta?",
+      "options": [
+        "Bosh miya po‘stlog‘idagi harakatlanish nerv markazlarida",
+        "Orqa miyadagi nerv markazlarida",
+        "Muskulni o‘rab turuvchi fassiyada",
+        "Muskul paylari orasidagi sinovial suyuqlikda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Bemorning oyog‘i falaj bo‘lgan, muskul tonusi pasaygan va oyog‘i osilib qolgan. Matnga ko‘ra, buzilish qayerda bo‘lishi ehtimoli katta?",
+      "options": [
+        "Bosh miya katta yarimsharlarining ensa qismida",
+        "Orqa miyada joylashgan nerv markazlarida",
+        "Bosh miya po‘stlog‘ining oldingi markaziy egatidagi markazlarda",
+        "Muskulning bosh va dum qismidagi paylarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Muskullarning markaziy (po‘stloq) falajiga olib kelishi mumkin bo‘lgan holat qaysi?",
+      "options": [
+        "Fassiyaning yupqalashishi",
+        "Sinovial suyuqlik miqdorining kamayishi",
+        "Bosh miya shikastlanishi yoki miyaga qon quyilishi",
+        "Orqa miya nerv markazlari ishining buzilishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Quyidagilardan qaysi biri periferik falajlikning belgisi EMAS?",
+      "options": [
+        "Qo‘l yoki oyoqning harakatsizlanishi",
+        "Muskul tonusining pasayishi",
+        "Qo‘l yoki oyoqning osilib qolishi",
+        "Qo‘l yoki oyoqning tarashadek qotib qolishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Quyidagilardan qaysi biri bosh miya po‘stlog‘i markazlari buzilganda yuzaga keladigan falajlikning belgisi EMAS?",
+      "options": [
+        "Muskul tonusining pasayishi",
+        "Falaj bo‘lgan qo‘l-oyoqning qotib qolishi",
+        "Muskul tarangligining ortishi",
+        "Markazga bo‘ysunuvchi muskullarning falaji"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Quyidagi hukmlardan qaysi biri matnga to‘liq mos keladi?",
+      "options": [
+        "Orqa miyadagi markazlar ishi buzilsa, boshqariladigan muskullarda taranglik ortadi",
+        "Orqa miyadagi markazlar ishi buzilsa, boshqariladigan muskullarda tonus pasayadi",
+        "Bosh miya po‘stlog‘idagi markazlar ishi buzilsa, boshqariladigan muskullarda tonus pasayadi",
+        "Miyaga qon quyilishi periferik falajlikka olib keladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Quyidagi hukmlardan qaysi biri matnga ZID?",
+      "options": [
+        "Muskullar tana massasining o‘rtacha 40 % ini tashkil etadi",
+        "Markaziy falaj miyaga qon quyilganda yuzaga kelishi mumkin",
+        "Periferik falajda qo‘l yoki oyoq tarashadek qotib qoladi",
+        "Fassiya muskulni tashqi tomondan o‘rab turadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Quyidagi muskul shakllaridan qaysi biri matnda keltirilmagan?",
+      "options": [
+        "Tasmasimon",
+        "Tishsimon",
+        "Piramidasimon",
+        "Yulduzsimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Muskullarning shakli va joylashgan o‘rni juftliklaridan qaysi biri matnga mos?",
+      "options": [
+        "Aylana muskullar – og‘iz va ko‘z atrofida",
+        "Kalta muskullar – ko‘krak va qorin devorlarida",
+        "Uzun muskullar – qovurg‘alar orasida",
+        "Keng muskullar – qo‘l-oyoqlarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Muskullarning shakli va joylashgan o‘rni juftliklaridan qaysi biri matnga ZID?",
+      "options": [
+        "Uzun muskullar – asosan qo‘l va oyoqlarda",
+        "Keng muskullar – qo‘l va oyoqlarda",
+        "Kalta muskullar – qovurg‘alar orasida",
+        "Aylana muskullar – og‘iz va ko‘z atrofida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Ko‘krak va qorin devorlarida asosan qanday shakldagi muskullar joylashgan?",
+      "options": [
+        "Kalta",
+        "Aylana",
+        "Keng",
+        "Uzun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Qovurg‘alar orasida asosan qanday shakldagi muskullar joylashgan?",
+      "options": [
+        "Uzun",
+        "Aylana",
+        "Keng",
+        "Kalta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Muskulni tashqi tomondan o‘rab turuvchi, biriktiruvchi to‘qimadan tuzilgan yupqa parda nima deb ataladi?",
+      "options": [
+        "Fassiya",
+        "Pay",
+        "Sinovial parda",
+        "Muskul qorni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Fassiya qaysi to‘qimadan tuzilgan?",
+      "options": [
+        "Ko‘ndalang-targ‘il muskul to‘qimasidan",
+        "Biriktiruvchi to‘qimadan",
+        "Nerv to‘qimasidan",
+        "Epiteliy to‘qimasidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Fassiya bilan muskulning paylari orasida nima bo‘ladi va u qanday vazifani bajaradi?",
+      "options": [
+        "Sinovial suyuqlik – muskulni suyakka mahkamlaydi",
+        "Limfa – harakatni qulaylashtiradi",
+        "Sinovial suyuqlik – harakatni qulaylashtiradi",
+        "Sinovial parda – muskulni qon bilan ta’minlaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Matnga ko‘ra, har bir muskulning paylardan tashkil topgan qismlari qaysilar?",
+      "options": [
+        "Bosh va qorin qismi",
+        "Tana va dum qismi",
+        "Qorin va dum qismi",
+        "Bosh va dum qismi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "17-rasmda 14-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Qorinning ichki qiyshiq muskuli",
+        "Qovurg‘alararo muskullar",
+        "Qorinning tashqi qiyshiq muskuli",
+        "Qorinning to‘g‘ri muskuli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "17-rasmda 10-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Ko‘krakning katta muskuli",
+        "Qorinning tashqi qiyshiq muskuli",
+        "Qorinning to‘g‘ri muskuli",
+        "Qorinning ichki qiyshiq muskuli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "17-rasmda qorin muskullari (to‘g‘ri, tashqi qiyshiq, ichki qiyshiq) mos ravishda qaysi raqamlar bilan berilgan?",
+      "options": [
+        "16, 14, 10",
+        "14, 10, 16",
+        "16, 10, 14",
+        "10, 16, 14"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "17-rasmda 8-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Qovurg‘alararo muskullar",
+        "Yelka muskuli",
+        "Deltasimon muskul",
+        "Ko‘krakning katta muskuli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "17-rasmda 7-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Deltasimon muskul",
+        "To‘sh-o‘mrov-so‘rg‘ichsimon muskul",
+        "Yelka muskuli",
+        "Ko‘krakning katta muskuli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "17-rasmda yelkaning ikki boshli muskuli qaysi raqam bilan ko‘rsatilgan?",
+      "options": [
+        "7",
+        "17",
+        "9",
+        "15"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "17-rasmda 9-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Yelkaning ikki boshli muskuli",
+        "Deltasimon muskul",
+        "Yelka muskuli",
+        "Qo‘l panjasini bukuvchi bilak muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "17-rasmda tikuvchi muskul qaysi raqam bilan ko‘rsatilgan?",
+      "options": [
+        "12",
+        "14",
+        "11",
+        "13"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "17-rasmda 6-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "To‘sh-o‘mrov-so‘rg‘ichsimon muskul",
+        "Chaynov muskuli",
+        "Chakka muskuli",
+        "Deltasimon muskul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "17-rasmda aylana shaklli muskullar (ko‘zning va og‘izning aylana muskullari) qaysi raqamlar bilan berilgan?",
+      "options": [
+        "1 va 2",
+        "2 va 3",
+        "3 va 4",
+        "4 va 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "17-rasmda 5-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Peshana muskuli",
+        "Og‘izning aylana muskuli",
+        "Chaynov muskuli",
+        "Chakka muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "17-rasmda 12-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Tikuvchi muskul",
+        "Qorinning to‘g‘ri muskuli",
+        "Oyoq panjasini yozuvchi uzun muskul",
+        "Sonning to‘g‘ri muskuli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "17-rasmda 15-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Qo‘l panjasini bukuvchi bilak muskuli",
+        "Yelka muskuli",
+        "Yelkaning ikki boshli muskuli",
+        "Oyoq panjasini yozuvchi uzun muskul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "17-rasmda 11-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Tikuvchi muskul",
+        "Oyoq panjasini yozuvchi uzun muskul",
+        "Sonning to‘g‘ri muskuli",
+        "Qo‘l panjasini bukuvchi bilak muskuli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "17-rasmda 18-raqam bilan qaysi muskullar ko‘rsatilgan?",
+      "options": [
+        "Qorinning ichki qiyshiq muskuli",
+        "Ko‘krakning katta muskuli",
+        "Qovurg‘alararo muskullar",
+        "Qorinning to‘g‘ri muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "18-rasmda Axill payi va tovon mos ravishda qaysi raqamlar bilan berilgan?",
+      "options": [
+        "8 va 7",
+        "7 va 9",
+        "6 va 7",
+        "7 va 8"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "18-rasmda 10-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Orqaning serbar keng muskuli",
+        "Orqaning tishsimon muskuli",
+        "Rombsimon muskul",
+        "Trapetsiyasimon muskul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "18-rasmda 13-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Orqaning serbar keng muskuli",
+        "Trapetsiyasimon muskul",
+        "Orqaning tishsimon muskuli",
+        "Rombsimon muskul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "18-rasmda 1-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Umurtqa pog‘onasini yozuvchi muskul",
+        "Trapetsiyasimon muskul",
+        "Rombsimon muskul",
+        "Orqaning tishsimon muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "18-rasmda 3-raqam bilan qaysi muskul ko‘rsatilgan?",
+      "options": [
+        "Rombsimon muskul",
+        "Orqaning serbar keng muskuli",
+        "Dumbaning kichik muskuli",
+        "Orqaning tishsimon muskuli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "18-rasmda umurtqa pog‘onasini yozuvchi muskul qaysi raqam bilan ko‘rsatilgan?",
+      "options": [
+        "2",
+        "10",
+        "1",
+        "3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "18-rasmda dumbaning katta va dumbaning kichik muskullari mos ravishda qaysi raqamlar bilan berilgan?",
+      "options": [
+        "5 va 4",
+        "9 va 4",
+        "9 va 5",
+        "4 va 9"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "18-rasmdagi quyidagi juftliklardan qaysi biri to‘g‘ri?",
+      "options": [
+        "5 – yelkaning uch boshli muskuli; 12 – sonning ikki boshli muskuli",
+        "6 – sonning ikki boshli muskuli; 12 – boldirning uch boshli muskuli",
+        "5 – sonning ikki boshli muskuli; 6 – boldirning uch boshli muskuli",
+        "5 – boldirning uch boshli muskuli; 6 – sonning ikki boshli muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "18-rasmda yelkaning uch boshli muskuli qaysi raqam bilan ko‘rsatilgan?",
+      "options": [
+        "6",
+        "13",
+        "11",
+        "12"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "18-rasmda panjalarni yozuvchi bilak muskuli qaysi raqam bilan ko‘rsatilgan?",
+      "options": [
+        "11",
+        "7",
+        "10",
+        "12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Quyidagi muskullardan qaysi biri 18-rasmda (orqadan ko‘rinishda) ko‘rsatilgan, ammo 17-rasmda (old tomondan ko‘rinishda) ko‘rsatilmagan?",
+      "options": [
+        "Sonning to‘g‘ri muskuli",
+        "Trapetsiyasimon muskul",
+        "Ko‘krakning katta muskuli",
+        "Deltasimon muskul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Quyidagi muskullardan qaysi biri 17-rasmda ko‘rsatilgan, ammo 18-rasmda ko‘rsatilmagan?",
+      "options": [
+        "Rombsimon muskul",
+        "Orqaning tishsimon muskuli",
+        "Tikuvchi muskul",
+        "Dumbaning katta muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Qo‘l panjasini bukuvchi va panjalarni yozuvchi bilak muskullari qaysi rasmlarda ko‘rsatilgan?",
+      "options": [
+        "Ikkalasi ham 18-rasmda",
+        "Ikkalasi ham 17-rasmda",
+        "Bukuvchi – 18-rasmda, yozuvchi – 17-rasmda",
+        "Bukuvchi – 17-rasmda, yozuvchi – 18-rasmda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Yelkaning ikki boshli va uch boshli muskullari qaysi rasmlarda ko‘rsatilgan?",
+      "options": [
+        "Ikki boshli – 17-rasmda, uch boshli – 18-rasmda",
+        "Ikki boshli – 18-rasmda, uch boshli – 17-rasmda",
+        "Ikkalasi ham 17-rasmda",
+        "Ikkalasi ham 18-rasmda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Sonning to‘g‘ri va sonning ikki boshli muskullari qaysi rasmlarda ko‘rsatilgan?",
+      "options": [
+        "To‘g‘ri – 18-rasmda, ikki boshli – 17-rasmda",
+        "To‘g‘ri – 17-rasmda, ikki boshli – 18-rasmda",
+        "Ikkalasi ham 17-rasmda",
+        "Ikkalasi ham 18-rasmda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "17-rasmda jami nechta muskul raqamlangan?",
+      "options": [
+        "17 ta",
+        "16 ta",
+        "18 ta",
+        "19 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "18-rasmda raqamlangan ko‘rsatkichlar jami nechta?",
+      "options": [
+        "14 ta",
+        "11 ta",
+        "12 ta",
+        "13 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 65,
+      "question": "19-rasmda A, B va D harflari mos ravishda qaysi muskul shakllarini ko‘rsatadi?",
+      "options": [
+        "Duksimon, yarimpatsimon, ikki tomonlama patsimon",
+        "Duksimon, ikki tomonlama patsimon, yarimpatsimon",
+        "Ikki tomonlama patsimon, yarimpatsimon, duksimon",
+        "Yarimpatsimon, duksimon, ikki tomonlama patsimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "19-rasmda G harfi bilan qanday muskul shakli ko‘rsatilgan?",
+      "options": [
+        "Serbar muskul",
+        "Ikki qorinli muskul",
+        "Parallel tolali uzun muskul",
+        "Ikki boshli muskul"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "19-rasmda E harfi bilan qanday muskul shakli ko‘rsatilgan?",
+      "options": [
+        "Ikki tomonlama patsimon muskul",
+        "Ikki qorinli muskul",
+        "Ikki boshli muskul",
+        "Serbar muskul"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "19-rasmda H harfi bilan qanday muskul shakli ko‘rsatilgan?",
+      "options": [
+        "Ikki qorinli muskul",
+        "Duksimon muskul",
+        "Serbar muskul",
+        "Parallel tolali uzun muskul"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "19-rasmda ikki tomonlama patsimon muskul qaysi harf bilan ko‘rsatilgan?",
+      "options": [
+        "D",
+        "A",
+        "B",
+        "G"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "19-rasmda 5-raqam nimani ko‘rsatadi?",
+      "options": [
+        "Muskul payini",
+        "Muskulning payli belbog‘larini",
+        "Muskulning bosh qismini",
+        "Muskulning tanasini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "19-rasmda 3-raqam muskulning qaysi qismini ko‘rsatadi?",
+      "options": [
+        "Tanasini",
+        "Payini",
+        "Qorin qismini",
+        "Bosh qismini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "19-rasmda 1-raqam muskulning qaysi qismini ko‘rsatadi?",
+      "options": [
+        "Muskulning bosh qismini",
+        "Muskulning payli belbog‘larini",
+        "Muskulning qorin qismini",
+        "Muskul payini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "19-rasmda muskulning bosh qismi, qorin qismi va tanasi mos ravishda qaysi raqamlar bilan berilgan?",
+      "options": [
+        "2, 3, 4",
+        "3, 2, 4",
+        "2, 4, 3",
+        "4, 3, 2"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
