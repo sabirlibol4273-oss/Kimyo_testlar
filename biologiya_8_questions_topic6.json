@@ -1,0 +1,722 @@
+{
+  "topicId": 6,
+  "title": "Odam tanasi muskullarining asosiy guruhlari",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Matnga ko‘ra, skelet muskullari odam tanasining turli qismlarida qanday tartibda joylashgan?",
+      "options": [
+        "Bosh, bo‘yin, gavda, qo‘l va oyoq muskullari",
+        "Bo‘yin, bosh, gavda, oyoq va qo‘l muskullari",
+        "Bosh, bo‘yin, qo‘l, gavda va oyoq muskullari",
+        "Bosh, gavda, bo‘yin, qo‘l va oyoq muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Bosh muskullari bajaradigan ishiga ko‘ra qanday guruhlarga bo‘linadi?",
+      "options": [
+        "Chaynash, mimika va yutish muskullariga",
+        "Chaynash va mimika muskullariga",
+        "Chaynash va nafas muskullariga",
+        "Mimika va bo‘yin muskullariga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Quyidagi muskullardan qaysi ikkitasi chaynash muskullariga kiradi?",
+      "options": [
+        "Ko‘zning aylana va chaynash muskullari",
+        "Chaynash muskuli va qoshlarni bir-biriga yaqinlashtiruvchi muskul",
+        "Chakka va chaynash muskullari",
+        "Chakka va og‘izning aylana muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Quyidagi muskullardan qaysi biri mimika muskullariga KIRMAYDI?",
+      "options": [
+        "Qoshlarni bir-biriga yaqinlashtiruvchi muskul",
+        "Ko‘zning aylana muskuli",
+        "Og‘izning aylana muskuli",
+        "Chakka muskuli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Quyidagi muskullar uchligidan qaysi biri to‘liq mimika muskullariga tegishli?",
+      "options": [
+        "Ko‘zning aylana, og‘izning aylana, qoshlarni bir-biriga yaqinlashtiruvchi muskullar",
+        "Ko‘zning aylana, chakka va chaynash muskullari",
+        "Chakka, chaynash va og‘izning aylana muskullari",
+        "Og‘izning aylana, to‘sh-o‘mrov so‘rg‘ichsimon va chakka muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Mimika muskullari qanday vazifada ishtirok etadi?",
+      "options": [
+        "Boshning turli harakatlarini ta’minlashda",
+        "Odamning turli ruhiy holatlarini ifodalashda",
+        "Nafas olish va chiqarishda",
+        "Ovqatni maydalab chaynashda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Mimika muskullarining o‘ziga xos xususiyati qaysi?",
+      "options": [
+        "Suyaklarga paylar orqali mustahkam birikadi",
+        "Faqat bosh suyagi pardasiga birikadi",
+        "Suyaklarga birikmaydi",
+        "Faqat pastki jag‘ suyagiga birikadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Mimika muskullari qiziqchilarda ayniqsa yaxshi rivojlangan bo‘ladi. Matnga ko‘ra buning sababi nima?",
+      "options": [
+        "Ular ko‘p chaynash bilan shug‘ullanadilar",
+        "Ularning mimika muskullari suyaklarga mustahkam birikadi",
+        "Bu muskullar ularda tug‘ma ko‘p bo‘ladi",
+        "Ular bu muskullarni maxsus mashq qildiradilar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Matnga ko‘ra, qaysi muskullar guruhi suyaklarga birikmaydi?",
+      "options": [
+        "Mimika muskullari",
+        "Orqa muskullari",
+        "Bo‘yin muskullari",
+        "Chaynash muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Quyidagi muskullar juftligidan qaysi biri bo‘yin muskullariga kiradi?",
+      "options": [
+        "To‘sh-o‘mrov so‘rg‘ichsimon va o‘mrovosti muskullari",
+        "Bo‘yinning teriosti muskuli va to‘sh-o‘mrov so‘rg‘ichsimon muskul",
+        "Chaynash muskuli va to‘sh-o‘mrov so‘rg‘ichsimon muskul",
+        "Bo‘yinning teriosti muskuli va chakka muskuli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Bo‘yin muskullarining asosiy vazifasi matnga ko‘ra qaysi?",
+      "options": [
+        "Nafas olish va chiqarish",
+        "Ruhiy holatlarni ifodalash",
+        "Boshning turli harakatlarini ta’minlash",
+        "Umurtqa pog‘onasini bukish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "To‘sh-o‘mrov so‘rg‘ichsimon muskul qaysi guruhga kiradi?",
+      "options": [
+        "Chaynash muskullari",
+        "Mimika muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Chakka muskuli qaysi guruhga kiradi?",
+      "options": [
+        "Chaynash muskullari",
+        "Bo‘yin muskullari",
+        "Yelka kamari muskullari",
+        "Mimika muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Tana muskullari joylashishiga qarab qanday guruhlardan iborat?",
+      "options": [
+        "Qorin, orqa va yelka kamari muskullari",
+        "Ko‘krak, qorin va orqa muskullari",
+        "Ko‘krak, qorin va son muskullari",
+        "Ko‘krak, bo‘yin va orqa muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Quyidagi muskullardan qaysi biri ko‘krak qafasi muskullariga KIRMAYDI?",
+      "options": [
+        "Diafragma",
+        "Ko‘krakning kichik muskuli",
+        "Trapetsiyasimon muskul",
+        "O‘mrovosti muskuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Quyidagi muskullar uchligidan qaysi biri to‘liq ko‘krak qafasi muskullariga tegishli?",
+      "options": [
+        "Qovurg‘alararo muskullar, deltasimon muskul, o‘mrovosti muskuli",
+        "Diafragma, orqaning serbar muskuli, ko‘krakning kichik muskuli",
+        "Ko‘krakning katta muskuli, rombsimon muskul, diafragma",
+        "Ko‘krakning katta muskuli, qovurg‘alararo muskullar, diafragma"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Qovurg‘alararo muskullar qanday turlarga bo‘linadi?",
+      "options": [
+        "Tashqi va ichki",
+        "Katta va kichik",
+        "Old va orqa",
+        "Yuza va teriosti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Diafragma muskuli qayerda joylashgan?",
+      "options": [
+        "Bo‘yin va ko‘krak qafasi o‘rtasida",
+        "Ko‘krak qafasi va qorin bo‘shlig‘i o‘rtasida",
+        "Qorin bo‘shlig‘i va chanoq o‘rtasida",
+        "Ko‘krak qafasi va yelka kamari o‘rtasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Ko‘krak qafasi muskullari qaysi vazifalarda ishtirok etadi?",
+      "options": [
+        "Nafas olish va gavdani rostlab turishda",
+        "Nafas chiqarish va kuchanish jarayonida",
+        "Nafas olish, nafas chiqarish va qo‘llarni harakatlantirishda",
+        "Nafas olish, nafas chiqarish va umurtqa pog‘onasini bukishda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Quyidagi vazifalardan qaysi biri ko‘krak qafasi muskullariga xos deb matnda ko‘rsatilMAGAN?",
+      "options": [
+        "Qo‘llarni harakatlantirish",
+        "Nafas olish",
+        "Nafas chiqarish",
+        "Umurtqa pog‘onasini bukish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Ko‘krak qafasi muskullarining matnda keltirilgan vazifalari soni nechta?",
+      "options": [
+        "3 ta",
+        "4 ta",
+        "2 ta",
+        "5 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Quyidagi vazifalardan qaysi biri qorin muskullari vazifalari sifatida matnda keltirilMAGAN?",
+      "options": [
+        "Kuchanish jarayonida ishtirok etish",
+        "Gavdani rostlab turish",
+        "Qorin bo‘shlig‘idagi ichki organlar bosimini saqlash",
+        "Umurtqa pog‘onasini bukish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Qorin muskullarining matnda keltirilgan vazifalari soni nechta?",
+      "options": [
+        "6 ta",
+        "4 ta",
+        "5 ta",
+        "3 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Qorin muskullari ayollarda yaxshi rivojlanganligi qanday ahamiyatga ega?",
+      "options": [
+        "Chaynash jarayonini yengillashtiradi",
+        "Gavdaning rostlanishini ta’minlaydi",
+        "Nafas olishni chuqurlashtiradi",
+        "Tug‘ish jarayoni oson o‘tishiga yordam beradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Matnga ko‘ra, umurtqa pog‘onasini bukishda qaysi muskullar guruhi ishtirok etishi aytilgan?",
+      "options": [
+        "Qorin muskullari",
+        "Orqa muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Qorin bo‘shlig‘idagi ichki organlar bosimini saqlashda qaysi muskullar ishtirok etadi?",
+      "options": [
+        "Orqa muskullari",
+        "Qorin muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Kuchanish jarayonida matnga ko‘ra qaysi muskullar ishtirok etadi?",
+      "options": [
+        "Mimika muskullari",
+        "Yelka kamari muskullari",
+        "Qorin muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Nafas olish va nafas harakatlarida matnga ko‘ra qaysi muskullar guruhlari ishtirok etadi?",
+      "options": [
+        "Faqat qorin muskullari",
+        "Orqa va mimika muskullari",
+        "Faqat ko‘krak qafasi muskullari",
+        "Ko‘krak qafasi va qorin muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Quyidagi muskullar juftligidan qaysi biri nafas jarayonida ishtirok etuvchi ko‘krak qafasi muskullariga tegishli?",
+      "options": [
+        "Qovurg‘alararo muskullar va diafragma",
+        "Rombsimon va trapetsiyasimon muskullar",
+        "Chakka va chaynash muskullari",
+        "Teriosti va to‘sh-o‘mrov so‘rg‘ichsimon muskullar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Quyidagi muskullar uchligidan qaysi biri to‘liq orqa muskullariga tegishli?",
+      "options": [
+        "Trapetsiyasimon, orqaning serbar, diafragma",
+        "Trapetsiyasimon, orqaning serbar, rombsimon",
+        "Orqaning serbar, o‘mrovosti, rombsimon",
+        "Trapetsiyasimon, deltasimon, rombsimon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Orqa muskullari qaysi suyaklarning harakatlarini ta’minlaydi?",
+      "options": [
+        "Umurtqa pog‘onasi va to‘sh suyagi",
+        "Kurak suyagi va o‘mrov suyagi",
+        "Umurtqa pog‘onasi va kurak suyagi",
+        "Qovurg‘alar va umurtqa pog‘onasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Gavdani rostlab turuvchi muskullar qaysi guruhga kiradi?",
+      "options": [
+        "Qorin muskullari",
+        "Bo‘yin muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Orqa muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "Quyidagi vazifalardan qaysi biri orqa muskullari vazifasi sifatida matnda keltirilMAGAN?",
+      "options": [
+        "Qorin devorini hosil qilish",
+        "Kurak suyagi harakatlarini ta’minlash",
+        "Gavdani rostlab turish",
+        "Umurtqa pog‘onasi harakatlarini ta’minlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Trapetsiyasimon muskul qaysi guruhga kiradi?",
+      "options": [
+        "Bo‘yin muskullari",
+        "Orqa muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Yelka kamari muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Deltasimon muskul qaysi guruhga kiradi?",
+      "options": [
+        "Yelka muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Yelka kamari muskullari",
+        "Orqa muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Kurak sohasidagi muskullar qaysi guruhga kiradi?",
+      "options": [
+        "Qo‘l panjasi muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Orqa muskullari",
+        "Yelka kamari muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "Matnda kurak bilan bog‘liq muskullar qaysi ikki guruh doirasida eslatilgan?",
+      "options": [
+        "Orqa muskullari va yelka kamari muskullari",
+        "Bo‘yin va yelka kamari muskullari",
+        "Orqa va ko‘krak qafasi muskullari",
+        "Yelka kamari va qorin muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Orqa va qorin muskullarining ikkalasi ham matnga ko‘ra qaysi tuzilma harakatida ishtirok etadi?",
+      "options": [
+        "Qovurg‘alar",
+        "Umurtqa pog‘onasi",
+        "Kurak suyagi",
+        "Bosh suyagi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Qo‘l muskullari (keng ma’noda) qanday ikki asosiy guruhdan iborat?",
+      "options": [
+        "Yelka va bilak muskullaridan",
+        "Yelka kamari va panja muskullaridan",
+        "Yelka kamari va qo‘l muskullaridan",
+        "Kurak va yelka muskullaridan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Qo‘l muskullari (yelka kamari muskullaridan tashqari) qaysi sohalar muskullariga bo‘linadi?",
+      "options": [
+        "Yelka, bilak va kurak",
+        "Deltasimon, bilak va panja",
+        "Son, boldir va qo‘l panjasi",
+        "Yelka, bilak va qo‘l panjasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Qo‘l muskullari (yelka kamari muskullaridan tashqari) nechta soha muskullariga bo‘linadi?",
+      "options": [
+        "3 ta",
+        "2 ta",
+        "4 ta",
+        "5 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Oyoq muskullari qaysi sohalar muskullariga bo‘linadi?",
+      "options": [
+        "Son, yelka va oyoq panjasi",
+        "Son, boldir va oyoq panjasi",
+        "Boldir, bilak va oyoq panjasi",
+        "Son, boldir va dumba"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Boldir muskullari qaysi guruhga kiradi?",
+      "options": [
+        "Tana muskullari",
+        "Yelka kamari muskullari",
+        "Oyoq muskullari",
+        "Qo‘l muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Bilak muskullari qaysi guruhga kiradi?",
+      "options": [
+        "Oyoq muskullari",
+        "Orqa muskullari",
+        "Yelka kamari muskullari",
+        "Qo‘l muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Bosh muskullari matnga ko‘ra nechta guruhga bo‘linadi?",
+      "options": [
+        "2 ta",
+        "4 ta",
+        "3 ta",
+        "5 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Chaynash muskullari tarkibida matnda nechta muskul nomi keltirilgan?",
+      "options": [
+        "4 ta",
+        "2 ta",
+        "3 ta",
+        "1 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Mimika muskullari misolida matnda nechta muskul nomi keltirilgan?",
+      "options": [
+        "2 ta",
+        "4 ta",
+        "3 ta",
+        "5 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Quyidagi juftliklardan qaysi biri to‘g‘ri?",
+      "options": [
+        "Diafragma – qorin muskullari",
+        "Og‘izning aylana muskuli – chaynash muskullari",
+        "Deltasimon muskul – orqa muskullari",
+        "Rombsimon muskul – orqa muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Quyidagi juftliklardan qaysi biri NOTO‘G‘RI?",
+      "options": [
+        "O‘mrovosti muskuli – bo‘yin muskullari",
+        "Ko‘krakning katta muskuli – ko‘krak qafasi muskullari",
+        "Bo‘yinning teriosti muskuli – bo‘yin muskullari",
+        "Orqaning serbar muskuli – orqa muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Quyidagi hukmlardan qaysi biri matnga to‘liq mos?",
+      "options": [
+        "Orqa muskullari qorin devorini hosil qiladi",
+        "Mimika muskullari suyaklarga birikmaydi",
+        "Diafragma qorin va orqa muskullari o‘rtasida joylashgan",
+        "Chaynash muskullari ruhiy holatni ifodalashda ishtirok etadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Quyidagi hukmlardan qaysi biri matnga ZID?",
+      "options": [
+        "Bo‘yin muskullari boshning harakatlarini ta’minlaydi",
+        "Qorin muskullari kuchanish jarayonida ishtirok etadi",
+        "Ko‘krak qafasi muskullari qatoriga trapetsiyasimon muskul kiradi",
+        "Orqa muskullari gavdani rostlab turadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Aktyor yuz ifodasi orqali qo‘rquv va quvonchni ifodalamoqda. Qaysi muskullar guruhi asosiy ishtirok etadi?",
+      "options": [
+        "Bo‘yin muskullari",
+        "Chaynash muskullari",
+        "Yelka kamari muskullari",
+        "Mimika muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Odam boshini turli tomonga burmoqda. Matnga ko‘ra, bu harakatni asosan qaysi muskullar guruhi ta’minlaydi?",
+      "options": [
+        "Bo‘yin muskullari",
+        "Orqa muskullari",
+        "Chaynash muskullari",
+        "Mimika muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Odam og‘ir yukni ko‘tarishda kuchanmoqda. Matnga ko‘ra, kuchanish jarayonida qaysi muskullar guruhi ishtirok etadi?",
+      "options": [
+        "Yelka kamari muskullari",
+        "Qorin muskullari",
+        "Bo‘yin muskullari",
+        "Mimika muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Odamning gavdasini tik tutish qobiliyati susaygan. Matnga ko‘ra, qaysi muskullar guruhi zaiflashgan bo‘lishi mumkin?",
+      "options": [
+        "Chaynash muskullari",
+        "Mimika muskullari",
+        "Orqa muskullari",
+        "Qorin devorini hosil qiluvchi muskullar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Ayol tug‘ruqqa tayyorlanmoqda. Matnga ko‘ra, uning qaysi muskullar guruhi yaxshi rivojlangan bo‘lishi tug‘ish jarayonini yengillashtiradi?",
+      "options": [
+        "Orqa muskullari",
+        "Bo‘yin muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Qorin muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Matnga ko‘ra, ko‘krak qafasi va qorin bo‘shlig‘i o‘rtasidagi diafragma qaysi guruh vazifasida ishtirok etadi (guruh vazifasi sifatida)?",
+      "options": [
+        "Nafas olish va nafas chiqarish",
+        "Ruhiy holatlarni ifodalash",
+        "Boshning harakatlari",
+        "Umurtqa pog‘onasini rostlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Qo‘llarni harakatlantirishda matnga ko‘ra qaysi tana muskullari guruhi ishtirok etadi?",
+      "options": [
+        "Bo‘yinning teriosti muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Mimika muskullari",
+        "Qorin muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Ko‘krakning kichik muskuli qaysi guruhga kiradi?",
+      "options": [
+        "Yelka kamari muskullari",
+        "Qorin muskullari",
+        "Ko‘krak qafasi muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "O‘mrovosti muskuli qaysi guruhga kiradi?",
+      "options": [
+        "Orqa muskullari",
+        "Bo‘yin muskullari",
+        "Yelka kamari muskullari",
+        "Ko‘krak qafasi muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Bo‘yinning teriosti muskuli qaysi guruhga kiradi?",
+      "options": [
+        "Bo‘yin muskullari",
+        "Mimika muskullari",
+        "Chaynash muskullari",
+        "Ko‘krak qafasi muskullari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Qoshlarni bir-biriga yaqinlashtiruvchi muskul qaysi guruhga kiradi?",
+      "options": [
+        "Chaynash muskullari",
+        "Mimika muskullari",
+        "Bo‘yin muskullari",
+        "Yelka kamari muskullari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Ko‘zning aylana muskuli qaysi guruhga kiradi?",
+      "options": [
+        "Chaynash muskullari",
+        "Yelka kamari muskullari",
+        "Mimika muskullari",
+        "Bo‘yin muskullari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Quyidagi muskullar uchligidan qaysi biri yelka kamari va qo‘l muskullari guruhiga tegishli, tana muskullariga EMAS?",
+      "options": [
+        "Rombsimon muskul, kurak sohasidagi muskullar, panja muskullari",
+        "Diafragma, deltasimon muskul, bilak muskullari",
+        "Trapetsiyasimon muskul, deltasimon muskul, bilak muskullari",
+        "Deltasimon muskul, kurak sohasidagi muskullar, bilak muskullari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 65,
+      "question": "Tana muskullari ro‘yxatida matnga ko‘ra qaysi muskul tashqi (yuza) va ichki turlarga bo‘linadi?",
+      "options": [
+        "Qovurg‘alararo muskullar",
+        "Diafragma",
+        "Orqaning serbar muskuli",
+        "Ko‘krakning katta muskuli"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
