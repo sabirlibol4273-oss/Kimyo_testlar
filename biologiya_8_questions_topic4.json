@@ -1,0 +1,821 @@
+{
+  "topicId": 4,
+  "title": "Suyaklarning tuzilishi va tarkibi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Suyaklar necha qavatdan iborat va ularning tuzilishi qanday?",
+      "options": [
+        "Ikki qavat: ustki qavati qattiq, zich plastinkasimon; ichki qavati g'ovaksimon",
+        "Ikki qavat: ustki qavati g'ovaksimon, ichki qavati zich plastinkasimon",
+        "Uch qavat: ustki zich, o'rta g'ovak, ichki yumshoq",
+        "Bir qavat: butunlay zich plastinkasimon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Suyakning ustki qavati qanday tuzilishga ega?",
+      "options": [
+        "G'ovaksimon",
+        "Yumshoq, elastik",
+        "Tolasimon",
+        "Qattiq, zich plastinkasimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Suyakning ichki qavati qanday tuzilishga ega?",
+      "options": [
+        "Qattiq, zich plastinkasimon",
+        "Faqat suyuq",
+        "G'ovaksimon",
+        "Tukli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Suyakning ichki qavatidagi ingichka kanalchalarda nimalar joylashadi?",
+      "options": [
+        "Faqat mineral tuzlar",
+        "Qon tomirlari va nerv tolalari",
+        "Miofibrillar va neyrogliya",
+        "Faqat limfa va tog'ay"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Suyaklarning yuzasi nima bilan qoplangan?",
+      "options": [
+        "Epiteliy to'qima bilan",
+        "Suyakusti pardasi (periost) bilan",
+        "Shilliq qavat bilan",
+        "Bo'g'im xaltachasi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Suyakusti pardasi (periost) qanday to'qimadan iborat?",
+      "options": [
+        "Biriktiruvchi to'qimadan",
+        "Epiteliy to'qimadan",
+        "Muskul to'qimasidan",
+        "Nerv to'qimasidan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Suyakusti pardasida nimalar ko'p bo'ladi?",
+      "options": [
+        "Faqat mineral tuzlar",
+        "Osteoblastlar bilan ko'mik",
+        "Faqat kollagen tolalar",
+        "Mayda qon va limfa tomirlari, nerv tolalari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Suyakusti pardasi quyidagi jarayonlarning qaysi birida ahamiyatga ega emas?",
+      "options": [
+        "Suyakni oziq moddalar bilan ta'minlashda",
+        "Suyakning o'sishida",
+        "Qon hujayralarini ko'paytirishda (ko'mik vazifasi sifatida)",
+        "Jarohatning bitishida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Suyak singanda yoki yorilganda jarohatning bitishida qaysi qism muhim rol o'ynaydi?",
+      "options": [
+        "Bo'g'im xaltachasi",
+        "Ichki g'ovak qavat",
+        "Suyakusti pardasi",
+        "Suyak choki"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Suyaklar kimyoviy tarkibining qancha qismini organik moddalar tashkil etadi?",
+      "options": [
+        "2/3 qismini",
+        "1/3 qismini",
+        "1/2 qismini",
+        "1/4 qismini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Suyaklar kimyoviy tarkibining qancha qismini anorganik moddalar tashkil etadi?",
+      "options": [
+        "2/3 qismini",
+        "1/3 qismini",
+        "1/2 qismini",
+        "3/4 qismini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "Suyaklarning organik moddalari nima deb ataladi?",
+      "options": [
+        "Fosfat tuzlari",
+        "Osteoblastlar",
+        "Periost",
+        "Osseinlar (kollagen tolalar)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Suyaklar anorganik moddalari tarkibida eng ko'p uchraydigan modda qaysi?",
+      "options": [
+        "Kalsiy karbonat (5,9 %)",
+        "Ossein",
+        "Kollagen",
+        "Fosfat tuzlari (60 %)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Suyaklarda kalsiy karbonat tuzi qancha foizni tashkil etadi?",
+      "options": [
+        "60 %",
+        "59 %",
+        "5,9 %",
+        "0,59 %"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Fosfat tuzlari suyaklarning anorganik tarkibida qancha foizni tashkil etadi?",
+      "options": [
+        "5,9 %",
+        "60 %",
+        "6 %",
+        "95 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Suyaklarning anorganik moddalari tarkibida qaysi olimning davriy sistemasidagi elementlarning ko'pchiligi uchraydi?",
+      "options": [
+        "D. I. Mendeleyev",
+        "R. Guk",
+        "I. P. Pavlov",
+        "A. Levenguk"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Yangi tug'ilgan chaqaloqning bo'yi o'rtacha qancha bo'ladi?",
+      "options": [
+        "50 sm",
+        "74 sm",
+        "45 sm",
+        "60 sm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Bir yoshgacha bola bo'yi o'rtacha har oyda qancha o'sadi?",
+      "options": [
+        "5 sm",
+        "1 sm",
+        "7 sm",
+        "2 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Birinchi yoshning oxirida bolaning bo'yi qancha bo'ladi?",
+      "options": [
+        "50–55 sm",
+        "85–90 sm",
+        "74–75 sm",
+        "65–66 sm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Bir yoshdan keyin bolaning bo'yi yiliga o'rtacha qancha o'sadi?",
+      "options": [
+        "2 sm",
+        "5–7 sm",
+        "10–12 sm",
+        "1–2 sm"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Bo'yga o'sish tezlashadigan davrlar qaysi qatorda to'g'ri berilgan?",
+      "options": [
+        "3 yoshgacha, 7–9 yoshgacha va 12–16 yoshgacha",
+        "3 yoshgacha, 5–7 yoshgacha va 12–16 yoshgacha",
+        "1 yoshgacha, 5–7 yoshgacha va 16–20 yoshgacha",
+        "3 yoshgacha, 5–7 yoshgacha va 17–25 yoshgacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Odam bo'yining o'sishi qaysi yoshgacha davom etadi?",
+      "options": [
+        "20–25 yoshgacha",
+        "16–18 yoshgacha",
+        "30–35 yoshgacha",
+        "12–16 yoshgacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Odam bo'yining uzunligi asosan qaysi suyaklarning o'sishiga bog'liq?",
+      "options": [
+        "Yassi va g'alvirsimon suyaklar",
+        "Kalta g'ovak va yassi suyaklar",
+        "Bosh suyagi va qovurg'alar",
+        "Uzun naysimon va umurtqa pog'onasi suyaklari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Suyak moddalarini sintezlovchi hujayralar nima deb ataladi?",
+      "options": [
+        "Osteoklastlar",
+        "Neyronlar",
+        "Osteoblastlar",
+        "Eritrotsitlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Suyak moddalarini yemiruvchi hujayralar nima deb ataladi?",
+      "options": [
+        "Osteoblastlar",
+        "Neyrogliya",
+        "Osteoklastlar",
+        "Leykotsitlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Quyidagi juftliklardan qaysi biri to'g'ri moslashtirilgan?",
+      "options": [
+        "Osteoklast – suyak moddasini sintezlaydi",
+        "Osteoblast – suyak moddasini sintezlaydi",
+        "Osteoblast – suyakni yemiradi",
+        "Osteoblast – qonni ishlab chiqaradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Suyaklarning ustki tog'ay qismida mineral tuzlar to'planishidan nima sodir bo'ladi?",
+      "options": [
+        "Suyak qattiqlashib, suyakka aylanadi",
+        "Suyak yumshaydi",
+        "Suyak yemirilib yo'qoladi",
+        "Suyak elastik bo'lib qoladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Suyaklarning o'sishiga qaysi bezdan ajralgan gormonlar ta'sir ko'rsatadi?",
+      "options": [
+        "Qalqonsimon bezdan",
+        "Buyrak usti bezidan",
+        "Me'da osti bezidan",
+        "Gipofiz bezidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Yangi tug'ilgan bolalarda bosh suyagi qanday bo'ladi?",
+      "options": [
+        "Yaxlit, chok bilan to'liq birikkan",
+        "Faqat yuz qismi rivojlangan",
+        "Faqat miya qutisi qattiq",
+        "O'zaro birikmagan, bir nechta suyakdan iborat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Bosh suyagi qopqog'ida o'zaro birikmagan suyaklar orasidagi yumshoq joylar nima deb ataladi?",
+      "options": [
+        "Chok",
+        "Periost",
+        "Liqildoq",
+        "Bo'g'im"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Liqildoq nima?",
+      "options": [
+        "Umurtqalar orasidagi tog'ay",
+        "Birikmagan bosh suyaklari orasidagi yumshoq bo'shliqlar",
+        "Qovurg'alar orasidagi muskul",
+        "Bo'g'im ichidagi suyuqlik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Bosh suyagi bolaning qaysi yoshlarida ayniqsa tez o'sadi?",
+      "options": [
+        "3–4, 6–8 va 11–15 yoshda",
+        "1–2, 6–8 va 11–15 yoshda",
+        "3–4, 8–10 va 16–20 yoshda",
+        "3–4, 6–8 va 17–25 yoshda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Bosh suyagining o'sishi va shakllanishi qaysi yoshgacha davom etadi?",
+      "options": [
+        "20–25 yoshgacha",
+        "15–16 yoshgacha",
+        "16–20 yoshgacha",
+        "17–25 yoshgacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Umurtqa suyaklari qaysi yosh orasida suyakka aylanib bo'ladi?",
+      "options": [
+        "15–16 yosh",
+        "16–20 yosh",
+        "20–25 yosh",
+        "17–25 yosh"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Kurak, o'mrov, yelka, bilak, tirsak suyaklarining suyakka aylanishi qaysi yoshgacha davom etadi?",
+      "options": [
+        "15–16 yoshgacha",
+        "16–20 yoshgacha",
+        "20–25 yoshgacha",
+        "17–25 yoshgacha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Qo'l kaftining suyakka aylanishi qaysi yoshgacha davom etadi?",
+      "options": [
+        "16–20 yoshgacha",
+        "15–16 yoshgacha",
+        "20–25 yoshgacha",
+        "17–25 yoshgacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Barmoqlarning suyakka aylanishi qaysi yoshgacha davom etadi?",
+      "options": [
+        "15–16 yoshgacha",
+        "16–20 yoshgacha",
+        "20–25 yoshgacha",
+        "17–25 yoshgacha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Quyidagi suyaklarni suyakka aylanish yoshiga ko'ra to'g'ri juftlang.",
+      "options": [
+        "Kaft – 15–16 yosh",
+        "Barmoqlar – 15–16 yosh",
+        "Umurtqa – 15–16 yosh",
+        "Kurak – 16–20 yosh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Qaysi vitamin yetishmasligi suyaklanish jarayonini sekinlashtiradi?",
+      "options": [
+        "C vitamini",
+        "A vitamini",
+        "K vitamini",
+        "D vitamini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "D vitamini yetishmasligi yoki quyosh nuridan yetarli foydalanmaslik nimaga sabab bo'ladi?",
+      "options": [
+        "Qon aylanishining to'xtashiga",
+        "Osteoblastlar sonining haddan ortiq ko'payishiga",
+        "Kalsiy va fosfor tuzlari almashinuvi buzilishiga",
+        "Bo'yning juda tez o'sishiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "D vitamini yetishmasligi natijasida qanday kasallik kelib chiqadi?",
+      "options": [
+        "Anemiya",
+        "Skolioz",
+        "Raxit",
+        "Artrit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Raxit bilan og'rigan bolalarning suyagi qanday bo'lib qoladi?",
+      "options": [
+        "Haddan tashqari qattiq va mo'rt",
+        "Yumshab, egiluvchan",
+        "Faqat yumshoq, lekin to'g'ri",
+        "Zich va og'ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Raxit kasalligida qaysi suyaklar egrilanib qolishi mumkin?",
+      "options": [
+        "Oyoqlar, umurtqa pog'onasi, ko'krak qafasi, chanoq suyaklari",
+        "Faqat bosh suyagi",
+        "Faqat barmoq suyaklari",
+        "Faqat qo'l suyaklari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Raxit qad-qomatga qanday ta'sir qiladi?",
+      "options": [
+        "Qad-qomatni to'g'rilaydi",
+        "Ta'sir qilmaydi",
+        "Bo'yni tezlashtiradi",
+        "Normal shakllanishiga salbiy ta'sir ko'rsatadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Odam skeletining sutemizuvchi hayvonlar skeletidan farq qiluvchi o'zgarishlari nima tufayli paydo bo'la boshladi?",
+      "options": [
+        "Faqat iqlim o'zgarishi tufayli",
+        "Faqat oziq turi o'zgargani tufayli",
+        "Faqat qo'llar kichiklashgani tufayli",
+        "Ibtidoiy odamning tik yurishi va mehnat qilish faoliyati tufayli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Odam bosh miyasining yuksak rivojlanganligi bosh skeletiga qanday ta'sir qilgan?",
+      "options": [
+        "Yuz qismi miya qismiga nisbatan katta bo'lgan",
+        "Ikkala qism teng bo'lgan",
+        "Miya qismi yuz qismiga nisbatan katta bo'lgan",
+        "Miya qismi kichrayib ketgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Hayvonlar bosh skeletining qaysi qismi yaxshi rivojlangan?",
+      "options": [
+        "Miya qismi",
+        "Yuz qismi",
+        "Ikkala qism teng",
+        "Ensa qismi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Hayvonlar bosh skeletining yuz qismi nima uchun yaxshi rivojlangan?",
+      "options": [
+        "Dag'al, qattiq oziq bilan oziqlanishi va jag'i hujum-himoya vazifasini bajarishi sababli",
+        "Miya kichikligi sababli",
+        "Tik yurishi sababli",
+        "Qo'llarini ishlatishi sababli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "Hayvonlarning jag'i qanday vazifani bajaradi?",
+      "options": [
+        "Hujum va himoya organi vazifasini",
+        "Faqat tayanch vazifasini",
+        "Faqat nafas olish vazifasini",
+        "Mehnat organi vazifasini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Odam skeletining o'ziga xos belgilaridan biri nima?",
+      "options": [
+        "Yuz qismining miya qismidan katta bo'lishi",
+        "Orqa oyoqlarning kuchsizligi",
+        "Chanoqning kichikligi",
+        "Asosiy mehnat organi bo'lgan qo'llarning tuzilishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Qo'lning qaysi bo'g'imlarida xilma-xil murakkab va nozik harakatlar bajariladi?",
+      "options": [
+        "Faqat yelka bo'g'imida",
+        "Tizza va tovon bo'g'imlarida",
+        "Yelka, bilak, kaftusti va panja bo'g'imlarida",
+        "Faqat panja bo'g'imida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Murakkab va nozik harakatlarni bajarishda qaysi barmoqning roli nihoyatda katta?",
+      "options": [
+        "Ko'rsatkich barmoqning",
+        "Bosh barmoqning",
+        "O'rta barmoqning",
+        "Jimjiloqning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Qo'l bilan nozik ish bajaradigan mutaxassislarga qaysi qator mos keladi?",
+      "options": [
+        "Zargar, soatsoz, o'qituvchi, haydovchi",
+        "Zargar, soatsoz, rassom, haykaltarosh",
+        "Rassom, haykaltarosh, shifokor, tarjimon",
+        "Soatsoz, sportchi, kuzatuvchi, dispetcher"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Odamning tik yurishi chanoq suyaklarida qanday o'zgarishga sabab bo'lgan?",
+      "options": [
+        "Chanoq suyaklari va chanoq bo'shlig'ining kattalashishiga",
+        "Chanoq suyaklarining kichrayishiga",
+        "Chanoq suyaklarining yo'qolishiga",
+        "Chanoq suyaklarining chokka aylanishiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Chanoq bo'shlig'ining kattalashuvi qanday natija bergan?",
+      "options": [
+        "Ichki organlarning kamayishi",
+        "Qo'llarning uzayishi",
+        "Bosh suyagining kichrayishi",
+        "Chanoqda ko'pgina ichki organlar joylashib, himoya qilinishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Odamning oyoq suyaklari hayvonlarning orqa oyoqlariga nisbatan qanday?",
+      "options": [
+        "Kuchsiz va kalta",
+        "Teng rivojlangan",
+        "Kuchli rivojlangan va baquvvat",
+        "Faqat yengil"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Odam oyoq suyaklarining kuchli rivojlanishiga asosiy sabab nima?",
+      "options": [
+        "Qo'llarning kichrayishi",
+        "Faqat qattiq oziq iste'mol qilish",
+        "Tik yurish tufayli tana massasining ikki oyoqqa tushishi",
+        "Jag'ning hujum vazifasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Odam oyoqlari bilan qanday harakatlar bajariladi?",
+      "options": [
+        "Faqat oddiy yurish",
+        "Xilma-xil va murakkab",
+        "Faqat nozik harakatlar",
+        "Faqat tayanch harakatlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Suyak ichki qavatining g'ovaksimon tuzilishi haqida qaysi fikr to'g'ri?",
+      "options": [
+        "Unda ingichka kanalchalar bor, qon tomirlari va nerv tolalari o'tadi",
+        "Unda faqat mineral tuzlar bor",
+        "U suyakning tashqi yuzasini qoplaydi",
+        "U faqat biriktiruvchi to'qimadan iborat parda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Organik va anorganik moddalar nisbati to'g'ri ko'rsatilgan qatorni toping.",
+      "options": [
+        "Organik – 2/3, anorganik – 1/3",
+        "Organik – 1/2, anorganik – 1/2",
+        "Organik – 1/4, anorganik – 3/4",
+        "Organik – 1/3, anorganik – 2/3"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Quyidagilardan qaysi biri suyakning o'sishida ishtirok etmaydi?",
+      "options": [
+        "Osteoblastlar",
+        "Osteoklastlar",
+        "Gipofiz gormonlari",
+        "Neyrogliya hujayralari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Chaqaloq bo'yi 50 sm, bir yoshgacha har oyda 2 sm o'ssa, bir yoshda bo'yi taxminan qancha bo'ladi (matnga mos)?",
+      "options": [
+        "70 sm",
+        "80 sm",
+        "74 sm",
+        "64 sm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Quyidagi fikrlarning qaysi biri suyaklarning yoshga bog'liq xususiyatiga mos?",
+      "options": [
+        "Barcha suyaklar tug'ilganda to'liq suyakka aylangan bo'ladi",
+        "Yangi tug'ilgan bolalarda bosh suyagi birikmagan, liqildoqlar bor",
+        "Bosh suyagi 20–25 yoshdan keyin o'sishni boshlaydi",
+        "Liqildoq faqat kattalarda uchraydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Quyidagi juftliklardan qaysi biri noto'g'ri?",
+      "options": [
+        "Umurtqa suyaklari – 15–16 yoshgacha suyakka aylanadi",
+        "Kaft – 15–16 yoshgacha suyakka aylanadi",
+        "Barmoqlar – 16–20 yoshgacha suyakka aylanadi",
+        "Kurak va o'mrov – 20–25 yoshgacha suyakka aylanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 65,
+      "question": "Raxitga qarshi nima muhim?",
+      "options": [
+        "D vitamini va quyosh nuridan yetarli foydalanish",
+        "Faqat jismoniy mashqdan voz kechish",
+        "Kalsiy tuzlarini umuman iste'mol qilmaslik",
+        "Qorong'i xonada yashash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "Odam va hayvonlar bosh skeleti farqini to'g'ri ko'rsatuvchi qatorni toping.",
+      "options": [
+        "Odamda yuz qismi katta, hayvonlarda miya qismi katta",
+        "Ikkalasida ham yuz qismi katta",
+        "Ikkalasida ham miya qismi katta",
+        "Odamda miya qismi katta, hayvonlarda yuz qismi yaxshi rivojlangan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "MOSLASHTIRING. 1) Osteoblast 2) Osteoklast 3) Periost 4) Ossein; a) suyak moddasini yemiradi b) suyak moddasini sintezlaydi c) suyakusti pardasi d) organik modda (kollagen)",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "MOSLASHTIRING. 1) Fosfat tuzlari 2) Kalsiy karbonat 3) Organik moddalar 4) Anorganik moddalar; a) 5,9 % b) 60 % c) 1/3 qism d) 2/3 qism",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "MOSLASHTIRING. 1) Yangi tug'ilgan bola bo'yi 2) Bir yoshdagi bola bo'yi 3) Bir yoshdan keyingi yillik o'sish 4) O'sish davomiyligi; a) 74–75 sm b) 50 sm c) 5–7 sm d) 20–25 yoshgacha",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "MOSLASHTIRING. 1) Umurtqa 2) Qo'l kafti 3) Barmoqlar 4) Kurak, o'mrov, yelka; a) 15–16 yoshgacha b) 16–20 yoshgacha c) 17–25 yosh orasida d) 20–25 yoshgacha",
+      "options": [
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-c, 2-a, 3-d, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "MOSLASHTIRING. 1) Bosh suyagi o'sishi 2) Liqildoq 3) Raxit 4) D vitamini; a) 3–4, 6–8, 11–15 yoshda tez o'sadi b) yangi tug'ilgan bolada birikmagan suyaklar orasidagi yumshoq joy c) suyaklarning yumshab egrilanishi d) kalsiy va fosfor almashinuvi uchun zarur",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-a, 2-b, 3-c, 4-d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "MOSLASHTIRING. 1) Odam bosh skeleti 2) Hayvon bosh skeleti 3) Odam qo'li 4) Odam oyog'i; a) miya qismi katta b) yuz qismi yaxshi rivojlangan c) asosiy mehnat organi d) tana massasi tushishi sababli baquvvat",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "MOSLASHTIRING. 1) Suyakning ustki qavati 2) Suyakning ichki qavati 3) Suyakusti pardasi 4) Chanoq bo'shlig'i; a) g'ovaksimon b) zich plastinkasimon c) biriktiruvchi to'qimali yupqa parda d) tik yurish tufayli kattalashgan",
+      "options": [
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "MOSLASHTIRING. 1) Gipofiz 2) Quyosh nuri 3) Bosh barmoq 4) Jag' (hayvonlarda); a) suyak o'sishiga gormonlar bilan ta'sir qiladi b) D vitamini bilan bog'liq c) nozik harakatlarda roli katta d) hujum va himoya vazifasi",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-a, 2-c, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
