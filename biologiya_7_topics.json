@@ -113,6 +113,12 @@
       "title": "Butli o‘rgimchakning tuzilishi va hayot kechirishi",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 20,
+      "title": "O‘rgimchaksimonlarning xilma-xilligi",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
