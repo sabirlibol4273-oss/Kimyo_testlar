@@ -2,5 +2,1007 @@
   "topicId": 22,
   "title": "Yashil bronza qo‘ng‘izining ichki tuzilishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yashil bronza qo‘ng‘izi nima bilan oziqlanadi?",
+      "options": [
+        "Mayda hasharotlar va o‘simlik qoldiqlari bilan",
+        "O‘simliklar guli, qari barglari va pishgan mevalari bilan",
+        "O‘simlik shirasi va gul nektari bilan",
+        "O‘simliklar guli, yosh barglari va yetilmagan mevalari bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 2,
+      "question": "Bronza qo‘ng‘izi o‘simlik to‘qimasini nima bilan uzib oladi?",
+      "options": [
+        "Yuqori labi bilan",
+        "Pastki jag‘lari bilan",
+        "Old oyoqlarining tirnoqlari bilan",
+        "O‘tkir yuqori jag‘lari bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Bronza qo‘ng‘izi oziqni nima bilan chaynab maydalaydi?",
+      "options": [
+        "Pastki jag‘lari bilan",
+        "Pastki labi bilan",
+        "Yuqori jag‘lari bilan",
+        "Muskulli oshqozonida tishchalar bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Qattiq oziqni chaynashga moslashgan og‘iz organlari qanday ataladi?",
+      "options": [
+        "Kemiruvchi",
+        "Yalovchi",
+        "Sanchib so‘ruvchi",
+        "So‘ruvchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Bronza qo‘ng‘izida oziq og‘iz bo‘shlig‘ida nima bilan aralashadi?",
+      "options": [
+        "Oshqozon shirasi bilan",
+        "Hazm suyuqligi bo‘lgan zahar bilan",
+        "Jigar shirasi bilan",
+        "So‘lak bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Bronza qo‘ng‘izi hazm qilish sistemasining to‘g‘ri ketma-ketligini toping.",
+      "options": [
+        "Og‘iz bo‘shlig‘i → qisqa halqum → qizilo‘ngach → ichak → muskulli oshqozon → orqa chiqaruv teshigi",
+        "Og‘iz bo‘shlig‘i → qisqa halqum → qizilo‘ngach → muskulli oshqozon → ichak → orqa chiqaruv teshigi",
+        "Og‘iz bo‘shlig‘i → qizilo‘ngach → qisqa halqum → muskulli oshqozon → ichak → orqa chiqaruv teshigi",
+        "Og‘iz bo‘shlig‘i → uzun halqum → qizilo‘ngach → ikki bo‘lmali oshqozon → ichak → orqa chiqaruv teshigi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Bronza qo‘ng‘izining oshqozoni qanday?",
+      "options": [
+        "Uch bo‘lmali",
+        "Muskulli",
+        "Yupqa devorli, muskulsiz",
+        "Ikki bo‘lmali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Bronza qo‘ng‘izining oshqozonida oziq bilan nima sodir bo‘ladi?",
+      "options": [
+        "Hazm bo‘ladi",
+        "Eziladi",
+        "So‘lak bilan aralashadi",
+        "Suziladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Bronza qo‘ng‘izida oziq qayerda hazm bo‘ladi?",
+      "options": [
+        "Ichakda",
+        "Muskulli oshqozonda",
+        "Og‘iz bo‘shlig‘ida",
+        "Qizilo‘ngachda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Hazm bo‘lmagan oziq qoldiqlari qanday chiqariladi?",
+      "options": [
+        "Orqa chiqaruv teshigi orqali",
+        "Nafas olish teshiklari orqali",
+        "Malpigi naychalari orqali",
+        "Og‘iz orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Qaysi hasharotlarning og‘iz organlari kemiruvchi?",
+      "options": [
+        "Chigirtkalar, chivinlar, chumolilar, qo‘ng‘izlar",
+        "Chumolilar, kapalaklar, beshiktervatarlar, qo‘ng‘izlar",
+        "Qo‘ng‘izlar, chigirtkalar, chumolilar, beshiktervatarlar",
+        "Qo‘ng‘izlar, chigirtkalar, kapalaklar, chivinlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "Kemiruvchi og‘iz organli hasharotlar nima bilan oziqlanadi?",
+      "options": [
+        "Qattiq o‘simlik va hayvon to‘qimalari bilan",
+        "Qon bilan",
+        "O‘simlik shirasi va gul nektari bilan",
+        "Faqat qattiq o‘simlik to‘qimalari bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Suyuq oziq bilan oziqlanadigan hasharotlarning og‘iz organlari qanday?",
+      "options": [
+        "Kemiruvchi jag‘lardan iborat",
+        "Uzun va ingichka tilchadan iborat",
+        "Uzun va ingichka xartumchadan iborat",
+        "Kalta va yo‘g‘on xartumchadan iborat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Xartumchali hasharotlar qanday suyuq oziqlar bilan oziqlanadi?",
+      "options": [
+        "O‘simlik shirasi, gul nektari, qon",
+        "O‘simlik shirasi, yosh barglar, qon",
+        "Gul nektari, qon, sut",
+        "O‘simlik shirasi, gul nektari, suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Hasharotlarning qon aylanish sistemasi qanday?",
+      "options": [
+        "Hamma bo‘g‘imoyoqlilar singari ochiq",
+        "Boshqa bo‘g‘imoyoqlilardan farqli ravishda ochiq",
+        "Hamma bo‘g‘imoyoqlilar singari yopiq",
+        "Boshqa bo‘g‘imoyoqlilardan farqli ravishda yopiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Hasharotlarda qon qayerda bo‘ladi?",
+      "options": [
+        "Faqat yurak va tomirlarda bo‘ladi",
+        "Faqat ichak atrofida bo‘ladi",
+        "Faqat qon tomirlarida bo‘ladi",
+        "Tana bo‘shlig‘ini to‘ldirib turadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Hasharotlarning ichki organlari va to‘qimalari nimada joylashgan?",
+      "options": [
+        "Havo bilan to‘lgan bo‘shliqda",
+        "Mantiya bo‘shlig‘ida",
+        "Qon suyuqligida",
+        "Yog‘ tanachalarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Hasharotlarda qon va to‘qimalar o‘rtasida qanday modda almashinuvi bo‘ladi?",
+      "options": [
+        "Qondan to‘qimalarga kislorod, to‘qimalardan qonga karbonat angidrid o‘tadi",
+        "Qondan to‘qimalarga oziq moddalar, to‘qimalardan qonga almashinuvning oxirgi mahsulotlari o‘tadi",
+        "Qondan to‘qimalarga oxirgi mahsulotlar, to‘qimalardan qonga oziq moddalar o‘tadi",
+        "Qondan to‘qimalarga oziq moddalar va kislorod o‘tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Hasharotlar qonining nafas olishdagi roli qanday?",
+      "options": [
+        "Kislorodni to‘qimalarga tashiydi",
+        "Karbonat angidridni traxeyalarga tashiydi",
+        "Nafas olishda ishtirok etmaydi, kislorod tashimaydi",
+        "Kislorod va karbonat angidridni tashiydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Hasharotlarning yuragi qayerda joylashgan?",
+      "options": [
+        "Ko‘krak bo‘limida, ichagi ustida",
+        "Qorin bo‘limida, ichagi ustida",
+        "Boshko‘krakning orqa tomonida",
+        "Qorin bo‘limida, ichagi ostida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Hasharotlarning yuragi qanday tuzilgan?",
+      "options": [
+        "Ikki kamerali muskulli xalta",
+        "Tana bo‘ylab joylashgan muskulli naycha",
+        "Tana bo‘ylab joylashgan muskulsiz naycha",
+        "Yurak oldi bo‘lmasi va qorinchadan iborat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Hasharotlarda yurakdan qanday qon tomiri chiqadi?",
+      "options": [
+        "Bosh tomonga bitta uzun qon tomiri",
+        "Bosh tomonga bitta qisqa qon tomiri",
+        "Bosh va dum tomonga ikkita qon tomiri",
+        "Dum tomonga bitta qisqa qon tomiri"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Yurakdan chiqqan tomirning uchi qayerga ochiladi?",
+      "options": [
+        "Malpigi naychalariga",
+        "Traxeyalarga",
+        "Tana bo‘shlig‘iga",
+        "Ichak bo‘shlig‘iga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Hasharot yuragi qisqarganda qon qayerga haydaladi?",
+      "options": [
+        "Tomir orqali dum tomonga, u yerdan tana bo‘shlig‘iga",
+        "Tomir orqali traxeyalarga",
+        "Ikki yonidagi teshikchalar orqali tana bo‘shlig‘iga",
+        "Tomir orqali bosh tomonga, u yerdan tana bo‘shlig‘iga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Hasharot yuragi kengayganda qon yurakka qanday o‘tadi?",
+      "options": [
+        "Tana bo‘shlig‘idan yurakning ikki yonidagi teshikchalar orqali",
+        "Yurak devoridagi uch juft teshikcha orqali",
+        "Bosh tomondagi tomir orqali",
+        "Traxeyalardan yurak oldi bo‘lmasiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Hasharotlarda qon aylanishining to‘g‘ri yo‘nalishini toping.",
+      "options": [
+        "Yurak → bosh tomonga qisqa tomir → tana bo‘shlig‘i → yon teshikchalar → yurak",
+        "Yurak → bosh tomonga qisqa tomir → traxeyalar → tana bo‘shlig‘i → yurak",
+        "Yurak → dum tomonga qisqa tomir → tana bo‘shlig‘i → yon teshikchalar → yurak",
+        "Yurak → yon teshikchalar → tana bo‘shlig‘i → qisqa tomir → yurak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Hasharotlarning nafas olish sistemasi nimadan iborat?",
+      "options": [
+        "Tana bo‘shlig‘idagi juda ko‘p shoxlangan ingichka naychalar – traxeyalardan",
+        "Tana bo‘shlig‘idagi shoxlanmagan yo‘g‘on naychalardan",
+        "Bir juft o‘pka xaltasi va traxeyalardan",
+        "Qorin bo‘limidagi jabralardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Hasharotlarning tashqi nafas olish teshiklari qayerda joylashgan?",
+      "options": [
+        "Ko‘krak bo‘limida",
+        "Boshida",
+        "Qorin bo‘limida",
+        "Qanotlari asosida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Traxeyalardagi havo nima tufayli almashinadi?",
+      "options": [
+        "Yurakning qisqarishi tufayli",
+        "Qanotlarning qoqilishi tufayli",
+        "Qorin muskullarining dam-badam qisqarishi tufayli",
+        "Qonning harakati tufayli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Hasharotlarda kislorod organlarga qanday yetib boradi?",
+      "options": [
+        "Traxeya naychalari orqali bevosita",
+        "Malpigi naychalari orqali",
+        "Qon orqali",
+        "Tana bo‘shlig‘idagi suyuqlik orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Hasharotlarda havoning yo‘lini to‘g‘ri ko‘rsating.",
+      "options": [
+        "Qorindagi nafas teshiklari → qon → hamma organlar",
+        "Og‘iz → traxeya naychalari → hamma organlar",
+        "Qorindagi nafas teshiklari → traxeya naychalari → hamma organlar",
+        "Ko‘krakdagi nafas teshiklari → o‘pka → qon → organlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Hasharotlarning ayirish sistemasi nimadan iborat?",
+      "options": [
+        "Bosh tomondagi bir juft yashil bezdan",
+        "Qorin bo‘shlig‘idagi kalta va yo‘g‘on malpigi naychalaridan",
+        "Qorin bo‘shlig‘idagi ingichka va uzun malpigi naychalaridan",
+        "Tasmaga o‘xshash yagona buyrakdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Malpigi naychalarining uchlari qanday?",
+      "options": [
+        "Bir uchi berk, ikkinchi uchi tashqariga ochiladi",
+        "Bir uchi berk, ikkinchi uchi ichak bo‘shlig‘iga ochiladi",
+        "Ikkala uchi ham ochiq",
+        "Bir uchi berk, ikkinchi uchi yurakka ochiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Moddalar almashinuvi mahsulotlari malpigi naychalariga qayerdan o‘tadi?",
+      "options": [
+        "Ichak bo‘shlig‘idan",
+        "Tana bo‘shlig‘idagi qondan",
+        "Yurakdan",
+        "Traxeyalardan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Malpigi naychalari bo‘shlig‘ida almashinuv mahsulotlari bilan nima sodir bo‘ladi?",
+      "options": [
+        "Qonga qaytadi",
+        "Kristallanadi",
+        "Parchalanadi",
+        "Eriydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Hasharotlarda almashinuv mahsulotlari tashqariga qanday chiqariladi?",
+      "options": [
+        "Ichak bo‘shlig‘iga o‘tib, oziq qoldig‘i bilan birga",
+        "Alohida ayirish teshigi orqali",
+        "Nafas olish teshiklari orqali",
+        "Mo‘ylov asosidagi teshik orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Hasharotlarda ayirish jarayonining to‘g‘ri ketma-ketligini toping.",
+      "options": [
+        "Qon → ichak bo‘shlig‘i → malpigi naychasi (kristallanish) → tashqariga",
+        "Qon → malpigi naychasi (erish) → traxeya → tashqariga",
+        "Qon → malpigi naychasi (kristallanish) → ichak bo‘shlig‘i → oziq qoldig‘i bilan tashqariga",
+        "Malpigi naychasi → qon → ichak bo‘shlig‘i → tashqariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Hasharotlarning nerv sistemasi qanday tuzilgan?",
+      "options": [
+        "Uch juft nerv tugunlaridan iborat",
+        "Halqum atrofi nerv halqasi va qorin nerv zanjiridan iborat",
+        "Halqum atrofi nerv halqasi va orqa nerv zanjiridan iborat",
+        "To‘rsimon nerv sistemasidan iborat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 39,
+      "question": "Hasharotlarda bosh miya qanday hosil bo‘ladi?",
+      "options": [
+        "Halqum osti nerv tugunining kattalashishidan",
+        "Ko‘krak nerv tugunlarining qo‘shilishidan",
+        "Qorin nerv zanjirining qo‘shilishidan",
+        "Boshdagi juda ko‘p nerv hujayralarining qo‘shilishidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Hasharotlarda bosh miyadan qayerlarga nervlar chiqadi?",
+      "options": [
+        "Faqat qanotlarga",
+        "Faqat ko‘zlarga",
+        "Faqat jag‘larga",
+        "Hamma sezgi organlariga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Qaysi hasharotlarning bosh miyasi va nerv tugunlari kuchli rivojlangan?",
+      "options": [
+        "Chirildoqlar va temirchaklarning",
+        "Qo‘ng‘izlar va chigirtkalarning",
+        "Kapalaklar va chivinlarning",
+        "Arilar va chumolilarning"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 42,
+      "question": "Arilar va chumolilarning bosh miyasi kuchli rivojlanganligi nima bilan bog‘liq?",
+      "options": [
+        "Ko‘p miqdorda oziq iste’mol qilishi bilan",
+        "Murakkab fe’l-atvorga ega bo‘lishi bilan",
+        "Uzun xartumchasi bilan",
+        "Yirik tana o‘lchami bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Hasharotlarning murakkab xulq-atvori va sezgi organlarining rivojlanganligi nima bilan bog‘liq?",
+      "options": [
+        "Qon aylanish sistemasi bilan",
+        "Nafas olish sistemasi bilan",
+        "Nerv sistemasi bilan",
+        "Ayirish sistemasi bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Hasharotlar ko‘zining tuzilishi qaysi hayvonnikiga o‘xshash?",
+      "options": [
+        "Daryo qisqichbaqasinikiga",
+        "Suv shillig‘inikiga",
+        "Butli o‘rgimchaknikiga",
+        "Chayonnikiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Ko‘pchilik hasharotlar nimani ayniqsa juda yaxshi sezadi?",
+      "options": [
+        "Rangni",
+        "Hidni",
+        "Issiqlikni",
+        "Tovushni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Ayrim kapalaklarning erkagi urg‘ochisining hidini qancha masofadan sezgan?",
+      "options": [
+        "110 m",
+        "21 km",
+        "1,1 km",
+        "11 km"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Qaysi hasharotlarda ovoz chiqarish va eshitish organlari bor?",
+      "options": [
+        "Chirildoqlar, chumolilar, jizildoqlar",
+        "Arilar, chumolilar, chirildoqlar",
+        "Temirchaklar, qo‘ng‘izlar, kapalaklar",
+        "Chirildoqlar, temirchaklar, jizildoqlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 48,
+      "question": "Hasharotlar tanasidagi va mo‘ylovlaridagi tuklar qanday organ hisoblanadi?",
+      "options": [
+        "Hid bilish organlari",
+        "Ta’m bilish organlari",
+        "Teri sezgi organlari",
+        "Nafas olish organlari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Hasharotlarning sezgi qobiliyatlari haqida to‘g‘ri fikrni toping.",
+      "options": [
+        "Rangni, hidni va ta’mni yaxshi farqlaydi",
+        "Hidni yomon, rangni yaxshi sezadi",
+        "Rangni ajratmaydi, faqat hidni sezadi",
+        "Ta’mni farqlay olmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Moslashtiring (og‘iz organlari): 1) yuqori jag‘lar; 2) pastki jag‘lar; 3) muskulli oshqozon; 4) ichak.  a) oziq hazm bo‘ladi; b) oziq eziladi; c) o‘simlik to‘qimasini uzib oladi; d) oziqni chaynab maydalaydi",
+      "options": [
+        "1-c, 2-b, 3-d, 4-a",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Moslashtiring (og‘iz tipi): 1) chigirtka; 2) chumoli; 3) gul nektari bilan oziqlanuvchi hasharot.  a) xartumcha; b) kemiruvchi",
+      "options": [
+        "1-b, 2-a, 3-b",
+        "1-a, 2-b, 3-b",
+        "1-b, 2-b, 3-a",
+        "1-b, 2-a, 3-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring (yurak ishi): 1) yurak qisqaradi; 2) yurak kengayadi.  a) qon tana bo‘shlig‘idan yon teshikchalar orqali yurakka kiradi; b) qon tomir orqali bosh tomonga haydaladi",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (sistema – joylashuv): 1) yurak; 2) malpigi naychalari; 3) tashqi nafas teshiklari; 4) bosh miya.  a) boshda; b) qorin bo‘limida, ichak ustida; c) qorin bo‘shlig‘ida; d) qorin bo‘limida (tashqarida)",
+      "options": [
+        "1-c, 2-b, 3-d, 4-a",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (sezgi): 1) kapalak erkagi; 2) chirildoq; 3) mo‘ylov va tanadagi tuklar; 4) murakkab ko‘zlar.  a) teri sezgisi; b) 11 km dan hid sezadi; c) mozaik ko‘rish; d) ovoz chiqaradi va eshitadi",
+      "options": [
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-b, 2-a, 3-d, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (vazifa): 1) qon; 2) traxeyalar; 3) malpigi naychalari.  a) almashinuv mahsulotlarini chiqaradi; b) organlarga kislorod yetkazadi; c) oziq moddalarni tashiydi",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Bronza qo‘ng‘izining ichki tuzilishi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Oziq ichakda hazm bo‘ladi",
+        "Yuragi qorin bo‘limida ichak ustida joylashgan",
+        "Malpigi naychalarining bir uchi berk",
+        "Qoni kislorodni to‘qimalarga tashiydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Hasharotlar haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Traxeyadagi havo qorin muskullarining qisqarishi tufayli almashinadi",
+        "Nafas olish teshiklari boshda joylashgan",
+        "Yurakdan dum tomonga bitta uzun tomir chiqadi",
+        "Malpigi naychalari tashqariga alohida teshik bilan ochiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Hasharotlar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Ko‘pchiligi ta’mni yaxshi farqlaydi",
+        "Ichki organlari qon suyuqligida joylashgan",
+        "Hamma hasharotlarning og‘iz organlari kemiruvchi bo‘ladi",
+        "Bosh miyadan hamma sezgi organlariga nervlar chiqadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "Hasharotlarda qonning kislorod tashimasligi nima bilan izohlanadi?",
+      "options": [
+        "Kislorodni malpigi naychalari tashiydi",
+        "Kislorod traxeyalar orqali bevosita organlarga yetib boradi",
+        "Hasharotlar kislorodsiz yashaydi",
+        "Kislorod ichak orqali so‘riladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "Hasharotlar va daryo qisqichbaqasi qonining farqini toping.",
+      "options": [
+        "Hasharotlar qoni kislorod olib boradi, qisqichbaqa qoni kislorod tashimaydi",
+        "Ikkalasining qoni ham kislorod tashiydi",
+        "Ikkalasining qoni ham kislorod tashimaydi",
+        "Qisqichbaqa qoni to‘qimalarga kislorod olib boradi, hasharotlar qoni kislorod tashimaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Hasharotlar va daryo qisqichbaqasi yuragining joylashishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham boshko‘krakda",
+        "Hasharotlarda qorin bo‘limida, qisqichbaqada boshko‘krakning orqa tomonida",
+        "Ikkalasida ham qorin bo‘limida",
+        "Hasharotlarda boshko‘krakning orqa tomonida, qisqichbaqada qorin bo‘limida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Hasharotlar va daryo qisqichbaqasida qon yurakka qanday kiradi?",
+      "options": [
+        "Ikkalasida ham yurakoldi bo‘lmasi orqali",
+        "Hasharotlarda yurakning ikki yonidagi teshikchalar orqali, qisqichbaqada yurak devoridagi uch juft teshikcha orqali",
+        "Ikkalasida ham bosh tomondagi tomir orqali",
+        "Hasharotlarda uch juft teshikcha orqali, qisqichbaqada ikki yonidagi teshikchalar orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Hasharotlar va daryo qisqichbaqasi oshqozonining farqini toping.",
+      "options": [
+        "Ikkalasida ham ikki bo‘lmali oshqozon",
+        "Qo‘ng‘izda ikki bo‘lmali, qisqichbaqada muskulli bir bo‘lmali oshqozon",
+        "Ikkalasida ham oshqozon bo‘lmaydi",
+        "Qo‘ng‘izda muskulli oshqozon, qisqichbaqada ikki bo‘lmali oshqozon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 64,
+      "question": "Bronza qo‘ng‘izi va daryo qisqichbaqasida oziq qayerda hazm bo‘ladi?",
+      "options": [
+        "Qo‘ng‘izda oshqozonda, qisqichbaqada ichakda",
+        "Qo‘ng‘izda jigar naylarida, qisqichbaqada oshqozonda",
+        "Qo‘ng‘izda ichakda, qisqichbaqada ichak va jigar naylarida",
+        "Ikkalasida ham faqat oshqozonda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Hasharotlar va daryo qisqichbaqasi uchun umumiy hazm qilish belgisini toping.",
+      "options": [
+        "Oshqozoni muskulli, bir bo‘lmali",
+        "Anal teshigi dum suzgichda",
+        "Halqumi qisqa",
+        "Oshqozoni ikki bo‘lmali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 66,
+      "question": "Moslashtiring (ayirish organi qayerga ochiladi): 1) hasharotlar; 2) daryo qisqichbaqasi; 3) suv shillig‘i.  a) mantiya chetiga; b) ichak bo‘shlig‘iga; c) kalta mo‘ylovlar asosida tashqariga",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "Hasharotlar va daryo qisqichbaqasi nerv sistemasidagi umumiy jihatni toping.",
+      "options": [
+        "Ikkalasida ham uch juft nerv tugunlari bor",
+        "Ikkalasida ham bosh miyasi bo‘lmaydi",
+        "Ikkalasida ham orqa nerv zanjiri bor",
+        "Ikkalasida ham halqum atrofi nerv halqasi va qorin nerv zanjiri bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Daryo qisqichbaqasida eshitish organi kalta mo‘ylovlar asosida bo‘lsa, eshitish organlari qaysi hasharotlarda bor?",
+      "options": [
+        "Chumoli va arilarda",
+        "Chirildoq, temirchak, jizildoqlarda",
+        "Faqat arilarda",
+        "Hamma qo‘ng‘izlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Hasharotlar va daryo qisqichbaqasi teri sezgi organlarining umumiy jihatini toping.",
+      "options": [
+        "Ikkalasida ham tuklar nafas olish organi",
+        "Ikkalasida ham mo‘ylov va tanadagi (oyoqlardagi) tuklar sezgi organi",
+        "Ikkalasida ham faqat ko‘zlar sezgi organi",
+        "Ikkalasida ham tuklar faqat ta’m biladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Hasharotlar va daryo qisqichbaqasida havo/suv almashinuvini ta’minlovchi tuzilmalarni moslashtiring: 1) hasharotlar; 2) daryo qisqichbaqasi; 3) baqachanoq.  a) kipriklar harakati; b) jag‘oyoqlar harakati; c) qorin muskullarining qisqarishi",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 71,
+      "question": "Bronza qo‘ng‘izi va butli o‘rgimchak oziqlanishidagi farqni toping.",
+      "options": [
+        "O‘rgimchak oziqni chaynab yutadi, qo‘ng‘iz oziqni tashqarida suyultirib so‘radi",
+        "Ikkalasi ham oziqni chaynab yutadi",
+        "Ikkalasi ham suyuq oziqni so‘radi",
+        "Qo‘ng‘iz qattiq oziqni chaynab yutadi, o‘rgimchak o‘ljani tashqarida suyultirib so‘radi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Bronza qo‘ng‘izida oziq og‘izda so‘lak bilan aralashsa, butli o‘rgimchakda oziqqa nima ta’sir etadi?",
+      "options": [
+        "So‘lak",
+        "Oshqozon shirasi",
+        "Jigar shirasi",
+        "Hazm suyuqligi bo‘lgan zahar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 73,
+      "question": "Kana va xartumchali hasharotlarning umumiy jihatini toping.",
+      "options": [
+        "Ikkalasining ham og‘zi kemiruvchi",
+        "Ikkalasi ham xartumcha bilan suyuq oziq (qon) so‘rishi mumkin",
+        "Ikkalasi ham o‘simlik barglari bilan oziqlanadi",
+        "Ikkalasining ham xartumchasi jag‘ va paypaslagichlardan hosil bo‘lgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Hasharotlar va butli o‘rgimchak nafas olish teshiklarining umumiy jihati nima?",
+      "options": [
+        "Ikkalasida ham traxeyalar qorin bo‘limidagi teshik(lar) orqali havo bilan bog‘langan",
+        "Ikkalasida ham nafas teshiklari boshda",
+        "Ikkalasida ham traxeyalar ko‘krakdagi teshiklar orqali ochiladi",
+        "Ikkalasida ham faqat o‘pka xaltalari bor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 75,
+      "question": "Hasharotlar va butli o‘rgimchak nafas olish organlarining farqini toping.",
+      "options": [
+        "Ikkalasida ham o‘pka xaltalari va traxeyalar",
+        "Hasharotlarda o‘pka va traxeya, o‘rgimchakda faqat traxeya",
+        "Hasharotlarda faqat traxeyalar, o‘rgimchakda o‘pka xaltalari va ikki tutam traxeya",
+        "Ikkalasida ham faqat traxeyalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "Butli o‘rgimchakda qon o‘pka varaqlari orqali aylanadi. Hasharotlarda qon nafas olishda qanday ishtirok etadi?",
+      "options": [
+        "Malpigi naychalari orqali kislorod oladi",
+        "Jabralar orqali kislorod oladi",
+        "Traxeya devorlari orqali aylanib, kislorod oladi",
+        "Ishtirok etmaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Hasharotlar va kanalar hid sezishining umumiy jihatini toping.",
+      "options": [
+        "Ikkalasi ham faqat rangni ajratadi",
+        "Ikkalasi ham hidni sezmaydi",
+        "Ikkalasi ham hidni juda yaxshi sezadi",
+        "Ikkalasi ham hidni ko‘zlari bilan sezadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Moslashtiring (oziqni qabul qilish): 1) bronza qo‘ng‘izi; 2) butli o‘rgimchak; 3) kana; 4) baqachanoq.  a) suvni filtrlaydi; b) sanchib so‘ruvchi xartumcha bilan qon so‘radi; c) suyultirilgan o‘lja tanasini so‘radi; d) kemiruvchi jag‘lar bilan chaynaydi",
+      "options": [
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-c, 3-a, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Hasharotlar, daryo qisqichbaqasi va o‘rgimchaklar uchun umumiy ichki tuzilish belgisini toping.",
+      "options": [
+        "Jabralar",
+        "Ochiq qon aylanish sistemasi",
+        "Muskulli oshqozon",
+        "Malpigi naychalari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "Hasharotlar va boshoyoqli mollyuskalar uchun umumiy belgini toping.",
+      "options": [
+        "Ikkalasida ham malpigi naychalari bor",
+        "Ikkalasi ham traxeya bilan nafas oladi",
+        "Ikkalasida ham qon kislorod tashimaydi",
+        "Bosh miyasi rivojlangan va murakkab xulq-atvorga ega vakillari bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "Moslashtiring (nerv sistemasi): 1) hasharotlar; 2) baqachanoq; 3) suv shillig‘i.  a) uch juft nerv tugunlari; b) bir necha juft nerv tugunlari; c) bosh miya, halqum atrofi nerv halqasi, qorin nerv zanjiri",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Bronza qo‘ng‘izi va suv shillig‘i hazm qilish sistemasining umumiy jihatini toping.",
+      "options": [
+        "Ikkalasida ham og‘izga so‘lak ta’sir etadi va oziq qizilo‘ngach orqali oshqozonga o‘tadi",
+        "Ikkalasida ham oshqozon ikki bo‘lmali",
+        "Ikkalasida ham oziq ichak va jigar naylarida hazm bo‘ladi",
+        "Ikkalasida ham halqumda tishchali tilcha bor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "Bronza qo‘ng‘izi va suv shillig‘i oziqni qanday oladi?",
+      "options": [
+        "Ikkalasi ham tilchasi bilan qirib oladi",
+        "Ikkalasi ham jag‘lari bilan uzib oladi",
+        "Qo‘ng‘iz tilchasi bilan qirib oladi, shilliq jag‘lari bilan uzib oladi",
+        "Qo‘ng‘iz yuqori jag‘lari bilan uzib oladi, shilliq tishchali tilchasi bilan qirib oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Bronza qo‘ng‘izi va tok shillig‘ining umumiy jihatini toping.",
+      "options": [
+        "Ikkalasi ham suvda yashaydi",
+        "Ikkalasi ham traxeya bilan nafas oladi",
+        "Ikkalasining ham og‘zi xartumchali",
+        "Ikkalasi ham o‘simliklarning yashil qismlari (barglari) bilan oziqlanadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 85,
+      "question": "Hasharotlar va suv shillig‘ining yuragi farqini toping.",
+      "options": [
+        "Ikkalasida ham naysimon ko‘p kamerali",
+        "Ikkalasida ham ikki kamerali",
+        "Hasharotlarda ikki kamerali, shilliqda naysimon ko‘p kamerali",
+        "Hasharotlarda naysimon ko‘p kamerali, shilliqda ikki kamerali (bo‘lma va qorincha)"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 86,
+      "question": "Moslashtiring (qon kislorodni qayerda oladi): 1) suv shillig‘i; 2) daryo qisqichbaqasi; 3) baqachanoq; 4) hasharotlar.  a) qon kislorod tashimaydi; b) o‘pkada; c) jabralarda (oyoq ikki yonidagi mantiya bo‘shlig‘ida); d) jag‘oyoq va yurish oyoqlari asosidagi jabralarda",
+      "options": [
+        "1-d, 2-b, 3-c, 4-a",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "Hasharotlar, mollyuskalar va qisqichbaqasimonlarning qaysi biri ichki organlari qon suyuqligida joylashgani bilan tavsiflanadi?",
+      "options": [
+        "Ochiq qon aylanishli hammasi (mollyuskalar, qisqichbaqasimonlar, hasharotlar)",
+        "Faqat hasharotlar",
+        "Faqat qisqichbaqasimonlar",
+        "Faqat mollyuskalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 88,
+      "question": "Moslashtiring (ayirish organi): 1) hasharotlar; 2) daryo qisqichbaqasi; 3) suv shillig‘i.  a) tasmasimon yagona buyrak; b) bir juft yashil bez; c) ingichka uzun malpigi naychalari",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 89,
+      "question": "Moslashtiring (yurak joylashuvi): 1) hasharotlar; 2) daryo qisqichbaqasi; 3) suv shillig‘i.  a) tanasining orqa tomonida; b) boshko‘krakning orqa tomonida; c) qorin bo‘limida, ichak ustida",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "Hasharotlarni o‘rganilgan boshqa hayvonlardan ajratib turuvchi ichki tuzilish belgisini toping.",
+      "options": [
+        "Qoni kislorod tashimaydi, ayirish organi malpigi naychalari",
+        "Halqum atrofi nerv halqasi bor",
+        "Qon aylanish sistemasi ochiq",
+        "Oziq ichakda hazm bo‘ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 91,
+      "question": "Qaysi qatorda murakkab xulq-atvori va kuchli rivojlangan bosh miyasi bilan ajralib turadigan hayvonlar berilgan?",
+      "options": [
+        "Chumolilar, kanalar, sakkizoyoqlar",
+        "Arilar, chumolilar, baqachanoqlar",
+        "Arilar, chumolilar, boshoyoqli mollyuskalar",
+        "Qo‘ng‘izlar, chigirtkalar, boshoyoqli mollyuskalar"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
