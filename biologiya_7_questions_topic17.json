@@ -2,5 +2,996 @@
   "topicId": 17,
   "title": "Daryo qisqichbaqasining tashqi tuzilishi va ko‘payishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qisqichbaqasimonlar qayerda yashaydi va qanday nafas oladi?",
+      "options": [
+        "Suvda yashaydi, traxeya bilan nafas oladi",
+        "Suvda yashaydi, jabra bilan nafas oladi",
+        "Suvda yashaydi, o‘pka bilan nafas oladi",
+        "Quruqlikda yashaydi, jabra bilan nafas oladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Qisqichbaqasimonlar boshqa bo‘g‘imoyoqlilardan qaysi belgisi bilan farq qiladi?",
+      "options": [
+        "Ikki juft mo‘ylovining bo‘lishi bilan",
+        "Uch juft jag‘ining bo‘lishi bilan",
+        "Bir juft mo‘ylovining bo‘lishi bilan",
+        "Ikki juft qisqichining bo‘lishi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Qisqichbaqasimonlar sinfining tipik vakili qaysi?",
+      "options": [
+        "Daryo qisqichbaqasi",
+        "Siklop",
+        "Dafniya",
+        "Dengiz krabi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Daryo qisqichbaqasi qayerda hayot kechiradi?",
+      "options": [
+        "Faqat tez oqadigan tog‘ daryolarida",
+        "Sho‘r ko‘l, daryo va soylarda",
+        "Chuchuk suvli ko‘l, daryo va soylarda",
+        "Dengiz va okeanlarning sayoz joylarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Daryo qisqichbaqasi tanasining rangi qanday?",
+      "options": [
+        "Ustki tomoni ko‘kimtir-qo‘ng‘ir, ostki tomoni oqish",
+        "Ustki tomoni qizg‘ish-qo‘ng‘ir, ostki tomoni oqish",
+        "Ustki tomoni ko‘kimtir-qo‘ng‘ir, ostki tomoni qoramtir",
+        "Ustki tomoni oqish, ostki tomoni ko‘kimtir-qo‘ng‘ir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Nima uchun suv ostidagi qisqichbaqani payqash qiyin?",
+      "options": [
+        "Doimo loyga ko‘milib yashagani uchun",
+        "Tanasi shaffof bo‘lgani uchun",
+        "Faqat tunda suv yuzasiga chiqqani uchun",
+        "Tanasining tuzilishi va rangi suv muhitiga moslashgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Daryo qisqichbaqasi kunduzi qayerda bo‘ladi?",
+      "options": [
+        "Suv o‘tlari orasida suzib yurib",
+        "Qirg‘oqdagi quruq qum ichidagi inlarida",
+        "Suv tubidagi loyga tanasining yarmigacha ko‘milib",
+        "Toshlar ostida yoki qirg‘oq yaqinidagi daraxt ildizlari ostidagi inlarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Daryo qisqichbaqasi oziq izlab qachon chiqadi?",
+      "options": [
+        "Faqat erta tongda",
+        "Kun bo‘yi",
+        "Faqat tush paytida",
+        "Faqat kech qurunlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Daryo qisqichbaqasining asosiy ozig‘i nima?",
+      "options": [
+        "Faqat hayvonlar murdalari",
+        "Suv o‘tlari, kasal hayvonlar va ularning murdalari",
+        "Suv o‘tlari, sog‘lom baliqlar va ularning tuxumlari",
+        "Faqat suv o‘tlari va bakteriyalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Qisqichbaqa qaysi kasal hayvonlar bilan oziqlanadi?",
+      "options": [
+        "Mollyuskalar va hasharotlar lichinkasi",
+        "Chuvalchanglar va baqa itbaliqlari",
+        "Baliqlar va baqalar",
+        "Mollyuskalar va baliq chavoqlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Qisqichbaqa oziqni qaysi sezgi orqali yaxshi topadi?",
+      "options": [
+        "Ko‘rish orqali",
+        "Ta’m bilish orqali",
+        "Eshitish orqali",
+        "Hid sezish orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Daryo qisqichbaqasining tanasi nima bilan qoplangan?",
+      "options": [
+        "Mantiya teri bilan",
+        "Qattiq xitin po‘st bilan",
+        "Muguz moddali qobiq bilan",
+        "Ohakli chig‘anoq bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Xitin qoplag‘ich qanday vazifalarni bajaradi?",
+      "options": [
+        "Tanani tashqi ta’sirdan himoya qiladi va tashqi skelet vazifasini bajaradi",
+        "Nafas olish va tashqi skelet vazifasini bajaradi",
+        "Faqat tanani qurib qolishdan saqlaydi",
+        "Tanani tashqi ta’sirdan himoya qiladi va ichki skelet vazifasini bajaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Xitin qoplag‘ichga nimalar kelib birikadi?",
+      "options": [
+        "Mo‘ylovlar va ko‘zlar",
+        "Jabralar va ichki organlar",
+        "Faqat oyoqlar",
+        "Ichki organlar muskullari va oyoqlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Daryo qisqichbaqasining tanasi qanday bo‘limlardan iborat?",
+      "options": [
+        "Bosh, ko‘krak va qorin",
+        "Tana va oyoq",
+        "Boshko‘krak va qorin",
+        "Bosh va tana"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Boshko‘krak qanday hosil bo‘lgan?",
+      "options": [
+        "Ko‘krak va qorin bo‘limlarining harakatsiz birikishidan",
+        "Bosh va qorin bo‘limlarining harakatsiz birikishidan",
+        "Bosh va ko‘krak bo‘limlarining harakatsiz birikishidan",
+        "Bosh va ko‘krak bo‘limlarining harakatchan birikishidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Boshko‘krak nima bilan qoplangan?",
+      "options": [
+        "Ikki pallali chig‘anoq bilan",
+        "Yupqa xitin parda bilan",
+        "Boshko‘krak qalqoni bilan",
+        "Mantiya bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Boshko‘krak qalqonining oldingi uchi nimani hosil qiladi?",
+      "options": [
+        "Bir juft qisqichni",
+        "Uzun pixni",
+        "Kalta pixni",
+        "Dum suzgichni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Daryo qisqichbaqasining ko‘zlari qayerda joylashgan?",
+      "options": [
+        "Pixning uchida, harakatchan poyacha ustida",
+        "Pixning ikki yonida, harakatchan poyachalar ustida",
+        "Pixning ikki yonida, harakatsiz poyachalar ustida",
+        "Mo‘ylovlar asosida, harakatchan poyachalar ustida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Daryo qisqichbaqasining mo‘ylovlari qanday?",
+      "options": [
+        "Ikki juftdan uzun va kalta mo‘ylovlar",
+        "Ikki juft uzun mo‘ylovlar",
+        "Bir juftdan uzun va kalta mo‘ylovlar",
+        "Bir juft uzun mo‘ylov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Daryo qisqichbaqasining mo‘ylovlari qanday organ hisoblanadi?",
+      "options": [
+        "Muvozanat va eshitish organlari",
+        "Hid bilish va tuyg‘u organlari",
+        "Oziq tutish organlari",
+        "Ko‘rish va tuyg‘u organlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Daryo qisqichbaqasining mo‘ylovlari qayerda joylashgan?",
+      "options": [
+        "Boshko‘krakning keyingi qismida",
+        "Pixning uchida",
+        "Boshining oldingi tomonida",
+        "Og‘iz teshigi atrofida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Daryo qisqichbaqasida og‘iz teshigini nechta jag‘ o‘rab turadi?",
+      "options": [
+        "To‘rt juft",
+        "Bir juft",
+        "Ikki juft",
+        "Uch juft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Boshko‘krakning keyingi qismida nechta juft o‘simta bor?",
+      "options": [
+        "7 juft",
+        "8 juft",
+        "10 juft",
+        "5 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Boshko‘krakdagi 8 juft o‘simtadan nechtasi jag‘oyoqlar?",
+      "options": [
+        "5 jufti",
+        "2 jufti",
+        "3 jufti",
+        "4 jufti"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Jag‘oyoqlar qanday vazifani bajaradi?",
+      "options": [
+        "Oziqni ushlab og‘izga suradi va jabralarga suvni haydaydi",
+        "Oziqni tutadi va maydalaydi",
+        "Jabralarga suvni haydaydi va tuxumlarni ushlab turadi",
+        "Oziqni ushlab og‘izga suradi va suvda suzishga yordam beradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Jag‘oyoqlardan keyingi 5 juft o‘simtaning birinchi jufti nimaga aylangan?",
+      "options": [
+        "Mo‘ylovga",
+        "Jag‘oyoqqa",
+        "Dum suzgichga",
+        "Qisqichga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Daryo qisqichbaqasining haqiqiy yurish oyoqlari nechta juft?",
+      "options": [
+        "To‘rt juft",
+        "Sakkiz juft",
+        "Besh juft",
+        "Uch juft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Qisqichlar qanday vazifani bajaradi?",
+      "options": [
+        "Jabralarga suv haydash uchun xizmat qiladi",
+        "Tuxumlarni ushlab turish uchun xizmat qiladi",
+        "Oziqni tutish uchun xizmat qiladi",
+        "Yurish uchun xizmat qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Boshko‘krak o‘simtalari to‘g‘ri tartibda berilgan qatorni toping.",
+      "options": [
+        "1 juft qisqich → 3 juft jag‘oyoq → 4 juft yurish oyog‘i",
+        "3 juft jag‘oyoq → 1 juft qisqich → 4 juft yurish oyog‘i",
+        "3 juft jag‘ → 1 juft qisqich → 4 juft yurish oyog‘i",
+        "3 juft jag‘oyoq → 4 juft yurish oyog‘i → 1 juft qisqich"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Qorin bo‘limi nechta bo‘g‘imdan iborat?",
+      "options": [
+        "Sakkiz",
+        "Yetti",
+        "Olti",
+        "Besh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Qorin bo‘limining har bir bo‘g‘imida nechtadan qorinoyoq bo‘ladi?",
+      "options": [
+        "Bir juftdan",
+        "Bittadan",
+        "Ikki juftdan",
+        "Uch juftdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Qorinoyoqlarning oldingi 5 jufti qanday tuzilgan?",
+      "options": [
+        "Ikki shoxli",
+        "Uch shoxli",
+        "Bir shoxli",
+        "Qisqichli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Qorinoyoqlarning oxirgi 2 jufti nimani hosil qiladi?",
+      "options": [
+        "Jinsiy o‘simtalarni",
+        "Dum suzgichni",
+        "Jag‘oyoqlarni",
+        "Qisqichni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Daryo qisqichbaqasining qorin bo‘limida jami nechta juft qorinoyoq bor?",
+      "options": [
+        "5 juft",
+        "8 juft",
+        "7 juft",
+        "2 juft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Daryo qisqichbaqasida qisqich va yurish oyoqlari birgalikda nechta juft?",
+      "options": [
+        "3 juft",
+        "8 juft",
+        "5 juft",
+        "4 juft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Daryo qisqichbaqasi odatda qanday harakatlanadi?",
+      "options": [
+        "Suv tubida to‘rt juft yurish oyoqlari yordamida o‘rmalab",
+        "Qorinoyoqlari yordamida suv tubida sirpanib",
+        "Suv tubida besh juft yurish oyoqlari yordamida o‘rmalab",
+        "Dum suzgichlari yordamida oldinga suzib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Xavf sezgan qisqichbaqa qanday harakatlanadi?",
+      "options": [
+        "Dum suzgichlarini qorin tomonga tez-tez siltab, orqa tomoni bilan suzadi",
+        "Suvni katta bosim bilan siqib chiqarib, reaktiv suzadi",
+        "Dum suzgichlarini qorin tomonga tez-tez siltab, oldinga suzadi",
+        "Dum suzgichlarini orqa tomonga tez-tez siltab, oldinga suzadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Daryo qisqichbaqasining jabralari qayerda joylashgan?",
+      "options": [
+        "Ko‘krak bo‘limidagi qisqichlar va jag‘lar asosida",
+        "Mantiya bo‘shlig‘ida, oyoqning ikki yonida",
+        "Qorin bo‘limidagi qorinoyoqlar asosida",
+        "Ko‘krak bo‘limidagi jag‘oyoqlar va oldingi to‘rt juft yurish oyoqlari asosida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Qisqichbaqa jabralarida suv nima tufayli almashinib turadi?",
+      "options": [
+        "Dum suzgich harakati tufayli",
+        "Qorinoyoqlar harakati tufayli",
+        "Jag‘oyoqlar harakati tufayli",
+        "Kipriklar harakati tufayli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Qisqichbaqalar jinsiy jihatdan qanday hayvonlar?",
+      "options": [
+        "Ayrim jinsli",
+        "Germafrodit",
+        "Partenogenetik",
+        "Jinssiz ko‘payadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Qisqichbaqaning urg‘ochisi erkagidan qanday farq qiladi?",
+      "options": [
+        "Urg‘ochisining boshko‘kragi qorin bo‘limiga nisbatan kengroq",
+        "Urg‘ochisining qisqichlari kattaroq",
+        "Urg‘ochisining qorin bo‘limi boshko‘kragiga nisbatan torroq",
+        "Urg‘ochisining qorin bo‘limi boshko‘kragiga nisbatan kengroq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "Urg‘ochi qisqichbaqa tuxum qo‘ygandan keyin nima qiladi?",
+      "options": [
+        "Tuxumlarini jabralari sirtida saqlaydi",
+        "Tuxumlarini qorinoyoqlariga yopishtirib olib yuradi",
+        "Tuxumlarini suv o‘tlariga yopishtirib qo‘yadi",
+        "Tuxumlarini inida qoldirib qo‘riqlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Urg‘ochi qisqichbaqa tuxumni qachon qo‘yadi?",
+      "options": [
+        "Qishda",
+        "Yoz boshida",
+        "Erta bahorda",
+        "Kech kuzda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Qisqichbaqa tuxumlaridan qachon yosh qisqichbaqalar chiqadi?",
+      "options": [
+        "Erta bahorda",
+        "Yoz boshlanishi bilan",
+        "Yoz oxirida",
+        "Kuz boshlanishi bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Tuxumdan chiqqan yosh qisqichbaqalar dastlab nima qiladi?",
+      "options": [
+        "Urg‘ochisining jabralariga yopishib oladi",
+        "Urg‘ochisining qorinoyoqlariga yopishib oladi",
+        "Darhol mustaqil hayot kechiradi",
+        "Baliqlar terisiga yopishib parazitlik qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Qisqichbaqalar qanday o‘sadi?",
+      "options": [
+        "Eski qattiq po‘stini tashlab, ya’ni tullab",
+        "Po‘stini tashlamasdan, uzluksiz",
+        "Faqat lichinkalik davrida tullab",
+        "Chig‘anog‘ining chetiga yangi qavat qo‘shib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Tullash qaysi hayvonlarga xos?",
+      "options": [
+        "Faqat qisqichbaqasimonlarga",
+        "Faqat daryo qisqichbaqasiga",
+        "Hamma bo‘g‘imoyoqlilarga",
+        "Hamma mollyuskalarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Tullagan qisqichbaqada yangi qoplag‘ich qayerda hosil bo‘ladi?",
+      "options": [
+        "Mantiyadan",
+        "Eski qoplag‘ich tashlangandan keyin suvda",
+        "Eski qoplag‘ich ostida",
+        "Eski qoplag‘ich ustida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Qisqichbaqa nima sababdan o‘sishdan to‘xtaydi?",
+      "options": [
+        "Ohak modda shimilgan qoplag‘ichi qattiqlashgani uchun",
+        "Ohak modda shimilgan qoplag‘ichi yumshagani uchun",
+        "Sadaf qatlami qalinlashgani uchun",
+        "Oziq yetishmagani uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Qisqichbaqaning o‘sishi to‘g‘ri ketma-ketlikda berilgan qatorni toping.",
+      "options": [
+        "Tez o‘sish → tullash → qoplag‘ich qattiqlashadi → o‘sishdan to‘xtaydi → yana tullash",
+        "Tullash → tez o‘sish → qoplag‘ich qattiqlashadi → o‘sishdan to‘xtaydi → yana tullash",
+        "Tullash → tez o‘sish → o‘sishdan to‘xtaydi → qoplag‘ich yumshaydi → yana tullash",
+        "Tullash → qoplag‘ich qattiqlashadi → tez o‘sish → o‘sishdan to‘xtaydi → yana tullash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring: 1) mo‘ylovlar; 2) jag‘oyoqlar; 3) qisqichlar; 4) yurish oyoqlari.  a) oziqni tutadi; b) hid bilish va tuyg‘u organi; c) o‘rmalab yurish; d) oziqni og‘izga suradi, jabraga suv haydaydi",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (son): 1) jag‘lar; 2) jag‘oyoqlar; 3) yurish oyoqlari; 4) qorin bo‘g‘imlari.  a) 7 ta; b) 3 juft; c) 4 juft",
+      "options": [
+        "1-b, 2-b, 3-c, 4-a",
+        "1-b, 2-c, 3-b, 4-a",
+        "1-b, 2-b, 3-a, 4-c",
+        "1-c, 2-b, 3-b, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (qorinoyoqlar): 1) oldingi 5 jufti; 2) oxirgi 2 jufti.  a) dum suzgichni hosil qiladi; b) ikki shoxli",
+      "options": [
+        "1-a, 2-a",
+        "1-a, 2-b",
+        "1-b, 2-b",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (fasl): 1) tuxum qo‘yish; 2) tuxumdan chiqish.  a) yoz boshi; b) erta bahor",
+      "options": [
+        "1-a, 2-a",
+        "1-a, 2-b",
+        "1-b, 2-b",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring: 1) pix; 2) ko‘zlar; 3) jabralar; 4) dum suzgich.  a) harakatchan poyachalar ustida; b) qalqonning oldingi uchida; c) oxirgi 2 juft qorinoyoqdan; d) jag‘oyoqlar va yurish oyoqlari asosida",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-b, 2-a, 3-c, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Daryo qisqichbaqasi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Og‘iz teshigini uch juft jag‘ o‘rab turadi",
+        "Qorin bo‘limi besh bo‘g‘imdan iborat",
+        "Boshko‘krak qalqoni pixni hosil qiladi",
+        "Ko‘zlari harakatchan poyachalar ustida joylashgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Daryo qisqichbaqasi haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Qisqichlar haqiqiy yurish oyoqlari hisoblanadi",
+        "Erkagining qorin bo‘limi urg‘ochisinikiga nisbatan kengroq",
+        "Kunduzi oziq izlab, kechasi inida yotadi",
+        "Jag‘oyoqlar harakati tufayli jabralarda suv almashinadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Qisqichbaqaning qaysi organlari bevosita oziqlanishda ishtirok etmaydi?",
+      "options": [
+        "Jag‘oyoqlar",
+        "Qisqichlar",
+        "Dum suzgichlar",
+        "Mo‘ylovlar (hid bilish)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Daryo qisqichbaqasi va baqachanoq uchun umumiy belgini toping.",
+      "options": [
+        "Boshi bo‘ladi, jabra bilan nafas oladi",
+        "Jabra bilan nafas oladi, germafrodit",
+        "Tanasi xitin po‘st bilan qoplangan, ayrim jinsli",
+        "Jabra bilan nafas oladi, ayrim jinsli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Daryo qisqichbaqasi va suv shillig‘ining nafas olishidagi farqni toping.",
+      "options": [
+        "Ikkalasi ham o‘pka bilan atmosfera kislorodini oladi",
+        "Qisqichbaqa jabra bilan suvda erigan kislorodni, shilliq o‘pka bilan atmosfera kislorodini oladi",
+        "Qisqichbaqa o‘pka bilan atmosfera kislorodini, shilliq jabra bilan suvdagi kislorodni oladi",
+        "Ikkalasi ham jabra bilan suvdagi kislorodni oladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Qisqichbaqa tanasini qoplovchi tuzilma bilan mollyuskalar chig‘anog‘ining farqini toping.",
+      "options": [
+        "Qisqichbaqada xitin po‘st, mollyuskalarda mantiyadan hosil bo‘lgan chig‘anoq",
+        "Qisqichbaqada mantiyadan hosil bo‘lgan po‘st, mollyuskalarda xitin chig‘anoq",
+        "Ikkalasida ham xitin qoplag‘ich bo‘ladi",
+        "Ikkalasida ham mantiyadan hosil bo‘lgan qoplag‘ich bo‘ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Baqachanoq va daryo qisqichbaqasining ayrim jinsliligidagi farqni toping.",
+      "options": [
+        "Ikkalasining ham erkak va urg‘ochisini qorin bo‘limidan ajratish mumkin",
+        "Ikkalasining ham erkak va urg‘ochisini farq qilib bo‘lmaydi",
+        "Qisqichbaqaning erkak va urg‘ochisini qorin bo‘limidan ajratish mumkin, baqachanoqnikini farq qilib bo‘lmaydi",
+        "Baqachanoqning erkak va urg‘ochisini chig‘anog‘idan ajratish mumkin, qisqichbaqanikini farq qilib bo‘lmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 64,
+      "question": "Qisqichbaqa va baqachanoq tuxumlarining rivojlanish joyidagi farqni toping.",
+      "options": [
+        "Qisqichbaqada suv o‘tlarida, baqachanoqda jabralar sirtida",
+        "Ikkalasida ham jabralar sirtida",
+        "Qisqichbaqada qorinoyoqlarda, baqachanoqda jabralar sirtida",
+        "Qisqichbaqada jabralar sirtida, baqachanoqda qorinoyoqlarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Qisqichbaqa va baqachanoq rivojlanishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa tuxumidan parazit lichinka, baqachanoq tuxumidan mayda baqachanoq chiqadi",
+        "Ikkalasining tuxumidan ham parazit lichinka chiqadi",
+        "Ikkalasining tuxumidan ham voyaga yetganiga o‘xshash yosh organizm chiqadi",
+        "Qisqichbaqa tuxumidan yosh qisqichbaqa chiqadi, baqachanoq tuxumidan baliqda parazitlik qiladigan lichinka chiqadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Qaysi hayvonlarda tuxumdan voyaga yetgan shaklga o‘xshash yosh organizm chiqadi?",
+      "options": [
+        "Baqachanoq va suv shillig‘ida",
+        "Daryo qisqichbaqasi va suv shillig‘ida",
+        "Faqat daryo qisqichbaqasida",
+        "Daryo qisqichbaqasi va baqachanoqda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 67,
+      "question": "Qisqichbaqada jabralarga suvni jag‘oyoqlar haydasa, baqachanoqda nima haydaydi?",
+      "options": [
+        "Og‘iz oldi paypaslagichlari",
+        "Yopuvchi muskullar",
+        "Ponasimon oyog‘i",
+        "Jabra va mantiya pardasidagi kipriklar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Qisqichbaqa oziqni qisqich bilan tutsa, boshoyoqlilar nima bilan tutadi?",
+      "options": [
+        "Voronka bilan",
+        "So‘rg‘ichli paypaslagichlar bilan",
+        "Mayda tishchali tilcha bilan",
+        "Jag‘oyoqlar bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Qisqichbaqa mo‘ylovlari va suv shillig‘i paypaslagichlarining umumiy vazifasi nima?",
+      "options": [
+        "Nafas olish organi hisoblanadi",
+        "Harakat organi hisoblanadi",
+        "Oziq tutish organi hisoblanadi",
+        "Sezgi organi hisoblanadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "Qisqichbaqada 2 juft mo‘ylov bo‘lsa, suv shillig‘ida nechta juft paypaslagich bor?",
+      "options": [
+        "Bo‘lmaydi",
+        "1 juft",
+        "4–5 juft",
+        "2 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Qisqichbaqa va suv shillig‘i ko‘zlarining joylashishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham mo‘ylovlar asosida",
+        "Ikkalasida ham harakatchan poyachalar ustida",
+        "Qisqichbaqada paypaslagichlar asosida, shilliqda harakatchan poyachalar ustida",
+        "Qisqichbaqada harakatchan poyachalar ustida, shilliqda paypaslagichlar asosida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Ko‘zi bo‘lmagan (maxsus sezgi organlari yo‘q) hayvonni toping.",
+      "options": [
+        "Baqachanoq",
+        "Suv shillig‘i",
+        "Daryo qisqichbaqasi",
+        "Sakkizoyoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 73,
+      "question": "Moslashtiring (tana bo‘limlari): 1) daryo qisqichbaqasi; 2) baqachanoq; 3) boshoyoqlilar.  a) bosh va tana; b) boshko‘krak va qorin; c) tana va ponasimon oyoq",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Moslashtiring (tana qoplag‘ichi): 1) daryo qisqichbaqasi; 2) baqachanoq; 3) sakkizoyoq.  a) qalin muskulli mantiya, chig‘anoqsiz; b) xitin po‘st; c) muguz moddali, ichi sadafli chig‘anoq",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "Moslashtiring (nafas olish organi): 1) daryo qisqichbaqasi; 2) baqachanoq; 3) suv shillig‘i.  a) xaltasimon o‘pka; b) jag‘oyoq va yurish oyoqlari asosidagi jabralar; c) mantiya bo‘shlig‘idagi jabralar",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 76,
+      "question": "Moslashtiring (xavfdan qochish): 1) daryo qisqichbaqasi; 2) sakkizoyoq; 3) baqachanoq.  a) suvga siyoh chiqaradi; b) dum suzgich bilan orqa tomoni bilan suzadi; c) pallalarini yopadi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "Moslashtiring (oziq tutish): 1) daryo qisqichbaqasi; 2) baqachanoq; 3) kalmar; 4) suv shillig‘i.  a) so‘rg‘ichli paypaslagichlar; b) qisqichlar; c) tishchali tilcha bilan qirib olish; d) og‘iz oldidagi ikki juft paypaslagich",
+      "options": [
+        "1-a, 2-d, 3-b, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-b, 2-c, 3-a, 4-d",
+        "1-d, 2-b, 3-a, 4-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "Moslashtiring (jinsi): 1) daryo qisqichbaqasi; 2) suv shillig‘i; 3) baqachanoq.  a) germafrodit; b) ayrim jinsli, jinslari farqlanadi; c) ayrim jinsli, jinslarini farq qilib bo‘lmaydi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 79,
+      "question": "Moslashtiring (sezgi organlari): 1) daryo qisqichbaqasi; 2) suv shillig‘i; 3) baqachanoq.  a) maxsus sezgi organlari yo‘q; b) bir juft paypaslagich va ikkita ko‘z; c) ikki juft mo‘ylov va poyachali ko‘zlar",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 80,
+      "question": "Daryo qisqichbaqasiga xos, lekin mollyuskalarda uchramaydigan belgini toping.",
+      "options": [
+        "Tullab o‘sish",
+        "Ayrim jinslilik",
+        "Suvda yashash",
+        "Jabra bilan nafas olish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Qisqichbaqa oyoqlari va mollyuskalar oyog‘ining farqini toping.",
+      "options": [
+        "Qisqichbaqa oyoqlari bo‘g‘imli va ko‘p juft, mollyuskalarda bitta muskulli oyoq",
+        "Ikkalasida ham ko‘p juft bo‘g‘imli oyoqlar",
+        "Qisqichbaqada bitta muskulli oyoq, mollyuskalarda ko‘p juft bo‘g‘imli oyoqlar",
+        "Ikkalasida ham bitta muskulli oyoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Qisqichbaqa va boshoyoqlilarning suzishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa voronkadan suvni siqib chiqarib, boshoyoqlilar dum suzgichni siltab suzadi",
+        "Qisqichbaqa dum suzgichni siltab, boshoyoqlilar voronkadan suvni siqib chiqarib (reaktiv) suzadi",
+        "Ikkalasi ham reaktiv usulda suzadi",
+        "Ikkalasi ham dum suzgichni siltab suzadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 83,
+      "question": "Qisqichbaqa va suv shillig‘ining yashash muhitidagi umumiy belgini toping.",
+      "options": [
+        "Ikkalasi ham dengizda yashaydi",
+        "Ikkalasi ham sho‘rlangan suvlarda yashaydi",
+        "Ikkalasi ham quruqlikda yashaydi",
+        "Ikkalasi ham chuchuk suvda yashaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Qisqichbaqaning oziq izlashi bilan baqachanoqning oziqlanishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa oziqni faol izlab, hidini sezib topadi; baqachanoq suvni filtrlab oziqlanadi",
+        "Ikkalasi ham suvni filtrlab oziqlanadi",
+        "Qisqichbaqa suvni filtrlab, baqachanoq oziqni faol izlab oziqlanadi",
+        "Ikkalasi ham oziqni ko‘zi bilan ko‘rib topadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Qisqichbaqaning ozig‘i bo‘lgan, lekin o‘zi qisqichbaqani ham yeydigan mollyuskalar guruhini toping.",
+      "options": [
+        "Qorinoyoqlilar",
+        "Bunday mollyuska yo‘q",
+        "Boshoyoqlilar (krablar bilan oziqlanadi)",
+        "Ikki pallalilar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Mollyuskalar bilan qisqichbaqani solishtiring: qaysi fikr noto‘g‘ri?",
+      "options": [
+        "Qisqichbaqa ham, baqachanoq ham ayrim jinsli",
+        "Qisqichbaqa ham, baqachanoq ham jabra bilan nafas oladi",
+        "Qisqichbaqa ham, suv shillig‘i ham chuchuk suvda yashaydi",
+        "Qisqichbaqa ham, mollyuskalar ham tanasini mantiya o‘rab turadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "Mollyuskalar bilan qisqichbaqani solishtiring: qaysi fikr to‘g‘ri?",
+      "options": [
+        "Qisqichbaqada ham, mollyuskalarda ham chig‘anoq mantiyadan hosil bo‘ladi",
+        "Mollyuskalarda tana bo‘g‘imlarga bo‘lingan, qisqichbaqada bo‘g‘imlar yo‘q",
+        "Qisqichbaqada ham, mollyuskalarda ham tana bo‘g‘imlarga bo‘lingan",
+        "Qisqichbaqada tana bo‘g‘imlarga bo‘lingan, mollyuskalarda bo‘g‘imlar yo‘q"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 88,
+      "question": "Qaysi qatorda faqat jabra bilan nafas oladigan hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i, baqachanoq",
+        "Tok shillig‘i, daryo qisqichbaqasi",
+        "Daryo qisqichbaqasi, baqachanoq",
+        "Daryo qisqichbaqasi, suv shillig‘i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 89,
+      "question": "Qaysi qatorda faqat ayrim jinsli hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i, baqachanoq",
+        "Suv shillig‘i, tok shillig‘i",
+        "Daryo qisqichbaqasi, baqachanoq",
+        "Daryo qisqichbaqasi, suv shillig‘i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 90,
+      "question": "Qaysi qatorda bosh qismi alohida ajralmagan (boshi yo‘q yoki ko‘krak bilan qo‘shilgan) hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i va daryo qisqichbaqasi",
+        "Baqachanoq va daryo qisqichbaqasi",
+        "Suv shillig‘i va sakkizoyoq",
+        "Sakkizoyoq va baqachanoq"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
