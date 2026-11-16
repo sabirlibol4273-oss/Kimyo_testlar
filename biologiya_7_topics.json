@@ -101,6 +101,12 @@
       "title": "Daryo qisqichbaqasining tashqi tuzilishi va ko‘payishi",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 18,
+      "title": "Daryo qisqichbaqasining ichki tuzilishi",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
