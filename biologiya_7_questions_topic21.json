@@ -2,5 +2,1095 @@
   "topicId": 21,
   "title": "Yashil bronza qo‘ng‘izining tashqi tuzilishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Hasharotlarning tanasi qanday bo‘limlardan iborat?",
+      "options": [
+        "Boshko‘krak va qorin",
+        "Bosh va tana",
+        "Bosh, ko‘krak va qorin",
+        "Bosh, ko‘krak, qorin va dum"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Hasharotlarda nechta juft oyoq bor?",
+      "options": [
+        "5 juft",
+        "2 juft",
+        "3 juft",
+        "4 juft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Hasharotlarning boshida nimalar joylashgan?",
+      "options": [
+        "Bir juft mo‘ylov, ko‘zlar va bir juft oyoq",
+        "Ikki juft mo‘ylov, ko‘zlar va jag‘lar",
+        "Bir juft mo‘ylov, ko‘zlar va jag‘lar",
+        "Bir juft mo‘ylov, ko‘zlar, jag‘lar va qanotlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Hasharotlarning qanotlari va oyoqlari qaysi bo‘limda joylashgan?",
+      "options": [
+        "Qanotlari ko‘krakda, oyoqlari qorinda",
+        "Ko‘krak bo‘limida",
+        "Qorin bo‘limida",
+        "Qanotlari qorinda, oyoqlari ko‘krakda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Hasharotlarning ayirish organi qaysi?",
+      "options": [
+        "Traxeyalar",
+        "Yashil bezlar",
+        "Malpigi naychalari",
+        "Tasmasimon buyrak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Hasharotlar qanday nafas oladi?",
+      "options": [
+        "Teri orqali",
+        "Jabra orqali",
+        "O‘pka xaltalari va traxeya orqali",
+        "Traxeya orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Hasharotlarning yuragi qanday?",
+      "options": [
+        "Ikki kamerali, yurak oldi bo‘lmali",
+        "Naysimon, ikki kamerali",
+        "Xaltasimon, ko‘p kamerali",
+        "Naysimon, ko‘p kamerali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Hasharotlar sinfida nechta turkum bor?",
+      "options": [
+        "400 ga yaqin",
+        "40 ga yaqin",
+        "14 ga yaqin",
+        "4 ga yaqin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Hasharotlar sinfining darslikdagi vakili qaysi?",
+      "options": [
+        "Chigirtka",
+        "Yashil bronza qo‘ng‘izi",
+        "Buzoqboshi",
+        "Suv qo‘ng‘izi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Yashil bronza qo‘ng‘izi qayerlarda uchraydi?",
+      "options": [
+        "Yevropa va Osiyo qit’asining deyarli hamma joyida",
+        "Faqat O‘rta Osiyoda",
+        "Yevropa, Osiyo va Afrikaning tropik mintaqalarida",
+        "Faqat Yevropaning janubida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Yashil bronza qo‘ng‘izini qachon va qayerda ko‘rish mumkin?",
+      "options": [
+        "Kuz va qishda daraxt po‘stlog‘i ostida",
+        "Bahor va yozda suv havzalari bo‘yida",
+        "Yil bo‘yi tuproq ichida",
+        "Bahor va yozda dalalarda gullar ustida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Yashil bronza qo‘ng‘izining uzunligi qancha?",
+      "options": [
+        "1–2 sm",
+        "0,5–1 sm",
+        "6–7 sm",
+        "3–4 sm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Bronza qo‘ng‘izi tanasining rangi qanday?",
+      "options": [
+        "Ustki tomoni yaltiroq-yashil, qorin tomoni qizg‘ish",
+        "Ustki tomoni yaltiroq-yashil, qorin tomoni oqish",
+        "Ustki tomoni ko‘kimtir-qo‘ng‘ir, qorin tomoni qizg‘ish",
+        "Ustki tomoni qizg‘ish, qorin tomoni yaltiroq-yashil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Bronza qo‘ng‘izining xitin qobig‘i qanday?",
+      "options": [
+        "Qalin va qattiq",
+        "Yupqa, lekin qattiq",
+        "Yupqa va yumshoq",
+        "Qalin, lekin yumshoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Qo‘ng‘izning boshida qanday organlar joylashgan?",
+      "options": [
+        "Og‘iz organlari va qanotlar",
+        "Og‘iz organlari va nafas teshiklari",
+        "Og‘iz va sezgi organlari",
+        "Sezgi organlari va oyoqlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Og‘iz teshigini ustki tomondan nima o‘rab turadi?",
+      "options": [
+        "Bir juft yuqori jag‘",
+        "Bir juft pastki jag‘",
+        "Pastki lab",
+        "Kichik plastinka shaklidagi yuqori lab"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Og‘iz teshigini yon tomondan nima o‘rab turadi?",
+      "options": [
+        "Yuqori va pastki lab",
+        "Faqat bir juft yuqori jag‘",
+        "Uch juft jag‘lar",
+        "Bir juft yuqori va bir juft pastki jag‘lar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Og‘iz teshigini ostki tomondan nima o‘rab turadi?",
+      "options": [
+        "Pastki jag‘lar",
+        "Pastki lab",
+        "Yuqori lab",
+        "Yuqori jag‘lar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Qo‘ng‘iz og‘iz organlarining joylashishini to‘g‘ri ko‘rsating (ustdan → yondan → ostdan).",
+      "options": [
+        "Pastki lab → yuqori va pastki jag‘lar → yuqori lab",
+        "Yuqori lab → yuqori va pastki jag‘lar → pastki lab",
+        "Yuqori lab → pastki lab → yuqori va pastki jag‘lar",
+        "Yuqori jag‘lar → yuqori va pastki lab → pastki jag‘lar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Qo‘ng‘izda qaysi og‘iz organlari paypaslagichlar bilan ta’minlangan?",
+      "options": [
+        "Yuqori va pastki jag‘lar",
+        "Pastki lab va pastki jag‘lar",
+        "Yuqori lab va yuqori jag‘lar",
+        "Faqat pastki lab"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Qo‘ng‘iz og‘iz paypaslagichlari qanday organ hisoblanadi?",
+      "options": [
+        "Ko‘rish va tuyg‘u organlari",
+        "Tuyg‘u va ta’m bilish organlari",
+        "Hid bilish va tuyg‘u organlari",
+        "Faqat ta’m bilish organlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Qo‘ng‘izning ko‘zlari qanday va qayerda joylashgan?",
+      "options": [
+        "Harakatchan poyachalar ustida bir juft murakkab ko‘z",
+        "Boshining ikki yonida bittadan oddiy ko‘z",
+        "Boshining ustida to‘rt juft oddiy ko‘zcha",
+        "Boshining ikki yonida bittadan yirik murakkab ko‘z"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Qo‘ng‘izning har bir ko‘zi nimadan iborat?",
+      "options": [
+        "Bir necha o‘nta oddiy ko‘zchadan",
+        "Bir necha yuzta siyrak joylashgan murakkab ko‘zchadan",
+        "Bitta yirik oddiy ko‘zdan",
+        "Bir necha mingta zich joylashgan mayda oddiy ko‘zchadan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Hasharotlar qaysi hayvon singari mozaik ko‘rish xususiyatiga ega?",
+      "options": [
+        "Suv shillig‘i",
+        "Chayon",
+        "Daryo qisqichbaqasi",
+        "Butli o‘rgimchak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Ko‘pchilik hasharotlarning ko‘rishi haqida to‘g‘ri fikrni toping.",
+      "options": [
+        "Rangni umuman ajratmaydi",
+        "Rangni yaxshi ajratib oladi",
+        "Faqat qizil rangni ajratadi",
+        "Faqat yorug‘lik va qorong‘ilikni ajratadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Bronza qo‘ng‘izining mo‘ylovlari qanday va qayerda joylashgan?",
+      "options": [
+        "Ipsimon, ko‘zlarining orqasida",
+        "Tukli, og‘iz teshigining ostida",
+        "Yelpig‘ichsimon, ko‘zlarining orqasida",
+        "Yelpig‘ichsimon, ko‘zlarining oldida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Bronza qo‘ng‘izining erkagi va urg‘ochisi qanday farq qiladi?",
+      "options": [
+        "Urg‘ochisi erkagidan ancha yirik",
+        "Erkagining mo‘ylovi urg‘ochisinikiga nisbatan yirikroq",
+        "Erkagining qorin bo‘limi kengroq",
+        "Urg‘ochisining mo‘ylovi erkaginikiga nisbatan yirikroq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Qo‘ng‘iz mo‘ylovlari qanday organ hisoblanadi?",
+      "options": [
+        "Ta’m bilish organi",
+        "Muvozanat organi",
+        "Hid bilish organi",
+        "Eshitish organi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Hasharotlarning ko‘krak bo‘limi nechta bo‘g‘imdan iborat?",
+      "options": [
+        "Ikkita",
+        "Uchta",
+        "To‘rtta",
+        "Sakkizta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Hasharotlarda qanotlar qaysi ko‘krak bo‘g‘imlarida joylashgan?",
+      "options": [
+        "Birinchi va ikkinchi bo‘g‘imlarning ustki tomonida",
+        "Ikkinchi va uchinchi bo‘g‘imlarning ustki tomonida",
+        "Ikkinchi va uchinchi bo‘g‘imlarning qorin tomonida",
+        "Uchala bo‘g‘imning ustki tomonida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Qo‘ng‘izda nechta juft qanot bor?",
+      "options": [
+        "1 juft",
+        "2 juft",
+        "4 juft",
+        "3 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Orqa tomondan qaraganda ko‘krak bo‘limining qaysi qismi ko‘rinadi?",
+      "options": [
+        "Birinchi va ikkinchi bo‘g‘imlari",
+        "Faqat birinchi bo‘g‘imi",
+        "Faqat uchinchi bo‘g‘imi",
+        "Uchala bo‘g‘imi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Qo‘ng‘izda nimalar ustqanotlar bilan qoplangan?",
+      "options": [
+        "Ko‘krakning keyingi ikki bo‘g‘imi va qorin bo‘limi",
+        "Ko‘krakning birinchi bo‘g‘imi va qorin bo‘limi",
+        "Ko‘krakning uchala bo‘g‘imi va qorin bo‘limi",
+        "Faqat qorin bo‘limi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Qo‘ng‘izning ustqanotlari qanday vazifani bajaradi?",
+      "options": [
+        "Nafas olishda ishtirok etadi",
+        "Qattiq qorin bo‘limini va oyoqlarni himoya qiladi",
+        "Nozik pardasimon ostqanotlarni va yumshoq qorin bo‘limini himoya qiladi",
+        "Uchishda asosiy ko‘tarish kuchini hosil qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Qo‘ng‘izning ostqanotlari qanday?",
+      "options": [
+        "Nozik, pardasimon",
+        "Yaltiroq-yashil, qattiq",
+        "Qattiq va qalin",
+        "Kalta va qalin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Ko‘pchilik qo‘ng‘izlarda ustki qanotlar uchishda qanday rol o‘ynaydi?",
+      "options": [
+        "Uchishda umuman ishtirok etmaydi",
+        "Ikki tomonga yoyilib, samolyot qanoti singari ko‘tarish yuzasini hosil qiladi",
+        "Faqat qo‘nishda tormoz vazifasini bajaradi",
+        "Tez-tez qoqilib, asosiy harakatlantiruvchi kuchni hosil qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Bronza qo‘ng‘izining ustki qanotlari uchishda qanday holatda bo‘ladi?",
+      "options": [
+        "Ostqanotlar bilan birga tez-tez qoqiladi",
+        "Uchishda ishtirok etmaydi, tanasining orqa tomoniga yopishib turadi",
+        "Ikki tomonga yoyilib, ko‘tarish yuzasini hosil qiladi",
+        "Yuqoriga ko‘tarilib, harakatsiz turadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Bronza qo‘ng‘izi ustki qanotlarining oldingi qismida nima bor?",
+      "options": [
+        "Ikki chetida bir juftdan kemtik joy",
+        "Ikki chetida bittadan tikan",
+        "Ikki chetida bittadan kemtik joy",
+        "O‘rtasida bitta kemtik joy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Bronza qo‘ng‘izi uchishdan oldin nima qiladi?",
+      "options": [
+        "Kemtiklar orqali ostqanotlarni chiqarib yoyib oladi",
+        "Ustki qanotlarini ko‘tarib, ostqanotlarni yoyadi",
+        "Ustki qanotlarini ikki tomonga yoyib oladi",
+        "Ostqanotlarini ustki qanotlar ustiga chiqarib oladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 40,
+      "question": "Hasharotlarda oyoqlar ko‘krak bo‘g‘imlariga qanday birikkan?",
+      "options": [
+        "Har bir ko‘krak bo‘g‘imiga ustki tomondan bir juftdan",
+        "Faqat ikkinchi va uchinchi bo‘g‘imga qorin tomondan",
+        "Har bir ko‘krak bo‘g‘imiga qorin tomondan bir juftdan",
+        "Birinchi bo‘g‘imga ikki juft, uchinchisiga bir juft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Qo‘ng‘iz oyoqlari qanday tuzilgan?",
+      "options": [
+        "Besh bo‘g‘imli, oxirgi bo‘g‘imi o‘tkir tirnoqli",
+        "Besh bo‘g‘imli, birinchi bo‘g‘imi o‘tkir tirnoqli",
+        "Besh bo‘g‘imli, oxirgi bo‘g‘imi so‘rg‘ichli",
+        "Uch bo‘g‘imli, oxirgi bo‘g‘imi o‘tkir tirnoqli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Yerda o‘rmalab yuradigan hasharotlarning oyoqlari qanday?",
+      "options": [
+        "Oyoqlari eshkakka aylangan",
+        "Oldingi oyoqlari belkurakka o‘xshash",
+        "Orqa oyoqlari yo‘g‘on va uzun",
+        "Hamma oyoqlari bir xilda tuzilgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "Chigirtkalarning orqa oyoqlari qanday?",
+      "options": [
+        "Belkurakka o‘xshab kengaygan",
+        "Eshkakka aylangan",
+        "Ingichka va kalta",
+        "Yo‘g‘on va uzun, sakrashga moslashgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Suv qo‘ng‘izi va suv qandalalarining oyoqlari qanday?",
+      "options": [
+        "Hammasi bir xilda tuzilgan",
+        "Eshkakka aylangan",
+        "Belkurakka o‘xshab kengaygan",
+        "Yo‘g‘on va uzun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Buzoqboshining qaysi oyoqlari belkurakka o‘xshab kengaygan va u qayerda yashaydi?",
+      "options": [
+        "Oldingi oyoqlari; tuproqda",
+        "Orqa oyoqlari; tuproqda",
+        "O‘rta oyoqlari; tuproqda",
+        "Oldingi oyoqlari; suvda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Hasharotlarning oyoqlari tuzilishiga eng katta ta’sir ko‘rsatuvchi omil nima?",
+      "options": [
+        "Yashash muhiti",
+        "Tana rangi",
+        "Mo‘ylovlar shakli",
+        "Qanotlar soni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 47,
+      "question": "Bronza qo‘ng‘izining qorin bo‘limi nechta bo‘g‘imdan iborat?",
+      "options": [
+        "10 ta",
+        "3 ta",
+        "8 ta",
+        "7 ta"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Qo‘ng‘izning qorin bo‘limini yelka tomondan nima yopib turadi?",
+      "options": [
+        "Ostqanotlar",
+        "Xitin plastinka",
+        "Ko‘krak qalqoni",
+        "Ustki qanotlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Ustki qanotlar ostidan qorinning qaysi qismi chiqib turadi?",
+      "options": [
+        "Faqat uchki qismi",
+        "Butun qorin bo‘limi",
+        "Hech qaysi qismi",
+        "Faqat oldingi qismi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Qo‘ng‘iz qorin bo‘g‘imlari qayerdan ko‘zga tashlanadi?",
+      "options": [
+        "Tanasining ustki tomonidan",
+        "Faqat yon tomondan",
+        "Tanasining ostki tomonidan",
+        "Ko‘zga tashlanmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Bronza qo‘ng‘izining qorin bo‘limi ko‘krak bilan qanday qo‘shilgan?",
+      "options": [
+        "Harakatchan",
+        "Harakatsiz",
+        "Ingichka poyacha orqali harakatchan",
+        "Bosh bilan qo‘shilib boshko‘krak hosil qilgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring (og‘iz organlari joylashuvi): 1) yuqori lab; 2) jag‘lar; 3) pastki lab.  a) ostki tomonda; b) ustki tomonda; c) yon tomonda",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (sezgi organlari): 1) mo‘ylovlar; 2) og‘iz paypaslagichlari; 3) murakkab ko‘zlar.  a) mozaik ko‘rish; b) hid bilish; c) tuyg‘u va ta’m bilish",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (oyoqlar): 1) chigirtka; 2) suv qo‘ng‘izi; 3) buzoqboshi; 4) bronza qo‘ng‘izi.  a) oldingi oyoqlari belkurakka o‘xshash; b) hamma oyoqlari bir xil; c) orqa oyoqlari yo‘g‘on va uzun; d) eshkaksimon oyoqlar",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (son): 1) ko‘krak bo‘g‘imlari; 2) qorin bo‘g‘imlari; 3) oyoq bo‘g‘imlari; 4) oyoqlar.  a) 8 ta; b) 3 ta; c) 5 ta; d) 3 juft",
+      "options": [
+        "1-d, 2-a, 3-c, 4-b",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring (qanotlar): 1) ustqanotlar; 2) ostqanotlar.  a) nozik, pardasimon, uchishni ta’minlaydi; b) qattiq va qalin, himoya qiladi",
+      "options": [
+        "1-b, 2-a",
+        "1-a, 2-a",
+        "1-b, 2-b",
+        "1-a, 2-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring (sistema – organ): 1) ayirish; 2) nafas olish; 3) qon aylanish.  a) naysimon ko‘p kamerali yurak; b) malpigi naychalari; c) traxeyalar",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Bronza qo‘ng‘izi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Mo‘ylovlari yelpig‘ichsimon",
+        "Qorin bo‘limi 8 bo‘g‘imli",
+        "Ustki qanotlari uchishda ko‘tarish yuzasini hosil qiladi",
+        "Qorin bo‘limi ko‘krak bilan harakatsiz qo‘shilgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "Hasharotlar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Qanotlari ko‘krakning birinchi va ikkinchi bo‘g‘imida joylashgan",
+        "Har bir ko‘krak bo‘g‘imida bir juftdan oyoq bor",
+        "Ko‘pchiligi rangni yaxshi ajratadi",
+        "Traxeya orqali nafas oladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 60,
+      "question": "Bronza qo‘ng‘izi haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Uchishdan oldin ostqanotlarini ustqanotlardagi kemtiklar orqali chiqaradi",
+        "Og‘iz paypaslagichlari hid bilish organi",
+        "Urg‘ochisining mo‘ylovi erkaginikidan yirik",
+        "Orqa tomondan ko‘krakning uchala bo‘g‘imi ko‘rinadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Qo‘ng‘izning qaysi qismi yumshoq va himoyaga muhtoj?",
+      "options": [
+        "Bosh va mo‘ylovlar",
+        "Ko‘krakning birinchi bo‘g‘imi",
+        "Ustqanotlar",
+        "Qorin bo‘limi va ostqanotlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Hasharotlar va daryo qisqichbaqasi tana bo‘limlarining farqini toping.",
+      "options": [
+        "Hasharotlarda boshko‘krak va qorin; qisqichbaqada bosh, ko‘krak va qorin",
+        "Ikkalasida ham bosh, ko‘krak va qorin",
+        "Hasharotlarda bosh, ko‘krak va qorin; qisqichbaqada boshko‘krak va qorin",
+        "Ikkalasida ham boshko‘krak va qorin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Hasharotlar va daryo qisqichbaqasi mo‘ylovlari sonining farqini toping.",
+      "options": [
+        "Ikkalasida ham 1 juft",
+        "Hasharotlarda 1 juft, qisqichbaqada 2 juft",
+        "Hasharotlarda 2 juft, qisqichbaqada 1 juft",
+        "Ikkalasida ham 2 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Hasharotlar va daryo qisqichbaqasi mo‘ylovlarining umumiy vazifasi nima?",
+      "options": [
+        "Ta’m bilish organi",
+        "Hid bilish organi",
+        "Oziq tutish organi",
+        "Muvozanat organi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Hasharotlar va daryo qisqichbaqasi uchun umumiy belgini toping.",
+      "options": [
+        "Murakkab ko‘zlar va mozaik ko‘rish",
+        "Traxeya orqali nafas olish",
+        "Malpigi naychalari",
+        "Uch juft yurish oyog‘i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 66,
+      "question": "Hasharotlar va daryo qisqichbaqasi ko‘zlarining farqini toping.",
+      "options": [
+        "Qisqichbaqa ko‘zlari harakatchan poyachalarda, qo‘ng‘iz ko‘zlari boshining ikki yonida",
+        "Qisqichbaqada oddiy, qo‘ng‘izda murakkab ko‘zlar",
+        "Qo‘ng‘iz ko‘zlari harakatchan poyachalarda, qisqichbaqa ko‘zlari boshining ikki yonida",
+        "Ikkalasining ko‘zlari ham poyachalarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Moslashtiring (ayirish organi): 1) hasharotlar; 2) daryo qisqichbaqasi; 3) suv shillig‘i.  a) tasmasimon yagona buyrak; b) malpigi naychalari; c) bir juft yashil bez",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 68,
+      "question": "Hasharotlar va daryo qisqichbaqasining nafas olishidagi farqni toping.",
+      "options": [
+        "Ikkalasi ham jabra bilan nafas oladi",
+        "Ikkalasi ham traxeya bilan nafas oladi",
+        "Hasharotlar jabra bilan suvdan, qisqichbaqa traxeya bilan havodan nafas oladi",
+        "Hasharotlar traxeya bilan havodan, qisqichbaqa jabra bilan suvdan nafas oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "Bronza qo‘ng‘izi va daryo qisqichbaqasi qorin bo‘limining farqini toping.",
+      "options": [
+        "Ikkalasida ham 8 bo‘g‘imli",
+        "Qo‘ng‘izda 7 bo‘g‘imli, qorinoyoqli; qisqichbaqada 8 bo‘g‘imli, oyoqsiz",
+        "Ikkalasida ham 7 bo‘g‘imli, qorinoyoqli",
+        "Qo‘ng‘izda 8 bo‘g‘imli, oyoqsiz; qisqichbaqada 7 bo‘g‘imli, qorinoyoqli"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "Bronza qo‘ng‘izi va daryo qisqichbaqasi tana rangidagi umumiy jihat nima?",
+      "options": [
+        "Ikkalasi ham yaltiroq-yashil",
+        "Ikkalasida ham ustki va ostki tomonlarining rangi har xil",
+        "Ikkalasining ostki tomoni ham qizg‘ish",
+        "Ikkalasining ustki tomoni ham ko‘kimtir-qo‘ng‘ir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Qisqichbaqada xavf tug‘ilganda dum suzgich ishlatilsa, suv qo‘ng‘izi suzish uchun nimadan foydalanadi?",
+      "options": [
+        "Dum suzgichidan",
+        "Mo‘ylovlaridan",
+        "Ostqanotlaridan",
+        "Eshkakka aylangan oyoqlaridan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Hasharotlar, daryo qisqichbaqasi va o‘rgimchaklar uchun umumiy belgini toping.",
+      "options": [
+        "Hammasining murakkab ko‘zlari bor",
+        "Hammasining qanotlari bor",
+        "Tanasi xitin bilan qoplangan, oyoqlari bo‘g‘imli",
+        "Hammasi traxeya bilan nafas oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Jinslar farqini moslashtiring: 1) bronza qo‘ng‘izi; 2) daryo qisqichbaqasi; 3) butli o‘rgimchak.  a) urg‘ochisi yirikroq; b) erkagining mo‘ylovi yirikroq; c) urg‘ochisining qorni kengroq",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Hasharotlar va butli o‘rgimchak oyoqlari sonining farqini toping.",
+      "options": [
+        "Hasharotlarda 4 juft, o‘rgimchakda 3 juft",
+        "Ikkalasida ham 3 juft",
+        "Ikkalasida ham 4 juft",
+        "Hasharotlarda 3 juft, o‘rgimchakda 4 juft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 75,
+      "question": "Hasharotlar va butli o‘rgimchak ko‘zlarining farqini toping.",
+      "options": [
+        "Hasharotlarda to‘rt juft oddiy ko‘zcha, o‘rgimchakda bir juft murakkab ko‘z",
+        "Ikkalasida ham to‘rt juft oddiy ko‘zcha",
+        "Ikkalasida ham bir juft murakkab ko‘z",
+        "Hasharotlarda bir juft murakkab ko‘z, o‘rgimchakda to‘rt juft oddiy ko‘zcha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 76,
+      "question": "Hasharotlar va butli o‘rgimchak nafas olishining farqini toping.",
+      "options": [
+        "Hasharotlar o‘pka xaltalari va traxeya bilan, o‘rgimchak faqat traxeya bilan nafas oladi",
+        "Ikkalasi ham o‘pka xaltalari bilan nafas oladi",
+        "Ikkalasi ham faqat traxeya bilan nafas oladi",
+        "Hasharotlar faqat traxeya bilan, o‘rgimchak o‘pka xaltalari va traxeya bilan nafas oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Hasharotlar va butli o‘rgimchak uchun umumiy nafas olish organini toping.",
+      "options": [
+        "O‘pka xaltalari",
+        "Jabralar",
+        "Traxeyalar",
+        "Malpigi naychalari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Hasharotlar bilan tana tuzilishi (bosh, ko‘krak, qorin) bo‘yicha o‘xshash o‘rgimchaksimonni toping.",
+      "options": [
+        "Falanga",
+        "Chayon",
+        "Kana",
+        "Butli o‘rgimchak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 79,
+      "question": "Butli o‘rgimchak va bronza qo‘ng‘izi qorin bo‘limining farqini toping.",
+      "options": [
+        "Qo‘ng‘izda qorin bo‘g‘imlari qo‘shilib ketgan, o‘rgimchakda 8 bo‘g‘im ko‘rinadi",
+        "Ikkalasida ham qorin bo‘g‘imlari qo‘shilib ketgan",
+        "Ikkalasida ham qorin 8 bo‘g‘imli",
+        "O‘rgimchakda qorin bo‘g‘imlari qo‘shilib ketgan, qo‘ng‘izda 8 bo‘g‘im ostki tomondan ko‘rinadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "Qo‘ng‘iz og‘iz paypaslagichlari va o‘rgimchak oyoq paypaslagichlarining umumiy vazifasi nima?",
+      "options": [
+        "Ko‘rish organi",
+        "Zahar yuborish organi",
+        "Hid bilish organi",
+        "Tuyg‘u organi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 81,
+      "question": "Hasharotlarda pastki jag‘lar alohida juft og‘iz organi bo‘lsa, butli o‘rgimchakda pastki jag‘ vazifasini nima bajaradi?",
+      "options": [
+        "Oyoq paypaslagichlarining asosiy bo‘g‘imlari",
+        "Birinchi juft yurish oyoqlari",
+        "Ustki jag‘larning tirnoqlari",
+        "Xartumcha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Moslashtiring (ko‘zlar): 1) bronza qo‘ng‘izi; 2) butli o‘rgimchak; 3) chayon; 4) falanga.  a) bir juft (oddiy); b) bir juft yirik va besh juft mayda; c) to‘rt juft oddiy ko‘zcha; d) bir juft murakkab, minglab ko‘zchali",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-a, 2-c, 3-b, 4-d",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "Moslashtiring (oyoqlar soni): 1) hasharotlar; 2) o‘rgimchaklar; 3) daryo qisqichbaqasi (yurish oyoqlari).  a) 4 juft; b) 3 juft",
+      "options": [
+        "1-b, 2-a, 3-a",
+        "1-b, 2-b, 3-a",
+        "1-b, 2-a, 3-b",
+        "1-a, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "Moslashtiring (tana bo‘limlari): 1) bronza qo‘ng‘izi; 2) butli o‘rgimchak; 3) kana; 4) baqachanoq.  a) tana va oyoq; b) bo‘limlari qo‘shilib ketgan; c) boshko‘krak va qorin; d) bosh, ko‘krak va qorin",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Moslashtiring (nafas olish): 1) bronza qo‘ng‘izi; 2) butli o‘rgimchak; 3) daryo qisqichbaqasi; 4) suv shillig‘i.  a) xaltasimon o‘pka; b) jabralar; c) o‘pka xaltalari va traxeyalar; d) faqat traxeyalar",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 86,
+      "question": "Qaysi bo‘g‘imoyoqlilarda qanot bor?",
+      "options": [
+        "Hasharotlar va o‘rgimchaksimonlarda",
+        "Faqat hasharotlarda",
+        "Hasharotlar va qisqichbaqasimonlarda",
+        "Barcha bo‘g‘imoyoqlilarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "Moslashtiring (o‘lchami): 1) bronza qo‘ng‘izi; 2) biy; 3) sariq falanga.  a) 6–7 sm; b) 3–4 sm; c) 1–2 sm",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "Hasharotlar va mollyuskalar tanasini qoplovchi tuzilmaning farqini toping.",
+      "options": [
+        "Ikkalasida ham mantiya",
+        "Ikkalasida ham xitin qobiq",
+        "Hasharotlarda xitin qobiq, mollyuskalarda mantiya va chig‘anoq",
+        "Hasharotlarda mantiya, mollyuskalarda xitin qobiq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 89,
+      "question": "Hasharotlar va mollyuskalar oyoqlarining farqini toping.",
+      "options": [
+        "Hasharotlarda bitta muskulli oyoq, mollyuskalarda 3 juft bo‘g‘imli oyoq",
+        "Ikkalasida ham 3 juft bo‘g‘imli oyoq",
+        "Ikkalasida ham bitta muskulli oyoq",
+        "Hasharotlarda 3 juft bo‘g‘imli oyoq, mollyuskalarda bitta muskulli oyoq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 90,
+      "question": "Moslashtiring (yurak): 1) hasharotlar; 2) suv shillig‘i; 3) daryo qisqichbaqasi.  a) devorida uch juft teshikchali oqish yurak; b) yurak oldi bo‘lmasi va qorinchadan iborat; c) naysimon, ko‘p kamerali",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 91,
+      "question": "Moslashtiring (paypaslagichlar): 1) bronza qo‘ng‘izi; 2) suv shillig‘i; 3) baqachanoq; 4) boshoyoqlilar.  a) so‘rg‘ichli, oyoqdan hosil bo‘lgan; b) og‘iz oldida ikki juft, oziqni tutadi; c) bir juft, sezgi organi, asosida ko‘zi bor; d) pastki lab va jag‘larda, tuyg‘u va ta’m bilish",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 92,
+      "question": "Bronza qo‘ng‘izi va suv shillig‘i ko‘zlarining farqini toping.",
+      "options": [
+        "Ikkalasida ham paypaslagich asosida ko‘zlar",
+        "Qo‘ng‘izda paypaslagich asosida, shilliqda boshining ikki yonida murakkab ko‘zlar",
+        "Qo‘ng‘izda boshining ikki yonida murakkab ko‘zlar, shilliqda paypaslagich asosida oddiy ko‘zlar",
+        "Ikkalasida ham murakkab ko‘zlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 93,
+      "question": "Bronza qo‘ng‘izi va baqachanoqni taqqoslang: qaysi fikr to‘g‘ri?",
+      "options": [
+        "Qo‘ng‘izda murakkab ko‘zlar bor, baqachanoqda maxsus sezgi organlari yo‘q",
+        "Ikkalasida ham maxsus sezgi organlari yo‘q",
+        "Baqachanoqda murakkab ko‘zlar bor, qo‘ng‘izda yo‘q",
+        "Ikkalasida ham murakkab ko‘zlar bor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 94,
+      "question": "Bronza qo‘ng‘izining ustqanotlari va mollyuskalar chig‘anog‘ining umumiy vazifasi nima?",
+      "options": [
+        "Uchishni ta’minlash",
+        "Nafas olishda ishtirok etish",
+        "Yumshoq tanani himoya qilish",
+        "Oziqni tutish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 95,
+      "question": "Qaysi qatorda faqat atmosfera havosidan nafas oladigan hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i, daryo qisqichbaqasi, baqachanoq",
+        "Bronza qo‘ng‘izi, butli o‘rgimchak, suv shillig‘i",
+        "Butli o‘rgimchak, baqachanoq, bronza qo‘ng‘izi",
+        "Bronza qo‘ng‘izi, daryo qisqichbaqasi, suv shillig‘i"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 96,
+      "question": "Qaysi qatorda faqat jabra bilan nafas oladigan hayvonlar berilgan?",
+      "options": [
+        "Bronza qo‘ng‘izi, suv shillig‘i",
+        "Daryo qisqichbaqasi, bronza qo‘ng‘izi",
+        "Baqachanoq, suv shillig‘i",
+        "Daryo qisqichbaqasi, baqachanoq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 97,
+      "question": "Qaysi qatorda mozaik ko‘rishga ega hayvonlar berilgan?",
+      "options": [
+        "Bronza qo‘ng‘izi, daryo qisqichbaqasi",
+        "Bronza qo‘ng‘izi, butli o‘rgimchak",
+        "Daryo qisqichbaqasi, suv shillig‘i",
+        "Butli o‘rgimchak, chayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 98,
+      "question": "Qaysi qatorda hid bilish organi mo‘ylov bo‘lgan hayvonlar berilgan?",
+      "options": [
+        "Daryo qisqichbaqasi, suv shillig‘i",
+        "Bronza qo‘ng‘izi, butli o‘rgimchak",
+        "Bronza qo‘ng‘izi, daryo qisqichbaqasi",
+        "Suv shillig‘i, bronza qo‘ng‘izi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 99,
+      "question": "Hasharotlarni boshqa barcha o‘rganilgan hayvonlardan (mollyuskalar, qisqichbaqasimonlar, o‘rgimchaksimonlar) ajratib turadigan belgilarni toping.",
+      "options": [
+        "Bo‘g‘imli oyoqlari, mo‘ylovlari va murakkab ko‘zlari",
+        "Qanotlari, 3 juft oyog‘i va malpigi naychalari",
+        "Xitin qobig‘i, murakkab ko‘zlari va traxeyalari",
+        "Ochiq qon aylanishi, traxeyalari va xitin qobig‘i"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
