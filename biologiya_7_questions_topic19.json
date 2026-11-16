@@ -2,5 +2,1007 @@
   "topicId": 19,
   "title": "Butli o‘rgimchakning tuzilishi va hayot kechirishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Butli o‘rgimchak qayerda hayot kechiradi?",
+      "options": [
+        "Daraxt po‘stlog‘i ostida",
+        "O‘tlar va butalar orasiga qurgan to‘ri ustida",
+        "Tuproqqa qurgan inida",
+        "Toshlar ostidagi inlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Butli o‘rgimchak to‘rini ko‘proq qayerda uchratish mumkin?",
+      "options": [
+        "Qalin o‘t-o‘lanlar bilan qoplangan daryo va soylar bo‘yida",
+        "Cho‘l mintaqalaridagi siyrak butalar orasida",
+        "Tog‘larning qoyali yon bag‘irlarida",
+        "Daryo va soylarning suv ustida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Butli o‘rgimchakning tanasi qanday bo‘limlarga bo‘linadi?",
+      "options": [
+        "Kichik boshko‘krak va dumaloq silliq qorin",
+        "Katta boshko‘krak va dumaloq silliq qorin",
+        "Bosh, ko‘krak va qorin",
+        "Kichik boshko‘krak va bo‘g‘imli cho‘ziq qorin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Butli o‘rgimchakning ko‘zlari qanday va qayerda joylashgan?",
+      "options": [
+        "Bir juft murakkab ko‘z, harakatchan poyachalar ustida",
+        "To‘rt juft oddiy ko‘zcha, boshko‘krakning ustki tomonida",
+        "Uch juft oddiy ko‘zcha, boshko‘krakning ustki tomonida",
+        "To‘rt juft murakkab ko‘z, boshko‘krakning oldingi uchida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Butli o‘rgimchakda jami nechta ko‘z bor?",
+      "options": [
+        "8 ta",
+        "6 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Butli o‘rgimchakning og‘iz organlari qanday?",
+      "options": [
+        "Bo‘g‘imlarga bo‘lingan ikki juft, boshko‘krakning oldingi uchida",
+        "Bo‘g‘imlarga bo‘lingan uch juft, boshko‘krakning oldingi uchida",
+        "Bo‘g‘imsiz ikki juft, boshko‘krakning ostki tomonida",
+        "Bo‘g‘imlarga bo‘lingan ikki juft, boshko‘krakning ustki tomonida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "O‘rgimchak og‘iz organlarining birinchi jufti nima deb ataladi?",
+      "options": [
+        "Pastki jag‘lar",
+        "Ustki jag‘lar",
+        "Oyoq paypaslagichlar",
+        "Jag‘oyoqlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Ustki jag‘larning birinchi bo‘g‘imi qanday tuzilgan va qanday vazifani bajaradi?",
+      "options": [
+        "Harakatchan tirnoqsimon o‘simta, oziqni maydalaydi",
+        "Harakatchan tirnoqsimon o‘simta, o‘lja tanasini teshadi",
+        "Harakatsiz tirnoqsimon o‘simta, o‘lja tanasini teshadi",
+        "Mayda tukchali o‘simta, tuyg‘u organi vazifasini bajaradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "O‘rgimchakning zahar bezlari qayerda joylashgan?",
+      "options": [
+        "Tirnoqlar uchida",
+        "Jag‘larning asosida",
+        "Qorin bo‘limining keyingi uchida",
+        "Oyoq paypaslagichlar asosida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "O‘rgimchak zahari o‘lja tanasiga qanday tushadi?",
+      "options": [
+        "Jag‘lar sanchilganda tirnoq sirtidagi tarnov orqali",
+        "Oyoq paypaslagichlari ichidagi naycha orqali",
+        "O‘rgimchak so‘gallaridan ip bilan birga",
+        "Jag‘lar sanchilganda tirnoqlar ichidagi naycha orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "O‘rgimchak og‘iz organlarining ikkinchi jufti nima deb ataladi?",
+      "options": [
+        "Ustki jag‘lar",
+        "Yurish oyoqlari",
+        "Oyoq paypaslagichlar",
+        "Mo‘ylovlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 12,
+      "question": "O‘rgimchakning oyoq paypaslagichlari nima bilan qoplangan va qanday organ hisoblanadi?",
+      "options": [
+        "Mayda sezgir tukchalar bilan qoplangan, hid bilish organi",
+        "Mayda sezgir tukchalar bilan qoplangan, ko‘rish organi",
+        "Qattiq tirnoqchalar bilan qoplangan, tuyg‘u organi",
+        "Mayda sezgir tukchalar bilan qoplangan, tuyg‘u organi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Oyoq paypaslagichlarning asosiy bo‘g‘imlari qanday vazifani bajaradi?",
+      "options": [
+        "Yurish oyoqlari vazifasini",
+        "Ustki jag‘lar vazifasini",
+        "Pastki jag‘lar vazifasini",
+        "Zahar bezlari vazifasini"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "Butli o‘rgimchakning oyoq paypaslagichlari yurish oyoqlariga nisbatan qanday?",
+      "options": [
+        "Birmuncha kalta",
+        "Bir xil uzunlikda",
+        "Ikki marta uzun",
+        "Birmuncha uzun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Butli o‘rgimchakning boshko‘kragida nechta yurish oyog‘i bor va ular qanday?",
+      "options": [
+        "4 juft, kalta va yo‘g‘on",
+        "5 juft, uzun va ingichka",
+        "4 juft, uzun va ingichka",
+        "3 juft, uzun va ingichka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "Butli o‘rgimchakning boshko‘kragida jami nechta juft bo‘g‘imli o‘simta (og‘iz organlari va oyoqlar) bor?",
+      "options": [
+        "8 juft",
+        "6 juft",
+        "5 juft",
+        "4 juft"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Butli o‘rgimchak qorin bo‘limining tuzilishi qanday?",
+      "options": [
+        "Har bir bo‘g‘imida bir juftdan oyoq bor",
+        "Yetti bo‘g‘imdan iborat",
+        "Hamma bo‘g‘imlari qo‘shilib ketgan",
+        "Oldingi bo‘g‘imlari qo‘shilgan, keyingilari harakatchan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Nima uchun bu o‘rgimchak «butli» deb ataladi?",
+      "options": [
+        "Boshko‘kragining ustida butsimon qora dog‘i bo‘lgani uchun",
+        "Butalar orasida yashagani uchun",
+        "Qornining qorin tomonida butsimon oqish dog‘i bo‘lgani uchun",
+        "Qornining orqa tomonida butsimon oqish dog‘i bo‘lgani uchun"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "O‘rgimchak so‘gallari qayerda joylashgan va nechta?",
+      "options": [
+        "Qorin bo‘limining keyingi uchida, uch juft",
+        "Qorin bo‘limining keyingi uchida, ikki juft",
+        "Qorin bo‘limining oldingi qismida, uch juft",
+        "Boshko‘krakning keyingi qismida, uch juft"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "O‘rgimchak so‘gallariga nima ochiladi?",
+      "options": [
+        "Zahar bezlarining yo‘llari",
+        "O‘rgimchak bezlarining yo‘llari",
+        "Ayirish organlari naychalari",
+        "Traxeyalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "O‘rgimchak bezlaridan chiqqan suyuqlik qanday xususiyatga ega?",
+      "options": [
+        "Havoda suyuq holda qoladi va yopishqoq bo‘ladi",
+        "Zaharli bo‘lib, o‘ljani o‘ldiradi",
+        "Havoda qotib, ipga aylanadi",
+        "Suvda qotib, ipga aylanadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "O‘rgimchak bir necha bezdan chiqayotgan iplarni qanday qilib yaxlit ipga aylantiradi?",
+      "options": [
+        "Orqa oyoqlaridagi taroqsimon tirnoqlari bilan yopishtirib",
+        "Ustki jag‘lari bilan tishlab birlashtirib",
+        "Oldingi oyoqlaridagi taroqsimon tirnoqlari bilan yopishtirib",
+        "Oyoq paypaslagichlari bilan eshib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Tutqich to‘rni kim to‘qiydi?",
+      "options": [
+        "Yosh o‘rgimchaklar",
+        "Erkagi",
+        "Urg‘ochisi",
+        "Erkagi ham, urg‘ochisi ham"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Butli o‘rgimchak tutqich to‘rining shakli va joylashuvi qanday?",
+      "options": [
+        "G‘ildirak shaklida, o‘tlar ustiga gorizontal yoyilgan",
+        "G‘ildirak shaklida, butalar va baland o‘tlar orasiga tik tortilgan",
+        "Voronka shaklida, butalar va baland o‘tlar orasiga tik tortilgan",
+        "Tartibsiz shaklda, toshlar orasiga tortilgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "O‘rgimchak tutqich to‘r yonida ko‘pincha nima to‘qiydi?",
+      "options": [
+        "To‘rdan in",
+        "Pilla",
+        "Ikkinchi tutqich to‘r",
+        "Signal ipi tarmog‘i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "O‘rgimchak o‘ljasini qayerda poylab yotadi?",
+      "options": [
+        "Tutqich to‘rning markazida",
+        "Butaning shoxida",
+        "Signal ipining uchida, to‘r chetida",
+        "To‘r yoniga to‘qilgan inida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Signal ipi qayerdan qayerga tortilgan bo‘ladi?",
+      "options": [
+        "O‘rgimchak inidan butaning shoxiga",
+        "Tutqich to‘rning markazidan o‘rgimchak tomonga",
+        "Tutqich to‘rning markazidan yerga",
+        "Tutqich to‘rning chetidan o‘rgimchak tomonga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "O‘rgimchak to‘rga o‘lja tushganini qanday biladi?",
+      "options": [
+        "Tipirchilayotgan o‘lja signal ipini tebratganda",
+        "O‘ljaning hidini sezganda",
+        "O‘ljani ko‘zlari bilan ko‘rganda",
+        "To‘r uzilganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Butli o‘rgimchak to‘riga qanday hayvonlar tushadi?",
+      "options": [
+        "Pashsha, kapalak va boshqa mayda hasharotlar",
+        "Mayda hasharotlar va kaltakesaklar",
+        "Pashsha, kapalak va mayda qushlar",
+        "Faqat pashshalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "O‘rgimchak ovining to‘g‘ri ketma-ketligini toping.",
+      "options": [
+        "Signal ipi tebranadi → o‘ljaga tashlanadi → zaharlab o‘ldiradi → darhol so‘rib oladi → iniga kirib ketadi",
+        "Signal ipi tebranadi → o‘ljaga tashlanadi → ip bilan o‘raydi → zaharlab o‘ldiradi → iniga kirib ketadi",
+        "Signal ipi tebranadi → zaharlab o‘ldiradi → ip bilan o‘raydi → o‘ljaga tashlanadi → iniga kirib ketadi",
+        "O‘ljaga tashlanadi → signal ipi tebranadi → ip bilan o‘raydi → zaharlab o‘ldiradi → iniga kirib ketadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "O‘rgimchak o‘ljani nima yordamida zaharlab o‘ldiradi?",
+      "options": [
+        "Ustki jag‘larining o‘tkir tirnoqlari yordamida",
+        "O‘rgimchak so‘gallari yordamida",
+        "Oyoq paypaslagichlari yordamida",
+        "Orqa oyoqlaridagi taroqsimon tirnoqlari yordamida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "O‘ljani zaharlab o‘ldirgandan keyin o‘rgimchak nima qiladi?",
+      "options": [
+        "Uni to‘rdan tashlab yuboradi",
+        "Uni iniga olib kirib ketadi",
+        "Uni birmuncha vaqt qoldirib, iniga kirib ketadi",
+        "Uni darhol so‘rib oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "O‘rgimchak zaharining tarkibida nima bo‘ladi?",
+      "options": [
+        "Yopishqoq ip moddasi",
+        "Jigar shirasi",
+        "So‘lak",
+        "Hazm suyuqligi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 34,
+      "question": "Hazm suyuqligi ta’sirida o‘ljada nima sodir bo‘ladi?",
+      "options": [
+        "Xitin po‘sti parchalanib suyuq holga keladi",
+        "Butun tanasi, xitin po‘sti bilan birga, eriydi",
+        "Ichki to‘qimalari parchalanib suyuq holga keladi",
+        "Ichki to‘qimalari qotib qoladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "O‘rgimchak oziqni qanday iste’mol qiladi?",
+      "options": [
+        "O‘ljani pastki jag‘lari bilan kemiradi",
+        "O‘ljani butunligicha yutadi",
+        "Suyuq holga kelgan o‘lja tanasini so‘rib oladi",
+        "O‘ljani jag‘lari bilan maydalab yutadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "O‘ljadan nima qoladi?",
+      "options": [
+        "Faqat oyoqlari va qanotlari",
+        "Xitin po‘sti va ichki organlari",
+        "Faqat xitin po‘sti",
+        "Hech narsa qolmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Butli o‘rgimchak zahari odamga qanday ta’sir qiladi?",
+      "options": [
+        "Odamda kuchli shish paydo qiladi",
+        "Odam va umurtqali hayvonlarga ta’sir qilmaydi",
+        "Faqat umurtqali hayvonlarga ta’sir qiladi",
+        "Odam uchun o‘ta xavfli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "O‘rgimchakda hazm qilish qanday boshlanadi?",
+      "options": [
+        "Katta oshqozonda",
+        "Ichak va jigar naylarida",
+        "Og‘iz bo‘shlig‘ida so‘lak ta’sirida",
+        "O‘lja tanasida, ya’ni tanadan tashqarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Butli o‘rgimchakning o‘pka xaltalari qayerda joylashgan va nechta?",
+      "options": [
+        "Qornining keyingi tomonida, bir juft",
+        "Qornining oldingi tomonida, ikki juft",
+        "Qornining oldingi tomonida, bir juft",
+        "Boshko‘krakda, bir juft"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "O‘rgimchak o‘pkasining ichki tuzilishi qanday?",
+      "options": [
+        "Ko‘plab varaqsimon o‘simtalar bo‘ladi, ular orqali suv aylanadi",
+        "Ko‘plab varaqsimon o‘simtalar bo‘ladi, ular orqali qon aylanadi",
+        "Ko‘plab naysimon o‘simtalar bo‘ladi, ular orqali havo aylanadi",
+        "Xaltasimon bo‘lib, devori mayda qon tomirlari bilan qoplangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "O‘rgimchakning nafas olishida o‘pkadan tashqari yana qaysi organ ishtirok etadi?",
+      "options": [
+        "Teri",
+        "Bir tutam traxeyalar",
+        "Ikki tutam traxeyalar",
+        "Bir juft jabralar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Traxeyalar nima?",
+      "options": [
+        "Varaqsimon nafas olish organlari",
+        "Xaltasimon nafas olish organlari",
+        "Ingichka naysimon ayirish organlari",
+        "Ingichka naysimon nafas olish organlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "O‘rgimchak traxeyalari atmosfera havosi bilan qanday bog‘langan?",
+      "options": [
+        "Boshko‘krakdagi bir juft teshik orqali",
+        "Qorin bo‘limining keyingi qismidagi umumiy teshik orqali",
+        "Har bir traxeyaning alohida teshigi orqali",
+        "Qorin bo‘limining oldingi qismidagi umumiy teshik orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "O‘rgimchakning qaysi sistemalari daryo qisqichbaqasinikiga o‘xshash?",
+      "options": [
+        "Qon aylanish, ayirish va nerv sistemalari",
+        "Nafas olish, ayirish va jinsiy sistemalari",
+        "Hazm qilish, ayirish va nerv sistemalari",
+        "Qon aylanish, nafas olish va nerv sistemalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Butli o‘rgimchakning erkagi va urg‘ochisi qanday farq qiladi?",
+      "options": [
+        "Farq qilib bo‘lmaydi",
+        "Erkagi urg‘ochisiga nisbatan yirikroq",
+        "Urg‘ochisi erkagiga nisbatan yirikroq",
+        "Urg‘ochisining qorin bo‘limi torroq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 46,
+      "question": "Butli o‘rgimchak urg‘ochisi qachon urug‘lanadi?",
+      "options": [
+        "Qishda",
+        "Yozda",
+        "Kuzda",
+        "Erta bahorda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Urug‘langan urg‘ochi o‘rgimchak tuxumini qayerga qo‘yadi?",
+      "options": [
+        "Tutqich to‘rning markaziga",
+        "Pana joyda ipdan to‘qilgan pillaga",
+        "Qorin bo‘limiga yopishtirib olib yuradi",
+        "Ipdan to‘qilgan inning ichiga, to‘r yonida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Urg‘ochi o‘rgimchak tuxum qo‘yish uchun qanday joylarga bekinadi?",
+      "options": [
+        "Baland o‘tlar uchiga",
+        "Tuproqdagi chuqur inlarga",
+        "Suv bo‘yidagi loy ichiga",
+        "Toshlar va daraxtlar po‘stlog‘i ostiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Qishda o‘rgimchaklar bilan nima sodir bo‘ladi?",
+      "options": [
+        "O‘rgimchaklar ham, tuxumlari ham pilla ichida qishlaydi",
+        "O‘rgimchaklar pilla ichida qishlaydi, tuxumlari nobud bo‘ladi",
+        "O‘rgimchaklar nobud bo‘ladi, tuxumlari pilla ichida qishlaydi",
+        "O‘rgimchaklar inida uyquga ketadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Tuxumdan yosh o‘rgimchaklar qachon chiqadi?",
+      "options": [
+        "Bahorda",
+        "Kuzda",
+        "Qishda",
+        "Yoz oxirida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Butli o‘rgimchakning yillik hayot sikli to‘g‘ri berilgan qatorni toping.",
+      "options": [
+        "Bahorda urug‘lanish → pillaga tuxum qo‘yish → qishda kattalar nobud bo‘ladi → kuzda yosh o‘rgimchaklar chiqadi",
+        "Kuzda urug‘lanish → pillaga tuxum qo‘yish → qishda kattalar nobud bo‘ladi → bahorda yosh o‘rgimchaklar chiqadi",
+        "Kuzda urug‘lanish → pillaga tuxum qo‘yish → qishda tuxumlar nobud bo‘ladi → bahorda kattalar ko‘payadi",
+        "Kuzda urug‘lanish → qishda kattalar nobud bo‘ladi → bahorda tuxum qo‘yish → yozda yosh o‘rgimchaklar chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring: 1) ustki jag‘lar; 2) oyoq paypaslagichlar; 3) paypaslagichlarning asosiy bo‘g‘imlari; 4) yurish oyoqlari.  a) pastki jag‘ vazifasi; b) o‘ljani teshadi; c) 4 juft, uzun va ingichka; d) tuyg‘u organi",
+      "options": [
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-a, 2-d, 3-b, 4-c",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (joylashish): 1) ko‘zlar; 2) zahar bezlari; 3) o‘rgimchak so‘gallari; 4) o‘pka xaltalari.  a) qornining oldingi tomonida; b) qorinning keyingi uchida; c) jag‘lar asosida; d) boshko‘krakning ustki tomonida",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (son): 1) ko‘zchalar; 2) og‘iz organlari; 3) yurish oyoqlari; 4) o‘rgimchak so‘gallari.  a) 2 juft; b) 4 juft; c) 3 juft",
+      "options": [
+        "1-b, 2-a, 3-b, 4-c",
+        "1-a, 2-b, 3-b, 4-c",
+        "1-b, 2-a, 3-c, 4-b",
+        "1-b, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (nafas olish): 1) o‘pka xaltalari; 2) traxeyalar.  a) ikki tutam, umumiy teshik orqali havo bilan bog‘langan; b) bir juft, varaqsimon o‘simtali",
+      "options": [
+        "1-b, 2-a",
+        "1-a, 2-b",
+        "1-b, 2-b",
+        "1-a, 2-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring (fasl): 1) urug‘lanish va tuxum qo‘yish; 2) tuxumlarning pillada qishlashi; 3) yosh o‘rgimchaklar chiqishi.  a) bahor; b) qish; c) kuz",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring (ip bilan bog‘liq): 1) signal ipi; 2) tutqich to‘r; 3) pilla; 4) in.  a) tuxumlar qishlaydi; b) o‘lja tushganini bildiradi; c) o‘lja tutiladi; d) o‘lja poylanadi",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Butli o‘rgimchak haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Zahari odamga ta’sir qilmaydi",
+        "Urg‘ochisi erkagidan yirikroq",
+        "Boshko‘kragida to‘rt juft oddiy ko‘zcha bor",
+        "Qorin bo‘limi yetti bo‘g‘imdan iborat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Butli o‘rgimchak haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Traxeyalar qorin bo‘limining oldingi qismida ochiladi",
+        "Paypaslagichlarining asosiy bo‘g‘imlari pastki jag‘ vazifasini bajaradi",
+        "Oyoq paypaslagichlari yurish oyoqlaridan uzunroq",
+        "Tutqich to‘rni erkagi to‘qiydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "O‘rgimchakning oziqlanishi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "O‘ljaning ichki to‘qimalari suyuq holga keladi",
+        "Zaharida hazm suyuqligi bor",
+        "O‘ljani jag‘lari bilan maydalab yutadi",
+        "O‘ljadan faqat xitin po‘sti qoladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "O‘rgimchakning nafas olishi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "O‘pka xaltalari qornining keyingi tomonida joylashgan",
+        "Traxeyalar umumiy teshik orqali havo bilan bog‘langan",
+        "O‘pkada ko‘plab varaqsimon o‘simtalar bor",
+        "Nafas olishda traxeyalar ham ishtirok etadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Orqa oyoqlaridagi taroqsimon tirnoqlar qanday vazifani bajaradi?",
+      "options": [
+        "Pillani teshib, yosh o‘rgimchaklarni chiqaradi",
+        "To‘rni yerga mahkamlaydi",
+        "Bir necha bezdan chiqqan iplarni yopishtirib yaxlit ip hosil qiladi",
+        "O‘ljani ushlab, zaharlaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi uchun umumiy belgini toping.",
+      "options": [
+        "Tanasi boshko‘krak va qoringa bo‘linadi, ko‘zlari murakkab",
+        "Tanasi boshko‘krak va qoringa bo‘linadi, qorni yetti bo‘g‘imli",
+        "4 juft yurish oyog‘i va ikki juft mo‘ylovi bor",
+        "Tanasi boshko‘krak va qoringa bo‘linadi, 4 juft yurish oyog‘i bor"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 64,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi qorin bo‘limining farqini toping.",
+      "options": [
+        "Ikkalasida ham qorin bo‘g‘imlari qo‘shilib ketgan",
+        "O‘rgimchakda qorin yetti bo‘g‘imli, qisqichbaqada bo‘g‘imlar qo‘shilib ketgan",
+        "Qisqichbaqada qorin yetti bo‘g‘imli va qorinoyoqli, o‘rgimchakda bo‘g‘imlar qo‘shilib ketgan",
+        "Ikkalasida ham qorin yetti bo‘g‘imli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi ko‘zlarining farqini toping.",
+      "options": [
+        "Ikkalasida ham bir juft murakkab ko‘z",
+        "O‘rgimchakda 4 juft oddiy ko‘zcha, qisqichbaqada bir juft murakkab ko‘z",
+        "O‘rgimchakda bir juft murakkab ko‘z, qisqichbaqada 4 juft oddiy ko‘zcha",
+        "Ikkalasida ham 4 juft oddiy ko‘zcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 66,
+      "question": "Mozaik ko‘rishga ega bo‘lgan hayvonni toping.",
+      "options": [
+        "Baqachanoq",
+        "Suv shillig‘i",
+        "Butli o‘rgimchak",
+        "Daryo qisqichbaqasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 67,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi nafas olishining farqini toping.",
+      "options": [
+        "O‘rgimchak o‘pka xaltalari va traxeyalar bilan havodan, qisqichbaqa jabra bilan suvdan nafas oladi",
+        "Ikkalasi ham o‘pka va traxeyalar bilan nafas oladi",
+        "Ikkalasi ham jabra bilan nafas oladi",
+        "O‘rgimchak jabra bilan suvdan, qisqichbaqa o‘pka xaltalari va traxeyalar bilan havodan nafas oladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 68,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi uchun umumiy bo‘lgan ichki tuzilish belgisini toping.",
+      "options": [
+        "Traxeyalar",
+        "Ikki bo‘lmali oshqozon",
+        "Jabralar",
+        "Ochiq qon aylanish sistemasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 69,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi oziqlanishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa oziqni oshqozonda maydalab hazm qiladi, o‘rgimchak o‘ljani tashqarida suyultirib so‘radi",
+        "O‘rgimchak oziqni oshqozonda maydalab hazm qiladi, qisqichbaqa o‘ljani tashqarida suyultirib so‘radi",
+        "Ikkalasi ham o‘ljani tashqarida suyultirib so‘radi",
+        "Ikkalasi ham oziqni katta oshqozonda maydalaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi oziqni tutishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa ham, o‘rgimchak ham zaharli jag‘lari bilan tutadi",
+        "Ikkalasi ham jag‘oyoqlari bilan tutadi",
+        "O‘rgimchak qisqichlari bilan tutadi, qisqichbaqa tutqich to‘r bilan tutadi",
+        "Qisqichbaqa qisqichlari bilan tutadi, o‘rgimchak tutqich to‘r bilan tutib, jag‘ tirnoqlari bilan zaharlaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 71,
+      "question": "Qisqichbaqada og‘iz teshigini 3 juft jag‘ o‘rab tursa, o‘rgimchakda nechta juft og‘iz organi bor?",
+      "options": [
+        "4 juft",
+        "1 juft",
+        "3 juft",
+        "2 juft"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 72,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasining tuyg‘u organlaridagi farqni toping.",
+      "options": [
+        "Qisqichbaqada mo‘ylov va oyoqlardagi tukchalar, o‘rgimchakda oyoq paypaslagichlardagi sezgir tukchalar",
+        "Ikkalasida ham faqat oyoq paypaslagichlar",
+        "O‘rgimchakda mo‘ylov va oyoqlardagi tukchalar, qisqichbaqada oyoq paypaslagichlar",
+        "Ikkalasida ham faqat mo‘ylovlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 73,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasi jinslarining farqlanishini taqqoslang.",
+      "options": [
+        "O‘rgimchakda urg‘ochisining qorni kengroq, qisqichbaqada urg‘ochisi yirikroq",
+        "Ikkalasida ham erkagi yirikroq",
+        "Ikkalasida ham jinslarini farq qilib bo‘lmaydi",
+        "O‘rgimchakda urg‘ochisi yirikroq, qisqichbaqada urg‘ochisining qorin bo‘limi kengroq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 74,
+      "question": "Butli o‘rgimchak va daryo qisqichbaqasining tuxum qo‘yishidagi farqni toping.",
+      "options": [
+        "Qisqichbaqa erta bahorda qo‘yib qorinoyoqlarida olib yuradi, o‘rgimchak kuzda pillaga qo‘yadi",
+        "Qisqichbaqa kuzda pillaga qo‘yadi, o‘rgimchak erta bahorda qorniga yopishtirib olib yuradi",
+        "Ikkalasi ham erta bahorda qo‘yib olib yuradi",
+        "Ikkalasi ham kuzda pillaga qo‘yadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 75,
+      "question": "Moslashtiring (yosh avlod chiqishi): 1) daryo qisqichbaqasi; 2) butli o‘rgimchak.  a) bahorda, pilladan; b) yoz boshida, ona qorinoyoqlarida",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-b",
+        "1-a, 2-a",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 76,
+      "question": "Moslashtiring (tana bo‘limlari va oyoqlar): 1) daryo qisqichbaqasi; 2) butli o‘rgimchak.  a) boshko‘krak va bo‘g‘imlari qo‘shilgan qorin, qorinoyoqsiz; b) boshko‘krak va 7 bo‘g‘imli qorin, qorinoyoqli",
+      "options": [
+        "1-b, 2-b",
+        "1-a, 2-b",
+        "1-a, 2-a",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Moslashtiring (yashash muhiti): 1) daryo qisqichbaqasi; 2) butli o‘rgimchak; 3) zaxkash.  a) cho‘l tuprog‘i; b) chuchuk suv; c) o‘tlar va butalar orasidagi to‘r",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 78,
+      "question": "Butli o‘rgimchak va suv shillig‘i uchun umumiy belgini toping.",
+      "options": [
+        "Ikkalasi ham germafrodit",
+        "Ikkalasi ham traxeyalar bilan nafas oladi",
+        "Ikkalasi ham atmosfera havosidan o‘pka orqali nafas oladi",
+        "Ikkalasining ham ko‘zlari paypaslagich asosida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Butli o‘rgimchak va suv shillig‘i o‘pkasining farqini toping.",
+      "options": [
+        "Ikkalasida ham o‘pka bilan birga traxeyalar bor",
+        "O‘rgimchakda yagona xaltasimon o‘pka, shilliqda bir juft varaqsimon o‘pka",
+        "Ikkalasida ham bir juft varaqsimon o‘pka",
+        "O‘rgimchakda bir juft varaqsimon o‘simtali o‘pka xaltasi, shilliqda yagona xaltasimon o‘pka"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "Moslashtiring (nafas olish organlari): 1) butli o‘rgimchak; 2) suv shillig‘i; 3) baqachanoq; 4) daryo qisqichbaqasi.  a) mantiya bo‘shlig‘idagi jabralar; b) o‘pka xaltalari va traxeyalar; c) jag‘oyoq va yurish oyoqlari asosidagi jabralar; d) xaltasimon o‘pka",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 81,
+      "question": "Moslashtiring (ko‘zlar): 1) butli o‘rgimchak; 2) suv shillig‘i; 3) daryo qisqichbaqasi; 4) baqachanoq.  a) maxsus sezgi organlari yo‘q; b) bir juft murakkab ko‘z, poyachalarda; c) 4 juft oddiy ko‘zcha; d) har paypaslagich asosida bittadan ko‘z",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 82,
+      "question": "Moslashtiring (oziq tutish / o‘ljani o‘ldirish): 1) butli o‘rgimchak; 2) sakkizoyoq; 3) daryo qisqichbaqasi; 4) baqachanoq.  a) suvni filtrlaydi; b) qisqichlar; c) so‘rg‘ichli paypaslagichlar; d) to‘r va zaharli jag‘ tirnoqlari",
+      "options": [
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Moslashtiring (tuxumni qayerga qo‘yadi): 1) butli o‘rgimchak; 2) suv shillig‘i; 3) daryo qisqichbaqasi; 4) baqachanoq.  a) jabralar sirtida rivojlanadi; b) qorinoyoqlarga yopishtiradi; c) shilimshiq ip ichiga tizimcha shaklida; d) ipdan to‘qilgan pillaga",
+      "options": [
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-d, 2-c, 3-b, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 84,
+      "question": "Butli o‘rgimchak va boshoyoqli mollyuskalarning bezlaridan chiqadigan moddalarning vazifasidagi farqni toping.",
+      "options": [
+        "O‘rgimchak zahari dushmandan qutulishga, boshoyoqlilar siyohi o‘ljani o‘ldirishga xizmat qiladi",
+        "Ikkalasi ham dushmandan qutulishga xizmat qiladi",
+        "O‘rgimchak zahari o‘ljani o‘ldirib hazm qiladi, boshoyoqlilar siyohi dushmandan qutulishga yordam beradi",
+        "Ikkalasi ham o‘ljani o‘ldirishga xizmat qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 85,
+      "question": "Mollyuskalar tanasini mantiya o‘rab tursa, o‘rgimchak tanasini nima qoplaydi?",
+      "options": [
+        "Xitin po‘st",
+        "Shilimshiq teri",
+        "Mantiya",
+        "Sadafli chig‘anoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 86,
+      "question": "Qaysi juftlikda ikkala hayvon ham ipsimon tuzilma ichiga tuxum qo‘yadi?",
+      "options": [
+        "Suv shillig‘i va baqachanoq",
+        "Butli o‘rgimchak (ipdan to‘qilgan pilla) va suv shillig‘i (shilimshiq ip)",
+        "Daryo qisqichbaqasi va baqachanoq",
+        "Butli o‘rgimchak va daryo qisqichbaqasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 87,
+      "question": "Qaysi qatorda faqat ayrim jinsli hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i, baqachanoq, daryo qisqichbaqasi",
+        "Butli o‘rgimchak, daryo qisqichbaqasi, baqachanoq",
+        "Butli o‘rgimchak, suv shillig‘i, baqachanoq",
+        "Suv shillig‘i, daryo qisqichbaqasi, butli o‘rgimchak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 88,
+      "question": "Qaysi qatorda faqat atmosfera havosidan nafas oladigan hayvonlar berilgan?",
+      "options": [
+        "Suv shillig‘i, baqachanoq",
+        "Butli o‘rgimchak, suv shillig‘i",
+        "Daryo qisqichbaqasi, baqachanoq",
+        "Butli o‘rgimchak, daryo qisqichbaqasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "Qaysi qatorda ochiq qon aylanish sistemasiga ega hayvonlar berilgan?",
+      "options": [
+        "Butli o‘rgimchak va daryo qisqichbaqasi, lekin mollyuskalar emas",
+        "Butli o‘rgimchak, daryo qisqichbaqasi, suv shillig‘i, baqachanoq",
+        "Faqat mollyuskalar",
+        "Suv shillig‘i va baqachanoq, lekin o‘rgimchak emas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "Mollyuskalar va o‘rgimchaklarning oyoqlaridagi farqni toping.",
+      "options": [
+        "O‘rgimchakda bitta muskulli oyoq, mollyuskalarda 4 juft bo‘g‘imli oyoq",
+        "Ikkalasida ham 4 juft bo‘g‘imli oyoq",
+        "O‘rgimchakda 4 juft uzun ingichka bo‘g‘imli oyoq, mollyuskalarda bitta muskulli oyoq",
+        "Ikkalasida ham bitta muskulli oyoq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 91,
+      "question": "Butli o‘rgimchak, daryo qisqichbaqasi va suv shillig‘ining umumiy jihatini toping.",
+      "options": [
+        "Ochiq qon aylanish sistemasi",
+        "Xitin qoplag‘ich",
+        "Jabra bilan nafas olish",
+        "Ayrim jinslilik"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
