@@ -2,5 +2,754 @@
   "topicId": 15,
   "title": "Qorinoyoqli mollyuskalar sinfi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qorinoyoqli mollyuskalar sinfi darslikda qaysi hayvon misolida o‘rganiladi?",
+      "options": [
+        "Bedapoya shillig‘i",
+        "Yalang‘och shilliq",
+        "Chuchuk suv shillig‘i",
+        "Tok shillig‘i"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Chuchuk suv shillig‘i qayerda hayot kechiradi?",
+      "options": [
+        "Faqat ko‘llarning chuqur, tubi loyli joylarida",
+        "Dengiz va okeanlarning sayoz qirg‘oq bo‘ylarida",
+        "Hovuz, ko‘llar va daryolarning tinch oqadigan sayoz joylarida",
+        "Hovuz, ko‘llar va daryolarning tez oqadigan chuqur joylarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Chuchuk suv shillig‘ining tanasi qanday chig‘anoq ichida joylashgan?",
+      "options": [
+        "Ikki pallali chig‘anoq",
+        "Spiral o‘ralgan chig‘anoq",
+        "Halqasimon buralgan chig‘anoq",
+        "Konussimon tekis chig‘anoq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Suv shillig‘i tanasi chiqadigan keng teshik chig‘anoqning qaysi qismida joylashgan?",
+      "options": [
+        "Chig‘anoqning torayib ketgan uchida",
+        "Chig‘anoqning kengaygan uchida",
+        "Mantiyaning chetida",
+        "Chig‘anoqning chetida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Shilliq tanasini nima o‘rab turadi?",
+      "options": [
+        "Mantiya teri",
+        "Teri-muskul xaltasi",
+        "Chig‘anoq qobig‘i",
+        "Kutikula"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Suv shillig‘ida chig‘anoq qaysi qismdan hosil bo‘ladi?",
+      "options": [
+        "Jigar ishlab chiqargan suyuqlikdan",
+        "Mantiyadan",
+        "Teri-muskul xaltasidan",
+        "Oyoq muskullaridan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Suv shillig‘ining og‘iz teshigi qayerda joylashgan?",
+      "options": [
+        "Boshining ostki tomonida",
+        "Mantiya chetida",
+        "Oyog‘ining oldingi qismida",
+        "Boshining ustki tomonida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Og‘iz teshigining ikki yonida nima joylashgan?",
+      "options": [
+        "Bir juft ko‘z",
+        "Bir juft so‘lak bezi",
+        "Bir juft paypaslagich",
+        "Ikki juft paypaslagich"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Suv shillig‘ining paypaslagichlari qanday vazifani bajaradi?",
+      "options": [
+        "Nafas olish organi hisoblanadi",
+        "Harakat organi hisoblanadi",
+        "Sezgi organi hisoblanadi",
+        "Oziqni ushlash organi hisoblanadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Suv shillig‘ining ko‘zlari qayerda joylashgan?",
+      "options": [
+        "Har qaysi paypaslagich asosida bittadan",
+        "Faqat bitta paypaslagich asosida bir juft",
+        "Har qaysi paypaslagich uchida bittadan",
+        "Og‘iz teshigining ikki yonida bittadan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Suv shillig‘i qanday harakatlanadi?",
+      "options": [
+        "Oyoq muskullarining galma-gal qisqarishi tufayli sakrab",
+        "Paypaslagichlari yordamida tortilib",
+        "Mantiya bo‘shlig‘idan suvni otib chiqarib reaktiv usulda",
+        "Oyoq muskullarining to‘lqinsimon qisqarishi tufayli sirpanib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Suv shillig‘ida jami nechta ko‘z bor?",
+      "options": [
+        "2 ta",
+        "4 ta",
+        "6 ta",
+        "1 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Suv shillig‘ining hazm qilish sistemasi qaysi qatorda to‘g‘ri ketma-ketlikda berilgan?",
+      "options": [
+        "Og‘iz bo‘shlig‘i → qizilo‘ngach → halqum → oshqozon → ichak",
+        "Og‘iz bo‘shlig‘i → halqum → qizilo‘ngach → oshqozon → ichak",
+        "Og‘iz bo‘shlig‘i → halqum → oshqozon → qizilo‘ngach → ichak",
+        "Halqum → og‘iz bo‘shlig‘i → qizilo‘ngach → oshqozon → ichak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Suv shillig‘ining ichagi qanday joylashgan?",
+      "options": [
+        "Chig‘anoq ichida halqasimon buralib",
+        "Chig‘anoq ichida spiral o‘ralib",
+        "Tana bo‘ylab to‘g‘ri naycha shaklida",
+        "Mantiya bo‘shlig‘ida to‘g‘ri cho‘zilib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Suv shillig‘ining orqa chiqaruv teshigi qayerda joylashgan?",
+      "options": [
+        "Oyog‘ining orqa qismida",
+        "Chig‘anoqning kengaygan uchida",
+        "Chig‘anoqning chetida",
+        "Mantiya chetida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Suv shillig‘ining halqumida nima bo‘ladi?",
+      "options": [
+        "Mayda tishchalar bilan qoplangan jag‘lar",
+        "Mayda tishchalar bilan qoplangan muskulli tilcha",
+        "Muskulsiz, silliq tilcha",
+        "Tukchalar bilan qoplangan muskulli tilcha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Suv shillig‘i tilchasi yordamida nimalarni qirib oladi?",
+      "options": [
+        "Faqat suvdagi organik qoldiqlarni",
+        "Mayda qisqichbaqasimonlar va hasharot lichinkalarini",
+        "Mayda baliq chavoqlari va suv o‘tlarini",
+        "Narsalarga yopishgan bakteriyalar va mayda suv o‘tlarini"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Suv shillig‘ida so‘lak bezlari nechta va qayerga ochiladi?",
+      "options": [
+        "Ikki juft, qizilo‘ngachga",
+        "Bitta, og‘iz bo‘shlig‘iga",
+        "Bir juft, oshqozonga",
+        "Bir juft, halqumga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Suv shillig‘ida so‘lak suyuqligining vazifasi nima?",
+      "options": [
+        "Oziqni hazm qilishga yordam beradi",
+        "Oziqni faqat namlab yutishni osonlashtiradi",
+        "Chig‘anoq hosil bo‘lishida ishtirok etadi",
+        "Harakatlanishda sirpanishni ta’minlaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Suv shillig‘ining jigari hazm qilish shirasini qayerga ishlab chiqaradi?",
+      "options": [
+        "Oshqozon bo‘shlig‘iga",
+        "Ichak bo‘shlig‘iga",
+        "Qizilo‘ngachga",
+        "Halqumga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Suv shillig‘i qanday kislorod bilan nafas oladi?",
+      "options": [
+        "Suvda erigan kislorod bilan",
+        "Terisi orqali suvdagi kislorod bilan",
+        "Jabralari orqali suvdagi kislorod bilan",
+        "Atmosfera kislorodi bilan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "Suv shillig‘ining nafas teshigi qayerda joylashgan?",
+      "options": [
+        "Chig‘anoqning kengaygan uchida",
+        "Boshining ostki tomonida",
+        "Chig‘anoqning chetida",
+        "Mantiyaning chetida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Suv shillig‘ining nafas teshigi qayerga ochiladi?",
+      "options": [
+        "Xaltasimon o‘pkaga",
+        "Traxeyalarga",
+        "Naysimon o‘pkaga",
+        "Mantiya bo‘shlig‘idagi jabraga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Suv shillig‘ining o‘pka devori nima bilan qoplangan?",
+      "options": [
+        "Kipriksimon tukchalar bilan",
+        "Juda ko‘p mayda qon tomirlari bilan",
+        "Mayda tishchalar bilan",
+        "Bir nechta yirik qon tomirlari bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Suv shillig‘ining o‘pkasida qanday gaz almashinuvi bo‘ladi?",
+      "options": [
+        "Havodan qonga kislorod o‘tadi, qondan karbonat angidrid chiqadi",
+        "Havodan qonga kislorod va karbonat angidrid o‘tadi",
+        "Qondan havoga kislorod o‘tadi, havodan qonga karbonat angidrid o‘tadi",
+        "Suvdan qonga kislorod o‘tadi, qondan suvga karbonat angidrid chiqadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Suv shillig‘i nafas olish uchun nima qiladi?",
+      "options": [
+        "Suv yuzasiga ko‘tarilib mantiya bo‘shlig‘ini suv bilan to‘ldiradi",
+        "Chig‘anog‘ini yopib, terisi orqali nafas oladi",
+        "Suv tubiga tushib jabralari orqali suv o‘tkazadi",
+        "Suv yuzasiga ko‘tarilib o‘pkasini havo bilan to‘ldiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 27,
+      "question": "Suv shillig‘ining yuragi tanasining qaysi tomonida joylashgan?",
+      "options": [
+        "Old tomonida",
+        "Bosh qismida",
+        "Qorin tomonida",
+        "Orqa tomonida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 28,
+      "question": "Suv shillig‘ining yuragi qanday qismlardan iborat?",
+      "options": [
+        "Ikkita yurak oldi bo‘lmasi va bitta qorinchadan",
+        "Faqat bitta yurak qorinchasidan",
+        "Yurak oldi bo‘lmasi va ikkita qorinchadan",
+        "Yurak oldi bo‘lmasi va yurak qorinchasidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Suv shillig‘ining yuragi necha kamerali?",
+      "options": [
+        "To‘rt kamerali",
+        "Ikki kamerali",
+        "Uch kamerali",
+        "Bir kamerali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Suv shillig‘ining yurak kameralari qanday ishlaydi?",
+      "options": [
+        "Bir vaqtda qisqarib, qonni ichki organlar oralig‘iga haydaydi",
+        "Galma-galdan qisqarib, qonni tomirlarga haydaydi",
+        "Galma-galdan qisqarib, qonni o‘pkaga haydaydi",
+        "Bir vaqtda qisqarib, qonni tomirlarga haydaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Suv shillig‘ida qon tomirlarning uchi ochiq bo‘lgani uchun qon qayerga quyiladi?",
+      "options": [
+        "Yurakoldi bo‘lmasiga",
+        "Mantiya bo‘shlig‘iga",
+        "O‘pka bo‘shlig‘iga",
+        "Ichki organlar oralig‘iga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Ichki organlar oralig‘iga quyilgan qon nima sodir qiladi?",
+      "options": [
+        "Faqat oziq moddalarni to‘qimalarga beradi",
+        "Kislorodni to‘qimalarga berib, oziq moddalar bilan boyiydi",
+        "Kislorodni to‘qimalarga berib, karbonat angidrid bilan boyiydi",
+        "Karbonat angidridni to‘qimalarga berib, kislorod bilan boyiydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Karbonat angidrid bilan boyigan qon tomirlar orqali qayerga keladi?",
+      "options": [
+        "O‘pkaga",
+        "Yurak qorinchasiga",
+        "Buyrakka",
+        "Yurakoldi bo‘lmasiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "O‘pkada kislorod bilan to‘yingan qon qayerga quyiladi?",
+      "options": [
+        "Yurak qorinchasiga",
+        "Ichki organlar oralig‘iga",
+        "Yurakoldi bo‘lmasiga",
+        "Buyrakka"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "Suv shillig‘ida oziq moddalar to‘qimalarga nima orqali tashiladi?",
+      "options": [
+        "Ichak devori orqali bevosita",
+        "Nervlar orqali",
+        "Qon orqali",
+        "Tana bo‘shlig‘i suyuqligi orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Suv shillig‘ida qon aylanishning to‘g‘ri yo‘nalishini toping.",
+      "options": [
+        "Yurak → tomirlar → o‘pka → ichki organlar oralig‘i → yurakoldi bo‘lmasi",
+        "Yurakoldi bo‘lmasi → o‘pka → tomirlar → ichki organlar oralig‘i → yurak qorinchasi",
+        "Yurak → tomirlar → ichki organlar oralig‘i → o‘pka → yurakoldi bo‘lmasi",
+        "Yurak → o‘pka → tomirlar → ichki organlar oralig‘i → yurakoldi bo‘lmasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Mollyuskalar qon aylanish sistemasi qanday?",
+      "options": [
+        "Ikki doirali yopiq sistema",
+        "Ochiq qon aylanish sistemasi",
+        "Qon aylanish sistemasi bo‘lmaydi",
+        "Yopiq qon aylanish sistemasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Chuchuk suv shillig‘ining buyragi qanday?",
+      "options": [
+        "Tasmaga o‘xshash yagona buyrak",
+        "Loviyasimon yagona buyrak",
+        "Naysimon ko‘plab buyraklar",
+        "Tasmaga o‘xshash bir juft buyrak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Suv shillig‘ining buyragi tuzilishi qaysi hayvonning ayirish organiga o‘xshaydi?",
+      "options": [
+        "Daryo qisqichbaqasi",
+        "Yomg‘ir chuvalchangi",
+        "Oq planariya",
+        "Odam askaridasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Suv shillig‘i buyragining voronkasimon kengaygan uchi qayerga ochiladi?",
+      "options": [
+        "Ichak bo‘shlig‘iga",
+        "Yurak qorinchasiga",
+        "Yurakoldi bo‘lmasiga",
+        "Mantiya chetiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Suv shillig‘i buyragining ikkinchi uchi qayerga ochiladi?",
+      "options": [
+        "Chig‘anoqning chetiga",
+        "Yurakoldi bo‘lmasiga",
+        "Orqa ichakka",
+        "Mantiya chetiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 42,
+      "question": "Suv shillig‘ining nerv sistemasi qanday tuzilgan?",
+      "options": [
+        "Tanasida bir necha juft nerv tugunlari joylashgan",
+        "Tanasida bitta yirik nerv tuguni joylashgan",
+        "To‘rsimon (diffuz) nerv sistemasidan iborat",
+        "Qorin nerv zanjiridan iborat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Suv shillig‘ida nervlar qayerdan chiqib, qaysi organlarga boradi?",
+      "options": [
+        "Nerv tugunlaridan faqat muskullarga",
+        "Qorin nerv zanjiridan hamma organlarga",
+        "Nerv tugunlaridan hamma organlarga",
+        "Bosh nerv tugunidan faqat sezgi organlariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Suv shillig‘i jinsiy jihatdan qanday hayvon?",
+      "options": [
+        "Ayrim jinsli",
+        "Jinssiz ko‘payadi",
+        "Partenogenetik",
+        "Germafrodit"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 45,
+      "question": "Suv shillig‘i tuxumlarini qanday qo‘yadi?",
+      "options": [
+        "Uzun shilimshiq ip ichiga tizimcha shaklida juda ko‘p",
+        "Uzun shilimshiq ip ichiga tizimcha shaklida bir nechta",
+        "Pilla ichiga to‘p-to‘p qilib juda ko‘p",
+        "Chig‘anog‘i ichiga bittadan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Suv shillig‘ining tuxum tizimchasi nimaga ilakishib qoladi?",
+      "options": [
+        "Ona shilliq chig‘anog‘iga",
+        "Suv o‘tlariga",
+        "Suv yuzasidagi narsalarga",
+        "Suv tubidagi toshlarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Suv shillig‘ining tuxumidan nima rivojlanadi?",
+      "options": [
+        "Chig‘anoqsiz lichinkalar",
+        "Qattiq chig‘anoqli yirik mollyuskalar",
+        "Nozik chig‘anoqli kichik mollyuskalar",
+        "Kiprikli suzuvchi lichinkalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Qorinoyoqli mollyuskalarning nechta turi bor?",
+      "options": [
+        "10 000 ga yaqin",
+        "20 000 ga yaqin",
+        "1 000 000 ga yaqin",
+        "100 000 ga yaqin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Qorinoyoqli mollyuskalar ayniqsa qayerda xilma-xil bo‘ladi?",
+      "options": [
+        "Daryolarda",
+        "Dengizlarda",
+        "Chuchuk suvlarda",
+        "Quruqlikda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Chuchuk suvlarda uchraydigan kichik shilliq qaysi parazitning oraliq xo‘jayini hisoblanadi?",
+      "options": [
+        "Qoramol tasmasimon chuvalchangining",
+        "Odam askaridasining",
+        "Exinokokkning",
+        "Jigar qurtining"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Quruqlikda yashaydigan qorinoyoqli mollyuskalarni toping.",
+      "options": [
+        "Yalang‘och shilliqlar va tok shillig‘i",
+        "Kichik shilliq va yalang‘och shilliqlar",
+        "Chuchuk suv shillig‘i va kichik shilliq",
+        "Tok shillig‘i va chuchuk suv shillig‘i"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Tok shillig‘i va yalang‘och shilliqlar nima bilan oziqlanadi?",
+      "options": [
+        "Chirigan o‘simlik qoldiqlari bilan",
+        "Tuproqdagi bakteriyalar bilan",
+        "O‘simliklarning yashil qismi bilan",
+        "O‘simliklarning ildizi bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "O‘zbekiston hududida quruqlikda uchraydigan qorinoyoqlilar qaysi qatorda to‘g‘ri berilgan?",
+      "options": [
+        "Tok shillig‘i va suv shilliqlari",
+        "Yalang‘och shilliqlar va chuchuk suv shillig‘i",
+        "Bedapoya shillig‘i va kichik shilliq",
+        "Yalang‘och shilliqlar va bedapoya shillig‘i"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring: 1) og‘iz teshigi; 2) orqa chiqaruv teshigi; 3) nafas teshigi.  a) mantiya chetida; b) boshining ostki tomonida; c) chig‘anoq chetida",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring: 1) jigar; 2) so‘lak bezlari; 3) tilcha.  a) halqumga ochiladi; b) oshqozon bo‘shlig‘iga shira ishlab chiqaradi; c) oziqni qirib oladi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring (buyrak uchlari): 1) voronkasimon kengaygan uchi; 2) ikkinchi uchi.  a) mantiya chetiga ochiladi; b) yurakoldi bo‘lmasiga ochiladi",
+      "options": [
+        "1-b, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-a",
+        "1-a, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring: 1) paypaslagichlar; 2) mantiya; 3) oyoq muskullari.  a) chig‘anoq hosil qiladi; b) sezgi organi; c) sirpanib harakatlanishni ta’minlaydi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Moslashtiring (yashash muhiti): 1) tok shillig‘i; 2) kichik shilliq; 3) bedapoya shillig‘i.  a) chuchuk suv; b) quruqlik",
+      "options": [
+        "1-b, 2-b, 3-a",
+        "1-a, 2-b, 3-b",
+        "1-b, 2-a, 3-a",
+        "1-b, 2-a, 3-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Moslashtiring (sistema – organ): 1) nafas olish; 2) ayirish; 3) qon aylanish.  a) tasmasimon buyrak; b) xaltasimon o‘pka; c) ikki kamerali yurak",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 60,
+      "question": "Suv shillig‘i haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Ochiq qon aylanish sistemasiga ega",
+        "Tasmaga o‘xshash yagona buyragi bor",
+        "Germafrodit hayvon hisoblanadi",
+        "Suvda erigan kislorod bilan jabrasi orqali nafas oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 61,
+      "question": "Suv shillig‘i hazm qilish sistemasiga tegishli bo‘lmagan qismni toping.",
+      "options": [
+        "Jabra",
+        "Qizilo‘ngach",
+        "Jigar",
+        "So‘lak bezlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Suv shillig‘iga xos bo‘lmagan belgini toping.",
+      "options": [
+        "Ko‘zlari paypaslagichlar asosida",
+        "Ichagi halqasimon buralgan",
+        "Yuragi uch kamerali",
+        "Yuragi tanasining orqa tomonida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 63,
+      "question": "Qorinoyoqli mollyuskalar haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Tok shillig‘i ekinlarga katta ziyon keltiradi",
+        "Qorinoyoqlilar ayniqsa chuchuk suvlarda xilma-xil bo‘ladi",
+        "Kichik shilliq jigar qurtining asosiy xo‘jayini",
+        "Yalang‘och shilliqlar chuchuk suvlarda yashaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "Suv shillig‘i va yomg‘ir chuvalchangining o‘xshashligini toping.",
+      "options": [
+        "Harakatlanish usuli",
+        "Ayirish organining tuzilishi",
+        "Qon aylanish sistemasi turi",
+        "Nafas olish usuli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Suv shillig‘i qon aylanishida qon tomirlardan farqli ravishda qayerda kislorodni to‘qimalarga beradi?",
+      "options": [
+        "Yurakoldi bo‘lmasida",
+        "O‘pkada",
+        "Ichki organlar oralig‘ida",
+        "Kapillyarlarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 66,
+      "question": "Suv shillig‘i bilan tok shillig‘ining asosiy farqini toping.",
+      "options": [
+        "Suv shillig‘i quruqlikda, tok shillig‘i suvda yashaydi",
+        "Ikkalasi ham faqat dengizlarda yashaydi",
+        "Suv shillig‘i suvda, tok shillig‘i quruqlikda yashaydi",
+        "Suv shillig‘i ayrim jinsli, tok shillig‘i germafrodit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 67,
+      "question": "Quyidagilardan qaysi biri mantiya chetida joylashgan yoki unga ochiladi?",
+      "options": [
+        "Nafas teshigi va buyrakning bir uchi",
+        "Nafas teshigi va orqa chiqaruv teshigi",
+        "Og‘iz teshigi va orqa chiqaruv teshigi",
+        "Orqa chiqaruv teshigi va buyrakning bir uchi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Suv shillig‘ining yurakoldi bo‘lmasiga nimalar ochiladi yoki quyiladi?",
+      "options": [
+        "O‘pkadan kelgan qon va jigar shirasi",
+        "O‘pkadan kelgan qon va buyrakning voronkasimon uchi",
+        "Yurak qorinchasidan kelgan qon va buyrakning voronkasimon uchi",
+        "Ichki organlardan kelgan qon va buyrakning ikkinchi uchi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
