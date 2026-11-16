@@ -2,5 +2,1029 @@
   "topicId": 16,
   "title": "Ikki pallali va boshoyoqli mollyuskalar",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ikki pallali mollyuskalar qayerlarda tarqalgan?",
+      "options": [
+        "Faqat chuchuk suvlarda",
+        "Faqat dengizlarda",
+        "Dengiz va chuchuk suvlarda",
+        "Dengiz, chuchuk suv va quruqlikda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Ikki pallali mollyuskalarda qaysi tana bo‘limi bo‘lmaydi?",
+      "options": [
+        "Bosh",
+        "Oyoq",
+        "Mantiya",
+        "Tana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Ikki pallali mollyuskalar gavdasining shakli va bo‘limlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Yon tomondan yassilashgan; bosh, tana va ponasimon oyoq",
+        "Yon tomondan yassilashgan; tana va kurakchasimon oyoq",
+        "Yon tomondan yassilashgan; tana va ponasimon oyoq",
+        "Orqa-qorin tomondan yassilashgan; tana va ponasimon oyoq"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Ikki pallali mollyuskalar tuzilishi darslikda qaysi hayvon misolida o‘rganiladi?",
+      "options": [
+        "Baqachanoq",
+        "Dreysena",
+        "Ustritsa",
+        "Midiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Baqachanoq qayerda yashaydi?",
+      "options": [
+        "Dengizlarning sayoz qirg‘oqlaridagi qumga tanasining yarmigacha ko‘milib",
+        "Tez oqadigan daryolar tubidagi toshlarga yopishib",
+        "Tinch oqadigan daryolar va sayoz ko‘llar tubidagi loy yoki qumga butunlay ko‘milib",
+        "Tinch oqadigan daryolar va sayoz ko‘llar tubidagi loy yoki qumga tanasining yarmigacha ko‘milib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 6,
+      "question": "Baqachanoq chig‘anog‘ining shakli va uzunligi qanday?",
+      "options": [
+        "Spiral, 10–15 sm",
+        "Tuxumsimon, 20–30 sm",
+        "Tuxumsimon, 10–15 sm",
+        "Yumaloq, 5–10 sm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Baqachanoq chig‘anog‘ining oldingi va keyingi tomonlari qanday shaklda?",
+      "options": [
+        "Oldingi tomoni suyri, keyingi tomoni to‘mtoq",
+        "Ikkala tomoni ham suyri",
+        "Ikkala tomoni ham to‘mtoq",
+        "Oldingi tomoni to‘mtoq, keyingi tomoni suyri"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Baqachanoq chig‘anoq pallalari qanday va qaysi tomondan tutashgan?",
+      "options": [
+        "Oldingi tomondan elastik paylar yordamida",
+        "Orqa tomondan yopuvchi muskullar yordamida",
+        "Qorin tomondan elastik paylar yordamida",
+        "Orqa tomondan elastik paylar yordamida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Baqachanoqning muskulli ponasimon oyog‘i qayerdan chiqib turadi?",
+      "options": [
+        "Pastki kirish sifoni orqali",
+        "Qorin tomonining keyingi qismidagi pallalar orasidagi tirqishdan",
+        "Qorin tomonining oldingi qismidagi pallalar orasidagi tirqishdan",
+        "Orqa tomonidagi pallalar orasidagi tirqishdan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Baqachanoq qanday harakatlanadi?",
+      "options": [
+        "Mantiya bo‘shlig‘idagi suvni sifon orqali otib, reaktiv usulda",
+        "Oyoq muskullarining to‘lqinsimon qisqarishi tufayli sirpanib",
+        "Oyog‘ini chiqarib suv tubiga tiraydi va tanasini oyog‘idan uzoqlashtirib itaradi",
+        "Oyog‘ini chiqarib suv tubiga tiraydi va tanasini oyog‘i tomonga tortib oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Baqachanoq bir soatda qancha yo‘l bosadi?",
+      "options": [
+        "10–15 sm",
+        "2–3 m",
+        "30–50 sm",
+        "20–30 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Baqachanoq chig‘anog‘ining sirti va ichki yuzasi nimadan iborat?",
+      "options": [
+        "Sirti ohak moddadan, ichki yuzasi muguz modda bilan qoplangan",
+        "Sirti ham, ichki yuzasi ham sadaf bilan qoplangan",
+        "Sirti sadafdan, ichki yuzasi muguz modda bilan qoplangan",
+        "Sirti muguz moddadan, ichki yuzasi sadaf bilan qoplangan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Baqachanoq chig‘anog‘ining ichki yuzasini qoplagan sadaf qanday xususiyatga ega?",
+      "options": [
+        "Shaffof, rangsiz bo‘ladi",
+        "Qora rangda, xira bo‘ladi",
+        "Bir xil oq rangda bo‘ladi",
+        "Har xil rangda tovlanadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Baqachanoqda yopuvchi muskullar nechta va qayerda joylashgan?",
+      "options": [
+        "Bir juft, chig‘anoqning orqa tomonidagi paylarda",
+        "Ikki juft, chig‘anoq pallalarining ichki yuzasida",
+        "Bir juft, chig‘anoq pallalarining ichki yuzasida",
+        "Bitta, oyog‘ining asosida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Baqachanoq yopuvchi muskullari qisqarganda nima sodir bo‘ladi?",
+      "options": [
+        "Elastik paylar tortiladi",
+        "Oyog‘i chig‘anoqdan chiqadi",
+        "Chig‘anoq pallalari ochiladi",
+        "Chig‘anoq pallalari yopiladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Baqachanoq chig‘anoq pallalari qanday ochiladi?",
+      "options": [
+        "Oyoq muskullari qisqarib pallalarni itarganda",
+        "Muskullar bo‘shashganda qorin tomondagi elastik paylar tortilib",
+        "Muskullar qisqarganda orqa tomondagi elastik paylar tortilib",
+        "Muskullar bo‘shashganda orqa tomondagi elastik paylar tortilib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Baqachanoq sifonlari qayerda joylashgan?",
+      "options": [
+        "Chig‘anoq keyingi uchining faqat yuqori tomonida",
+        "Chig‘anoq keyingi uchining yuqori va pastki tomonida",
+        "Chig‘anoq oldingi uchining yuqori va pastki tomonida",
+        "Chig‘anoqning qorin tomonida, oyoq yonida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Baqachanoqda suv qaysi yo‘nalishda harakatlanadi?",
+      "options": [
+        "Pastki kirish sifoni → mantiya bo‘shlig‘i → ustki chiqarish sifoni",
+        "Ustki kirish sifoni → mantiya bo‘shlig‘i → pastki chiqarish sifoni",
+        "Pastki kirish sifoni → ichak → ustki chiqarish sifoni",
+        "Pastki chiqarish sifoni → mantiya bo‘shlig‘i → ustki kirish sifoni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Baqachanoqning chiqarish sifoniga qaysi organlarning teshiklari ochiladi?",
+      "options": [
+        "Orqa chiqarish va ayirish organlari, og‘iz",
+        "Orqa chiqarish, ayirish va jinsiy organlar",
+        "Faqat orqa chiqarish teshigi",
+        "Ayirish, jinsiy organlar va jabralar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Baqachanoqda nechta sifon bo‘ladi va ular qanday shaklda?",
+      "options": [
+        "Bitta, tirqishsimon",
+        "To‘rtta, tirqishsimon",
+        "Ikkita, naysimon",
+        "Ikkita, tirqishsimon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Baqachanoqning og‘iz teshigi qayerda joylashgan?",
+      "options": [
+        "Kirish sifoni yonida",
+        "Mantiya chetida",
+        "Oyoqning asosida",
+        "Boshining ostki tomonida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Kirish sifoni orqali mantiya bo‘shlig‘iga suv bilan birga nimalar kiradi?",
+      "options": [
+        "Faqat suvda erigan kislorod",
+        "Organik zarralar, mayda baliqlar va suv o‘tlari",
+        "Organik zarralar, sodda hayvonlar va boshqa mikroskopik jonivorlar",
+        "Mayda qisqichbaqasimonlar va hasharot lichinkalari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Baqachanoqda oziqni tutib qolib, hazm qilish sistemasiga yo‘naltiradigan tuzilma qaysi?",
+      "options": [
+        "Og‘iz oldidagi ikki juft paypaslagich",
+        "Jabralar sirtidagi so‘rg‘ichlar",
+        "Mayda tishchali muskulli tilcha",
+        "Og‘iz oldidagi bir juft paypaslagich"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 24,
+      "question": "Ikki pallali mollyuskalar qanday oziqlanadi?",
+      "options": [
+        "Tilchasi bilan suv o‘tlarini qirib olib",
+        "O‘simliklarning yashil qismini kemirib",
+        "Paypaslagichlaridagi so‘rg‘ichlar bilan o‘ljani ushlab",
+        "Suvdagi mikroorganizmlar va mayda organik zarralarni filtrlab"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Ikki pallali mollyuskalar suv havzalari uchun qanday ahamiyatga ega?",
+      "options": [
+        "Suv quvurlarini tozalaydi",
+        "Suvni filtrlab, havzalarning tozalanishiga yordam beradi",
+        "Suv o‘tlarini yeb, havzaning o‘tlanishini kuchaytiradi",
+        "Suvni kislorod bilan boyitadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 26,
+      "question": "Baqachanoqning nafas olish organi nima va qayerda joylashgan?",
+      "options": [
+        "Jabralar, oyog‘ining ikki yonidagi mantiya bo‘shlig‘ida",
+        "Xaltasimon o‘pka, mantiya bo‘shlig‘ida",
+        "Jabralar, chig‘anoqning keyingi uchidagi sifonlarda",
+        "Jabralar, oyog‘ining asosida, og‘iz atrofida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Baqachanoqning mantiya bo‘shlig‘iga suv nima tufayli kiradi?",
+      "options": [
+        "Oyog‘ining to‘lqinsimon qisqarishi tufayli",
+        "Yopuvchi muskullarning qisqarishi tufayli",
+        "Jabralar sirtida va mantiya pardasidagi kipriklar harakati tufayli",
+        "Faqat jabralar sirtidagi kipriklar harakati tufayli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Baqachanoqda gaz almashinuvi qanday boradi?",
+      "options": [
+        "Suvda erigan kislorod mantiya orqali qonga o‘tadi, karbonat angidrid sifon orqali chiqadi",
+        "Atmosfera kislorodi jabraga o‘tadi, jabradan karbonat angidrid havoga chiqadi",
+        "Suvda erigan kislorod jabraga o‘tadi, jabradan karbonat angidrid suvga chiqadi",
+        "Jabradan kislorod suvga chiqadi, suvdan karbonat angidrid jabraga o‘tadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Baqachanoqda kislorod jabradan organlarga qanday tarqaladi?",
+      "options": [
+        "Bevosita to‘qimalar orqali diffuziya bilan",
+        "Qon oqimi bilan hamma organlarga",
+        "Mantiya bo‘shlig‘idagi suv orqali",
+        "Traxeyalar orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Jabralarni yuvgan suv qayerdan chiqib ketadi?",
+      "options": [
+        "Chig‘anoq pallalari orasidagi tirqishdan",
+        "Kirish sifoni orqali",
+        "Og‘iz teshigi orqali",
+        "Chiqarish sifoni orqali"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Baqachanoqning qaysi sistemalari suv shillig‘inikiga o‘xshash?",
+      "options": [
+        "Hazm qilish, ayirish va nerv sistemalari",
+        "Qon aylanish, nafas olish va nerv sistemalari",
+        "Qon aylanish, ayirish va jinsiy sistemalari",
+        "Qon aylanish, ayirish va nerv sistemalari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Baqachanoqning nerv sistemasi qanday tuzilgan?",
+      "options": [
+        "Uch juft nerv tugunlari bir-biridan alohida joylashgan",
+        "Uch juft nerv tugunlari nerv tolalari bilan tutashgan",
+        "Kuchli rivojlangan bosh miya va nerv tolalaridan iborat",
+        "Ikki juft nerv tugunlari nerv tolalari bilan tutashgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Baqachanoqning sezgi organlari haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Paypaslagichlari asosida bir juft ko‘zi bor",
+        "Og‘iz oldidagi paypaslagichlar sezgi organi hisoblanadi",
+        "Maxsus sezgi organlari bo‘lmaydi",
+        "Sifonlari atrofida ko‘zchalar joylashgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Baqachanoq jinsiy jihatdan qanday hayvon?",
+      "options": [
+        "Ayrim jinsli, lekin erkak va urg‘ochisini farq qilib bo‘lmaydi",
+        "Germafrodit, o‘z-o‘zini urug‘lantiradi",
+        "Ayrim jinsli, erkagi urg‘ochisidan yirik bo‘ladi",
+        "Germafrodit, erkak va urg‘ochisini farq qilib bo‘lmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Baqachanoq tuxumlari qayerda rivojlanadi?",
+      "options": [
+        "Baliqlar terisida",
+        "Jabralar sirtida",
+        "Shilimshiq ip ichida, suv o‘tlarida",
+        "Suv tubidagi loyda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Baqachanoq lichinkasi baliq terisiga nima yordamida yopishadi?",
+      "options": [
+        "Chig‘anog‘idagi tishchalar yoki yopishqoq iplari yordamida",
+        "Ponasimon oyog‘i yordamida",
+        "Chig‘anog‘idagi tishchalar yoki kipriklari yordamida",
+        "Paypaslagichlaridagi so‘rg‘ichlar yordamida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Baqachanoq lichinkasi baliqqa qanday ta’sir ko‘rsatadi?",
+      "options": [
+        "Baliq terisida shish hosil qiladi",
+        "Baliq qonida yashaydi",
+        "Baliq ichagida yashab, oziqni so‘radi",
+        "Baliq jabralarini shikastlaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 38,
+      "question": "Baqachanoq rivojlanishining to‘g‘ri ketma-ketligini toping.",
+      "options": [
+        "Tuxum (jabra sirtida) → lichinka suvga chiqadi → baliq terisida parazitlik → mayda baqachanoq → suv tubida voyaga yetadi",
+        "Tuxum (jabra sirtida) → lichinka suvga chiqadi → baliq ichagida parazitlik → mayda baqachanoq → voyaga yetadi",
+        "Tuxum (suv o‘tlarida) → lichinka suvga chiqadi → baliq terisida parazitlik → mayda baqachanoq → voyaga yetadi",
+        "Tuxum (jabra sirtida) → baliq terisida parazitlik → lichinka suvga chiqadi → mayda baqachanoq → voyaga yetadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Baqachanoq lichinkasi qayerda mayda baqachanoqqa aylanadi?",
+      "options": [
+        "Ona baqachanoq jabrasida",
+        "Baliq jabrasida",
+        "Baliq terisidagi shish ichida",
+        "Suv tubidagi loyda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Ikki pallali mollyuskalarning nechta turi bor?",
+      "options": [
+        "30 000 dan ortiq",
+        "100 000 ga yaqin",
+        "650 ga yaqin",
+        "3 000 dan ortiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Ikki pallalilarning ko‘pchilik turlari qayerda yashaydi?",
+      "options": [
+        "Sho‘rlangan ko‘llarda",
+        "Chuchuk suvlarda",
+        "Dengizlarda",
+        "Okeanlarning chuqur qatlamlarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Ikki pallalilar orasida eng yirigi qaysi va uning og‘irligi qancha?",
+      "options": [
+        "Ustritsa, 250 kg gacha",
+        "Tridakna, 25 kg gacha",
+        "Marvariddor, 50 kg gacha",
+        "Tridakna, 250 kg gacha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "Go‘shti uchun ovlanadigan ikki pallalilarni toping.",
+      "options": [
+        "Taroqcha, baqachanoq va tridakna",
+        "Midiya, dreysena va taroqcha",
+        "Ustritsa, taroqcha va midiyalar",
+        "Ustritsa, dreysena va midiyalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Marvarid qaysi mollyuskadan olinadi?",
+      "options": [
+        "Ustritsalardan",
+        "Dengiz marvariddorlaridan",
+        "Chuchuk suv baqachanoqlaridan",
+        "Tridaknadan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Ayrim mamlakatlarda qaysi ikki pallalilar ko‘paytiriladi?",
+      "options": [
+        "Baqachanoqlar, midiyalar va ustritsalar",
+        "Marvariddorlar, midiyalar va ustritsalar",
+        "Marvariddorlar, dreysenalar va ustritsalar",
+        "Taroqchalar, tridaknalar va midiyalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Dreysenalar qayerda tarqalgan va qanday zarar keltiradi?",
+      "options": [
+        "Sho‘rlangan suvlarda; baliqlarda parazitlik qiladi",
+        "Dengizlarda; kemalar tubini teshadi",
+        "Sho‘rlangan suvlarda; ko‘payib suv quvurlarini ishdan chiqarishi mumkin",
+        "Chuchuk suvlarda; baliqlarda parazitlik qiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Mamlakatimiz suv havzalarida qaysi ikki pallalilar uchraydi?",
+      "options": [
+        "Marvariddorlar va baqachanoqlar",
+        "Baqachanoqlar va dreysenalar",
+        "Dreysenalar va ustritsalar",
+        "Baqachanoqlar va midiyalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Boshoyoqlilarda paypaslagichlar qaysi qismning o‘zgarishidan hosil bo‘lgan?",
+      "options": [
+        "Oyog‘ining keyingi qismidan",
+        "Boshining old qismidan",
+        "Oyog‘ining oldingi qismidan",
+        "Mantiyaning chetidan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Boshoyoqlilar gavdasining uzunligi qancha?",
+      "options": [
+        "1 sm dan 5 m gacha",
+        "10 sm dan 5 m gacha",
+        "1 sm dan 15 m gacha",
+        "1 sm dan 50 sm gacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Boshoyoqlilar gavdasi qanday qismlarga ajraladi?",
+      "options": [
+        "Bosh, tana va ponasimon oyoq",
+        "Bosh-ko‘krak va qorin",
+        "Tana va oyoq",
+        "Bosh va tana"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Boshoyoqlilarning voronkasi qayerda joylashgan?",
+      "options": [
+        "Oyoqlari asosida",
+        "Mantiya chetida",
+        "Tananing keyingi uchida",
+        "Og‘iz teshigi atrofida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Boshoyoqlilar tanasini nima o‘rab turadi?",
+      "options": [
+        "Qalin muskulli mantiya",
+        "Ikki pallali chig‘anoq",
+        "Yupqa mantiya va chig‘anoq",
+        "Muguz moddali qobiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 53,
+      "question": "Boshoyoqlilarning chig‘anog‘i haqida to‘g‘ri fikrni toping.",
+      "options": [
+        "Chig‘anog‘i sadaf bilan qoplangan",
+        "Ikki pallali chig‘anog‘i bor",
+        "Chig‘anog‘i yo‘qolib ketgan",
+        "Spiral o‘ralgan chig‘anog‘i bor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "Boshoyoqlilarning og‘iz teshigi atrofida nechta paypaslagich bo‘ladi?",
+      "options": [
+        "Faqat 8 ta",
+        "8 yoki 10 ta",
+        "10 yoki 12 ta",
+        "6 yoki 8 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 55,
+      "question": "Boshoyoqlilar paypaslagichlarida nima joylashgan?",
+      "options": [
+        "Yopishqoq iplar",
+        "Juda ko‘p tishchalar",
+        "Bir juft ko‘z",
+        "Juda ko‘p so‘rg‘ichlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Boshoyoqlilar nerv sistemasining o‘ziga xosligi nimada?",
+      "options": [
+        "Bosh miyasi kuchsiz rivojlangan, oddiy reflekslar hosil qiladi",
+        "Bosh miyasi kuchli rivojlangan, xilma-xil va murakkab reflekslar hosil qiladi",
+        "Uch juft nerv tugunlari nerv tolalari bilan tutashgan",
+        "Maxsus sezgi organlari bo‘lmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 57,
+      "question": "Boshoyoqlilar qanday harakatlanadi?",
+      "options": [
+        "Oyog‘ini suv tubiga tirab, tanasini tortib",
+        "Mantiya bo‘shlig‘idagi suvni voronka orqali katta bosim ostida siqib chiqarib, reaktiv",
+        "Paypaslagichlaridagi so‘rg‘ichlar yordamida sirpanib",
+        "Mantiya bo‘shlig‘idagi suvni sifon orqali katta bosim ostida siqib chiqarib, reaktiv"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 58,
+      "question": "Boshoyoqlilarda siyoh xaltasi yo‘li qayerga ochiladi?",
+      "options": [
+        "Orqa ichagiga",
+        "Mantiya bo‘shlig‘iga",
+        "Oshqozonga",
+        "Voronkaga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 59,
+      "question": "Boshoyoqlilar xavf tug‘ilganda nima qiladi?",
+      "options": [
+        "Suvga zaharli suyuqlik chiqarib dushmanni o‘ldiradi",
+        "Loyga ko‘milib oladi",
+        "Suvga siyoh chiqarib, dushmandan qutulib qoladi",
+        "Chig‘anog‘iga yashirinib oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Boshoyoqli mollyuskalar qayerda tarqalgan?",
+      "options": [
+        "Dengiz va chuchuk suvlarda, ayniqsa tropik dengizlarda",
+        "Okean va ochiq dengizlarda, ayniqsa tropik dengizlarda",
+        "Okean va ochiq dengizlarda, ayniqsa qutb dengizlarida",
+        "Dengizlarning sayoz qirg‘oqlarida, ayniqsa sho‘rlangan suvlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "Boshoyoqli mollyuskalarning nechta turi ma’lum?",
+      "options": [
+        "65 ga yaqin",
+        "650 ga yaqin",
+        "6 500 ga yaqin",
+        "30 000 dan ortiq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Kalmar, karakatitsa va sakkizoyoqning asosiy ozig‘i nima?",
+      "options": [
+        "Krablar, baliqlar, suv o‘tlari",
+        "Krablar, baliqlar, mollyuskalar",
+        "Plankton va organik zarralar",
+        "Baliqlar, dengiz qushlari, mollyuskalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Boshoyoqli mollyuskalar vakillarini toping.",
+      "options": [
+        "Sakkizoyoq, tridakna, karakatitsa",
+        "Kalmar, karakatitsa, sakkizoyoq",
+        "Kalmar, midiya, sakkizoyoq",
+        "Karakatitsa, taroqcha, kalmar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Kalmar, karakatitsa va sakkizoyoq nima maqsadda ovlanadi?",
+      "options": [
+        "Siyohi uchun",
+        "Chig‘anog‘i uchun",
+        "Go‘shti uchun",
+        "Marvarid olish uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Moslashtiring: 1) yopuvchi muskullar qisqaradi; 2) yopuvchi muskullar bo‘shashadi.  a) elastik paylar tortilib pallalar ochiladi; b) pallalar yopiladi",
+      "options": [
+        "1-a, 2-b",
+        "1-a, 2-a",
+        "1-b, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 66,
+      "question": "Moslashtiring (baqachanoq): 1) pastki sifon; 2) ustki sifon; 3) og‘iz oldi paypaslagichlari.  a) suv chiqib ketadi; b) suv kiradi; c) oziqni tutib qoladi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Moslashtiring (tur soni): 1) qorinoyoqlilar; 2) ikki pallalilar; 3) boshoyoqlilar.  a) 650 ga yaqin; b) 100 000 ga yaqin; c) 30 000 dan ortiq",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Moslashtiring (harakatlanish): 1) suv shillig‘i; 2) baqachanoq; 3) kalmar.  a) reaktiv; b) oyog‘ini tirab tanani tortib; c) oyoq muskullarining to‘lqinsimon qisqarishi bilan sirpanib",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Moslashtiring (nafas olish organi): 1) suv shillig‘i; 2) baqachanoq.  a) jabralar; b) xaltasimon o‘pka",
+      "options": [
+        "1-a, 2-a",
+        "1-b, 2-b",
+        "1-a, 2-b",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 70,
+      "question": "Moslashtiring (chig‘anoq): 1) suv shillig‘i; 2) baqachanoq; 3) sakkizoyoq.  a) yo‘qolib ketgan; b) ikki pallali; c) spiral o‘ralgan",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 71,
+      "question": "Moslashtiring (paypaslagichlar): 1) suv shillig‘i; 2) baqachanoq; 3) boshoyoqlilar.  a) 8 yoki 10 ta, so‘rg‘ichli; b) bir juft, sezgi organi; c) ikki juft, oziqni tutib qoladi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 72,
+      "question": "Moslashtiring (jinsi): 1) suv shillig‘i; 2) baqachanoq.  a) ayrim jinsli; b) germafrodit",
+      "options": [
+        "1-b, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-b",
+        "1-a, 2-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 73,
+      "question": "Moslashtiring (oziqlanish): 1) suv shillig‘i; 2) baqachanoq; 3) sakkizoyoq.  a) krablar, baliqlar, mollyuskalar; b) suvni filtrlab organik zarralar; c) tilchasi bilan bakteriya va suv o‘tlarini qirib",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 74,
+      "question": "Moslashtiring (orqa ichak / orqa chiqaruv teshigi): 1) suv shillig‘i; 2) baqachanoq; 3) boshoyoqlilar.  a) unga siyoh xaltasi yo‘li ochiladi; b) chiqarish sifoniga ochiladi; c) mantiya chetida",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Moslashtiring (ahamiyati): 1) dreysena; 2) baqachanoq lichinkasi; 3) kichik shilliq; 4) tok shillig‘i.  a) baliqlarda parazitlik qiladi; b) suv quvurlarini ishdan chiqaradi; c) ekinlarga ziyon keltiradi; d) jigar qurtining oraliq xo‘jayini",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-a, 3-c, 4-d",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Moslashtiring (nerv sistemasi): 1) suv shillig‘i; 2) baqachanoq; 3) boshoyoqlilar.  a) kuchli rivojlangan bosh miya; b) uch juft nerv tugunlari, maxsus sezgi organlari yo‘q; c) bir necha juft nerv tugunlari, ko‘zlari bor",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 77,
+      "question": "Baqachanoq bilan suv shillig‘ining nafas olishidagi farqni toping.",
+      "options": [
+        "Ikkalasi ham suvda erigan kislorod bilan jabrasi orqali nafas oladi",
+        "Baqachanoq atmosfera kislorodi bilan o‘pkasi orqali, shilliq suvda erigan kislorod bilan jabrasi orqali nafas oladi",
+        "Baqachanoq suvda erigan kislorod bilan jabrasi orqali, shilliq atmosfera kislorodi bilan o‘pkasi orqali nafas oladi",
+        "Ikkalasi ham atmosfera kislorodi bilan o‘pkasi orqali nafas oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Baqachanoq bilan suv shillig‘ining ko‘payishidagi farqni toping.",
+      "options": [
+        "Shilliq ayrim jinsli, baqachanoq germafrodit",
+        "Ikkalasi ham ayrim jinsli",
+        "Shilliq germafrodit, baqachanoq ayrim jinsli",
+        "Ikkalasi ham germafrodit"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 79,
+      "question": "Baqachanoq va suv shillig‘i rivojlanishidagi farqni toping.",
+      "options": [
+        "Shilliq tuxumidan parazit lichinka, baqachanoq tuxumidan kichik mollyuska chiqadi",
+        "Shilliq tuxumidan kichik mollyuska, baqachanoq tuxumidan parazit lichinka chiqadi",
+        "Ikkalasining tuxumidan ham kichik mollyuskalar chiqadi",
+        "Ikkalasining tuxumidan ham parazit lichinkalar chiqadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "Baqachanoq va suv shillig‘i uchun umumiy belgini toping.",
+      "options": [
+        "Ochiq qon aylanish sistemasi",
+        "Jabra bilan nafas olish",
+        "Boshining bo‘lishi",
+        "Germafroditlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Baqachanoq, suv shillig‘i va sakkizoyoq uchun umumiy belgini toping.",
+      "options": [
+        "Chig‘anog‘i bor",
+        "Tanasini mantiya o‘rab turadi",
+        "Bosh miyasi kuchli rivojlangan",
+        "Jabra bilan nafas oladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 82,
+      "question": "Suv shillig‘ida bor, baqachanoqda yo‘q belgini toping.",
+      "options": [
+        "Ochiq qon aylanish sistemasi",
+        "Mantiya va chig‘anoq",
+        "Bosh, ko‘zlar va mayda tishchali tilcha",
+        "Og‘iz oldidagi ikki juft paypaslagich"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 83,
+      "question": "Baqachanoqda bor, suv shillig‘ida yo‘q belgini toping.",
+      "options": [
+        "Sifonlar va yopuvchi muskullar",
+        "Nerv tugunlari",
+        "Mantiya va chig‘anoq",
+        "Og‘iz teshigi va paypaslagichlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "Boshoyoqlilarni boshqa mollyuskalardan ajratib turadigan belgini toping.",
+      "options": [
+        "Reaktiv harakat qilishi va siyoh xaltasining bo‘lishi",
+        "Dengizlarda tarqalganligi",
+        "Tanasining mantiya bilan o‘ralganligi",
+        "Paypaslagichlarining bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 85,
+      "question": "Baqachanoq haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Paypaslagichlari asosida bir juft ko‘zi bor",
+        "Chig‘anoq pallalari elastik paylar bilan tutashgan",
+        "Og‘iz teshigi oyoqning asosida joylashgan",
+        "Tuxumlari jabralar sirtida rivojlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 86,
+      "question": "Boshoyoqlilar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Paypaslagichlarida juda ko‘p so‘rg‘ichlar bor",
+        "Tanasi qalin muskulli mantiya bilan o‘ralgan",
+        "Chig‘anog‘i yo‘qolib ketgan",
+        "Uch juft nerv tugunlari bo‘lib, maxsus sezgi organlari yo‘q"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "Ikki pallalilar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Ko‘pchilik turlari chuchuk suvlarda yashaydi",
+        "Boshi bo‘lmaydi",
+        "Suv havzalarining tozalanishiga yordam beradi",
+        "Eng yirigi tridakna hisoblanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 88,
+      "question": "Qaysi juftlikdagi ikkala hayvon ham parazitlik bilan bog‘liq (parazit yoki oraliq xo‘jayin)?",
+      "options": [
+        "Dreysena va tok shillig‘i",
+        "Baqachanoq lichinkasi va dreysena",
+        "Kichik shilliq va tok shillig‘i",
+        "Baqachanoq lichinkasi va kichik shilliq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 89,
+      "question": "Qaysi qatorda mollyuskalar tur soni kamayib borish tartibida joylashgan?",
+      "options": [
+        "Ikki pallalilar → qorinoyoqlilar → boshoyoqlilar",
+        "Qorinoyoqlilar → ikki pallalilar → boshoyoqlilar",
+        "Boshoyoqlilar → ikki pallalilar → qorinoyoqlilar",
+        "Qorinoyoqlilar → boshoyoqlilar → ikki pallalilar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 90,
+      "question": "Qaysi mollyuskalar faqat dengiz va okeanlarda uchraydi?",
+      "options": [
+        "Boshoyoqlilar",
+        "Qorinoyoqlilar",
+        "Ikki pallalilar va boshoyoqlilar",
+        "Ikki pallalilar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 91,
+      "question": "O‘zbekiston suv havzalarida uchraydigan mollyuskalarni toping.",
+      "options": [
+        "Dreysena, ustritsa, kichik shilliq",
+        "Baqachanoq, midiya, suv shilliqlari",
+        "Baqachanoq, tok shillig‘i, dreysena",
+        "Baqachanoq, dreysena, suv shilliqlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 92,
+      "question": "Paypaslagichlar boshqa mollyuskalarda boshning yoki og‘izning yonida joylashsa, boshoyoqlilarda ular qaysi organning o‘zgarishidan hosil bo‘lgan?",
+      "options": [
+        "Mantiyaning",
+        "Voronkaning",
+        "Boshning",
+        "Oyoqning"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 93,
+      "question": "Baqachanoq va boshoyoqlilarning mantiya bo‘shlig‘idan suvni chiqarishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham suv voronka orqali katta bosim bilan chiqadi",
+        "Baqachanoqda suv chiqarish sifonidan, boshoyoqlilarda voronka orqali katta bosim bilan chiqadi",
+        "Baqachanoqda suv voronka orqali, boshoyoqlilarda chiqarish sifonidan chiqadi",
+        "Ikkalasida ham suv chiqarish sifonidan chiqadi"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
