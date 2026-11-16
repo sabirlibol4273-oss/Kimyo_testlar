@@ -2,5 +2,1018 @@
   "topicId": 20,
   "title": "O‘rgimchaksimonlarning xilma-xilligi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "O‘rgimchaklarning ko‘pchilik turlari qanday foyda keltiradi?",
+      "options": [
+        "Yirtqich bo‘lib, pashsha, chivin kabi hasharotlarni qiradi",
+        "Suvni filtrlab tozalaydi",
+        "Zararkunanda kemiruvchilarni qiradi",
+        "O‘simlik qoldiqlari bilan oziqlanib, tuproqni yumshatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Zaharli o‘rgimchaklarni toping.",
+      "options": [
+        "Qoraqurt va falanga",
+        "Biy va falanga",
+        "Qoraqurt va biy",
+        "Qoraqurt va butli o‘rgimchak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Qoraqurt qayerlarda uchraydi?",
+      "options": [
+        "O‘rta Osiyo, Kavkaz va Qrimning daryo bo‘ylarida",
+        "Faqat O‘rta Osiyo cho‘llarida",
+        "O‘rta Osiyo, Kavkaz va Qrimning dasht va cho‘llarida",
+        "O‘rta Osiyo, Kavkaz va Qrimning tog‘ o‘rmonlarida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Qoraqurtning qaysi individlarida qorni ustida qizg‘ish dog‘lar bo‘ladi?",
+      "options": [
+        "Yosh urg‘ochilarida",
+        "Qari urg‘ochilarida",
+        "Yosh erkaklarida",
+        "Hamma qoraqurtlarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Qoraqurt tutqich to‘rini qayerga to‘qiydi?",
+      "options": [
+        "Tuproqdagi 60 sm chuqurlikdagi in ichiga",
+        "O‘tlar va butalar orasiga tik qilib",
+        "Tuproqdagi chuqurchalar ustiga, toshlar ostiga",
+        "Daraxt shoxlari orasiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Qoraqurt nimalar bilan oziqlanadi?",
+      "options": [
+        "Hayvonlar va odam qoni",
+        "Hasharotlar va mayda sudralib yuruvchilar",
+        "Pashsha, chivin va kapalaklar",
+        "Chigirtka, qo‘ng‘iz, qandala va boshqa hasharotlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Qoraqurt zahari qaysi hayvonlarga ayniqsa kuchli ta’sir etadi?",
+      "options": [
+        "Qoramol va qo‘ylarga",
+        "Tuya va qo‘ylarga",
+        "Tuya va otlarga",
+        "It va mushuklarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Qoraqurt zahari odamga qanday ta’sir qiladi?",
+      "options": [
+        "Faqat bolalar uchun xavfli",
+        "Faqat yengil qichishish chaqiradi",
+        "Odam uchun xavfli",
+        "Odamga ta’sir qilmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Eng yirik o‘rgimchak qaysi va uning kattaligi qancha?",
+      "options": [
+        "Sariq falanga, 3–4 sm",
+        "Qoraqurt, 3–4 sm",
+        "Biy, 6–7 sm",
+        "Biy, 3–4 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 10,
+      "question": "Biy qayerda yashaydi?",
+      "options": [
+        "Toshlar ostidagi tutqich to‘rda",
+        "Tuproqda, chuqurligi 60 sm gacha bo‘lgan gorizontal inda",
+        "Tuproqda, chuqurligi 6 sm gacha bo‘lgan qiya inda",
+        "Tuproqda, chuqurligi 60 sm gacha bo‘lgan tik inda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Biy qachon ovga chiqadi?",
+      "options": [
+        "Tunda",
+        "Kunduzi",
+        "Faqat bahorda, kunduzi",
+        "Erta tongda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "O‘rgimchaksimonlar orasida eng yirigi qaysi?",
+      "options": [
+        "Biy",
+        "Qoraqurt",
+        "Chayonlar",
+        "Falangalar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Falangalar asosan qanday iqlimda hayot kechiradi?",
+      "options": [
+        "Mo‘tadil va nam iqlimda",
+        "Issiq va quruq iqlimda",
+        "Sovuq va quruq iqlimda",
+        "Issiq va nam iqlimda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "Yirik sariq falanganing kattaligi qancha?",
+      "options": [
+        "10–12 sm",
+        "1–2 sm",
+        "3–4 sm",
+        "6–7 sm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 15,
+      "question": "Falanganing tanasi qanday qismlardan iborat?",
+      "options": [
+        "Boshko‘krak va qorin",
+        "Bosh, ko‘krak va qorin",
+        "Bo‘g‘imlarga bo‘linmagan yaxlit tana",
+        "Bosh va tana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Falanganing boshida nima joylashgan?",
+      "options": [
+        "To‘rt juft ko‘z va jag‘lari",
+        "Sanchib so‘ruvchi xartumcha",
+        "Bir juft ko‘z va og‘iz organlari (jag‘lari)",
+        "Bir juft yirik va besh juft mayda ko‘zcha"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Falanganing jag‘lari va oyoq paypaslagichlari nimaga o‘xshaydi?",
+      "options": [
+        "Jag‘lari xartumchaga, oyoq paypaslagichlari tirnoqqa",
+        "Jag‘lari o‘tkir tirnoqqa, oyoq paypaslagichlari qisqichga",
+        "Jag‘lari qisqichga, oyoq paypaslagichlari yurish oyoqlariga",
+        "Jag‘lari o‘tkir tirnoqqa, oyoq paypaslagichlari yurish oyoqlariga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Sariq falanga qachon ovga chiqadi va nimalar bilan oziqlanadi?",
+      "options": [
+        "Kunduzi; hasharotlar va mayda sudralib yuruvchilar bilan",
+        "Kechasi; faqat hasharotlar bilan",
+        "Kechasi; hasharotlar va mayda sudralib yuruvchilar bilan",
+        "Kechasi; o‘rgimchaklar va hayvonlar qoni bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Falanganing zahar bezi haqida to‘g‘ri fikrni toping.",
+      "options": [
+        "Zahar bezi bo‘lmaydi",
+        "Zahar bezi jag‘lari asosida",
+        "Zahar bezi qornining oxirgi bo‘g‘imida",
+        "Zahar bezi oyoq paypaslagichlarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Falanganing ahamiyati nimada?",
+      "options": [
+        "Chorva mollarining qonini so‘radi",
+        "Odamga xavfli kasalliklarni yuqtiradi",
+        "Zararkunanda hasharotlarni qirib foyda keltiradi",
+        "Tuya va otlarni zaharlab ziyon keltiradi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Chayonlar qayerda keng tarqalgan?",
+      "options": [
+        "Tropik o‘rmonlarda",
+        "Faqat O‘rta Osiyoda",
+        "Shimoliy mamlakatlarda",
+        "Janubiy mamlakatlarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 22,
+      "question": "O‘rta Osiyo hududida qaysi chayon ko‘p uchraydi?",
+      "options": [
+        "Sariq chayon",
+        "Sariq falanga",
+        "Imperator chayon",
+        "Qora chayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Chayonning tanasi qanday tuzilgan?",
+      "options": [
+        "Yassi, bosh, ko‘krak va qorin qismlariga bo‘lingan",
+        "Yumaloq, boshko‘krak va qorin qismlariga bo‘lingan",
+        "Yassi, boshko‘krak va qorin qismlariga bo‘lingan",
+        "Yassi oval, bo‘g‘imlarga bo‘linmagan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Chayonning ko‘zlari qanday joylashgan?",
+      "options": [
+        "Boshining ustida bir juft yirikroq, ikki yonida uch juft mayda ko‘zcha",
+        "Boshining ustida besh juft yirikroq, ikki yonida bir juft mayda ko‘zcha",
+        "Boshining ustida to‘rt juft oddiy ko‘zcha",
+        "Boshining ustida bir juft yirikroq, ikki yonida besh juft mayda ko‘zcha"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Chayonda jami nechta ko‘z bor?",
+      "options": [
+        "12 ta",
+        "10 ta",
+        "8 ta",
+        "6 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Chayonning ustki jag‘lari va oyoq paypaslagichlari qanday?",
+      "options": [
+        "Ustki jag‘lari qisqichga aylangan, oyoq paypaslagichlari o‘rgimchaknikiga o‘xshaydi",
+        "Ustki jag‘lari o‘rgimchaknikiga o‘xshaydi, oyoq paypaslagichlari yurish oyoqlariga o‘xshaydi",
+        "Ustki jag‘lari o‘rgimchaknikiga o‘xshaydi, oyoq paypaslagichlari qisqichga aylangan",
+        "Ustki jag‘lari va oyoq paypaslagichlari qo‘shilib xartumcha hosil qilgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Chayonning qorin bo‘limi qanday tuzilgan?",
+      "options": [
+        "Dumaloq, silliq, bo‘g‘imlari qo‘shilib ketgan",
+        "Uzun, ingichka oldingi va keng orqa qismlardan iborat",
+        "Uzun, keng oldingi va ingichka orqa qismlardan iborat",
+        "Kalta, bo‘g‘imlari qo‘shilib ketgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Chayonning zahar bezi va nayzasi qayerda joylashgan?",
+      "options": [
+        "Jag‘larining asosida",
+        "Qornining oxirgi bo‘g‘imida",
+        "Qorinning keng oldingi qismida",
+        "Qisqichlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Chayon zahar bezining yo‘li qayerga ochiladi?",
+      "options": [
+        "Nayzaning uchiga",
+        "Ustki jag‘ tirnoqlariga",
+        "Nayzaning asosiga",
+        "Qisqichlar uchiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Chayonlar kunduzi qayerda bo‘ladi?",
+      "options": [
+        "Tuproqdagi 60 sm chuqurlikdagi tik inda",
+        "Toshlar ostida, devor va yerdagi kovaklarda yashirinib",
+        "Tutqich to‘r yonidagi inida",
+        "Butalar shoxlarida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Chayon qanday harakatlanadi?",
+      "options": [
+        "Qornining ingichka qismini yerga sudrab, tez yuguradi",
+        "Qisqichlarini oldinga cho‘zib, sekin o‘rmalaydi",
+        "Qornining keng qismini yuqori ko‘tarib, sekin yuradi",
+        "Qornining ingichka qismini yuqori ko‘tarib, tez yuguradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Chayon asosan qanday hayvonlarni ovlaydi?",
+      "options": [
+        "Mayda sudralib yuruvchilarni",
+        "O‘rgimchak va hasharotlarni",
+        "Mollyuskalarni",
+        "Chigirtka va qandalalarni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Chayon o‘ljasini qanday tutadi va o‘ldiradi?",
+      "options": [
+        "Qisqichlari bilan tutib, zaharli nayzasi bilan o‘ldiradi",
+        "Tutqich to‘r bilan tutib, jag‘lari bilan zaharlaydi",
+        "Zaharli nayzasi bilan tutib, qisqichlari bilan o‘ldiradi",
+        "Jag‘lari bilan tutib, zaharli nayzasi bilan o‘ldiradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Chayonlar qanday ko‘payadi?",
+      "options": [
+        "20–30 tagacha tuxumni pillaga qo‘yib",
+        "200–300 tagacha tirik bola tug‘ib",
+        "2–3 tagacha tirik bola tug‘ib",
+        "20–30 tagacha tirik bola tug‘ib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Chayonlarning ahamiyati nimada?",
+      "options": [
+        "Tuproqni chirindiga boyitadi",
+        "Hayvonlarning qonini so‘rib ziyon keltiradi",
+        "Kasalliklarni yuqtirib ziyon keltiradi",
+        "Zararkunanda hasharotlarni qirib foyda keltiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Kanalarning tanasi qanday?",
+      "options": [
+        "Yassi oval, bosh, ko‘krak va qoringa bo‘lingan",
+        "Yassi oval, boshko‘krak va qoringa bo‘lingan",
+        "Yumaloq, bo‘g‘imlarga bo‘lingan",
+        "Yassi oval, bo‘g‘imlarga bo‘linmagan, gavda bo‘limlari qo‘shilib ketgan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 37,
+      "question": "Kananing sanchib so‘ruvchi xartumchasi qanday hosil bo‘lgan?",
+      "options": [
+        "Oyoq paypaslagichlari va mo‘ylovlarning qo‘shilishidan",
+        "Faqat jag‘larning cho‘zilishidan",
+        "Jag‘lar va birinchi juft yurish oyoqlarining qo‘shilishidan",
+        "Jag‘lar va oyoq paypaslagichlarining qo‘shilishidan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 38,
+      "question": "Kananing xartumchasi qayerda joylashgan?",
+      "options": [
+        "Tanasining keyingi uchida",
+        "Tanasining ostki tomonida, o‘rtada",
+        "Tanasining oldingi uchida",
+        "Tanasining ustki tomonida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Ko‘pchilik kanalar qanday hayot kechiradi?",
+      "options": [
+        "Suvni filtrlab",
+        "O‘simlik qoldiqlari bilan oziqlanib",
+        "Yirtqichlik qilib",
+        "Parazitlik qilib"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Kanalar qaysi davrida qon so‘rib parazitlik qiladi?",
+      "options": [
+        "Voyaga yetgan kanalar",
+        "Faqat tuxumdan chiqqan yoshlari",
+        "Faqat lichinkalari",
+        "Faqat erkaklari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Mol kanasi kimlarning qonini so‘radi?",
+      "options": [
+        "Faqat qoramolning",
+        "It, qoramol va boshqa hayvonlar hamda odamning",
+        "Faqat it va mushukning",
+        "Faqat yovvoyi hayvonlarning"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Kanalar o‘z xo‘jayinlarini qanday topadi?",
+      "options": [
+        "Issiqlik orqali",
+        "Hidi orqali",
+        "Ko‘rish orqali",
+        "Tovush orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "Kanalar odamlarga qaysi kasalliklarni yuqtiradi?",
+      "options": [
+        "Ensefalit, sil va terlama",
+        "Terlama, bezgak va ensefalit",
+        "Terlama, tulyaremiya va ensefalit",
+        "Tulyaremiya, vabo va gripp"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Kanalar yuqtiradigan kasalliklarning qo‘zg‘atuvchilari kimlar va tabiatda qayerda yashaydi?",
+      "options": [
+        "Bakteriyalar va viruslar, uy hayvonlari tanasida",
+        "Zamburug‘lar, tuproqda",
+        "Bakteriyalar va viruslar, yovvoyi hayvonlar tanasida",
+        "Sodda hayvonlar, yovvoyi hayvonlar tanasida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Kanalangan hayvonlarda nima kuzatiladi?",
+      "options": [
+        "Ozib ketadi, mahsuldorligi o‘zgarmaydi",
+        "Semiradi, lekin mahsuldorligi kamayadi",
+        "Ozib ketadi va mahsuldorligi kamayadi",
+        "Faqat junlari to‘kiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 46,
+      "question": "Parazit kanalardan saqlanish choralarini toping.",
+      "options": [
+        "Faqat odamlarni emlash",
+        "Molxonani ozoda tutish, hayvonlarni va kiyimlarni kanalardan tozalash",
+        "Molxonani isitish, hayvonlarni kamroq boqish",
+        "Hayvonlarni yaylovda ko‘proq saqlash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Teriga yopishgan kanalar bilan nima qilish lozim?",
+      "options": [
+        "Tegmasdan, o‘zi tushishini kutish",
+        "Terib olib, o‘ldirish",
+        "Teriga ezib yuborish",
+        "Ustidan suv quyib yuvish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Moslashtiring (kattaligi): 1) biy; 2) sariq falanga.  a) 6–7 sm; b) 3–4 sm",
+      "options": [
+        "1-b, 2-b",
+        "1-a, 2-a",
+        "1-a, 2-b",
+        "1-b, 2-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Moslashtiring (oyoq paypaslagichlari): 1) falanga; 2) chayon; 3) kana.  a) jag‘lar bilan qo‘shilib xartumcha hosil qilgan; b) qisqichga aylangan; c) yurish oyoqlariga o‘xshaydi",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Moslashtiring (tana bo‘limlari): 1) falanga; 2) chayon; 3) kana.  a) bo‘limlari qo‘shilib ketgan; b) boshko‘krak va qorin; c) bosh, ko‘krak va qorin",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 51,
+      "question": "Moslashtiring (ko‘zlar): 1) falanga; 2) chayon.  a) bir juft yirikroq va besh juft mayda; b) bir juft",
+      "options": [
+        "1-a, 2-a",
+        "1-b, 2-a",
+        "1-b, 2-b",
+        "1-a, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring (yashash joyi): 1) qoraqurt; 2) biy; 3) chayon.  a) toshlar ostida, devor va yer kovaklarida; b) 60 sm gacha tik inda; c) chuqurchalar ustidagi, toshlar ostidagi to‘rda",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (oziqlanishi): 1) qoraqurt; 2) sariq falanga; 3) chayon; 4) mol kanasi.  a) hayvon va odam qoni; b) chigirtka, qo‘ng‘iz, qandala; c) o‘rgimchak va hasharotlar; d) hasharotlar va mayda sudralib yuruvchilar",
+      "options": [
+        "1-d, 2-b, 3-c, 4-a",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (ahamiyati): 1) chayon; 2) kana; 3) qoraqurt.  a) zahari tuya va otlarga kuchli ta’sir etadi; b) zararkunanda hasharotlarni qiradi; c) og‘ir kasalliklarni yuqtiradi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (zahar bezi): 1) chayon; 2) falanga; 3) qoraqurt.  a) bo‘lmaydi; b) qornining oxirgi bo‘g‘imida; c) jag‘lar asosida",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "O‘rgimchaksimonlar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Kanalar hidni juda yaxshi sezadi",
+        "Chayonlar tirik bola tug‘ib ko‘payadi",
+        "Falanganing jag‘lari asosida zahar bezlari bor",
+        "Biy tunda inidan chiqib hasharotlarni ovlaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Chayon haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Nayzasining uchiga zahar bezi yo‘li ochiladi",
+        "Oyoq paypaslagichlari qisqichga aylangan",
+        "Kunduzi toshlar ostida yashirinadi",
+        "Qornining keng qismini yuqori ko‘tarib yuguradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Kanalar haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Faqat yovvoyi hayvonlarda parazitlik qiladi",
+        "Tanasi boshko‘krak va qoringa bo‘lingan",
+        "Kanalar kasallik qo‘zg‘atuvchilarini o‘zi hosil qiladi",
+        "Kasallik qo‘zg‘atuvchilari tabiatda yovvoyi hayvonlar tanasida yashaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Qaysi o‘rgimchaksimonning tanasi bo‘g‘imlarga bo‘linmagan?",
+      "options": [
+        "Chayon",
+        "Falanga",
+        "Kana",
+        "Biy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Qaysi o‘rgimchaksimonning tanasi uch qismga (bosh, ko‘krak, qorin) bo‘lingan?",
+      "options": [
+        "Chayon",
+        "Falanga",
+        "Qoraqurt",
+        "Kana"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 61,
+      "question": "Falanga va chayonning umumiy belgisini toping.",
+      "options": [
+        "Ikkalasining ham oyoq paypaslagichlari qisqichga aylangan",
+        "Ikkalasi ham kechasi ovga chiqib, zararkunanda hasharotlarni qiradi",
+        "Ikkalasining ham zahar bezi bor",
+        "Ikkalasining ham tanasi bosh, ko‘krak va qoringa bo‘lingan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 62,
+      "question": "Falanga va chayonning farqini toping.",
+      "options": [
+        "Falangada zahar bezi yo‘q, chayonda qornining oxirgi bo‘g‘imida zahar bezi bor",
+        "Chayonda zahar bezi yo‘q, falangada jag‘lari asosida zahar bezi bor",
+        "Ikkalasida ham qornining oxirgi bo‘g‘imida zahar bezi bor",
+        "Ikkalasida ham zahar bezi yo‘q"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 63,
+      "question": "Kechasi (tunda) ovga chiqadigan o‘rgimchaksimonlar qatorini toping.",
+      "options": [
+        "Biy, falanga, chayon",
+        "Falanga, chayon, mol kanasi",
+        "Qoraqurt, falanga, chayon",
+        "Biy, qoraqurt, kana"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "Odam uchun xavfli bo‘lgan o‘rgimchaksimonlar qatorini toping.",
+      "options": [
+        "Falanga va kanalar",
+        "Qoraqurt va kanalar",
+        "Qoraqurt va falanga",
+        "Butli o‘rgimchak va kanalar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 65,
+      "question": "Foydali (zararkunanda hasharotlarni qiruvchi) o‘rgimchaksimonlar qatorini toping.",
+      "options": [
+        "Chayon va mol kanasi",
+        "Qoraqurt va mol kanasi",
+        "Falanga va mol kanasi",
+        "Falanga va chayon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Butli o‘rgimchak va qoraqurt zaharining farqini toping.",
+      "options": [
+        "Butli o‘rgimchak zahari odamga ta’sir qilmaydi, qoraqurt zahari odam uchun xavfli",
+        "Qoraqurt zahari odamga ta’sir qilmaydi, butli o‘rgimchak zahari odam uchun xavfli",
+        "Ikkalasining zahari ham odamga ta’sir qilmaydi",
+        "Ikkalasining zahari ham odam uchun xavfli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 67,
+      "question": "Butli o‘rgimchak va qoraqurt tutqich to‘rining joylashuvidagi farqni toping.",
+      "options": [
+        "Butli o‘rgimchak o‘tlar va butalar orasiga tik, qoraqurt tuproqdagi chuqurchalar ustiga va toshlar ostiga to‘qiydi",
+        "Ikkalasi ham o‘tlar va butalar orasiga tik to‘qiydi",
+        "Ikkalasi ham tuproq chuqurchalari ustiga to‘qiydi",
+        "Qoraqurt o‘tlar va butalar orasiga tik, butli o‘rgimchak toshlar ostiga to‘qiydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 68,
+      "question": "Moslashtiring (ko‘zlar soni): 1) butli o‘rgimchak; 2) chayon; 3) falanga; 4) daryo qisqichbaqasi.  a) 1 juft; b) 6 juft; c) 4 juft; d) 1 juft murakkab",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-a, 2-b, 3-c, 4-d",
+        "1-c, 2-b, 3-d, 4-a",
+        "1-b, 2-c, 3-a, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 69,
+      "question": "Butli o‘rgimchak va chayonning oyoq paypaslagichlari farqini toping.",
+      "options": [
+        "Ikkalasida ham yurish oyoqlariga o‘xshaydi",
+        "Butli o‘rgimchakda tuyg‘u organi, chayonda qisqichga aylangan",
+        "Butli o‘rgimchakda qisqichga aylangan, chayonda tuyg‘u organi",
+        "Ikkalasida ham qisqichga aylangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 70,
+      "question": "Butli o‘rgimchak va chayon zahar bezining joylashishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham qornining oxirgi bo‘g‘imida",
+        "Butli o‘rgimchakda qornining oxirgi bo‘g‘imida, chayonda jag‘lar asosida",
+        "Ikkalasida ham jag‘lar asosida",
+        "Butli o‘rgimchakda jag‘lar asosida, chayonda qornining oxirgi bo‘g‘imida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 71,
+      "question": "Butli o‘rgimchak va chayon zaharni o‘ljaga qanday yuboradi?",
+      "options": [
+        "Ikkalasi ham jag‘ tirnoqlaridagi naycha orqali",
+        "O‘rgimchak jag‘ tirnoqlaridagi naycha orqali, chayon nayzasining uchidan",
+        "O‘rgimchak nayza uchidan, chayon jag‘ tirnoqlaridagi naycha orqali",
+        "Ikkalasi ham nayza uchidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 72,
+      "question": "Butli o‘rgimchak va chayon qorin bo‘limining farqini toping.",
+      "options": [
+        "Chayonda dumaloq, bo‘g‘imlari qo‘shilgan; butli o‘rgimchakda uzun, keng va ingichka qismli",
+        "Butli o‘rgimchakda dumaloq, bo‘g‘imlari qo‘shilgan; chayonda uzun, keng oldingi va ingichka orqa qismli",
+        "Ikkalasida ham uzun va ingichka",
+        "Ikkalasida ham dumaloq va silliq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 73,
+      "question": "Butli o‘rgimchak va chayon ko‘payishining farqini toping.",
+      "options": [
+        "Butli o‘rgimchak pillaga tuxum qo‘yadi, chayon tirik bola tug‘adi",
+        "Ikkalasi ham tirik bola tug‘adi",
+        "Butli o‘rgimchak tirik bola tug‘adi, chayon pillaga tuxum qo‘yadi",
+        "Ikkalasi ham pillaga tuxum qo‘yadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 74,
+      "question": "Butli o‘rgimchak, qoraqurt va biy uchun umumiy belgini toping.",
+      "options": [
+        "Hammasining zahari odam uchun xavfli",
+        "Ularning hammasi o‘rgimchaklar turkumiga kiradi va zahari bor",
+        "Hammasi tutqich to‘r to‘qiydi",
+        "Hammasi tunda inidan chiqib ovlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 75,
+      "question": "Butli o‘rgimchak va biy ovining farqini toping.",
+      "options": [
+        "Ikkalasi ham tutqich to‘r yordamida ovlaydi",
+        "Butli o‘rgimchak to‘r yonidagi inida poylaydi, biy tunda inidan chiqib ovlaydi",
+        "Biy to‘r yonida poylaydi, butli o‘rgimchak tunda inidan chiqib ovlaydi",
+        "Ikkalasi ham tunda inidan chiqib ovlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 76,
+      "question": "Qaysi o‘rgimchaksimonning og‘iz organlari butli o‘rgimchaknikidan eng kuchli farq qiladi?",
+      "options": [
+        "Biy (o‘rgimchak)",
+        "Qoraqurt (o‘rgimchak)",
+        "Kana (jag‘lar va paypaslagichlar xartumchaga qo‘shilgan)",
+        "Chayon (ustki jag‘lari o‘rgimchaknikiga o‘xshaydi)"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 77,
+      "question": "Daryo qisqichbaqasi va chayon qisqichlarining kelib chiqishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham jag‘oyoqlar qisqichga aylangan",
+        "Qisqichbaqada boshko‘krak oyoqlarining birinchi jufti, chayonda oyoq paypaslagichlari qisqichga aylangan",
+        "Ikkalasida ham oyoq paypaslagichlari qisqichga aylangan",
+        "Qisqichbaqada oyoq paypaslagichlari, chayonda birinchi juft yurish oyoqlari qisqichga aylangan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 78,
+      "question": "Daryo qisqichbaqasi va chayon uchun umumiy belgini toping.",
+      "options": [
+        "Qisqichlar bilan o‘ljani tutadi, zaharli nayzasi bor",
+        "Jabra bilan nafas oladi, qisqichlari bor",
+        "Tirik bola tug‘adi, tanasi boshko‘krak va qoringa bo‘lingan",
+        "Qisqichlar bilan o‘ljani tutadi, tanasi boshko‘krak va qoringa bo‘lingan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 79,
+      "question": "Daryo qisqichbaqasi va kananing umumiy belgisini toping.",
+      "options": [
+        "Ikkalasi ham jabra bilan nafas oladi",
+        "Ikkalasi ham hidni yaxshi sezadi",
+        "Ikkalasi ham parazit",
+        "Ikkalasining ham tanasi bo‘g‘imlarga bo‘linmagan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 80,
+      "question": "Daryo qisqichbaqasi va chayon kunduzgi hayotidagi o‘xshashlikni toping.",
+      "options": [
+        "Ikkalasi ham kunduzi toshlar ostida yashirinadi, kechqurun yoki kechasi oziq izlaydi",
+        "Ikkalasi ham kunduzi tutqich to‘r yonida poylaydi",
+        "Ikkalasi ham kun bo‘yi suv tubida o‘rmalaydi",
+        "Ikkalasi ham kunduzi ovlaydi, kechasi yashirinadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Daryo qisqichbaqasi, zaxkash va kana: qaysi biri parazit?",
+      "options": [
+        "Kana",
+        "Hech biri",
+        "Daryo qisqichbaqasi",
+        "Zaxkash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 82,
+      "question": "Moslashtiring (qisqichlar nimadan hosil bo‘lgan): 1) daryo qisqichbaqasi; 2) chayon.  a) oyoq paypaslagichlaridan; b) boshko‘krakdagi 5 juft oyoqning birinchi juftidan",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-a",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 83,
+      "question": "Moslashtiring (ko‘payish): 1) chayon; 2) daryo qisqichbaqasi; 3) butli o‘rgimchak.  a) tuxumni qorinoyoqlarida olib yuradi; b) tirik bola tug‘adi; c) tuxumni pillaga qo‘yadi",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-b, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "Moslashtiring (parazitlik): 1) kana; 2) baqachanoq lichinkasi; 3) kichik shilliq.  a) jigar qurtining oraliq xo‘jayini; b) baliq terisida parazitlik qiladi; c) hayvon va odam qonini so‘radi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-a, 2-b, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 85,
+      "question": "Kana va baqachanoq lichinkasi parazitligining farqini toping.",
+      "options": [
+        "Ikkalasida ham voyaga yetganlari parazitlik qiladi",
+        "Kanada voyaga yetganlari, baqachanoqda lichinkasi parazitlik qiladi",
+        "Ikkalasida ham faqat lichinkalari parazitlik qiladi",
+        "Kanada lichinkasi, baqachanoqda voyaga yetganlari parazitlik qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 86,
+      "question": "Kanalar va kichik shilliqning odam salomatligiga ta’sirining umumiy jihati nima?",
+      "options": [
+        "Ikkalasi ham odamni zaharlaydi",
+        "Ikkalasi ham odam salomatligiga ta’sir qilmaydi",
+        "Ikkalasi ham kasallik yoki parazit tarqalishida ishtirok etadi",
+        "Ikkalasi ham odam qonini so‘radi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 87,
+      "question": "Moslashtiring (eng yirik vakil): 1) o‘rgimchaklar; 2) o‘rgimchaksimonlar; 3) ikki pallalilar.  a) tridakna, 250 kg; b) falanga, 6–7 sm; c) biy, 3–4 sm",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 88,
+      "question": "Chayon zahari va boshoyoqli mollyuskalar siyohining vazifasidagi farqni toping.",
+      "options": [
+        "Chayon zahari dushmandan qutulishga, siyoh o‘ljani o‘ldirishga xizmat qiladi",
+        "Chayon zahari o‘ljani o‘ldirishga, siyoh dushmandan qutulishga xizmat qiladi",
+        "Ikkalasi ham faqat dushmandan qutulishga xizmat qiladi",
+        "Ikkalasi ham o‘ljani o‘ldirishga xizmat qiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "Moslashtiring (zararli ta’siri): 1) kana; 2) tok shillig‘i; 3) dreysena; 4) qoraqurt.  a) suv quvurlarini ishdan chiqaradi; b) ekinlarga ziyon keltiradi; c) tuya va otlarni zaharlaydi; d) chorvaga va odamga kasallik yuqtiradi",
+      "options": [
+        "1-d, 2-b, 3-a, 4-c",
+        "1-d, 2-a, 3-b, 4-c",
+        "1-c, 2-b, 3-a, 4-d",
+        "1-d, 2-b, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 90,
+      "question": "Moslashtiring (foydasi): 1) chayon; 2) ikki pallalilar; 3) zaxkash; 4) dafniya.  a) baliqlarga ozuqa bo‘ladi; b) tuproqni chirindiga boyitadi; c) suv havzalarini tozalaydi; d) zararkunanda hasharotlarni qiradi",
+      "options": [
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 91,
+      "question": "Qaysi juftlikda ikkala hayvon ham tirik bola tug‘adi yoki tuxumdan voyaga yetganiga o‘xshash avlod chiqaradi (lichinkasiz)?",
+      "options": [
+        "Chayon va baqachanoq",
+        "Kana va baqachanoq",
+        "Baqachanoq va daryo qisqichbaqasi",
+        "Chayon va daryo qisqichbaqasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 92,
+      "question": "O‘rgimchaksimonlar va mollyuskalarning umumiy belgisini toping.",
+      "options": [
+        "Ikkalasi ham faqat suvda yashaydi",
+        "Ikkalasining ham tanasi xitin bilan qoplangan",
+        "Ikkalasining ham ichida zaharli yoki parazit vakillari bor",
+        "Ikkalasi ham bo‘g‘imli oyoqlarga ega"
+      ],
+      "correctIndex": 2
+    }
+  ]
 }
