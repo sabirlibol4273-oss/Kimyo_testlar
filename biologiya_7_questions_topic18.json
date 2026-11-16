@@ -2,5 +2,985 @@
   "topicId": 18,
   "title": "Daryo qisqichbaqasining ichki tuzilishi",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Daryo qisqichbaqasining muskullari nimadan iborat?",
+      "options": [
+        "Halqasimon va bo‘ylama muskul qavatlaridan",
+        "Alohida muskul boylamlaridan",
+        "Yaxlit teri-muskul xaltasidan",
+        "Bitta yirik muskul to‘qimasidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Daryo qisqichbaqasining muskullari qanday joylashgan?",
+      "options": [
+        "Organlar atrofida to‘p-to‘p bo‘lib",
+        "Teri ostida bir tekis qavat bo‘lib",
+        "Faqat oyoqlarda to‘p-to‘p bo‘lib",
+        "Tana bo‘shlig‘ini o‘rab, yaxlit qavat bo‘lib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Daryo qisqichbaqasining keng tana bo‘shlig‘ini nima o‘rab turadi?",
+      "options": [
+        "Xitin qoplag‘ich",
+        "Boshko‘krak qalqoni va mantiya",
+        "Mantiya",
+        "Teri-muskul xaltasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Daryo qisqichbaqasining ichki organlari qayerda joylashgan?",
+      "options": [
+        "Faqat qorin bo‘limida",
+        "Mantiya bo‘shlig‘ida",
+        "Muskul boylamlari ichida",
+        "Xitin qoplag‘ich o‘rab turgan keng tana bo‘shlig‘ida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Daryo qisqichbaqasining og‘zi qayerda joylashgan?",
+      "options": [
+        "Boshining ustida",
+        "Boshining ostida",
+        "Oyoqning asosida",
+        "Pixning uchida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Daryo qisqichbaqasida oziqning yo‘lini to‘g‘ri ko‘rsating.",
+      "options": [
+        "Og‘iz → uzun halqum → qizilo‘ngach → oshqozon → ichak",
+        "Og‘iz → qisqa halqum → qizilo‘ngach → oshqozon → ichak",
+        "Og‘iz → qisqa halqum → oshqozon → qizilo‘ngach → ichak",
+        "Og‘iz → qizilo‘ngach → qisqa halqum → oshqozon → ichak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Daryo qisqichbaqasining halqumi qanday?",
+      "options": [
+        "Qisqa",
+        "Mayda tishchali tilchali",
+        "Ikki bo‘lmali",
+        "Uzun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Daryo qisqichbaqasining oshqozoni qanday tuzilgan?",
+      "options": [
+        "To‘rt bo‘lmali",
+        "Ikki bo‘lmali",
+        "Bir bo‘lmali",
+        "Uch bo‘lmali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Daryo qisqichbaqasining katta oshqozonida oziq bilan nima sodir bo‘ladi?",
+      "options": [
+        "Suziladi",
+        "Maydalanadi",
+        "So‘riladi",
+        "Hazm bo‘ladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Daryo qisqichbaqasining kichik oshqozonida oziq bilan nima sodir bo‘ladi?",
+      "options": [
+        "To‘liq hazm bo‘ladi",
+        "Qonga so‘riladi",
+        "Maydalanadi",
+        "Suziladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Daryo qisqichbaqasida oziq qayerda hazm bo‘ladi?",
+      "options": [
+        "Kichik oshqozonda",
+        "Qizilo‘ngachda",
+        "Katta oshqozonda",
+        "Ichak va jigar naylarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Daryo qisqichbaqasi oshqozonida oziqning to‘g‘ri yo‘lini toping.",
+      "options": [
+        "Kichik oshqozonda maydalanadi → katta oshqozonda suziladi → ichak va jigar naylariga o‘tadi",
+        "Katta oshqozonda maydalanadi → kichik oshqozonda suziladi → ichak va jigar naylariga o‘tadi",
+        "Katta oshqozonda maydalanadi → kichik oshqozonda hazm bo‘ladi → qizilo‘ngachga o‘tadi",
+        "Katta oshqozonda suziladi → kichik oshqozonda maydalanadi → ichak va jigar naylariga o‘tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Daryo qisqichbaqasining anal teshigi qayerda joylashgan?",
+      "options": [
+        "Dum suzgichining o‘rtasida",
+        "Oxirgi juft yurish oyoqlari asosida",
+        "Qorin bo‘limining birinchi bo‘g‘imida",
+        "Boshko‘krakning orqa tomonida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Daryo qisqichbaqasida oziq ichakdan keyin qayerga tushadi?",
+      "options": [
+        "Yashil bezlarga",
+        "Tana bo‘shlig‘iga",
+        "Jigar naylariga",
+        "Kichik oshqozonga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Daryo qisqichbaqasining yuragi qayerda joylashgan va qanday rangda?",
+      "options": [
+        "Boshko‘krakning orqa tomonida, oqish",
+        "Boshko‘krakning orqa tomonida, qizg‘ish",
+        "Boshko‘krakning qorin tomonida, oqish",
+        "Qorin bo‘limining orqa tomonida, qizg‘ish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Daryo qisqichbaqasining qon aylanish sistemasi qanday?",
+      "options": [
+        "Ochiq",
+        "Ikki doirali yopiq",
+        "Bo‘lmaydi",
+        "Yopiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Daryo qisqichbaqasida yurakdan chiqqan qon qayerga o‘tadi?",
+      "options": [
+        "To‘g‘ridan-to‘g‘ri jabralarga",
+        "Tomirlar orqali yashil bezlarga",
+        "Kapillyarlar orqali to‘qimalarga",
+        "Tomirlar orqali tana bo‘shlig‘iga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Daryo qisqichbaqasida tana bo‘shlig‘iga o‘tgan qon to‘qimalarga nimalarni olib boradi?",
+      "options": [
+        "Faqat kislorod",
+        "Oziq moddalar va karbonat angidrid",
+        "Faqat oziq moddalar",
+        "Oziq moddalar va kislorod"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Tana bo‘shlig‘idan tomirlarga yig‘ilgan qon qayerga boradi?",
+      "options": [
+        "Jabralarga",
+        "Yurakka",
+        "Jigar naylariga",
+        "Yashil bezlarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Daryo qisqichbaqasining jabralarida qanday gaz almashinuvi bo‘ladi?",
+      "options": [
+        "Kislorod havodan qonga o‘tadi, karbonat angidrid qondan havoga chiqadi",
+        "Kislorod suvdan qonga o‘tadi, karbonat angidrid qondan suvga chiqadi",
+        "Kislorod qondan suvga o‘tadi, karbonat angidrid suvdan qonga o‘tadi",
+        "Kislorod va karbonat angidrid suvdan qonga o‘tadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Kislorod bilan to‘yingan qon yurak bo‘shlig‘iga qanday o‘tadi?",
+      "options": [
+        "Yurakoldi bo‘lmasi orqali",
+        "Yurak devoridagi ikki juft teshikcha orqali",
+        "Yurak devoridagi uch juft teshikcha orqali",
+        "Yurak devoridagi uch juft tomir orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Daryo qisqichbaqasida qon aylanishning to‘g‘ri yo‘nalishini toping.",
+      "options": [
+        "Yurak → tomirlar → jabralar → tana bo‘shlig‘i → tomirlar → yurak",
+        "Yurak → jabralar → tomirlar → tana bo‘shlig‘i → yurak",
+        "Yurak → tomirlar → tana bo‘shlig‘i → yashil bezlar → jabralar → yurak",
+        "Yurak → tomirlar → tana bo‘shlig‘i → tomirlar → jabralar → yurak"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Daryo qisqichbaqasining ayirish sistemasi nimadan iborat?",
+      "options": [
+        "Tasmaga o‘xshash yagona buyrakdan",
+        "Bir juft yashil bez va ularning naychalaridan",
+        "Bitta yashil bez va uning naychasidan",
+        "Ikki juft yashil bez va ularning naychalaridan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Daryo qisqichbaqasining yashil bezlari qayerda joylashgan?",
+      "options": [
+        "Yurak yonida, orqa tomonda",
+        "Qorin bo‘limida",
+        "Dum suzgichda",
+        "Bosh tomonda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Yashil bezlarning tuzilishi qaysi hayvonning ayirish organiga o‘xshash?",
+      "options": [
+        "Oq planariya",
+        "Baqachanoq",
+        "Odam askaridasi",
+        "Yomg‘ir chuvalchangi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Yashil bezlarning pufaksimon kengaygan uchi qayerda joylashgan?",
+      "options": [
+        "Uzun mo‘ylovlar asosida",
+        "Kalta mo‘ylovlar asosida",
+        "Tana bo‘shlig‘ida",
+        "Yurak bo‘shlig‘ida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Yashil bez naychalari qayerda tashqariga ochiladi?",
+      "options": [
+        "Uzun mo‘ylovlarning asosida",
+        "Dum suzgichning o‘rtasida",
+        "Kalta mo‘ylovlarning asosida",
+        "Jag‘oyoqlar asosida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Yashil bezlarning vazifasi nima?",
+      "options": [
+        "Qonda erigan zararli almashinuv mahsulotlarini chiqarib yuboradi",
+        "Qonni kislorod bilan boyitadi",
+        "Hazm bo‘lmagan oziq qoldiqlarini chiqarib yuboradi",
+        "Hazm qilish shirasini ishlab chiqaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Daryo qisqichbaqasining nerv sistemasi qaysi hayvonnikiga o‘xshaydi?",
+      "options": [
+        "Oq planariyanikiga",
+        "Baqachanoqnikiga",
+        "Yomg‘ir chuvalchanginikiga",
+        "Suv shillig‘inikiga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 30,
+      "question": "Daryo qisqichbaqasining nerv sistemasi qaysi qismlardan iborat?",
+      "options": [
+        "Halqum usti va halqum osti nerv tugunlari, halqum atrofi nerv halqasi, qorin nerv zanjiri",
+        "Kuchli rivojlangan bosh miya va qorin nerv zanjiri",
+        "Halqum usti va halqum osti nerv tugunlari, halqum atrofi nerv halqasi, orqa nerv zanjiri",
+        "Uch juft nerv tugunlari va ularni tutashtiruvchi nerv tolalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Halqum usti nerv tugunidan qaysi organlarga nervlar chiqadi?",
+      "options": [
+        "Yurak va jabralarga",
+        "Jag‘larga",
+        "Barcha organlarga",
+        "Ko‘z va mo‘ylovlarga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Halqum osti nerv tugunidan qaysi organlarga nervlar chiqadi?",
+      "options": [
+        "Barcha organlarga",
+        "Ko‘z va mo‘ylovlarga",
+        "Jag‘larga",
+        "Yurish oyoqlariga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Qorin nerv tugunlaridan qaysi organlarga nervlar chiqadi?",
+      "options": [
+        "Faqat qorinoyoqlarga",
+        "Ko‘z va mo‘ylovlarga",
+        "Barcha organlarga",
+        "Jag‘larga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Daryo qisqichbaqasining ko‘zlari qanday?",
+      "options": [
+        "Bir juft murakkab ko‘z, paypaslagichlar asosida",
+        "Ikki juft murakkab ko‘z, harakatsiz poyachalar ustida",
+        "Bir juft oddiy ko‘z, harakatchan poyachalar ustida",
+        "Bir juft murakkab ko‘z, harakatchan poyachalar ustida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Daryo qisqichbaqasining har bir ko‘zi nimadan tashkil topgan?",
+      "options": [
+        "Bir nechta oddiy ko‘zlardan",
+        "Ko‘p tukchalardan",
+        "Bitta yirik ko‘z gavharidan",
+        "Juda ko‘p mayda ko‘zchalardan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 36,
+      "question": "Qisqichbaqaning har qaysi ko‘zchasi nimani ko‘radi?",
+      "options": [
+        "Atrof-muhitning faqat kichik bir qismini",
+        "Atrof-muhitning yaxlit tasvirini",
+        "Faqat yorug‘lik va qorong‘ilikni",
+        "Atrof-muhitning yarmini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Mozaik ko‘rish nima?",
+      "options": [
+        "Faqat ranglarni ajratib ko‘rish",
+        "Har bir ko‘zchaning alohida yaxlit tasvir hosil qilishi",
+        "Ko‘p ko‘zchalar ko‘rgan kichik qismlardan birgalikda yaxlit tasvir hosil bo‘lishi",
+        "Ikki ko‘zning birgalikda hajmli tasvir hosil qilishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Mozaik ko‘rish qaysi hayvonlarga xos?",
+      "options": [
+        "Faqat daryo qisqichbaqasiga",
+        "Hamma mollyuskalarga",
+        "Ko‘pchilik bo‘g‘imoyoqlilarga",
+        "Faqat qisqichbaqasimonlarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Daryo qisqichbaqasida hid bilish va tuyg‘u organi vazifasini nima bajaradi?",
+      "options": [
+        "Jag‘oyoqlari sirtidagi tukchalar",
+        "Kalta mo‘ylovlar asosidagi organlar",
+        "Mo‘ylovlari va oyoqlari sirtidagi tukchalar",
+        "Faqat mo‘ylovlari sirtidagi tukchalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Daryo qisqichbaqasining eshitish va muvozanat saqlash organlari qayerda joylashgan?",
+      "options": [
+        "Ko‘z poyachalarining asosida",
+        "Kalta mo‘ylovlarning asosida",
+        "Uzun mo‘ylovlarning asosida",
+        "Yurish oyoqlarining asosida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Kalta mo‘ylovlar asosida qaysi tuzilmalar joylashgan yoki ochiladi?",
+      "options": [
+        "Ko‘zlar va yashil bez naychalari",
+        "Hid bilish organlari va jabralar",
+        "Eshitish va muvozanat organlari hamda yashil bez naychalari",
+        "Eshitish va muvozanat organlari hamda anal teshigi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Qisqichbaqasimonlarning nechta turi ma’lum?",
+      "options": [
+        "30 000 dan ortiq",
+        "650 ga yaqin",
+        "3 000 dan ortiq",
+        "100 000 ga yaqin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Qisqichbaqasimonlarning ko‘pchiligi qayerda yashaydi?",
+      "options": [
+        "Quruqlikda",
+        "Dengiz va okeanlarda",
+        "Sho‘rlangan ko‘llarda",
+        "Chuchuk suvlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Plankton deb nimaga aytiladi?",
+      "options": [
+        "Suvda muallaq yashovchi yirik qisqichbaqasimonlarga",
+        "Suv tubida yashovchi mayda qisqichbaqasimonlarga",
+        "Suvda muallaq yashovchi mayda qisqichbaqasimonlarga",
+        "Tuproqda yashovchi mayda qisqichbaqasimonlarga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Chuchuk suvlarda ko‘p uchraydigan plankton qisqichbaqasimonlarni toping.",
+      "options": [
+        "Dafniya va krevetka",
+        "Dafniya va siklop",
+        "Krevetka va omar",
+        "Siklop va zaxkash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 46,
+      "question": "Dafniya va siklop nima maqsadda maxsus ko‘paytiriladi?",
+      "options": [
+        "Suvni tozalash uchun",
+        "Baliqchilik xo‘jaliklarida va akvariumda baliq boqish uchun",
+        "Tuproqni chirindiga boyitish uchun",
+        "Go‘shti uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Go‘shti uchun ovlanadigan dengiz qisqichbaqasimonlarini toping.",
+      "options": [
+        "Krablar, omarlar, langustlar, krevetkalar",
+        "Siklop, langust, krab, krevetka",
+        "Krablar, zaxkash, omarlar, langustlar",
+        "Krablar, omarlar, dafniyalar, krevetkalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Qisqichbaqasimonlar qaysi hayvonlarning asosiy ozig‘i hisoblanadi?",
+      "options": [
+        "Tishsiz kitlar va boshoyoqli mollyuskalar",
+        "Baliqlar, tishli kitlar va dengiz qushlari",
+        "Faqat baliqlar",
+        "Baliqlar, tishsiz kitlar va boshqa dengiz hayvonlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "O‘zbekistonning cho‘l mintaqalarida keng tarqalgan quruqlik qisqichbaqasimoni qaysi?",
+      "options": [
+        "Dafniya",
+        "Zaxkash (eshak qurt)",
+        "Siklop",
+        "Daryo qisqichbaqasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 50,
+      "question": "Zaxkashning tuproq uchun ahamiyati nimada?",
+      "options": [
+        "In qurib, tirik o‘simlik ildizlari bilan oziqlanib, tuproqni yumshatadi",
+        "In qurib, o‘simlik qoldiqlari bilan oziqlanib, tuproqni yumshatadi va chirindiga boyitadi",
+        "O‘simliklarning yashil qismi bilan oziqlanib, ekinlarga ziyon keltiradi",
+        "Tuproqni zichlashtirib, namni saqlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Zaxkash nima bilan oziqlanadi?",
+      "options": [
+        "O‘simlik qoldiqlari bilan",
+        "Mayda hasharotlar bilan",
+        "Tirik o‘simlik ildizlari bilan",
+        "Plankton bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring: 1) katta oshqozon; 2) kichik oshqozon; 3) ichak va jigar naylari; 4) anal teshigi.  a) oziq suziladi; b) oziq maydalanadi; c) hazm bo‘lmagan qoldiq chiqariladi; d) oziq hazm bo‘ladi",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-a, 2-b, 3-d, 4-c",
+        "1-b, 2-a, 3-c, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring (nerv tugunlari): 1) halqum usti; 2) halqum osti; 3) qorin nerv tugunlari.  a) barcha organlarga; b) ko‘z va mo‘ylovlarga; c) jag‘larga",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring (joylashish): 1) yurak; 2) anal teshigi; 3) yashil bez naychasi; 4) yashil bezning pufaksimon uchi.  a) tana bo‘shlig‘ida; b) dum suzgich o‘rtasida; c) boshko‘krakning orqa tomonida; d) kalta mo‘ylov asosida",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-b, 3-d, 4-a",
+        "1-b, 2-c, 3-d, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring (sezgi): 1) murakkab ko‘zlar; 2) mo‘ylov va oyoqlardagi tukchalar; 3) kalta mo‘ylov asosidagi organlar.  a) eshitish va muvozanat; b) mozaik ko‘rish; c) hid bilish va tuyg‘u",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring (ahamiyati): 1) dafniya; 2) krevetka; 3) zaxkash.  a) tuproqni chirindiga boyitadi; b) baliq boqish uchun ko‘paytiriladi; c) go‘shti uchun ovlanadi",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring (yashash joyi): 1) siklop; 2) omar; 3) zaxkash.  a) quruqlik (cho‘l); b) chuchuk suv; c) dengiz",
+      "options": [
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Daryo qisqichbaqasining ichki tuzilishi haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Yuragi boshko‘krakning orqa tomonida",
+        "Qon aylanish sistemasi yopiq",
+        "Oshqozoni ikki bo‘lmali",
+        "Yashil bezlar bosh tomonda joylashgan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Daryo qisqichbaqasi haqidagi to‘g‘ri fikrni toping.",
+      "options": [
+        "Halqum osti nerv tugunidan ko‘zlarga nerv chiqadi",
+        "Oziq kichik oshqozonda maydalanadi",
+        "Yashil bez naychalari uzun mo‘ylov asosida ochiladi",
+        "Kislorodga to‘yingan qon yurakka uch juft teshikcha orqali o‘tadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Qisqichbaqasimonlar haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Tishsiz kitlarning asosiy ozig‘i hisoblanadi",
+        "30 000 dan ortiq turi ma’lum",
+        "Ko‘pchilik turlari chuchuk suvlarda yashaydi",
+        "Ayrim vakillari quruqlikda yashashga moslashgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 61,
+      "question": "Daryo qisqichbaqasining sezgi organlari haqidagi noto‘g‘ri fikrni toping.",
+      "options": [
+        "Muvozanat organi kalta mo‘ylovlar asosida joylashgan",
+        "Oyoqlari sirtidagi tukchalar tuyg‘u organi hisoblanadi",
+        "Har bir ko‘zchasi atrof-muhitning yaxlit tasvirini ko‘radi",
+        "Ko‘zlari juda ko‘p mayda ko‘zchalardan tashkil topgan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 62,
+      "question": "Kalta mo‘ylovlar tashqi tuzilish mavzusida hid bilish va tuyg‘u organi deyilgan edi. Ichki tuzilishga ko‘ra ularning asosida yana nima joylashgan?",
+      "options": [
+        "Ko‘zlar",
+        "Eshitish va muvozanat organlari",
+        "Og‘iz teshigi",
+        "Jabralar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 63,
+      "question": "Qisqichbaqada jabralar jag‘oyoqlar asosida joylashgan. Jabradan kislorodga to‘yingan qon qayerga boradi?",
+      "options": [
+        "Yurak bo‘shlig‘iga, uch juft teshikcha orqali",
+        "Yurakoldi bo‘lmasiga",
+        "Tana bo‘shlig‘iga, tomirlar orqali",
+        "Yashil bezlarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 64,
+      "question": "Qisqichbaqada qorinoyoqlarning oxirgi 2 jufti dum suzgichni hosil qiladi. Dum suzgich o‘rtasida qaysi teshik joylashgan?",
+      "options": [
+        "Jinsiy teshik",
+        "Og‘iz teshigi",
+        "Ayirish teshigi",
+        "Anal teshigi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 65,
+      "question": "Xitin qoplag‘ichning ichki tuzilish bilan bog‘liq vazifasini toping.",
+      "options": [
+        "Qonni tomirlar bo‘ylab haydaydi",
+        "Zararli moddalarni chiqarib yuboradi",
+        "Mantiya bo‘shlig‘ini hosil qiladi",
+        "Keng tana bo‘shlig‘ini o‘rab turadi va muskullar birikadi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Halqum usti nerv tugunidan nerv boradigan organlar tashqi tuzilishning qaysi qismida joylashgan?",
+      "options": [
+        "Qorin bo‘limida",
+        "Dum suzgichda",
+        "Boshko‘krakning oldingi qismida (pix yoni va boshining oldi)",
+        "Boshko‘krakning keyingi qismida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 67,
+      "question": "Daryo qisqichbaqasi va mollyuskalar uchun umumiy belgini toping.",
+      "options": [
+        "Murakkab ko‘zlar",
+        "Ikki bo‘lmali oshqozon",
+        "Qorin nerv zanjiri",
+        "Ochiq qon aylanish sistemasi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 68,
+      "question": "Daryo qisqichbaqasi va suv shillig‘ining ayirish organlari qaysi jihati bilan o‘xshash?",
+      "options": [
+        "Ikkalasining naychasi ham kalta mo‘ylov asosida ochiladi",
+        "Ikkalasining tuzilishi ham yomg‘ir chuvalchangi ayirish organiga o‘xshaydi",
+        "Ikkalasi ham bir juft yashil bezdan iborat",
+        "Ikkalasining kengaygan uchi ham yurakoldi bo‘lmasiga ochiladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 69,
+      "question": "Daryo qisqichbaqasi va suv shillig‘ining ayirish organlaridagi farqni toping.",
+      "options": [
+        "Qisqichbaqada bir juft yashil bez, shilliqda tasmaga o‘xshash yagona buyrak",
+        "Ikkalasida ham tasmaga o‘xshash yagona buyrak",
+        "Ikkalasida ham bir juft yashil bez",
+        "Qisqichbaqada tasmaga o‘xshash yagona buyrak, shilliqda bir juft yashil bez"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 70,
+      "question": "Ayirish organi kengaygan uchining joylashishidagi farqni toping.",
+      "options": [
+        "Ikkalasida ham tana bo‘shlig‘ida",
+        "Ikkalasida ham yurakoldi bo‘lmasida",
+        "Qisqichbaqada tana bo‘shlig‘ida, suv shillig‘ida yurakoldi bo‘lmasida",
+        "Qisqichbaqada yurakoldi bo‘lmasida, suv shillig‘ida tana bo‘shlig‘ida"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 71,
+      "question": "Moslashtiring (ayirish organi qayerga ochiladi): 1) daryo qisqichbaqasi; 2) suv shillig‘i; 3) baqachanoq.  a) chiqarish sifoniga; b) kalta mo‘ylovlar asosida; c) mantiya chetiga",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 72,
+      "question": "Moslashtiring (anal teshigi): 1) daryo qisqichbaqasi; 2) suv shillig‘i; 3) baqachanoq.  a) chiqarish sifoniga ochiladi; b) dum suzgich o‘rtasida; c) mantiya chetida",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 73,
+      "question": "Moslashtiring (nerv sistemasi): 1) daryo qisqichbaqasi; 2) baqachanoq; 3) boshoyoqlilar.  a) kuchli rivojlangan bosh miya; b) halqum atrofi nerv halqasi va qorin nerv zanjiri; c) uch juft nerv tugunlari",
+      "options": [
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 74,
+      "question": "Moslashtiring (kislorodli qon yurakka qanday tushadi): 1) daryo qisqichbaqasi; 2) suv shillig‘i.  a) o‘pkadan yurakoldi bo‘lmasiga; b) jabralardan yurak devoridagi uch juft teshikcha orqali",
+      "options": [
+        "1-a, 2-b",
+        "1-b, 2-b",
+        "1-b, 2-a",
+        "1-a, 2-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 75,
+      "question": "Daryo qisqichbaqasi va suv shillig‘i qon aylanishidagi umumiy jihatni toping.",
+      "options": [
+        "Qon tomirlardan tana bo‘shlig‘iga (organlar oralig‘iga) quyiladi",
+        "Kislorodli qon yurakka uch juft teshikcha orqali kiradi",
+        "Qon faqat tomirlar ichida harakatlanadi",
+        "Qon o‘pkada kislorodga to‘yinadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 76,
+      "question": "Daryo qisqichbaqasi va suv shillig‘i qonining kislorod bilan boyish joyidagi farqni toping.",
+      "options": [
+        "Qisqichbaqada jabralarda, shilliqda o‘pkada",
+        "Ikkalasida ham tana bo‘shlig‘ida",
+        "Ikkalasida ham jabralarda",
+        "Qisqichbaqada o‘pkada, shilliqda jabralarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 77,
+      "question": "Suv shillig‘i va daryo qisqichbaqasi hazm qilish sistemasidagi umumiy jihatni toping.",
+      "options": [
+        "Ikkalasida ham oshqozon ikki bo‘lmali",
+        "Ikkalasida ham anal teshigi dum suzgichda",
+        "Ikkalasida ham og‘iz boshining ostida, oziq halqum va qizilo‘ngach orqali oshqozonga o‘tadi",
+        "Ikkalasining halqumida ham tishchali tilcha bor"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 78,
+      "question": "Suv shillig‘i va daryo qisqichbaqasi hazm qilish sistemasidagi farqni toping.",
+      "options": [
+        "Shilliqda oshqozon ikki bo‘lmali; qisqichbaqada halqumda tishchali tilcha bor",
+        "Shilliqda halqumda tishchali tilcha bor; qisqichbaqada oshqozon ikki bo‘lmali",
+        "Shilliqda jigar yo‘q; qisqichbaqada jigar naylari bor",
+        "Shilliqda qizilo‘ngach yo‘q; qisqichbaqada qizilo‘ngach bor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 79,
+      "question": "Suv shillig‘ida jigar hazm shirasini oshqozonga ishlab chiqaradi. Qisqichbaqada oziq qayerda hazm bo‘ladi?",
+      "options": [
+        "Katta oshqozonda",
+        "Halqumda",
+        "Kichik oshqozonda",
+        "Ichak va jigar naylarida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 80,
+      "question": "Qisqichbaqa ko‘zlari va suv shillig‘i ko‘zlarining farqini toping.",
+      "options": [
+        "Qisqichbaqada murakkab (mozaik) ko‘zlar poyachalarda, shilliqda paypaslagich asosida bittadan ko‘z",
+        "Qisqichbaqada paypaslagich asosida bittadan ko‘z, shilliqda murakkab ko‘zlar poyachalarda",
+        "Ikkalasida ham murakkab ko‘zlar",
+        "Ikkalasida ham ko‘zlar poyachalar ustida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 81,
+      "question": "Qisqichbaqasimonlar va ikki pallali mollyuskalar tur soni bo‘yicha qanday nisbatda?",
+      "options": [
+        "Qisqichbaqasimonlar 30 000 dan ortiq, ikki pallalilar 650 ga yaqin",
+        "Qisqichbaqasimonlar 100 000 ga yaqin, ikki pallalilar 30 000 dan ortiq",
+        "Qisqichbaqasimonlar 3 000, ikki pallalilar 30 000 dan ortiq",
+        "Ikkalasi ham 30 000 dan ortiq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 82,
+      "question": "Qisqichbaqasimonlar va ikki pallali mollyuskalarning ko‘pchiligi qayerda yashaydi?",
+      "options": [
+        "Ikkalasining ham ko‘pchiligi dengizlarda",
+        "Qisqichbaqasimonlar chuchuk suvda, ikki pallalilar dengizda",
+        "Ikkalasining ham ko‘pchiligi chuchuk suvlarda",
+        "Qisqichbaqasimonlar dengizda, ikki pallalilar chuchuk suvda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 83,
+      "question": "Quruqlikda yashashga moslashgan vakillari bor guruhlarni toping.",
+      "options": [
+        "Qorinoyoqli mollyuskalar va qisqichbaqasimonlar",
+        "Ikki pallali mollyuskalar va qisqichbaqasimonlar",
+        "Faqat qisqichbaqasimonlar",
+        "Boshoyoqli mollyuskalar va qisqichbaqasimonlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 84,
+      "question": "Moslashtiring (O‘zbekistonda quruqlikda uchraydi): 1) qorinoyoqlilardan; 2) qisqichbaqasimonlardan.  a) zaxkash; b) bedapoya shillig‘i va yalang‘och shilliqlar",
+      "options": [
+        "1-a, 2-a",
+        "1-b, 2-a",
+        "1-a, 2-b",
+        "1-b, 2-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 85,
+      "question": "Zaxkash va tok shillig‘ining ahamiyatidagi farqni toping.",
+      "options": [
+        "Zaxkash ekinlarga ziyon keltiradi, tok shillig‘i tuproqni chirindiga boyitadi",
+        "Zaxkash tuproqni chirindiga boyitib foyda keltiradi, tok shillig‘i ekinlarga ziyon keltiradi",
+        "Ikkalasi ham ekinlarga ziyon keltiradi",
+        "Ikkalasi ham tuproqni chirindiga boyitadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 86,
+      "question": "Suv havzalarida foydali vazifani bajaruvchi juftlikni toping.",
+      "options": [
+        "Ikki pallalilar baliqlarga ozuqa bo‘ladi, siklop suvni filtrlab tozalaydi",
+        "Kichik shilliq suvni tozalaydi, dafniya baliqlarga ozuqa bo‘ladi",
+        "Dreysenalar suvni tozalaydi, dafniya quvurlarni ishdan chiqaradi",
+        "Ikki pallalilar suvni tozalaydi, dafniya va siklop baliqlarga ozuqa bo‘ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 87,
+      "question": "Moslashtiring (go‘shti uchun ovlanadi): 1) ikki pallalilardan; 2) boshoyoqlilardan; 3) qisqichbaqasimonlardan.  a) kalmar, sakkizoyoq; b) omar, langust; c) ustritsa, midiya",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-c, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 88,
+      "question": "Daryo qisqichbaqasining qaysi belgisi mollyuskalarda emas, yomg‘ir chuvalchangida ham uchraydi?",
+      "options": [
+        "Ochiq qon aylanish sistemasi",
+        "Qorin nerv zanjiri",
+        "Jabra bilan nafas olish",
+        "Ikki bo‘lmali oshqozon"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 89,
+      "question": "Qaysi qatorda faqat ochiq qon aylanish sistemasiga ega hayvonlar berilgan?",
+      "options": [
+        "Daryo qisqichbaqasi, yomg‘ir chuvalchangi, baqachanoq",
+        "Yomg‘ir chuvalchangi, daryo qisqichbaqasi, suv shillig‘i",
+        "Suv shillig‘i, yomg‘ir chuvalchangi, baqachanoq",
+        "Daryo qisqichbaqasi, suv shillig‘i, baqachanoq"
+      ],
+      "correctIndex": 3
+    }
+  ]
 }
