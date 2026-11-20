@@ -2,5 +2,688 @@
   "topicId": 16,
   "title": "Qonning tarkibi va shaklli elementlari",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qon probirkada sentrifugada aylantirilishidan oldin unga qanday modda qo‘shiladi va qancha qon olinadi?",
+      "options": [
+        "Bir tomchi geparin; 2–3 ml qon",
+        "Bir tomchi fibrinogen; 10 ml qon",
+        "Bir tomchi kalsiy xlorid; 2–3 ml qon",
+        "Bir tomchi bilirubin; 5–6 ml qon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Geparin qo‘shilgan qon sentrifugada aylantirilganda qanday qismlarga ajraladi?",
+      "options": [
+        "Ustki qismida qizil shaklli elementlar, pastki qismida rangsiz plazma",
+        "Ustki qismida rangsiz qon plazmasi, pastki qismida qizil rangli quyuq shaklli elementlar",
+        "Uch qismga: zardob, limfa va eritrotsitlar",
+        "Ajralmaydi, bir xil holatda qoladi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Sentrifugada shaklli elementlarning probirka tubiga cho‘kishini qonning qaysi xossasi bilan izohlash mumkin?",
+      "options": [
+        "Shaklli elementlarning solishtirma massasi plazmanikidan kattaligi bilan",
+        "Plazmaning yopishqoqligi shaklli elementlarnikidan yuqoriligi bilan",
+        "Shaklli elementlarning plazmada eriydiganligi bilan",
+        "Plazmaning solishtirma massasi shaklli elementlarnikidan kattaligi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Qaysi qatorda qon plazmasi tarkibidagi moddalar to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Eritrotsitlar, leykotsitlar, trombotsitlar",
+        "Gemoglobin, bilirubin, o‘t suyuqligi",
+        "Oqsillar, yog‘lar, uglevodlar, mineral tuzlar, gormonlar, fermentlar, antitelolar",
+        "Faqat suv va mineral tuzlar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 5,
+      "question": "Qon plazmasida suv va oqsillarning o‘rtacha miqdori qancha?",
+      "options": [
+        "Suv – 70–75 %; oqsillar – 20 %",
+        "Suv – 90–92 %; oqsillar – 7–8 %",
+        "Suv – 99 %; oqsillar – 0,9 %",
+        "Suv – 80 %; oqsillar – 0,8 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Qon plazmasidagi tuzlar, glukoza va yog‘ miqdori to‘g‘ri ko‘rsatilgan qatorni toping.",
+      "options": [
+        "Tuzlar – 0,1 %; glukoza – 0,9 %; yog‘ – 0,8 %",
+        "Tuzlar – 0,8 %; glukoza – 0,1 %; yog‘ – 0,9 %",
+        "Tuzlar – 7 %; glukoza – 1 %; yog‘ – 8 %",
+        "Tuzlar – 0,9 %; glukoza – 0,1 %; yog‘ – 0,8 %"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Plazmadagi moddalarni miqdori kamayib borish tartibida joylashtiring.",
+      "options": [
+        "Suv → oqsillar → tuzlar → yog‘ → glukoza",
+        "Suv → tuzlar → oqsillar → glukoza → yog‘",
+        "Oqsillar → suv → yog‘ → tuzlar → glukoza",
+        "Suv → oqsillar → yog‘ → tuzlar → glukoza"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "100 ml qon plazmasida taxminan qancha oqsil bo‘ladi?",
+      "options": [
+        "0,9–1 g",
+        "7–8 g",
+        "0,1 g",
+        "90–92 g"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Plazmadagi moddalar hujayralarga qanday o‘tadi va qoldiq moddalar qayerga yetkaziladi?",
+      "options": [
+        "Qonning doimiy harakati natijasida hujayralarga o‘tib o‘zlashtiriladi; qoldiq moddalar qon orqali ayirish organlariga yetkaziladi",
+        "Nerv tolalari orqali o‘tadi; qoldiq moddalar hujayrada qoladi",
+        "Faqat limfa orqali o‘tadi; qoldiq moddalar o‘pkada to‘planadi",
+        "Hujayralarga o‘tmaydi; qoldiq moddalar suyak ko‘migiga yetkaziladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Plazma tarkibidagi vitaminlar, fermentlar va gormonlar qanday ahamiyatga ega?",
+      "options": [
+        "Organizmni yuqumli kasalliklardan himoya qiladi",
+        "Qonning ivishini to‘xtatadi",
+        "Hujayralarda moddalar almashinuvi jarayonining normal o‘tishini ta’minlaydi",
+        "Eritrotsitlarni parchalaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Nima sababdan qon yoki undan tayyorlangan plazma davolash maqsadida qo‘llaniladi?",
+      "options": [
+        "Unda faqat suv bo‘lgani uchun",
+        "Tarkibidagi vitaminlar, fermentlar, gormonlar moddalar almashinuvida, antitelolar esa yuqumli kasalliklardan himoyada muhim ahamiyatga ega bo‘lgani uchun",
+        "Unda bilirubin ko‘p bo‘lgani uchun",
+        "Plazma qonning ivishini butunlay to‘xtatgani uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Qonning shaklli elementlariga qaysilar kiradi?",
+      "options": [
+        "Eritrotsitlar, leykotsitlar va trombotsitlar",
+        "Oqsillar, yog‘lar va uglevodlar",
+        "Gormonlar, fermentlar va antitelolar",
+        "Plazma, zardob va limfa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "Eritrotsitlar qayerda hosil bo‘ladi?",
+      "options": [
+        "Jigarda",
+        "Taloqda",
+        "Buyrakda",
+        "Suyaklarning ko‘mik qismida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Yosh va yetilgan eritrotsitlar yadrosi bo‘yicha qanday farqlanadi?",
+      "options": [
+        "Yoshida yadro yo‘q, yetilganida paydo bo‘ladi",
+        "Ikkalasida ham yadro bo‘ladi",
+        "Yosh eritrotsitlarda yadro bo‘ladi, yetilganlarida yadro yo‘qoladi",
+        "Ikkalasida ham yadro bo‘lmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Odam eritrotsitlari qanday shaklga ega?",
+      "options": [
+        "Yadroli, sharsimon",
+        "O‘rtasi ozroq botiq, yumaloq, yadrosiz",
+        "Ipsimon, ko‘p yadroli",
+        "Noto‘g‘ri shaklli, yadroli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "1 mm³ qonda eritrotsitlar soni qancha bo‘ladi?",
+      "options": [
+        "6–8 ming",
+        "300–400 ming",
+        "10–20 ming",
+        "4–6 million, o‘rtacha 5 million"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Eritrotsitlarning hosil bo‘lishi va normal soni qaysi omillarga bog‘liq?",
+      "options": [
+        "Sog‘liq, ovqatlanish, jismoniy mashqlar va quyoshning ultrabinafsha nurlarini yetarli qabul qilishga",
+        "Faqat yoshga",
+        "Faqat irsiyatga",
+        "Faqat tana haroratiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Eritrotsitlarning normal hosil bo‘lishi uchun ovqat tarkibida qaysi moddalar yetarli bo‘lishi zarur?",
+      "options": [
+        "Yog‘lar, K vitamini, kalsiy",
+        "Oqsillar, temir moddasi, B guruhi vitaminlari",
+        "Uglevodlar, natriy, C vitamini",
+        "Faqat suv va glukoza"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Eritrotsitlar qonda necha kun yashaydi va qayerda parchalanadi?",
+      "options": [
+        "2–5 kun; suyak ko‘migida",
+        "30 kun; buyrakda",
+        "O‘rtacha 120 kun; jigar va taloqda",
+        "Bir yil; o‘pkada"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 20,
+      "question": "Parchalangan eritrotsitlardan ajralgan temir moddasi qanday maqsadda sarflanadi?",
+      "options": [
+        "Bilirubin hosil bo‘lishi uchun",
+        "O‘t suyuqligi hosil bo‘lishi uchun",
+        "Suyak ko‘migida yosh eritrotsitlar hosil bo‘lishi uchun",
+        "Leykotsitlar hosil bo‘lishi uchun"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 21,
+      "question": "Parchalangan eritrotsit gemoglobinidagi gem moddasining taqdiri qanday?",
+      "options": [
+        "Jigarda bilirubinga aylanib, o‘t suyuqligi hosil bo‘lishiga sarflanadi",
+        "Suyak ko‘migida temirga aylanadi",
+        "Buyrak orqali o‘zgarmagan holda chiqariladi",
+        "Taloqda antitelolarga aylanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Eritrotsitlarning asosiy vazifasi nima?",
+      "options": [
+        "Qonni ivitish",
+        "Mikroblarni yutish",
+        "Organizmning barcha hujayralarini kislorod bilan ta’minlash",
+        "Gormonlarni sintez qilish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Gemoglobin gazlarni qanday tashiydi?",
+      "options": [
+        "Hujayralardan kislorodni o‘pkaga, o‘pkadan karbonat angidridni hujayralarga",
+        "O‘pkadan kislorodni hujayralarga, hujayralardan karbonat angidridni o‘pkaga",
+        "Faqat kislorodni tashiydi",
+        "Faqat karbonat angidridni tashiydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Kamqonlik (anemiya) deb qanday holatga aytiladi?",
+      "options": [
+        "Leykotsitlar sonining kamayishiga",
+        "Trombotsitlar sonining ko‘payishiga",
+        "Qon ivishining buzilishiga",
+        "Eritrotsitlar soni va ulardagi gemoglobin miqdorining kamayishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Kamqonlikning oldini olishda qaysi chora-tadbirlar muhim?",
+      "options": [
+        "Ovqatda oqsil, temir, vitaminlar yetarli bo‘lishi, muntazam jismoniy mashq va toza havo",
+        "Faqat ko‘p uxlash",
+        "Ovqatdan temirni butunlay chiqarish",
+        "Jismoniy faollikni to‘xtatish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Leykotsitlar qanday guruhlarga bo‘linadi?",
+      "options": [
+        "Yadroli va yadrosiz",
+        "Granulotsitlar (donador) va agranulotsitlar (donasiz)",
+        "Yosh va yetilgan",
+        "Limfa va plazma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Yallig‘langan joyda to‘planadigan yiring nimadan iborat?",
+      "options": [
+        "O‘lik eritrotsitlardan",
+        "Trombotsitlardan",
+        "O‘lik leykotsitlardan",
+        "Antitelolardan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "1 mm³ qonda sog‘lom odamda leykotsitlar soni qancha bo‘ladi?",
+      "options": [
+        "4–6 million",
+        "300–400 ming",
+        "6–8 ming",
+        "10–20 ming"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 29,
+      "question": "Leykotsitoz va leykopeniya deb nimaga aytiladi?",
+      "options": [
+        "Leykotsitoz – leykotsitlar sonining kamayishi; leykopeniya – ko‘payishi",
+        "Leykotsitoz – leykotsitlar sonining ko‘payishi; leykopeniya – kamayishi",
+        "Ikkalasi ham eritrotsitlar kamayishi",
+        "Leykotsitoz – fagotsitoz; leykopeniya – qon ivishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Leykotsitlar qayerda hosil bo‘ladi?",
+      "options": [
+        "Faqat jigarda",
+        "Suyaklarning ko‘mik qismida va taloqda (limfotsitlar)",
+        "Faqat buyrakda",
+        "Endokrin bezlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 31,
+      "question": "Fagotsitoz nima va uni kim aniqlagan?",
+      "options": [
+        "Leykotsitlarning mikroblarni yutib eritib yuborishi; I. I. Mechnikov",
+        "Qonning ivishi; I. P. Pavlov",
+        "Eritrotsitlarning kislorod tashishi; I. M. Sechenov",
+        "Trombotsitlarning parchalanishi; I. I. Mechnikov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 32,
+      "question": "Yuqumli kasallikda 1 mm³ qonda leykotsitlar soni qanday o‘zgaradi?",
+      "options": [
+        "Kamayib, 1–2 mingga tushadi",
+        "O‘zgarmaydi",
+        "Ko‘payib, 10–20 mingga yetadi va undan ham ortishi mumkin",
+        "300–400 mingga yetadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Trombotsitlar qayerda hosil bo‘ladi va ularda yadro bormi?",
+      "options": [
+        "Jigarda; yadroli",
+        "Suyak ko‘migi va taloqda; yadrosiz",
+        "Buyrakda; yadrosiz",
+        "Suyak ko‘migida; ko‘p yadroli"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Qaysi hayvonlarning trombotsitlarida yadro bo‘ladi?",
+      "options": [
+        "Sut emizuvchilarning",
+        "Odamning",
+        "Past tabaqali umurtqali hayvonlarning",
+        "Hech qaysi hayvonning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 35,
+      "question": "1 mm³ qonda trombotsitlar soni va ularning yashash muddati qancha?",
+      "options": [
+        "300–400 ming; 2–5 kun",
+        "6–8 ming; 120 kun",
+        "4–6 million; 2–5 kun",
+        "300–400 ming; 120 kun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 36,
+      "question": "Trombotsitlarning asosiy vazifasi nima va ularning soni kamayganda nima yuz beradi?",
+      "options": [
+        "Kislorod tashish; kamqonlik yuzaga keladi",
+        "Fagotsitoz; yuqumli kasallik yuzaga keladi",
+        "Qonning ivishini ta’minlash; qonning ivish xossasi buziladi",
+        "Gormon ishlab chiqarish; moddalar almashinuvi to‘xtaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Yashash muddati bo‘yicha qaysi qon hujayralari bir-biriga o‘xshaydi?",
+      "options": [
+        "Eritrotsitlar va trombotsitlar",
+        "Leykotsitlar va trombotsitlar (2–5 kun)",
+        "Eritrotsitlar va leykotsitlar",
+        "Barchasi 120 kun yashaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Qonning ivishi organizm uchun qanday ahamiyatga ega?",
+      "options": [
+        "Muhim himoya reaksiyasi bo‘lib, jarohatda ortiqcha qon yo‘qotishdan saqlaydi",
+        "Kislorod tashishni ta’minlaydi",
+        "Moddalar almashinuvini to‘xtatadi",
+        "Mikroblarni yutadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Sog‘lom odamda qon necha minut ichida iviydi?",
+      "options": [
+        "10–15 minut",
+        "3–4 minut",
+        "30 sekund",
+        "1 soat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Gemofiliya kasalligining sababi va o‘tish yo‘li to‘g‘ri ko‘rsatilgan qatorni toping.",
+      "options": [
+        "Plazmada antigemofil omilning yetishmasligi; nasldan naslga o‘tadi",
+        "Eritrotsitlar kamayishi; ovqat orqali yuqadi",
+        "Leykotsitlar ko‘payishi; havo orqali yuqadi",
+        "Temir yetishmasligi; nasldan o‘tmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 41,
+      "question": "Gemofiliya bilan kasallangan odamlarda qanday holatlar kuzatiladi?",
+      "options": [
+        "Qon juda tez iviydi",
+        "Leykotsitlar soni keskin ortadi",
+        "Qon ivishi buziladi, bexosdan burundan qon keladi, kichik jarohatda ko‘p qon yo‘qotiladi",
+        "Kamqonlik va yiringlash kuzatiladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Gemofiliyadan tashqari qaysi omillar qonning ivish xossasini kamaytiradi?",
+      "options": [
+        "Temir va B vitaminlarining ko‘pligi",
+        "Trombotsitlar sonining kamayishi, ovqatda Ca ionlari va K vitaminining yetishmasligi",
+        "Leykotsitlar sonining ko‘payishi",
+        "Eritrotsitlar sonining ko‘payishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 43,
+      "question": "1 mm³ qonda o‘rtacha 5 million eritrotsit va 7 ming leykotsit bo‘lsa, eritrotsitlar leykotsitlardan taxminan necha marta ko‘p?",
+      "options": [
+        "Taxminan 70 marta",
+        "Taxminan 7 marta",
+        "Taxminan 7000 marta",
+        "Taxminan 700 marta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Shaklli elementlarni 1 mm³ qondagi soni kamayib borish tartibida joylashtiring.",
+      "options": [
+        "Eritrotsitlar → trombotsitlar → leykotsitlar",
+        "Leykotsitlar → eritrotsitlar → trombotsitlar",
+        "Trombotsitlar → eritrotsitlar → leykotsitlar",
+        "Eritrotsitlar → leykotsitlar → trombotsitlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) yetilgan eritrotsitlar yadrosiz; 2) leykotsitlar yadroli; 3) odam trombotsitlari yadroli; 4) yosh eritrotsitlarda yadro bo‘ladi; 5) past tabaqali umurtqalilar trombotsitlari yadrosiz.",
+      "options": [
+        "1, 2, 4",
+        "1, 3, 5",
+        "2, 3, 4",
+        "1, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) eritrotsitlar o‘rtacha 120 kun yashaydi; 2) eritrotsitlar buyrakda parchalanadi; 3) trombotsitlar 2–5 kun yashaydi; 4) gem moddasi suyak ko‘migida bilirubinga aylanadi; 5) temir yosh eritrotsitlar hosil bo‘lishiga sarflanadi.",
+      "options": [
+        "1, 3",
+        "2, 4",
+        "3, 5",
+        "1, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 47,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) plazmada 90–92 % suv bor; 2) plazmada glukoza 0,9 %; 3) plazmada oqsillar 7–8 %; 4) plazmada yog‘ 0,8 %; 5) plazmada tuzlar 0,1 %.",
+      "options": [
+        "1, 2, 5",
+        "2, 4, 5",
+        "1, 3, 4",
+        "1, 3, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 48,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) leykotsitoz – leykotsitlar sonining ko‘payishi; 2) leykopeniya – leykotsitlar sonining ko‘payishi; 3) anemiya – eritrotsitlar va gemoglobin kamayishi; 4) gemofiliya – plazmada antigemofil omil yetishmasligi; 5) fagotsitozni I. P. Pavlov aniqlagan.",
+      "options": [
+        "1, 3",
+        "3, 4",
+        "1, 4",
+        "2, 5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 49,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) eritrotsitlar suyak ko‘migida hosil bo‘ladi; 2) limfotsitlar taloqda ham hosil bo‘ladi; 3) trombotsitlar jigarda hosil bo‘ladi; 4) trombotsitlar suyak ko‘migi va taloqda hosil bo‘ladi; 5) eritrotsitlar taloqda hosil bo‘ladi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3, 5",
+        "2, 3, 5",
+        "3, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) sog‘lom odamda qon 3–4 minutda iviydi; 2) gemofiliya ovqat orqali yuqadi; 3) K vitamini yetishmasa qon ivishi kamayadi; 4) Ca ionlari qon ivishiga ta’sir qilmaydi; 5) trombotsitlar kamaysa qon ivishi buziladi.",
+      "options": [
+        "1, 3",
+        "2, 4",
+        "3, 5",
+        "1, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 51,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) yiring o‘lik leykotsitlardan iborat; 2) leykotsitlar mikroblarni yutib halok bo‘ladi; 3) 1 mm³ qonda 6–8 ming leykotsit bor; 4) yuqumli kasallikda leykotsitlar kamayadi; 5) leykotsitlar kislorod tashiydi.",
+      "options": [
+        "1, 4, 5",
+        "2, 4, 5",
+        "1, 2, 3",
+        "3, 4, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 52,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) gemoglobin o‘pkadan kislorodni hujayralarga tashiydi; 2) gemoglobin karbonat angidridni o‘pkaga olib boradi; 3) eritrotsitlar uchun ovqatda C vitamini va yog‘ eng muhim; 4) ultrabinafsha nurlar eritrotsitlar hosil bo‘lishiga ta’sir qiladi; 5) eritrotsitlarning asosiy vazifasi qonni ivitish.",
+      "options": [
+        "1, 2",
+        "2, 4",
+        "1, 4",
+        "3, 5"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) sentrifugada plazma ustki qismda to‘planadi; 2) plazma qizil rangli bo‘ladi; 3) shaklli elementlar qonning quyuq qismini tashkil etadi; 4) antitelolar plazma tarkibida bo‘ladi; 5) plazmada eritrotsitlar erigan holda bo‘ladi.",
+      "options": [
+        "1, 3, 4",
+        "1, 2, 5",
+        "2, 3, 5",
+        "2, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring. Shaklli element: 1) eritrotsitlar; 2) leykotsitlar; 3) trombotsitlar. Asosiy vazifasi: a) qonning ivishini ta’minlash; b) hujayralarni kislorod bilan ta’minlash; c) organizmni yuqumli kasalliklardan himoya qilish.",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a",
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring. Shaklli element: 1) eritrotsitlar; 2) leykotsitlar; 3) trombotsitlar. 1 mm³ qondagi soni: a) 6–8 ming; b) 300–400 ming; c) 4–6 million.",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring. Shaklli element: 1) eritrotsitlar; 2) leykotsitlar; 3) trombotsitlar. Yashash muddati yoki yadro holati: a) yadroli; b) o‘rtacha 120 kun yashaydi, yadrosiz; c) 2–5 kun yashaydi, yadrosiz.",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring. Plazma tarkibiy qismi: 1) suv; 2) oqsillar; 3) tuzlar; 4) glukoza. Miqdori: a) 0,1 %; b) 7–8 %; c) 90–92 %; d) 0,9 %.",
+      "options": [
+        "1-c, 2-b, 3-d, 4-a",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-c, 2-b, 3-a, 4-d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 58,
+      "question": "Moslashtiring. Atama: 1) anemiya; 2) leykotsitoz; 3) leykopeniya; 4) gemofiliya. Ta’rifi: a) leykotsitlar sonining kamayishi; b) antigemofil omil yetishmasligidan qon ivishining buzilishi; c) eritrotsitlar va gemoglobin miqdorining kamayishi; d) leykotsitlar sonining ko‘payishi.",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-c, 3-a, 4-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 59,
+      "question": "Moslashtiring. Modda: 1) temir; 2) gem; 3) bilirubin; 4) gemoglobin. Taqdiri yoki vazifasi: a) o‘t suyuqligi hosil bo‘lishiga sarflanadi; b) kislorod va karbonat angidridni biriktirib tashiydi; c) suyak ko‘migida yosh eritrotsitlar hosil bo‘lishiga sarflanadi; d) jigarda bilirubinga aylanadi.",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Moslashtiring. Qon hujayrasi: 1) eritrotsitlar; 2) limfotsitlar; 3) trombotsitlar. Hosil bo‘lish joyi: a) faqat suyak ko‘migi; b) suyak ko‘migi va taloq.",
+      "options": [
+        "1-a, 2-b, 3-b",
+        "1-b, 2-a, 3-a",
+        "1-a, 2-a, 3-b",
+        "1-b, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Moslashtiring. Holat: 1) yuqumli kasallik; 2) sog‘lom odam; 3) ovqatda temir va oqsil yetishmasligi; 4) ovqatda K vitamini va Ca ionlari yetishmasligi. Qondagi o‘zgarish: a) qonning ivish xossasi kamayadi; b) 1 mm³ qonda leykotsitlar 10–20 mingga yetadi; c) kamqonlik rivojlanishi mumkin; d) qon 3–4 minutda iviydi.",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-b, 2-c, 3-d, 4-a",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 62,
+      "question": "Moslashtiring. Plazma tarkibidagi modda: 1) antitelolar; 2) fermentlar va gormonlar; 3) antigemofil omil; 4) qoldiq moddalar. Ahamiyati: a) qonning ivishida ishtirok etadi; b) ayirish organlariga yetkazilib chiqariladi; c) organizmni yuqumli kasalliklardan himoya qiladi; d) moddalar almashinuvining normal o‘tishini ta’minlaydi.",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-a, 2-d, 3-c, 4-b"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
