@@ -2,5 +2,567 @@
   "topicId": 15,
   "title": "15-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qon organizmning qaysi muhitining bir qismi hisoblanadi?",
+      "options": [
+        "Tashqi muhitining",
+        "Ichki muhitining",
+        "Faqat hujayra ichidagi muhitning",
+        "Faqat ovqat hazm qilish muhitining"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Organizmning ichki muhitiga qaysi suyuqliklar kiradi?",
+      "options": [
+        "Faqat qon va limfa",
+        "Faqat hujayralararo suyuqlik",
+        "Hujayra ichidagi va hujayra tashqarisidagi suyuqlik",
+        "Faqat hujayra ichidagi suyuqlik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Hujayra tashqarisidagi suyuqlik qanday qismlarga bo‘linadi?",
+      "options": [
+        "Hujayralararo suyuqlik va tomirlar ichidagi (qon va limfa) suyuqlik",
+        "Hujayra ichidagi suyuqlik va qon",
+        "Plazma va shaklli elementlar",
+        "Faqat qon va zardob"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Qaysi suyuqlik hujayra tashqarisidagi tomirlar ichidagi suyuqlikka KIRMAYDI?",
+      "options": [
+        "Qon",
+        "Limfa",
+        "Qon plazmasi",
+        "Hujayralararo suyuqlik"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Qon miqdori tana massasining o‘rtacha necha foizini tashkil qiladi?",
+      "options": [
+        "Taxminan 0,9 %",
+        "Taxminan 7 %",
+        "Taxminan 20 %",
+        "Taxminan 60 %"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Tana massasi 70 kg bo‘lgan odamda qon miqdori taxminan qancha bo‘ladi?",
+      "options": [
+        "Taxminan 2,1 kg",
+        "Taxminan 7,0 kg",
+        "Taxminan 4,9 kg",
+        "Taxminan 0,6 kg"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Organizm ichki muhitining qaysi xususiyatlari nisbiy doimiy bo‘ladi?",
+      "options": [
+        "Suyuqliklarning miqdori, kimyoviy tarkibi, osmotik bosimi va barcha fizik-kimyoviy xususiyatlari",
+        "Faqat qonning rangi",
+        "Faqat tana harorati",
+        "Faqat suyuqliklarning hajmi, tarkibi esa doimo o‘zgaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Ichki muhitning nisbiy doimiyligi qanday ataladi va uning ahamiyati nimada?",
+      "options": [
+        "Immunitet; organizmni mikroblardan himoya qiladi",
+        "Gomeostaz; hujayra va to‘qimalarning normal faoliyati uchun qulay sharoit yaratadi",
+        "Gemoliz; eritrotsitlarni parchalaydi",
+        "Osmos; suvni hujayradan chiqaradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Biror organ faoliyati kasallik tufayli buzilsa, ichki muhitda qanday o‘zgarish ro‘y beradi?",
+      "options": [
+        "Ichki muhit doimiyligi kuchayadi",
+        "Faqat tana harorati ko‘tariladi",
+        "Ichki muhitning nisbiy doimiyligi ham buziladi",
+        "Hech qanday o‘zgarish bo‘lmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Matnda qaysi organlar kasalliklarida ichki muhit doimiyligi buzilishi misol qilib keltirilgan?",
+      "options": [
+        "Oshqozon-ichak, jigar, buyrak",
+        "Yurak, o‘pka, miya",
+        "Teri, suyak, muskul",
+        "Ko‘z, quloq, burun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Ichki muhit doimiyligi buzilganda qaysi ko‘rsatkichlar o‘zgaradi?",
+      "options": [
+        "Faqat qonning rangi",
+        "Faqat suyaklarning tuzilishi",
+        "Faqat nerv hujayralarining soni",
+        "Hujayra ichidagi, hujayra oralig‘i va qon suyuqligining miqdori hamda kimyoviy tarkibi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 12,
+      "question": "Ichki muhit suyuqliklari miqdori va tarkibining o‘zgarishi organizmga qanday ta’sir qiladi?",
+      "options": [
+        "Barcha organlar faoliyatini yaxshilaydi",
+        "Barcha organlar faoliyatiga salbiy ta’sir ko‘rsatib, kasallik belgilarini yana ham kuchaytiradi",
+        "Faqat kasal organga ta’sir qiladi",
+        "Kasallik belgilarini yo‘qotadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Ichki muhitning o‘zgarishiga ichki omillardan tashqari yana nima ta’sir ko‘rsatadi?",
+      "options": [
+        "Faqat irsiyat",
+        "Faqat yosh",
+        "Tashqi muhit sharoiti",
+        "Hech narsa ta’sir qilmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 14,
+      "question": "O‘rta Osiyoning issiq iqlim sharoitida yozda organizm nima sababdan ko‘p suyuqlik yo‘qotadi?",
+      "options": [
+        "Ko‘p terlash va nafasning tezlashuvi natijasida",
+        "Siydik ajralishining to‘xtashi natijasida",
+        "Qonning yopishqoqligi kamayishi natijasida",
+        "Tana haroratining pasayishi natijasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Yozda ko‘p suyuqlik yo‘qotish ichki muhitda qanday o‘zgarishga olib keladi?",
+      "options": [
+        "Qon miqdori ortib, tarkibi o‘zgarmaydi",
+        "Faqat hujayra ichidagi suyuqlik ko‘payadi",
+        "Osmotik bosim nolga tushadi",
+        "Hujayra ichidagi, hujayralararo va qon suyuqliklari miqdori kamayib, kimyoviy tarkibi o‘zgaradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Issiq kunlarda ichki muhit suyuqliklari miqdori va tarkibi doimiyligini saqlash uchun nima tavsiya etiladi?",
+      "options": [
+        "Faqat toza distillangan suv ichish",
+        "Suvga biroz tuz qo‘shib ichish yoki mineral suv iste’mol qilish",
+        "Suyuqlik ichishni butunlay to‘xtatish",
+        "Faqat shirin ichimliklar ichish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Suvga biroz tuz qo‘shib ichish nimani ta’minlaydi?",
+      "options": [
+        "Ichki muhit suyuqliklari miqdori o‘zgarmaydi va tarkibining doimiyligi saqlanadi",
+        "Qonning yopishqoqligi 10 baravar ortadi",
+        "Qon pH ko‘rsatkichi kislotali tomonga siljiydi",
+        "Terlash butunlay to‘xtaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Qonning tashuvchilik vazifasiga ko‘ra, hazm bo‘lgan oziq moddalar hujayralarga qanday yetkaziladi?",
+      "options": [
+        "To‘g‘ridan-to‘g‘ri ichak devoridan hujayralarga",
+        "Faqat nerv tolalari orqali",
+        "Qon va limfa tomirlariga so‘rilib, qon orqali hujayralarga",
+        "Faqat o‘pka orqali"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Qaysi qatorda qonga so‘riladigan oziq moddalar to‘liq ko‘rsatilgan?",
+      "options": [
+        "Oqsillar, yog‘lar, uglevodlar, mineral tuzlar, vitaminlar, suv",
+        "Faqat oqsillar va yog‘lar",
+        "Gormonlar, antitelolar, leykotsitlar",
+        "Kislorod, karbonat kislota, azot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Qon kislorodni qayerdan qabul qilib, qayerga olib boradi?",
+      "options": [
+        "Hujayralardan qabul qilib, o‘pkaga",
+        "Ichakdan qabul qilib, buyrakka",
+        "Endokrin bezlardan qabul qilib, miyaga",
+        "O‘pkadan qabul qilib, hujayralarga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Hujayralarda moddalar almashinuvi natijasida hosil bo‘lgan qaysi moddalar qonga o‘tadi?",
+      "options": [
+        "Oqsillar va vitaminlar",
+        "Qoldiq (zaharli) moddalar va karbonat kislota",
+        "Kislorod va glyukoza",
+        "Gormonlar va antitelolar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Qoldiq moddalar va karbonat kislota organizmdan qanday chiqariladi?",
+      "options": [
+        "Qon orqali ayirish va nafas olish organlariga yetkazilib, tashqariga chiqariladi",
+        "Hujayralarda to‘planib qoladi",
+        "Ichak orqali qayta so‘riladi",
+        "Leykotsitlar tomonidan yutiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "Qon organlar funksiyasini qaysi yo‘l bilan boshqarishda ishtirok etadi?",
+      "options": [
+        "Faqat reflektor yo‘l bilan",
+        "Mexanik yo‘l bilan",
+        "Gumoral yo‘l bilan",
+        "Faqat ixtiyoriy yo‘l bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Gormonlar qayerda sintez qilinadi va to‘qimalarga qanday yetkaziladi?",
+      "options": [
+        "Leykotsitlarda; limfa orqali",
+        "Endokrin bezlarda; qonga o‘tib, qon orqali",
+        "Jigarda; nerv tolalari orqali",
+        "O‘pkada; havo orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Gormonlar nerv sistemasi bilan birga qanday boshqarishni ta’minlaydi?",
+      "options": [
+        "Faqat gumoral boshqarishni",
+        "Faqat reflektor boshqarishni",
+        "Immun boshqarishni",
+        "Nerv-gumoral boshqarishni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 26,
+      "question": "Qonning himoya (immunitet) vazifasini bajaruvchi hujayralar qaysilar va ular nima qiladi?",
+      "options": [
+        "Eritrotsitlar; kislorod tashiydi",
+        "Trombotsitlar; qonni ivitadi",
+        "Leykotsitlar (oq qon tanachalari); mikroblarni yutadi, parchalaydi va eritib yuboradi",
+        "Gormonlar; organlar faoliyatini boshqaradi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Antitelolar qayerda joylashgan va ular mikroblarga qanday ta’sir qiladi?",
+      "options": [
+        "Qon zardobida; mikroblarni bir-biriga yopishtiradi va eritib yuboradi",
+        "Eritrotsitlar ichida; mikroblarni yutadi",
+        "Endokrin bezlarda; mikroblarni ko‘paytiradi",
+        "O‘pkada; mikroblarni tashqariga chiqaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Antitelolar kimyoviy tabiatiga ko‘ra qanday moddalar hisoblanadi?",
+      "options": [
+        "Uglevodlar",
+        "Yog‘lar",
+        "Mineral tuzlar",
+        "Maxsus oqsil zarrachalari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Qonning immunitetlik funksiyasi organizm uchun qanday ahamiyatga ega?",
+      "options": [
+        "Tana haroratini pasaytiradi",
+        "Organizmning har xil yuqumli kasalliklardan saqlanishiga yordam beradi",
+        "Oziq moddalarni hazm qiladi",
+        "Qonning yopishqoqligini oshiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "Qon tana haroratining nisbiy doimiyligini qanday ta’minlaydi?",
+      "options": [
+        "Uzluksiz harakati orqali moddalar almashinuvida hosil bo‘lgan issiqlikni tananing barcha qismlariga tarqatadi",
+        "Issiqlikni faqat bosh miyada to‘playdi",
+        "Terlashni butunlay to‘xtatadi",
+        "Gormonlarni parchalaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 31,
+      "question": "Qonning solishtirma massasi nechaga teng?",
+      "options": [
+        "1,000",
+        "1,025–1,034",
+        "1,050–1,060",
+        "1,090"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Qon plazmasi va shaklli elementlarining solishtirma massalari to‘g‘ri ko‘rsatilgan qatorni toping.",
+      "options": [
+        "Plazma – 1,090; shaklli elementlar – 1,025–1,034",
+        "Plazma – 1,050–1,060; shaklli elementlar – 1,000",
+        "Plazma – 1,025–1,034; shaklli elementlar – 1,090",
+        "Plazma – 5,0; shaklli elementlar – 7,4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 33,
+      "question": "Solishtirma massasi ortib borish tartibida to‘g‘ri joylashtirilgan qatorni toping.",
+      "options": [
+        "Suv → qon plazmasi → butun qon → shaklli elementlar",
+        "Shaklli elementlar → qon → plazma → suv",
+        "Suv → qon → plazma → shaklli elementlar",
+        "Plazma → suv → shaklli elementlar → qon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Suvning yopishqoqligi 1,0 deb olinsa, qonning yopishqoqligi nechaga teng?",
+      "options": [
+        "1,05",
+        "7,4",
+        "0,9",
+        "5,0"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Qonning yopishqoqligi suvnikidan yuqori bo‘lishi nimaga bog‘liq?",
+      "options": [
+        "Qondagi natriy xlorid miqdoriga",
+        "Tarkibidagi oqsil moddalar va shaklli elementlar, ayniqsa, eritrotsitlar miqdoriga",
+        "Faqat tana haroratiga",
+        "Faqat gormonlar miqdoriga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Qonning osmotik bosimi nechaga teng?",
+      "options": [
+        "7,6–8,1 atm",
+        "1,050–1,060 atm",
+        "0,9 atm",
+        "7,4 atm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Qon osmotik bosimining necha foizini qaysi modda tashkil etadi?",
+      "options": [
+        "7 % ini oqsillar",
+        "90 % ini glyukoza",
+        "60 % ini qonda erigan natriy xlorid",
+        "40 % ini kaliy xlorid"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Agar qonning osmotik bosimi 8,0 atm bo‘lsa, uning qancha qismini natriy xlorid hosil qiladi?",
+      "options": [
+        "Taxminan 3,2 atm",
+        "Taxminan 6,0 atm",
+        "Taxminan 0,7 atm",
+        "Taxminan 4,8 atm"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Odam va issiqqonli hayvonlar uchun fiziologik eritma qaysi eritma hisoblanadi?",
+      "options": [
+        "Osh tuzining 9 % li eritmasi",
+        "Osh tuzining 0,9 % li eritmasi",
+        "Glyukozaning 0,9 % li eritmasi",
+        "Osh tuzining 0,09 % li eritmasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Osh tuzining 2 % li va 0,5 % li eritmalari qonga nisbatan qanday eritmalar hisoblanadi?",
+      "options": [
+        "2 % li – gipotonik; 0,5 % li – gipertonik",
+        "Ikkalasi ham fiziologik",
+        "2 % li – gipertonik; 0,5 % li – gipotonik",
+        "Ikkalasi ham gipertonik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Qonning reaksiyasi qanday va uning pH ko‘rsatkichi nechaga teng?",
+      "options": [
+        "Kuchsiz ishqoriy; pH = 7,4",
+        "Kuchsiz kislotali; pH = 6,4",
+        "Neytral; pH = 7,0",
+        "Kuchli ishqoriy; pH = 9,4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 42,
+      "question": "Matn mazmuniga ko‘ra qaysi fikr NOTO‘G‘RI?",
+      "options": [
+        "Antitelolar qon zardobida bo‘ladi",
+        "Qonning yopishqoqligi suvnikidan 5 marta yuqori",
+        "Osh tuzining 0,9 % dan yuqori konsentratsiyali eritmasi qonga nisbatan gipotonik hisoblanadi",
+        "Gormonlar endokrin bezlarda sintez qilinadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Matn mazmuniga ko‘ra qaysi fikr TO‘G‘RI?",
+      "options": [
+        "Qon hujayra ichidagi suyuqlikning tarkibiy qismidir",
+        "Qon plazmasining solishtirma massasi shaklli elementlarnikidan katta",
+        "Qon kuchsiz kislotali reaksiyaga ega",
+        "Qon hujayra tashqarisidagi suyuqlikning tarkibiy qismi bo‘lib, tomirlar ichidagi suyuqlikka kiradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Moslashtiring. Qonning vazifasi: 1) tashuvchilik; 2) gumoral boshqarish; 3) himoya (immunitet); 4) haroratni saqlash. Misol: a) gormonlarni to‘qima va organlarga yetkazish; b) leykotsitlarning mikroblarni yutishi; c) issiqlikni tananing barcha qismlariga tarqatish; d) kislorod va oziq moddalarni hujayralarga yetkazish.",
+      "options": [
+        "1-a, 2-d, 3-b, 4-c",
+        "1-d, 2-a, 3-b, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "Moslashtiring. Ko‘rsatkich: 1) qonning solishtirma massasi; 2) qon plazmasining solishtirma massasi; 3) shaklli elementlarning solishtirma massasi; 4) qonning yopishqoqligi. Qiymat: a) 1,090; b) 5,0; c) 1,050–1,060; d) 1,025–1,034.",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-a, 2-d, 3-c, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Moslashtiring. Ko‘rsatkich: 1) qonning osmotik bosimi; 2) qonning pH ko‘rsatkichi; 3) qon miqdorining tana massasiga nisbati; 4) fiziologik eritmadagi osh tuzi konsentratsiyasi. Qiymat: a) 7 %; b) 0,9 %; c) 7,4; d) 7,6–8,1 atm.",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-b, 4-a",
+        "1-d, 2-a, 3-c, 4-b",
+        "1-d, 2-c, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Moslashtiring. Osh tuzi eritmasi: 1) 0,9 % li; 2) 3 % li; 3) 0,3 % li. Qonga nisbatan turi: a) gipotonik; b) gipertonik; c) fiziologik.",
+      "options": [
+        "1-c, 2-a, 3-b",
+        "1-c, 2-b, 3-a",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Moslashtiring. Qon tarkibiy qismi: 1) leykotsitlar; 2) antitelolar; 3) gormonlar; 4) natriy xlorid. Vazifasi yoki xususiyati: a) mikroblarni bir-biriga yopishtiradi; b) osmotik bosimning 60 % ini hosil qiladi; c) mikroblarni yutadi, parchalaydi va eritadi; d) nerv sistemasi bilan birga organlar faoliyatini boshqaradi.",
+      "options": [
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-a, 3-c, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Moslashtiring. Suyuqlik: 1) hujayra ichidagi suyuqlik; 2) hujayralararo suyuqlik; 3) qon; 4) limfa. Guruhi: a) hujayra tashqarisidagi, tomirlar ichidagi suyuqlik; b) hujayra tashqarisidagi, tomirlardan tashqaridagi suyuqlik; c) hujayra tashqarisidagi suyuqlikka kirmaydi.",
+      "options": [
+        "1-c, 2-b, 3-a, 4-a",
+        "1-b, 2-c, 3-a, 4-a",
+        "1-c, 2-a, 3-b, 4-a",
+        "1-c, 2-b, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Moslashtiring. Modda: 1) kislorod; 2) karbonat kislota; 3) qoldiq (zaharli) moddalar; 4) hazm bo‘lgan oziq moddalar. Qon orqali tashilish yo‘nalishi: a) hujayralardan ayirish organlariga; b) ichaklardan hujayralarga; c) o‘pkadan hujayralarga; d) hujayralardan nafas olish organlariga.",
+      "options": [
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Moslashtiring. Holat: 1) jigar yoki buyrak kasalligi; 2) yozda ko‘p terlash va nafasning tezlashishi; 3) suvga biroz tuz qo‘shib yoki mineral suv ichish. Natija: a) suyuqliklar miqdori kamayib, kimyoviy tarkibi o‘zgaradi; b) ichki muhit doimiyligi buzilib, kasallik belgilari kuchayadi; c) ichki muhit suyuqliklari miqdori va tarkibining doimiyligi saqlanadi.",
+      "options": [
+        "1-b, 2-a, 3-c",
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
