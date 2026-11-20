@@ -2,5 +2,732 @@
   "topicId": 17,
   "title": "Qon guruhlari",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qon eritrotsitlari tarkibida agglutinogen, plazmasida agglutinin bo‘lishini kimlar va qachon aniqlagan?",
+      "options": [
+        "1901-yili Y. Yanskiy, 1907-yili K. Landshteyner",
+        "1907-yili I. I. Mechnikov, 1901-yili K. Landshteyner",
+        "1901-yili K. Landshteyner, 1907-yili Y. Yanskiy",
+        "1940-yili K. Landshteyner va boshqalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Agglutinogenlar va agglutininlar qonning qaysi qismlarida joylashgan?",
+      "options": [
+        "Agglutinogenlar – eritrotsitlarda; agglutininlar – plazmada",
+        "Ikkalasi ham eritrotsitlarda",
+        "Agglutinogenlar – leykotsitlarda; agglutininlar – trombotsitlarda",
+        "Agglutinogenlar – plazmada; agglutininlar – eritrotsitlarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 3,
+      "question": "Qaysi qatorda agglutinogenlar to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "A va B",
+        "A va α",
+        "α va β",
+        "B va β"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Qaysi qatorda agglutininlar to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "B va α",
+        "α va β",
+        "A va β",
+        "A va B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Bitta odam qonida qaysi moddalar birga bo‘lmasligi kerak?",
+      "options": [
+        "Agglutinogen A va agglutinin β yoki agglutinogen B va agglutinin α",
+        "Agglutinogen A va agglutinin α yoki agglutinogen B va agglutinin β",
+        "Agglutinin α va agglutinin β",
+        "Agglutinogen A va agglutinogen B"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Normada qaysi moddalar bitta odam qonida birga bo‘lishi mumkin?",
+      "options": [
+        "Agglutinogen A va agglutinin β yoki agglutinogen B va agglutinin α",
+        "Agglutinogen A va agglutinin α yoki agglutinogen B va agglutinin β",
+        "Agglutinogen B va agglutinin β",
+        "Agglutinogen A, B va agglutinin α, β"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Qaysi juftlik normada bir odam qonida UCHRAMAYDI?",
+      "options": [
+        "Agglutinin α va agglutinin β",
+        "Agglutinogen A va agglutinin β",
+        "Agglutinogen B va agglutinin β",
+        "Agglutinogen B va agglutinin α"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Eritrotsitlarida agglutinogen A va B bo‘lgan qonning plazmasida qanday agglutinin bo‘ladi?",
+      "options": [
+        "Agglutininlar umuman bo‘lmaydi",
+        "Faqat β",
+        "Faqat α",
+        "α va β"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 9,
+      "question": "Plazmasida agglutinin α va β bo‘lgan qonning eritrotsitlarida qanday agglutinogen bo‘ladi?",
+      "options": [
+        "Faqat B",
+        "Faqat A",
+        "Agglutinogenlar umuman bo‘lmaydi",
+        "A va B"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Agglutinogen va agglutininlarning bo‘lishiga ko‘ra odamlar qoni necha guruhga bo‘linadi?",
+      "options": [
+        "Olti guruhga",
+        "To‘rt guruhga",
+        "Uch guruhga",
+        "Ikki guruhga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "I guruh qonning tarkibi qanday?",
+      "options": [
+        "Eritrotsitlarda agglutinogen yo‘q, plazmada agglutinin α va β bor",
+        "Eritrotsitlarda agglutinogen B, plazmada agglutinin α bor",
+        "Eritrotsitlarda agglutinogen A va B bor, plazmada agglutinin yo‘q",
+        "Eritrotsitlarda agglutinogen A, plazmada agglutinin β bor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 12,
+      "question": "II guruh qonning tarkibi qanday?",
+      "options": [
+        "Eritrotsitlarda agglutinogen A, plazmada agglutinin β",
+        "Eritrotsitlarda agglutinogen B, plazmada agglutinin α",
+        "Eritrotsitlarda agglutinogen A, plazmada agglutinin α",
+        "Eritrotsitlarda agglutinogen B, plazmada agglutinin β"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 13,
+      "question": "III guruh qonning tarkibi qanday?",
+      "options": [
+        "Eritrotsitlarda agglutinogen B, plazmada agglutinin β",
+        "Eritrotsitlarda agglutinogen B, plazmada agglutinin α",
+        "Eritrotsitlarda agglutinogen A, plazmada agglutinin β",
+        "Eritrotsitlarda agglutinogen yo‘q, plazmada agglutinin α"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 14,
+      "question": "IV guruh qonning tarkibi qanday?",
+      "options": [
+        "Eritrotsitlarda agglutinogen A va B, plazmada agglutinin yo‘q",
+        "Eritrotsitlarda agglutinogen yo‘q, plazmada agglutinin α va β",
+        "Eritrotsitlarda agglutinogen A va B, plazmada agglutinin α",
+        "Eritrotsitlarda agglutinogen A, plazmada agglutinin α va β"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Plazmasida faqat agglutinin α bo‘lgan odamning qon guruhi qaysi?",
+      "options": [
+        "II guruh",
+        "I guruh",
+        "IV guruh",
+        "III guruh"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 16,
+      "question": "Plazmasida faqat agglutinin β bo‘lgan odamning qon guruhi qaysi?",
+      "options": [
+        "II guruh",
+        "III guruh",
+        "I guruh",
+        "IV guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 17,
+      "question": "Qaysi qon guruhlarining plazmasida agglutinin α bo‘ladi?",
+      "options": [
+        "I va II guruh",
+        "Faqat III guruh",
+        "II va III guruh",
+        "I va III guruh"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Qaysi qon guruhlarining plazmasida agglutinin β bo‘ladi?",
+      "options": [
+        "II va IV guruh",
+        "I va II guruh",
+        "Faqat II guruh",
+        "I va III guruh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 19,
+      "question": "Qaysi qon guruhlarining eritrotsitlarida agglutinogen A bo‘ladi?",
+      "options": [
+        "II va IV guruh",
+        "II va III guruh",
+        "I va II guruh",
+        "Faqat II guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Qaysi qon guruhlarining eritrotsitlarida agglutinogen B bo‘ladi?",
+      "options": [
+        "III va IV guruh",
+        "Faqat III guruh",
+        "I va III guruh",
+        "II va III guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Eritrotsitlarida agglutinogen bo‘lmaydigan qon guruhi qaysi?",
+      "options": [
+        "I guruh",
+        "IV guruh",
+        "II guruh",
+        "III guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Plazmasida agglutinin bo‘lmaydigan qon guruhi qaysi?",
+      "options": [
+        "I guruh",
+        "IV guruh",
+        "III guruh",
+        "II guruh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 23,
+      "question": "Rezus omil qachon, kimlar tomonidan va qayerda aniqlangan?",
+      "options": [
+        "1901-yilda K. Landshteyner tomonidan, plazmada",
+        "1940-yilda K. Landshteyner va boshqalar tomonidan, eritrotsitlarda",
+        "1907-yilda Y. Yanskiy tomonidan, eritrotsitlarda",
+        "1940-yilda Y. Yanskiy tomonidan, leykotsitlarda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Rezus omil qanday modda hisoblanadi va qayerda joylashgan?",
+      "options": [
+        "Ferment; trombotsitlarda",
+        "Antitelo; qon zardobida",
+        "Agglutinin; plazmada",
+        "Antigen; eritrotsitlarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Rezus omil haqidagi qaysi fikr to‘g‘ri?",
+      "options": [
+        "Faqat qon quyilgandan keyin hosil bo‘ladi",
+        "Irsiy o‘tmaydi, hayot davomida paydo bo‘ladi",
+        "Avloddan avlodga irsiy o‘tadi va hayot davomida o‘zgarmaydi",
+        "Yoshga qarab musbatdan manfiyga o‘zgaradi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Rezus omilning bor yoki yo‘qligiga ko‘ra odamlar qanday guruhlarga bo‘linadi?",
+      "options": [
+        "Universal donor va universal retsipiyent",
+        "Donor va retsipiyent",
+        "Rezus musbat va rezus manfiy",
+        "Agglutinogenli va agglutininli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 27,
+      "question": "Qaysi holatda bolada gemolitik kasallik yuzaga keladi?",
+      "options": [
+        "Ona va homila rezus manfiy bo‘lganda",
+        "Ona rezus musbat, homila rezus manfiy bo‘lganda",
+        "Ona rezus manfiy, homila rezus musbat bo‘lganda",
+        "Ona va homila rezus musbat bo‘lganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 28,
+      "question": "Gemolitik kasallikning yuzaga kelish sababi nima?",
+      "options": [
+        "Leykotsitlar sonining kamayishi",
+        "Ona va homilaning rezus omili mos kelmasligi",
+        "Plazmada antigemofil omil yetishmasligi",
+        "Ona va homila qon guruhlarining bir xilligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 29,
+      "question": "Qon quyish qanday holatlarda zarur bo‘ladi?",
+      "options": [
+        "Faqat qon guruhini aniqlash uchun",
+        "Faqat sog‘lom odamlarda profilaktika uchun",
+        "Faqat yengil shamollashda",
+        "Og‘ir shikastlanganda, ko‘p qon yo‘qotilganda va uzoq davom etadigan og‘ir kasalliklarda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Donor va retsipiyent deb kimlarga aytiladi?",
+      "options": [
+        "Donor – qon oluvchi; retsipiyent – qon beruvchi",
+        "Donor – IV guruhli; retsipiyent – I guruhli odam",
+        "Donor – rezus manfiy odam; retsipiyent – rezus musbat odam",
+        "Donor – boshqalarga qon beruvchi; retsipiyent – boshqalardan qon oluvchi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "Nima uchun I guruh qonli odamlar universal donor deb ataladi?",
+      "options": [
+        "Ular faqat I guruhga qon beradi",
+        "Ular o‘z qonini barcha guruhdagi odamlarga berishi mumkin",
+        "Ular barcha guruhdan qon olishi mumkin",
+        "Ularning plazmasida agglutinin bo‘lmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "Nima uchun IV guruh qonli odamlar universal retsipiyent deb ataladi?",
+      "options": [
+        "Ular barcha guruhdagi odamlardan qon olishi mumkin",
+        "Ular faqat I guruhdan qon oladi",
+        "Ularning eritrotsitlarida agglutinogen bo‘lmaydi",
+        "Ular barcha guruhdagi odamlarga qon berishi mumkin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "II guruh qonli odam qaysi guruhdagi odamlarga qon berishi mumkin?",
+      "options": [
+        "I va II guruhga",
+        "II va III guruhga",
+        "Barcha guruhlarga",
+        "II va IV guruhga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 34,
+      "question": "III guruh qonli odam qaysi guruhdagi odamlarga qon berishi mumkin?",
+      "options": [
+        "Faqat III guruhga",
+        "II va III guruhga",
+        "I va III guruhga",
+        "III va IV guruhga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "IV guruh qonli odam qaysi guruhdagi odamlarga qon berishi mumkin?",
+      "options": [
+        "Barcha guruhlarga",
+        "III va IV guruhga",
+        "Faqat IV guruhga",
+        "I va IV guruhga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Jadvalga ko‘ra, I guruh qonli odam qaysi guruhdan qon qabul qilishi mumkin?",
+      "options": [
+        "Barcha guruhlardan",
+        "Faqat I guruhdan",
+        "I va II guruhdan",
+        "I va IV guruhdan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 37,
+      "question": "Jadvalga ko‘ra, II guruh qonli bemorga qaysi guruh qonini quyish mumkin?",
+      "options": [
+        "II va IV guruh",
+        "II va III guruh",
+        "I va II guruh",
+        "Faqat II guruh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Jadvalga ko‘ra, III guruh qonli bemorga qaysi guruh qonini quyish mumkin?",
+      "options": [
+        "II va III guruh",
+        "Faqat IV guruh",
+        "I va III guruh",
+        "III va IV guruh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "Faqat bitta guruhdan qon qabul qila oladigan, lekin hamma guruhga qon bera oladigan guruh qaysi?",
+      "options": [
+        "II guruh",
+        "III guruh",
+        "IV guruh",
+        "I guruh"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Faqat bitta guruhga qon bera oladigan, lekin hamma guruhdan qon qabul qila oladigan guruh qaysi?",
+      "options": [
+        "II guruh",
+        "III guruh",
+        "IV guruh",
+        "I guruh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 41,
+      "question": "Eritrotsitlarida faqat agglutinogen A bo‘lgan odam qaysi guruhlarga qon bera oladi?",
+      "options": [
+        "Barcha guruhlarga",
+        "I va II guruhga",
+        "Faqat IV guruhga",
+        "II va IV guruhga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 42,
+      "question": "Plazmasida agglutinin umuman bo‘lmagan bemorga qaysi guruh qonlarini quyish mumkin (jadvalga ko‘ra)?",
+      "options": [
+        "I, II, III va IV guruh",
+        "I va IV guruh",
+        "Faqat IV guruh",
+        "Faqat I guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Plazmasida agglutinin α va β bo‘lgan odam jadvalga ko‘ra kimga qon bera oladi?",
+      "options": [
+        "Faqat IV guruhga",
+        "Faqat I guruhga",
+        "Barcha guruhdagi odamlarga",
+        "Hech kimga bera olmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 44,
+      "question": "Eritrotsitida agglutinogen B, plazmasida agglutinin α bo‘lgan bemorga qaysi guruh donori to‘g‘ri keladi?",
+      "options": [
+        "III yoki IV guruh",
+        "I yoki III guruh",
+        "Faqat IV guruh",
+        "II yoki III guruh"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 45,
+      "question": "III guruhli donorning qonini quyish mumkin bo‘lgan bemorlarning plazmasida qanday agglutininlar bo‘lishi mumkin?",
+      "options": [
+        "Faqat agglutinin β",
+        "Agglutinin α va β",
+        "Agglutinin β yoki α va β",
+        "Agglutinin α yoki agglutinin umuman bo‘lmasligi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 46,
+      "question": "Universal donor eritrotsitlari va universal retsipiyent plazmasi haqidagi qaysi fikr to‘g‘ri?",
+      "options": [
+        "Universal donor plazmasida agglutinin yo‘q; universal retsipiyent eritrotsitlarida agglutinogen yo‘q",
+        "Ikkalasining ham plazmasida α va β bor",
+        "Ikkalasining ham eritrotsitlarida A va B bor",
+        "Universal donor eritrotsitlarida agglutinogen yo‘q; universal retsipiyent plazmasida agglutinin yo‘q"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Noto‘g‘ri guruhdagi qon quyilsa qanday oqibat bo‘lishi mumkin?",
+      "options": [
+        "Hech qanday oqibat bo‘lmaydi",
+        "Bemorning qon guruhi o‘zgaradi",
+        "Bemorning rezus omili o‘zgaradi",
+        "Bemor halok bo‘lishi mumkin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 48,
+      "question": "Qon quyishda xatoliklarning oldini olish uchun keyingi yillarda nima tavsiya etilmoqda?",
+      "options": [
+        "Faqat bir xil guruhdagi qonni quyish",
+        "Faqat IV guruh qonini quyish",
+        "Rezus omilni hisobga olmaslik",
+        "Faqat I guruh qonini hammaga quyish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 49,
+      "question": "I guruh qonli odam nechta guruhga qon bera oladi va nechta guruhdan qon oladi?",
+      "options": [
+        "1 ta guruhga beradi; 4 ta guruhdan oladi",
+        "4 ta guruhga beradi; 4 ta guruhdan oladi",
+        "4 ta guruhga beradi; 1 ta guruhdan oladi",
+        "2 ta guruhga beradi; 2 ta guruhdan oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "II va III guruh qonli odamlar uchun umumiy bo‘lgan xususiyat qaysi?",
+      "options": [
+        "Ikkalasi ham barcha guruhlarga qon bera oladi",
+        "Ikkalasining eritrotsitlarida ham agglutinogen A bor",
+        "Ikkalasining plazmasida ham agglutinin β bor",
+        "Ikkalasi ham IV guruhga qon bera oladi va I guruhdan qon ola oladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) I guruh – universal donor; 2) IV guruh – universal donor; 3) IV guruh – universal retsipiyent; 4) I guruh plazmasida α va β bor; 5) IV guruh plazmasida α va β bor.",
+      "options": [
+        "3, 4, 5",
+        "1, 3, 4",
+        "2, 3, 5",
+        "1, 2, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) II guruh eritrotsitida agglutinogen A bor; 2) III guruh plazmasida agglutinin β bor; 3) II guruh plazmasida agglutinin β bor; 4) III guruh eritrotsitida agglutinogen A bor; 5) IV guruh plazmasida agglutinin yo‘q.",
+      "options": [
+        "1, 3",
+        "1, 5",
+        "2, 4",
+        "3, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 53,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) rezus omil eritrotsitlarda bo‘ladi; 2) rezus omil hayot davomida o‘zgaradi; 3) rezus omil irsiy o‘tadi; 4) rezus omilni 1940-yilda Landshteyner va boshqalar aniqlagan; 5) rezus omil plazmadagi agglutinin hisoblanadi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3, 4",
+        "3, 4, 5",
+        "2, 3, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 54,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) II guruh II va IV guruhga qon beradi; 2) III guruh I va III guruhga qon beradi; 3) IV guruh faqat IV guruhga qon beradi; 4) I guruh faqat I guruhdan qon oladi; 5) II guruh barcha guruhlardan qon oladi.",
+      "options": [
+        "2, 5",
+        "3, 4",
+        "1, 4",
+        "1, 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 55,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) ona Rh(–), homila Rh(+) bo‘lsa gemolitik kasallik yuzaga keladi; 2) donor – qon oluvchi odam; 3) retsipiyent – qon oluvchi odam; 4) noto‘g‘ri qon quyilsa bemor halok bo‘lishi mumkin; 5) hozir turli guruh qonlarini aralashtirib quyish tavsiya etiladi.",
+      "options": [
+        "3, 4, 5",
+        "1, 3, 4",
+        "1, 2, 5",
+        "2, 3, 4"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 56,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) agglutinogen A va B bo‘lgan qonda agglutinin bo‘lmaydi; 2) agglutinin α va β bo‘lgan qonda agglutinogen bo‘lmaydi; 3) normada agglutinogen A va agglutinin α birga bo‘ladi; 4) normada agglutinogen B va agglutinin α birga bo‘lishi mumkin; 5) agglutinogenlarni 1940-yilda aniqlashgan.",
+      "options": [
+        "1, 4",
+        "3, 5",
+        "2, 4",
+        "1, 2"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 57,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) agglutinin α I va III guruh plazmasida bor; 2) agglutinogen B III va IV guruhda bor; 3) agglutinin β III guruhda bor; 4) agglutinogen A II va IV guruhda bor; 5) agglutinogen B II guruhda bor.",
+      "options": [
+        "2, 3, 4",
+        "1, 3, 5",
+        "2, 4, 5",
+        "1, 2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 58,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) Y. Yanskiy 1907-yilda qon guruhlari bo‘yicha tadqiqot o‘tkazgan; 2) K. Landshteyner 1901-yilda agglutinogen va agglutininlarni aniqlagan; 3) rezus omilni Y. Yanskiy 1901-yilda aniqlagan; 4) qon guruhlari 4 ta; 5) rezus omil bo‘yicha odamlar 4 guruhga bo‘linadi.",
+      "options": [
+        "2, 4",
+        "1, 4",
+        "3, 5",
+        "1, 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 59,
+      "question": "Moslashtiring. Qon guruhi: 1) I; 2) II; 3) III; 4) IV. Eritrotsitdagi agglutinogen: a) A; b) B; c) A va B; d) yo‘q.",
+      "options": [
+        "1-d, 2-b, 3-a, 4-c",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-d, 2-a, 3-b, 4-c",
+        "1-a, 2-d, 3-b, 4-c"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 60,
+      "question": "Moslashtiring. Qon guruhi: 1) I; 2) II; 3) III; 4) IV. Plazmadagi agglutinin: a) α; b) β; c) α va β; d) yo‘q.",
+      "options": [
+        "1-c, 2-b, 3-a, 4-d",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-c, 2-b, 3-d, 4-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 61,
+      "question": "Moslashtiring. Qon guruhi: 1) I; 2) II; 3) III; 4) IV. Qon berishi mumkin: a) II va IV; b) faqat IV; c) I, II, III, IV; d) III va IV.",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 62,
+      "question": "Moslashtiring. Qon guruhi: 1) I; 2) II; 3) III; 4) IV. Qon qabul qilishi mumkin: a) I va III; b) faqat I; c) I, II, III, IV; d) I va II.",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 63,
+      "question": "Moslashtiring. Olim va yil: 1) K. Landshteyner, 1901; 2) Y. Yanskiy, 1907; 3) K. Landshteyner va boshqalar, 1940. Kashfiyot: a) eritrotsitlarda rezus omil (antigen) borligi; b) eritrotsitlarda agglutinogen, plazmada agglutinin borligi.",
+      "options": [
+        "1-a, 2-b, 3-b",
+        "1-b, 2-b, 3-a",
+        "1-b, 2-a, 3-a",
+        "1-a, 2-a, 3-b"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 64,
+      "question": "Moslashtiring. Atama: 1) donor; 2) retsipiyent; 3) universal donor; 4) universal retsipiyent. Ta’rifi: a) barcha guruhdan qon oluvchi IV guruhli odam; b) boshqalardan qon oluvchi odam; c) barcha guruhga qon beruvchi I guruhli odam; d) boshqalarga qon beruvchi odam.",
+      "options": [
+        "1-c, 2-b, 3-d, 4-a",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 65,
+      "question": "Moslashtiring. Ona va homila rezusi: 1) ona Rh(–), homila Rh(+); 2) ona Rh(+), homila Rh(+); 3) ona Rh(–), homila Rh(–). Natija: a) rezus omil mos, gemolitik kasallik yuzaga kelmaydi; b) rezus omil mos emas, gemolitik kasallik yuzaga keladi.",
+      "options": [
+        "1-a, 2-b, 3-b",
+        "1-b, 2-a, 3-b",
+        "1-b, 2-b, 3-a",
+        "1-b, 2-a, 3-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 66,
+      "question": "Moslashtiring. Bemorning qon guruhi: 1) I; 2) II; 3) III; 4) IV. Unga qon bera olmaydigan guruh(lar): a) III va IV; b) II, III va IV; c) bunday guruh yo‘q; d) II va IV.",
+      "options": [
+        "1-b, 2-a, 3-c, 4-d",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
