@@ -53,6 +53,12 @@
       "title": "Organizmning ichki muhiti",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 16,
+      "title": "Qonning tarkibi va shaklli elementlari",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
