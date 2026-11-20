@@ -77,6 +77,12 @@
       "title": "Qon aylanish sistemasi haqida umumiy tushuncha",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 20,
+      "title": "Katta va kichik qon aylanish doirasi",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
