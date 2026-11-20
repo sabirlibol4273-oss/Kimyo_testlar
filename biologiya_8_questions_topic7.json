@@ -1,0 +1,282 @@
+{
+  "topicId": 7,
+  "title": "Muskullarning ishlashi",
+  "description": "",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Odam tanasining harakatlari nimaning natijasida bajariladi?",
+      "options": [
+        "Ma’lum muskullar guruhining ishlashi natijasida",
+        "Faqat suyak va bo‘g‘imlarning mustaqil harakati natijasida",
+        "Faqat paylarning qisqarishi natijasida",
+        "Yakka muskul tolasining tasodifiy qisqarishi natijasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Matnga ko‘ra, muskullar qanday tuzilmalar bilan tutashgan?",
+      "options": [
+        "Faqat qon tomirlari va limfa tugunlari bilan",
+        "To‘g‘ridan-to‘g‘ri bosh miya po‘stlog‘i bilan",
+        "Maxsus nerv hujayralari va ularning tolalari bilan",
+        "Faqat sezuvchi retseptorlar bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Motoneyron nima va uning har biri nechta muskul tolasi bilan tutashadi?",
+      "options": [
+        "Sezuvchi nerv hujayrasi; faqat bitta muskul tolasi bilan",
+        "Muskullarni harakatga keltiruvchi nerv hujayrasi; o‘nlab va yuzlab muskul tolalari bilan",
+        "Muskullarni harakatga keltiruvchi nerv hujayrasi; faqat bitta muskul tolasi bilan",
+        "Oraliq neyron; minglab muskul tolalari bilan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Motoneyron muskul tolasiga ta’sir etganda jarayonlar qanday ketma-ketlikda boradi?",
+      "options": [
+        "Tolani tormozlaydi → muskul bo‘shashadi",
+        "Muskul qisqaradi → so‘ngra tola qo‘zg‘aladi",
+        "Tolaning oziq zaxirasi tugaydi → muskul charchaydi",
+        "Tolani qo‘zg‘atadi → muskul qisqaradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Qisqargan muskulda qanday natija kuzatiladi?",
+      "options": [
+        "Muskul harakatlanadi va ish bajaradi",
+        "Muskul uzayadi va energiya to‘playdi",
+        "Muskul kontraktura holatiga o‘tadi",
+        "Muskul tormozlanib bo‘shashadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Skelet muskullarining ishi necha xil bo‘ladi va ular qaysilar?",
+      "options": [
+        "Uch xil: statik, dinamik va aralash",
+        "Ikki xil: ixtiyoriy va ixtiyorsiz",
+        "Ikki xil: statik va dinamik",
+        "Ikki xil: qisqarish va kontraktura"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Muskulning statik ishi natijasida nima ta’minlanadi?",
+      "options": [
+        "Tana va uning qismlari har xil harakatlarni bajaradi",
+        "Tana va uning ayrim qismlari ma’lum vaqt davomida zarur vaziyatni saqlaydi",
+        "Muskul tolalari bo‘shasha olmay qoladi",
+        "Muskul tolalarida energiya zaxirasi to‘planadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Qaysi qatorda faqat muskulning statik ishiga misollar keltirilgan?",
+      "options": [
+        "Yurish, tik turish, sakrash",
+        "Gapirish, startoldi holati, yugurish",
+        "Yugurish, sakrash, gapirish",
+        "Tik turish, qo‘lni yuqoriga ko‘tarib turish, startoldi holati"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Muskulning statik ishi dinamik ishidan asosan nimasi bilan farq qiladi?",
+      "options": [
+        "Tanani harakatga keltirmaydi, balki uning zarur vaziyatda ma’lum vaqt saqlanishini ta’minlaydi",
+        "Statik ishda nerv hujayralari umuman ishtirok etmaydi",
+        "Statik ish faqat ichki organlar muskullarida kuzatiladi",
+        "Statik ishda tana tez va xilma-xil harakatlar qiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 10,
+      "question": "Muskulning dinamik ishi natijasida nima sodir bo‘ladi?",
+      "options": [
+        "Tana ma’lum vaziyatni uzoq vaqt saqlaydi",
+        "Muskul tolalari qisqarib, bo‘shasha olmay qoladi",
+        "Odam tanasi va uning ayrim qismlari har xil harakatlarni bajaradi",
+        "Muskullarda oziq zaxirasi to‘planadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Qaysi qatorda faqat muskulning dinamik ishiga misollar berilgan?",
+      "options": [
+        "Tik turish, gapirish, yugurish",
+        "Yurish, yugurish, sakrash, gapirish",
+        "Startoldi holati, sakrash, yurish",
+        "Qo‘lni oldinga ko‘tarib turish, yugurish, gapirish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "22-rasmda sportchining yugurish vaqtida muskullarning qaysi ishi tasvirlangan?",
+      "options": [
+        "Statik ishi",
+        "Kontraktura holati",
+        "Startoldi holati",
+        "Dinamik ishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 13,
+      "question": "Matnga ko‘ra, muskullar qachon charchaydi?",
+      "options": [
+        "Ma’lum vaqt davomida ish bajarish natijasida",
+        "Faqat uyqu yetishmaganda",
+        "Faqat statik ish bajarilganda",
+        "Muskullar hech qachon charchamaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Muskullar charchashining birinchi sababiga ko‘ra, uzoq qo‘zg‘alish natijasida qanday o‘zgarish ro‘y beradi?",
+      "options": [
+        "Muskul tolalarida qo‘zg‘alish kuchayadi va ular tez qisqaradi",
+        "Orqa miyaning sezuvchi hujayralari tormozlanishdan qo‘zg‘alishga o‘tadi",
+        "Miyaning muskul ishini boshqaradigan nerv hujayralari charchab, qo‘zg‘alish pasayadi va ular tormozlanish holatiga o‘tadi",
+        "Nerv hujayralarida qo‘zg‘alish ortib, tormozlanish yo‘qoladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Uzoq vaqt davom etadigan jismoniy ish muskul tolalarida qanday o‘zgarishga olib keladi?",
+      "options": [
+        "Kislorod miqdori ortadi",
+        "Oziq zaxirasi tugab, muskul ishi uchun zarur energiya tugaydi",
+        "Nerv tolalari muskuldan ajraladi",
+        "Muskul tolalari soni ko‘payadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Qisqa vaqt davomida, ammo katta tezlikda bajarilgan ishda charchashning sababi nima?",
+      "options": [
+        "Muskullarda oziq zaxirasining to‘planishi",
+        "Nerv hujayralarida qo‘zg‘alishning ortishi",
+        "Suyaklarning zaiflashishi",
+        "Organizmda kislorod yetishmay qolishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Charchash sabablari ish turlariga ko‘ra to‘g‘ri juftlangan qatorni toping.",
+      "options": [
+        "Uzoq davomli ish — oziq zaxirasi va energiyaning tugashi; qisqa, tezkor ish — kislorod yetishmasligi",
+        "Uzoq davomli ish — kislorod yetishmasligi; qisqa, tezkor ish — oziq zaxirasining tugashi",
+        "Uzoq davomli ish — suyaklarning charchashi; qisqa, tezkor ish — paylarning cho‘zilishi",
+        "Ikkala holatda ham faqat nerv hujayralarining qo‘zg‘alishi kuchayadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 18,
+      "question": "Charchash yuzaga kelganda muskul tolalarida qanday o‘zgarishlar ketma-ketligi kuzatiladi?",
+      "options": [
+        "Qisqarish kuchi ortadi → tolalar tez qisqaradi → harakat tezlashadi",
+        "Tolalar qisqarib qoladi → kuch ortadi → harakat davom etadi",
+        "Qisqarish kuchi asta-sekin kamayadi → tolalar bo‘shashadi → qisqara olmay qoladi",
+        "Tolalar birdaniga uziladi → harakat to‘xtaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 19,
+      "question": "Muskullar charchashi natijasida harakat qanday o‘zgaradi?",
+      "options": [
+        "Birdaniga to‘xtaydi",
+        "Asta-sekin susayadi, keyin to‘xtaydi",
+        "Tobora tezlashadi",
+        "Hech qanday o‘zgarmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Muskullarning kontrakturasi deb qanday holatga aytiladi?",
+      "options": [
+        "Charchagan muskul tolalarining bo‘shashib, qisqara olmay qolishiga",
+        "Muskulning tanani ma’lum vaziyatda saqlab turishiga",
+        "Muskul tolalarining kislorod bilan to‘yinishiga",
+        "Charchagan muskul tolalarining qisqarib, bo‘shasha olmay qolishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Kontraktura ko‘pincha qaysi holatda va qaysi muskullarda yuzaga keladi?",
+      "options": [
+        "Tez yugurgan vaqtda boldir muskullarida",
+        "Tik turganda yelka muskullarida",
+        "Gapirganda yuz muskullarida",
+        "Startoldi holatida bilak muskullarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 22,
+      "question": "Matnga ko‘ra, kimlarning organizmi yaxshi chiniqqan bo‘ladi?",
+      "options": [
+        "Faqat uzoq dam oladigan odamlarning",
+        "Faqat aqliy mehnat bilan shug‘ullanuvchilarning",
+        "Jismoniy mehnat, jismoniy tarbiya va sport bilan muntazam shug‘ullanuvchilarning",
+        "Faqat yoshi kattalarning"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 23,
+      "question": "Muntazam sport bilan shug‘ullanuvchilarning muskullari nima sababdan tez charchamaydi?",
+      "options": [
+        "Ularning muskullarida nerv hujayralari bo‘lmagani uchun",
+        "Organizmi yaxshi chiniqqanligi uchun",
+        "Ular faqat statik ish bajargani uchun",
+        "Ularda kislorod umuman sarflanmagani uchun"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 24,
+      "question": "Muskullarning yaxshi rivojlanishi, tolalari va paylarining baquvvat bo‘lishi nimaga imkon beradi?",
+      "options": [
+        "Nerv hujayralarining tormozlanishiga",
+        "Muskullarning tez charchashiga",
+        "Kontraktura holatining tez-tez yuzaga kelishiga",
+        "Suyaklarning yaxshi rivojlanishi va mustahkam bo‘lishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 25,
+      "question": "Matn mazmuniga ko‘ra qaysi fikr NOTO‘G‘RI?",
+      "options": [
+        "Motoneyronlar muskul tolalarini qo‘zg‘atadi",
+        "Startoldi holati statik ishga misol bo‘ladi",
+        "Muskulning statik ishi tanani harakatga keltiradi",
+        "Qisqa, tezkor ishda organizmda kislorod yetishmay qoladi"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}
