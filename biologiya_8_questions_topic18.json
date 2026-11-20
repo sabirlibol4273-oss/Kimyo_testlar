@@ -2,5 +2,666 @@
   "topicId": 18,
   "title": "Immunitet",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Yuqumli kasalliklar deb qanday kasalliklarga aytiladi?",
+      "options": [
+        "Faqat noto‘g‘ri ovqatlanish natijasida yuzaga keladigan kasalliklarga",
+        "Organizmga patogen mikroblar, viruslar, zamburug‘lar va boshqalar kirishi natijasida yuzaga keladigan kasalliklarga",
+        "Qon guruhlari mos kelmasligidan yuzaga keladigan kasalliklarga",
+        "Faqat irsiy yo‘l bilan o‘tadigan kasalliklarga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 2,
+      "question": "Yuqumli kasalliklarni mikroblar qo‘zg‘atishini kim aniqlagan?",
+      "options": [
+        "Fransuz olimi L. Montane",
+        "Rus olimi I. I. Mechnikov",
+        "K. Landshteyner",
+        "Fransuz olimi Lui Paster"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Lui Paster qaysi yillarda yashagan?",
+      "options": [
+        "1822–1895",
+        "1795–1860",
+        "1845–1916",
+        "1901–1940"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "I. I. Mechnikov qaysi yillarda yashagan?",
+      "options": [
+        "1845–1916",
+        "1822–1895",
+        "1901–1983",
+        "1868–1943"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 5,
+      "question": "Hozirgi kunda mikroblar va viruslarning taxminan nechta turi ma’lum?",
+      "options": [
+        "Mikroblarning 1500 ga yaqin, viruslarning 100 dan ortiq turi",
+        "Mikroblarning 15 000, viruslarning 1000 turi",
+        "Mikroblarning 150, viruslarning 10 turi",
+        "Mikroblarning 100 dan ortiq, viruslarning 1500 ga yaqin turi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Mikroblar tabiatda qayerlarda keng tarqalgan?",
+      "options": [
+        "Faqat suvda",
+        "Faqat odam organizmida",
+        "Faqat tibbiy asboblarda",
+        "Tuproqda, suvda va havoda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 7,
+      "question": "Organizm o‘zini himoya qilishining birinchi bosqichini nimalar tashkil etadi?",
+      "options": [
+        "Antitelolar va antitoksinlar",
+        "Teri, burun, nafas yo‘llari va ovqat hazm qilish organlarining ichki shilliq pardasi",
+        "Vaksinalar va qon zardoblari",
+        "Qonning leykotsitlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 8,
+      "question": "Organizm himoyalanishining ikkinchi bosqichida nima xizmat qiladi?",
+      "options": [
+        "Eritrotsitlar va trombotsitlar",
+        "Antitelolar va antitoksinlar",
+        "Qonning leykotsitlari (oq qon tanachalari)",
+        "Teri va shilliq pardalar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Organizm himoyalanishining uchinchi bosqichi nima hisoblanadi?",
+      "options": [
+        "Leykotsitlarning fagotsitozi",
+        "Trombotsitlar yordamida qonning ivishi",
+        "Antitelolar va antitoksinlar ishlab chiqarilishi",
+        "Teri va shilliq pardalarning to‘siq vazifasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Organizmning himoya bosqichlari to‘g‘ri ketma-ketlikda berilgan qatorni toping.",
+      "options": [
+        "Teri va shilliq pardalar → leykotsitlar → antitelolar va antitoksinlar",
+        "Teri va shilliq pardalar → antitelolar → leykotsitlar",
+        "Leykotsitlar → teri va shilliq pardalar → antitelolar",
+        "Antitelolar → leykotsitlar → teri va shilliq pardalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 11,
+      "question": "Antitelolar mikroblarga qanday ta’sir qiladi?",
+      "options": [
+        "Mikroblarni o‘zlariga biriktirib o‘pkaga olib boradi",
+        "Mikroblarni bir-biriga yopishtirib, eritib yuboradi",
+        "Mikroblar ajratgan zaharli moddalarni neytrallaydi",
+        "Mikroblar sonini ko‘paytiradi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Antitoksinlarning vazifasi nima?",
+      "options": [
+        "Mikroblarni bir-biriga yopishtiradi",
+        "Mikroblar ajratadigan zaharli moddalarni parchalab neytrallaydi",
+        "Mikroblarni yutib halok bo‘ladi",
+        "Qonning ivishini ta’minlaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Immunitet deb nimaga aytiladi?",
+      "options": [
+        "Organizmga vaksina yuborish jarayoniga",
+        "Faqat terining mikroblarni o‘tkazmaslik xususiyatiga",
+        "Qonning ivish xususiyatiga",
+        "Organizmning antitelo va antitoksinlar ishlab chiqarib, ular orqali mikroblarga qarshi kurashish, o‘zini himoya qilish xususiyatiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 14,
+      "question": "Kelib chiqishiga ko‘ra immunitet necha xil bo‘ladi?",
+      "options": [
+        "Ikki xil: faol va tabiiy",
+        "Ikki xil: tabiiy va sun’iy",
+        "Ikki xil: tug‘ma va orttirilgan",
+        "Uch xil: tug‘ma, sun’iy va passiv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Tug‘ma immunitet haqidagi qaysi fikr to‘g‘ri?",
+      "options": [
+        "Onadan bolaga o‘tadi, doimiy bo‘lmaydi va bolaning birinchi yoshidayoq kuchini yo‘qotadi",
+        "Emlash natijasida hosil bo‘ladi",
+        "Kasallanib tuzalgandan keyin hosil bo‘ladi",
+        "Onadan bolaga o‘tadi va umrbod saqlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 16,
+      "question": "Tug‘ma immunitet qachon o‘z kuchini yo‘qotadi?",
+      "options": [
+        "Maktab yoshida",
+        "Hech qachon yo‘qotmaydi",
+        "18 yoshda",
+        "Bolaning birinchi yoshidayoq"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 17,
+      "question": "Orttirilgan immunitet qanday turlarga bo‘linadi?",
+      "options": [
+        "Faol va tug‘ma",
+        "Doimiy va vaqtinchalik",
+        "Tabiiy va sun’iy",
+        "Tug‘ma va passiv"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 18,
+      "question": "Tabiiy immunitet qanday hosil bo‘ladi?",
+      "options": [
+        "Onadan bolaga o‘tishi natijasida",
+        "Tayyor antitelolar yuborilishi natijasida",
+        "Sog‘lom odamni emlash natijasida",
+        "Odam biror yuqumli kasallik bilan kasallanib tuzalishi natijasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "Sun’iy immunitet qanday hosil qilinadi?",
+      "options": [
+        "Sog‘lom odamni emlash natijasida",
+        "Kasallanib tuzalish natijasida",
+        "Gammaglobulin yuborish natijasida",
+        "Onadan bolaga o‘tishi natijasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Vaksinalar qanday tayyorlanadi?",
+      "options": [
+        "Maxsus laboratoriyalarda kasallik qo‘zg‘atuvchi mikroblar va viruslarni kuchsizlantirish yo‘li bilan",
+        "Mikroblarni kuchaytirish yo‘li bilan",
+        "Antibiotiklarni aralashtirish yo‘li bilan",
+        "Donorlar qonidan tayyor antitelolarni ajratish yo‘li bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 21,
+      "question": "Nima uchun tabiiy va sun’iy immunitet faol immunitet deb ataladi?",
+      "options": [
+        "Chunki ular bir yildan keyin yo‘qoladi",
+        "Chunki ular onadan bolaga o‘tadi",
+        "Chunki antitelo va antitoksinlar organizmning o‘zida ishlab chiqariladi",
+        "Chunki tayyor antitelolar boshqa odamdan yuboriladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Passiv immunitet qanday hosil bo‘ladi?",
+      "options": [
+        "Sog‘lom odamga kuchsizlantirilgan mikrob yuborilganda",
+        "Odam kasallanib tuzalganda",
+        "Onadan bolaga o‘tganda",
+        "Emlangan donorlar qoni, qon zardobidagi tayyor antitelo va antitoksinlar yoki gammaglobulin boshqa odamga yuborilganda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Passiv immunitetning faol immunitetdan asosiy farqi nimada?",
+      "options": [
+        "Passiv immunitet faqat kasallanib tuzalganda hosil bo‘ladi",
+        "Passiv immunitet umrbod saqlanadi",
+        "Passiv immunitetda antitelo va antitoksinlar organizmning o‘zida emas, tayyor holda tashqaridan yuboriladi",
+        "Passiv immunitetda vaksina yuboriladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 24,
+      "question": "Bemorga emlangan donorning qon zardobi yuborildi. Bemorda qanday immunitet hosil bo‘ladi?",
+      "options": [
+        "Tug‘ma immunitet",
+        "Faol tabiiy immunitet",
+        "Passiv immunitet",
+        "Faol sun’iy immunitet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 25,
+      "question": "Sog‘lom bolaga qizamiqqa qarshi vaksina yuborildi. Bolada qanday immunitet hosil bo‘ladi?",
+      "options": [
+        "Orttirilgan faol sun’iy immunitet",
+        "Tug‘ma immunitet",
+        "Passiv immunitet",
+        "Tabiiy immunitet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Odam suvchechak bilan kasallanib tuzaldi. Unda qanday immunitet hosil bo‘ladi?",
+      "options": [
+        "Tug‘ma immunitet",
+        "Orttirilgan faol tabiiy immunitet",
+        "Passiv immunitet",
+        "Sun’iy immunitet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Yangi tug‘ilgan chaqaloqda onasidan o‘tgan immunitet qanday ataladi?",
+      "options": [
+        "Sun’iy immunitet",
+        "Tug‘ma immunitet",
+        "Faol tabiiy immunitet",
+        "Passiv sun’iy immunitet"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Rossiyada birinchi bo‘lib quturish, kuydirgi va boshqa kasalliklarga qarshi vaksina va qon zardoblarini kim tayyorlab qo‘llagan?",
+      "options": [
+        "L. Montane",
+        "Y. Yanskiy",
+        "Lui Paster",
+        "I. I. Mechnikov"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Mechnikov qaysi kasalliklarning oldini olish uchun vaksina va qon zardoblari tayyorlagan?",
+      "options": [
+        "Kamqonlik va yassioyoqlik",
+        "Quturish, kuydirgi va boshqalar",
+        "Gemofiliya va anemiya",
+        "OITS va gripp"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 30,
+      "question": "OITS qanday kasallikning qisqartmasi?",
+      "options": [
+        "Orttirilgan infeksion teri sindromi",
+        "Organizmning ichki toksik sindromi",
+        "Organizm immunitetining tug‘ma sindromi",
+        "Orttirilgan immunitet tanqisligi sindromi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 31,
+      "question": "OITS birinchi marta qachon va qayerda ro‘yxatga olingan?",
+      "options": [
+        "1981-yilda Rossiyada",
+        "1981-yilda AQShda",
+        "1895-yilda Fransiyada",
+        "1983-yilda Fransiyada"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 32,
+      "question": "OITS qo‘zg‘atuvchisi qanday ataladi va uni kim, qachon aniqlagan?",
+      "options": [
+        "Immunitet tanqisligi zamburug‘i; 1981-yilda AQSh olimlari",
+        "OITS bakteriyasi; 1983-yilda I. I. Mechnikov",
+        "Odamda immunitet tanqisligi virusi; 1981-yilda Lui Paster",
+        "Odamda immunitet tanqisligi virusi; 1983-yilda fransiyalik olim L. Montane"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 33,
+      "question": "OITS ro‘yxatga olinishi va qo‘zg‘atuvchisining aniqlanishi orasida necha yil o‘tgan?",
+      "options": [
+        "2 yil",
+        "10 yil",
+        "1 yil",
+        "5 yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 34,
+      "question": "Immunitet tanqisligi virusi sog‘ odamga kimlardan yuqadi?",
+      "options": [
+        "OITS bilan xastalangan bemordan hamda kasallik belgilari hali yuzaga chiqmagan virus tashuvchidan",
+        "Faqat kasallik belgilari aniq ko‘ringan bemordan",
+        "Faqat hayvonlardan",
+        "Faqat havo orqali sog‘lom odamlardan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 35,
+      "question": "Matnga ko‘ra, quyidagilardan qaysi biri OITS virusi yuqish yo‘llariga KIRADI?",
+      "options": [
+        "Bir xonada o‘tirish",
+        "Qo‘l berib ko‘rishish",
+        "Sterillanmagan shpris, igna va jarrohlik asboblari",
+        "Umumiy havodan nafas olish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Kasal yoki virus tashuvchi odamning qoni va qon zardobini qo‘llash OITS uchun nima hisoblanadi?",
+      "options": [
+        "Emlash usuli",
+        "Passiv immunitet hosil qilish usuli",
+        "Virus yuqish yo‘llaridan biri",
+        "Davolash usuli"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "OITS da qaysi sohalardagi limfa tugunlari kattalashadi?",
+      "options": [
+        "Faqat oyoq sohasidagi",
+        "Jag‘osti, bo‘yin, qo‘ltiqosti, chov sohasi, bronxlar va ichaklar atrofidagi",
+        "Limfa tugunlari kichrayadi",
+        "Faqat bo‘yin sohasidagi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "OITS ning teri va tana haroratidagi belgilari qanday?",
+      "options": [
+        "Terida o‘zgarish bo‘lmaydi, harorat normal",
+        "Teri oqarib, harorat doimo pasayadi",
+        "Terida yiringli yaralar paydo bo‘ladi, vaqt-vaqti bilan tana harorati ko‘tariladi",
+        "Terida qichima, harorat doimo 40°C"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 39,
+      "question": "OITS da bemorning qo‘l-oyoqlarida nerv tolalari bo‘ylab og‘riq sezilishiga nima sabab bo‘ladi?",
+      "options": [
+        "Terida yiringli yaralar paydo bo‘lishi",
+        "Limfa tugunlarining kichrayishi",
+        "Virusning bosh miyaning oq moddasini zararlashi",
+        "Virusning suyak ko‘migini zararlashi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 40,
+      "question": "Ba’zi OITS bemorlarida qanday nevrologik belgilar kuzatiladi?",
+      "options": [
+        "Xotiraning kuchayishi",
+        "Qo‘l-oyoq falaji, xotira va aqliy mehnat qobiliyatining pasayishi",
+        "Muskul kuchining ortishi",
+        "Ko‘rishning yaxshilanishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Matnga ko‘ra, OITS dan saqlanishning asosiy chorasi nima?",
+      "options": [
+        "Faqat antibiotik qabul qilish",
+        "Sog‘lom turmush tarziga rioya qilish, virus yuqish yo‘llarini bilish va yuqtirmaslik choralarini ko‘rish",
+        "Gammaglobulin yuborish",
+        "Maxsus vaksina bilan emlanish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Nima uchun matnda OITS dan saqlanishning asosiy chorasi sifatida emlash emas, sog‘lom turmush tarzi ko‘rsatilgan?",
+      "options": [
+        "Chunki emlash OITS ni kuchaytiradi",
+        "Chunki OITS yuqumli emas",
+        "Chunki OITS faqat bolalarda uchraydi",
+        "Chunki OITS ni davolash va unga qarshi emlash usullari ishlab chiqilmagan"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 43,
+      "question": "OITS qanday nom olgan va unga qarshi kurash kuni qachon?",
+      "options": [
+        "“Qora o‘lim”; 7-aprel",
+        "“Asr vabosi”; 1-dekabr",
+        "“Asr vabosi”; 1-iyun",
+        "“Oq o‘lim”; 1-dekabr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 44,
+      "question": "Paster, Mechnikov va Montane faoliyati bilan bog‘liq kashfiyotlar to‘g‘ri berilgan qatorni toping.",
+      "options": [
+        "Paster – vaksinalar; Mechnikov – immunitet tanqisligi virusi; Montane – mikroblar",
+        "Paster – immunitet tanqisligi virusi; Mechnikov – mikroblar; Montane – vaksinalar",
+        "Paster – yuqumli kasalliklarni mikroblar qo‘zg‘atishi; Mechnikov – Rossiyada birinchi vaksina va zardoblar; Montane – immunitet tanqisligi virusi",
+        "Paster – qon guruhlari; Mechnikov – rezus omil; Montane – fagotsitoz"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 45,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) tug‘ma immunitet onadan bolaga o‘tadi; 2) tug‘ma immunitet doimiy bo‘ladi; 3) tabiiy immunitet kasallanib tuzalganda hosil bo‘ladi; 4) sun’iy immunitet emlash natijasida hosil bo‘ladi; 5) tabiiy va sun’iy immunitet passiv immunitet hisoblanadi.",
+      "options": [
+        "3, 4, 5",
+        "2, 3, 5",
+        "1, 3, 4",
+        "1, 2, 4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 46,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) antitelolar mikroblarni bir-biriga yopishtiradi; 2) antitoksinlar mikroblarni yutib halok bo‘ladi; 3) leykotsitlar himoyaning ikkinchi bosqichi; 4) teri va shilliq pardalar himoyaning uchinchi bosqichi; 5) antitoksinlar zaharli moddalarni neytrallaydi.",
+      "options": [
+        "3, 5",
+        "1, 3",
+        "1, 5",
+        "2, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 47,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) OITS 1981-yilda AQShda ro‘yxatga olingan; 2) virusni 1983-yilda L. Montane aniqlagan; 3) virusni Lui Paster aniqlagan; 4) 1-dekabr – OITS ga qarshi kurash kuni; 5) OITS ga qarshi vaksina keng qo‘llaniladi.",
+      "options": [
+        "1, 2, 4",
+        "2, 3, 4",
+        "1, 3, 5",
+        "2, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 48,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) vaksinalar mikroblarni kuchsizlantirib tayyorlanadi; 2) passiv immunitetda tayyor antitelolar yuboriladi; 3) gammaglobulin yuborish faol immunitet hosil qiladi; 4) faol immunitetda antitelolar organizmning o‘zida hosil bo‘ladi; 5) vaksina yuborish passiv immunitet hosil qiladi.",
+      "options": [
+        "2, 4",
+        "1, 4",
+        "3, 5",
+        "1, 2"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 49,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) yuqumli kasalliklarni mikroblar qo‘zg‘atishini Paster aniqlagan; 2) mikroblarning 1500 ga yaqin turi ma’lum; 3) viruslarning 1500 dan ortiq turi ma’lum; 4) mikroblar tuproq, suv va havoda keng tarqalgan; 5) Mechnikov fransuz olimi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3, 5",
+        "2, 3, 5",
+        "3, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 50,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) OITS da limfa tugunlari kattalashadi; 2) OITS virusi bosh miyaning oq moddasini zararlaydi; 3) OITS da limfa tugunlari kichrayadi; 4) OITS virusi faqat belgilari aniq bemordan yuqadi; 5) OITS da vaqt-vaqti bilan harorat ko‘tariladi.",
+      "options": [
+        "1, 5",
+        "1, 2",
+        "2, 5",
+        "3, 4"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 51,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) emlangan donor zardobi boshqa odamda passiv immunitet hosil qiladi; 2) kasallanib tuzalgan odamda passiv immunitet hosil bo‘ladi; 3) tug‘ma immunitet bir yoshgacha saqlanadi; 4) orttirilgan immunitet tabiiy va sun’iy bo‘ladi; 5) faol immunitet onadan bolaga o‘tadi.",
+      "options": [
+        "1, 3, 4",
+        "2, 4, 5",
+        "2, 3, 5",
+        "1, 2, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 52,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) Mechnikov Rossiyada birinchi bo‘lib quturishga qarshi vaksina qo‘llagan; 2) Paster 1845–1916-yillarda yashagan; 3) OITS “asr vabosi” deb ataladi; 4) OITS virusi sterillanmagan asboblar orqali yuqmaydi; 5) OITS – orttirilgan immunitet tanqisligi sindromi.",
+      "options": [
+        "3, 5",
+        "2, 4",
+        "1, 5",
+        "1, 3"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring. Himoya bosqichi: 1) birinchi; 2) ikkinchi; 3) uchinchi. Ishtirokchilar: a) antitelolar va antitoksinlar; b) teri va shilliq pardalar; c) leykotsitlar.",
+      "options": [
+        "1-b, 2-c, 3-a",
+        "1-a, 2-c, 3-b",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-b, 3-a"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring. Immunitet turi: 1) tug‘ma; 2) tabiiy; 3) sun’iy; 4) passiv. Hosil bo‘lish yo‘li: a) emlash natijasida; b) tayyor antitelo va antitoksinlar yuborilganda; c) onadan bolaga o‘tadi; d) kasallanib tuzalgandan keyin.",
+      "options": [
+        "1-c, 2-d, 3-b, 4-a",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring. Vaziyat: 1) bola qizamiq bilan kasallanib tuzaldi; 2) bolaga poliomiyelitga qarshi vaksina yuborildi; 3) bemorga gammaglobulin yuborildi; 4) chaqaloq onasidan himoya oldi. Immunitet: a) passiv; b) faol sun’iy; c) tug‘ma; d) faol tabiiy.",
+      "options": [
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-a, 3-b, 4-c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring. Olim: 1) Lui Paster; 2) I. I. Mechnikov; 3) L. Montane. Hissasi: a) Rossiyada birinchi bo‘lib quturish, kuydirgiga qarshi vaksina va zardoblar qo‘llagan; b) yuqumli kasalliklarni mikroblar qo‘zg‘atishini aniqlagan; c) 1983-yilda immunitet tanqisligi virusini aniqlagan.",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-a, 3-c",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-c, 3-a"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring. Himoya omili: 1) antitelolar; 2) antitoksinlar; 3) leykotsitlar; 4) vaksina. Vazifasi yoki xususiyati: a) mikroblar ajratgan zaharli moddalarni neytrallaydi; b) kuchsizlantirilgan mikroblardan tayyorlanadi; c) mikroblarni bir-biriga yopishtirib eritadi; d) himoyaning ikkinchi bosqichini ta’minlaydi.",
+      "options": [
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 58,
+      "question": "Moslashtiring. Sana yoki son: 1) 1981-yil; 2) 1983-yil; 3) 1-dekabr; 4) 1500 ga yaqin. Mazmuni: a) Umumjahon OITS ga qarshi kurash kuni; b) OITS qo‘zg‘atuvchisi aniqlangan; c) ma’lum mikrob turlari soni; d) OITS AQShda birinchi ro‘yxatga olingan.",
+      "options": [
+        "1-d, 2-a, 3-b, 4-c",
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-b, 3-a, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 59,
+      "question": "Moslashtiring. Immunitet turi: 1) tabiiy; 2) sun’iy; 3) passiv. Guruhi: a) faol immunitet; b) faol bo‘lmagan (tayyor antitelolar hisobiga) immunitet.",
+      "options": [
+        "1-b, 2-a, 3-a",
+        "1-b, 2-b, 3-a",
+        "1-a, 2-b, 3-b",
+        "1-a, 2-a, 3-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 60,
+      "question": "Moslashtiring. OITS belgisi: 1) limfa tugunlari; 2) teri; 3) nerv tolalari; 4) xotira va aqliy qobiliyat. O‘zgarish: a) yiringli yaralar paydo bo‘ladi; b) pasayadi; c) kattalashadi; d) bo‘ylab og‘riq seziladi.",
+      "options": [
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
