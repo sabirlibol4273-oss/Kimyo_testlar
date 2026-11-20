@@ -65,6 +65,12 @@
       "title": "Qon guruhlari",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 18,
+      "title": "Immunitet",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
