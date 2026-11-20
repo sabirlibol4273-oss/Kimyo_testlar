@@ -71,6 +71,12 @@
       "title": "Immunitet",
       "description": "",
       "unlocked": true
+    },
+    {
+      "id": 19,
+      "title": "Qon aylanish sistemasi haqida umumiy tushuncha",
+      "description": "",
+      "unlocked": true
     }
   ]
 }
