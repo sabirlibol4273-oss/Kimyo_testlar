@@ -2,5 +2,633 @@
   "topicId": 19,
   "title": "Qon aylanish sistemasi haqida umumiy tushuncha",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qon aylanish sistemasi organlariga qaysilar kiradi?",
+      "options": [
+        "Yurak, arteriya, kapillarlar, vena va limfa tomirlari",
+        "Yurak, taloq, suyak ko‘migi va limfa tugunlari",
+        "Faqat yurak va arteriyalar",
+        "Yurak, o‘pka, jigar va buyrak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Organizmda qonning to‘xtovsiz harakatlanishini nima ta’minlaydi?",
+      "options": [
+        "Faqat o‘pkalar",
+        "Faqat limfa tugunlari",
+        "Faqat skelet muskullari",
+        "Yurak va tomirlar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 3,
+      "question": "Yurakning vazni erkaklar va ayollarda qancha bo‘ladi?",
+      "options": [
+        "Erkaklarda 220–300 g gacha, ayollarda 180–220 g gacha",
+        "Erkaklarda 180–220 g, ayollarda 220–300 g",
+        "Erkaklarda ham, ayollarda ham 100 g atrofida",
+        "Erkaklarda 500–600 g, ayollarda 400–500 g"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Yurak qayerda joylashgan?",
+      "options": [
+        "Qorin bo‘shlig‘ida, jigarning ustida",
+        "Ko‘krak qafasining o‘ng tomonida, o‘ng o‘pka ichida",
+        "To‘sh suyagining oldida, teri ostida",
+        "Ko‘krak qafasida, to‘sh suyagining orqasida, ikkala o‘pka o‘rtasida, ko‘proq qismi chap tomonda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Yurak devori qanday qavatlardan iborat?",
+      "options": [
+        "Faqat ikki qavat: endokard va miokard",
+        "Ichki – perikard, o‘rta – endokard, tashqi – miokard",
+        "Ichki – endokard, o‘rta – miokard, tashqi – perikard",
+        "Ichki – miokard, o‘rta – epikard, tashqi – endokard"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 6,
+      "question": "Yurak devorining ichki epiteliy qavati qanday ataladi?",
+      "options": [
+        "Endokard",
+        "Miokard",
+        "Epikard",
+        "Perikard"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 7,
+      "question": "Yurak devorining o‘rta muskul qavati qanday ataladi?",
+      "options": [
+        "Epikard",
+        "Endokard",
+        "Perikard",
+        "Miokard"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 8,
+      "question": "Perikardning yurak muskuliga yopishib turadigan ichki qavati qanday ataladi?",
+      "options": [
+        "Miokard",
+        "Endokard",
+        "Epikard",
+        "Endoteliy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 9,
+      "question": "Perikardning tashqi qavati qanday vazifani bajaradi?",
+      "options": [
+        "Qonni bir tomonga oqishini ta’minlaydi",
+        "Yurakning qisqarishini ta’minlaydi",
+        "Xalta sifatida yurakni o‘rab turadi",
+        "Yurak bo‘shliqlarini ichidan qoplaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 10,
+      "question": "Perikard qavatlari orasidagi suyuqlikning ahamiyati nima?",
+      "options": [
+        "Yurakda qo‘zg‘alish hosil qiladi",
+        "Qonni aortaga haydaydi",
+        "Yurakning qisqarish va kengayish harakatlarida ishqalanishni kamaytiradi",
+        "Yurak muskullarini qon bilan ta’minlaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 11,
+      "question": "Yurak nechta kameradan iborat va ular qaysilar?",
+      "options": [
+        "Ikkita: bo‘lma va qorincha",
+        "To‘rtta: o‘ng va chap bo‘lmalar, o‘ng va chap qorinchalar",
+        "To‘rtta: ikkita bo‘lma va ikkita arteriya",
+        "Uchta: ikkita bo‘lma va bitta qorincha"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Yurakning qaysi kamerasining devori eng qalin?",
+      "options": [
+        "O‘ng bo‘lma",
+        "Chap qorincha",
+        "O‘ng qorincha",
+        "Chap bo‘lma"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Chap qorincha devorining qalin va muskullari kuchli rivojlanganligi nima bilan bog‘liq?",
+      "options": [
+        "U yuqori bosim ostida qon haydab, katta qon aylanish doirasi orqali butun tanani qon bilan ta’minlaydi",
+        "U faqat o‘pkaga qon haydaydi",
+        "U venalardan qonni so‘rib oladi",
+        "U faqat yurak muskulini qon bilan ta’minlaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Yurakda nechta klapan bor?",
+      "options": [
+        "Uchta",
+        "Oltita",
+        "To‘rtta",
+        "Ikkita"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 15,
+      "question": "Chap bo‘lma bilan chap qorincha o‘rtasida qanday klapan joylashgan?",
+      "options": [
+        "Klapan yo‘q",
+        "Ikki tavaqali klapan",
+        "Yarimoysimon klapan",
+        "Uch tavaqali klapan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "O‘ng bo‘lma bilan o‘ng qorincha o‘rtasida qanday klapan joylashgan?",
+      "options": [
+        "Ikki tavaqali klapan",
+        "Yarimoysimon klapan",
+        "Uch tavaqali klapan",
+        "To‘rt tavaqali klapan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "Yarimoysimon klapanlar qayerda joylashgan?",
+      "options": [
+        "Chap bo‘lma bilan chap qorincha o‘rtasida",
+        "O‘ng bo‘lma bilan o‘ng qorincha o‘rtasida",
+        "Bo‘lmalar bilan venalar o‘rtasida",
+        "Chap qorincha bilan aorta va o‘ng qorincha bilan o‘pka arteriyasi o‘rtasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 18,
+      "question": "Qaysi juftlik NOTO‘G‘RI berilgan?",
+      "options": [
+        "Chap bo‘lma – chap qorincha: uch tavaqali klapan",
+        "O‘ng qorincha – o‘pka arteriyasi: yarimoysimon klapan",
+        "Chap qorincha – aorta: yarimoysimon klapan",
+        "O‘ng bo‘lma – o‘ng qorincha: uch tavaqali klapan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Yurak klapanlari qonning qaysi yo‘nalishda oqishini ta’minlaydi?",
+      "options": [
+        "Qorinchalardan bo‘lmalarga, aortadan qorinchalarga",
+        "Bo‘lmalardan qorinchalarga, qorinchalardan aorta va o‘pka arteriyasiga",
+        "Arteriyalardan qorinchalarga",
+        "Ikkala yo‘nalishda ham erkin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Yurak nasos singari qanday ish bajaradi?",
+      "options": [
+        "Qonni faqat o‘pkaga to‘playdi",
+        "Arteriyalardagi qonni so‘rib, venalarga chiqaradi",
+        "Limfani kapillarlarga haydaydi",
+        "Vena tomirlaridagi qonni so‘rib, arteriya tomirlariga chiqarib beradi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 21,
+      "question": "Yurakning nasoslik ishi qanday amalga oshadi?",
+      "options": [
+        "Klapanlarning qisqarishi bilan",
+        "Muskullarining ritmik qisqarib bo‘shashishi natijasida bo‘lma va qorinchalarning torayishi va kengayishi bilan",
+        "Qon tomirlarining o‘zi qisqarishi bilan",
+        "Nafas olish harakatlari hisobiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 22,
+      "question": "Sistola va diastola deb nimaga aytiladi?",
+      "options": [
+        "Sistola – yurak sikli; diastola – yurak avtomatiyasi",
+        "Sistola – kengayishi; diastola – qisqarishi",
+        "Sistola – qon bosimining pasayishi; diastola – ko‘tarilishi",
+        "Sistola – bo‘lma va qorinchalarning qisqarishi; diastola – kengayishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 23,
+      "question": "Yurak sikli deb nimaga aytiladi?",
+      "options": [
+        "Qonning katta qon aylanish doirasini bir marta aylanib chiqishiga",
+        "Yurakning bir daqiqadagi qisqarishlar soniga",
+        "Qorinchalarning bir marta qisqarishida chiqargan qon hajmiga",
+        "Yurak bo‘lmalari va qorinchalarining bir martadan qisqarib bo‘shashishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Bo‘lmalar va qorinchalar qanday tartibda qisqaradi?",
+      "options": [
+        "Navbat bilan qisqarib-kengayadi",
+        "Bir vaqtda qisqaradi",
+        "Faqat qorinchalar qisqaradi",
+        "Faqat bo‘lmalar qisqaradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 25,
+      "question": "Yurak orqali bir minutda qancha qon oqib o‘tadi va yurak undan o‘z ehtiyoji uchun foydalanadimi?",
+      "options": [
+        "5 l; foydalanmaydi",
+        "10 l; qisman foydalanadi",
+        "1 l; foydalanmaydi",
+        "5 l; to‘liq foydalanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 26,
+      "question": "Yurak muskullari qanday qon bilan ta’minlanadi?",
+      "options": [
+        "O‘pka venalari orqali",
+        "Ikkita maxsus tojsimon arteriya orqali",
+        "Yurak bo‘shlig‘idagi qon orqali bevosita",
+        "Bitta pastki kovak vena orqali"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 27,
+      "question": "Tinch holatda katta odam yuragi bir minutda necha marta qisqaradi?",
+      "options": [
+        "70–72 marta",
+        "40–45 marta",
+        "20–25 marta",
+        "100–120 marta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 28,
+      "question": "Yurak sikli o‘rtacha qancha davom etadi?",
+      "options": [
+        "0,8 sekund",
+        "1,8 sekund",
+        "0,08 sekund",
+        "8 sekund"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 29,
+      "question": "Yurak sikli 0,8 sekund davom etsa, yurak bir minutda necha marta qisqaradi?",
+      "options": [
+        "80 marta",
+        "48 marta",
+        "60 marta",
+        "75 marta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 30,
+      "question": "Yurakning sistolik hajmi deb nimaga aytiladi va u nechaga teng?",
+      "options": [
+        "Bir kecha-kunduzda chiqarilgan qon; 10 t",
+        "Bir minutda yurakdan oqib o‘tgan qon; 5 l",
+        "Qorinchalar bir marta qisqarganda aortaga chiqargan qon miqdori; 65–70 ml",
+        "Bo‘lmalarning bir marta kengayishida to‘plagan qon; 4,9 l"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Minutlik sistolik hajm qanday hisoblanadi?",
+      "options": [
+        "Bir minutdagi qisqarishlar sonini 0,8 ga ko‘paytirib",
+        "Yurak vaznini qisqarishlar soniga ko‘paytirib",
+        "Sistolik hajmni bir minutdagi qisqarishlar soniga ko‘paytirib",
+        "Sistolik hajmni yurak sikli davomiyligiga bo‘lib"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 32,
+      "question": "Matnga ko‘ra, sistolik hajm 70 ml, qisqarishlar soni 70 bo‘lsa, minutlik sistolik hajm qancha?",
+      "options": [
+        "4,9 litr",
+        "7 litr",
+        "0,49 litr",
+        "49 litr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 33,
+      "question": "Sportchining sistolik hajmi 80 ml, yurak qisqarishi bir minutda 70 marta bo‘lsa, minutlik hajm qancha bo‘ladi?",
+      "options": [
+        "8,0 litr",
+        "5,6 litr",
+        "4,9 litr",
+        "1,5 litr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 34,
+      "question": "Bir kecha-kunduzda yurak necha marta qisqaradi va qancha qon chiqaradi?",
+      "options": [
+        "10 000 marta; 1 tonna",
+        "100 000 marta; 1 tonna",
+        "1 000 000 marta; 100 tonna",
+        "100 000 marta; 10 tonnaga yaqin"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 35,
+      "question": "Yurak bir minutda 70 marta qisqarsa, bir soatda necha marta qisqaradi?",
+      "options": [
+        "42 000 marta",
+        "4200 marta",
+        "700 marta",
+        "1200 marta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 36,
+      "question": "Yurak tanadan ajratilganda ham ma’lum vaqt o‘z-o‘zidan qisqarib turishiga nima sabab?",
+      "options": [
+        "Muskullaridagi maxsus hujayralarda muttasil paydo bo‘ladigan qo‘zg‘alishlar",
+        "Qondagi gormonlar",
+        "Bosh miyadan keladigan nerv impulslari",
+        "Klapanlarning harakati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 37,
+      "question": "Yurak avtomatiyasi deb nimaga aytiladi?",
+      "options": [
+        "Yurak klapanlarining avtomatik yopilishiga",
+        "Yurakning o‘z muskullarida paydo bo‘ladigan qo‘zg‘alishlar ta’sirida bir me’yorda qisqarib turishiga",
+        "Yurakning bir minutdagi qisqarishlar soniga",
+        "Yurakning faqat nerv impulslari ta’sirida qisqarishiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 38,
+      "question": "Bioelektrik tok qayerda hosil bo‘ladi?",
+      "options": [
+        "Faqat suyaklarda",
+        "Faqat qon plazmasida",
+        "Faqat yurak klapanlarida",
+        "Hujayra sitoplazmasi bilan tashqi muhit o‘rtasida"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 39,
+      "question": "Bioelektrik potensial organizmda qanday vazifani bajaradi?",
+      "options": [
+        "Qonni ivitadi",
+        "Qo‘zg‘alishni nerv va muskul tolalari bo‘ylab uzatadigan elektr signal hisoblanadi",
+        "Yurak devorini qalinlashtiradi",
+        "Kislorodni tashiydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 40,
+      "question": "Elektrokardiogramma nima?",
+      "options": [
+        "Qon bosimini o‘lchash usuli",
+        "Yurak tovushlarini eshitish usuli",
+        "Yurak vaznini aniqlash usuli",
+        "Yurakning ishlayotgan va ishlamayotgan qismlari elektropotensiallari farqini elektrokardiograf yordamida qog‘oz tasmasiga tushirish"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 41,
+      "question": "Elektrokardiogramma yordamida nima tekshiriladi?",
+      "options": [
+        "Qon guruhi aniqlanadi",
+        "Yurak ritmining o‘zgarishi tekshirilib, yurak muskullarining holatiga baho beriladi",
+        "Yurak klapanlari soni aniqlanadi",
+        "Qondagi eritrotsitlar soni aniqlanadi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 42,
+      "question": "Elektropotensiallar farqini qog‘oz tasmasiga yozuvchi asbob qanday ataladi?",
+      "options": [
+        "Tonometr",
+        "Sentrifuga",
+        "Elektrokardiograf",
+        "Elektrokardiogramma"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 43,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) endokard – yurakning ichki qavati; 2) miokard – yurakning tashqi qavati; 3) epikard – perikardning ichki qavati; 4) perikardning tashqi qavati yurakni xalta sifatida o‘raydi; 5) epikard yurak bo‘shliqlarini ichidan qoplaydi.",
+      "options": [
+        "1, 3, 4",
+        "2, 3, 5",
+        "3, 4, 5",
+        "1, 2, 4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 44,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) chap bo‘lma va chap qorincha o‘rtasida ikki tavaqali klapan bor; 2) o‘ng bo‘lma va o‘ng qorincha o‘rtasida ikki tavaqali klapan bor; 3) aorta boshida yarimoysimon klapan bor; 4) o‘pka arteriyasi boshida uch tavaqali klapan bor; 5) yurakda to‘rtta klapan bor.",
+      "options": [
+        "2, 4",
+        "1, 5",
+        "3, 5",
+        "1, 3"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 45,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) yurak sikli o‘rtacha 0,8 s davom etadi; 2) tinch holatda yurak bir minutda 70–72 marta qisqaradi; 3) sistolik hajm 4,9 l; 4) yurak orqali bir minutda 5 l qon o‘tadi; 5) yurak muskuli bitta tojsimon arteriya orqali qon oladi.",
+      "options": [
+        "1, 2, 4",
+        "1, 3, 5",
+        "2, 3, 4",
+        "2, 4, 5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 46,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) sistola – qisqarish; 2) diastola – qisqarish; 3) yurak sikli – bo‘lma va qorinchalarning bir martadan qisqarib bo‘shashishi; 4) bo‘lmalar va qorinchalar bir vaqtda qisqaradi; 5) yurak venalardagi qonni so‘rib arteriyalarga chiqaradi.",
+      "options": [
+        "3, 5",
+        "1, 5",
+        "2, 4",
+        "1, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 47,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) chap qorincha devori eng qalin; 2) bo‘lmalar devori qorinchalarnikidan qalin; 3) yurakning ko‘proq qismi ko‘krak bo‘shlig‘ining chap tomonida; 4) yurak to‘sh suyagining orqasida joylashgan; 5) yurak vazni ayollarda 220–300 g.",
+      "options": [
+        "2, 4, 5",
+        "1, 3, 4",
+        "2, 3, 5",
+        "1, 2, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 48,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) yurak tanadan ajratilganda ham bir muddat qisqaradi; 2) yurak avtomatiyasi bosh miya impulslariga bog‘liq; 3) EKG yurak muskullari holatini baholashga yordam beradi; 4) bioelektrik tok faqat qon plazmasida hosil bo‘ladi; 5) bir kecha-kunduzda yurak 100 000 marta qisqaradi.",
+      "options": [
+        "1, 5",
+        "2, 4",
+        "1, 3",
+        "3, 5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 49,
+      "question": "Quyidagi fikrlardan TO‘G‘RILARINI aniqlang: 1) klapanlar qonni bo‘lmalardan qorinchalarga o‘tkazadi; 2) klapanlar qonni qorinchalardan bo‘lmalarga qaytaradi; 3) chap qorincha katta qon aylanish doirasiga qon haydaydi; 4) perikard suyuqligi ishqalanishni kamaytiradi; 5) yurak o‘zidan o‘tayotgan 5 l qonni o‘z ehtiyojiga sarflaydi.",
+      "options": [
+        "2, 3, 5",
+        "1, 2, 5",
+        "1, 3, 4",
+        "2, 4, 5"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 50,
+      "question": "Quyidagi fikrlardan NOTO‘G‘RILARINI aniqlang: 1) limfa tomirlari qon aylanish sistemasiga kiradi; 2) minutlik hajm = sistolik hajm × qisqarishlar soni; 3) sistolik hajm 65–70 ml; 4) yurak bir kecha-kunduzda 1 tonna qon chiqaradi; 5) elektrokardiogramma – yurak tovushlarini yozish usuli.",
+      "options": [
+        "1, 2",
+        "1, 3",
+        "4, 5",
+        "2, 3"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 51,
+      "question": "Moslashtiring. Yurak devori qavati: 1) endokard; 2) miokard; 3) epikard; 4) perikardning tashqi qavati. Xususiyati: a) muskul qavat; b) yurakni xalta sifatida o‘rab turadi; c) ichki epiteliy qavat; d) yurak muskuliga yopishib turadi.",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 52,
+      "question": "Moslashtiring. Joylashuv: 1) chap bo‘lma – chap qorincha; 2) o‘ng bo‘lma – o‘ng qorincha; 3) chap qorincha – aorta; 4) o‘ng qorincha – o‘pka arteriyasi. Klapan: a) uch tavaqali; b) yarimoysimon; c) ikki tavaqali.",
+      "options": [
+        "1-a, 2-c, 3-b, 4-b",
+        "1-b, 2-a, 3-c, 4-c",
+        "1-c, 2-a, 3-b, 4-a",
+        "1-c, 2-a, 3-b, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 53,
+      "question": "Moslashtiring. Ko‘rsatkich: 1) yurak sikli; 2) sistolik hajm; 3) minutlik hajm (70 ml × 70); 4) bir minutda yurakdan o‘tadigan qon. Qiymat: a) 4,9 l; b) 0,8 s; c) 5 l; d) 65–70 ml.",
+      "options": [
+        "1-b, 2-a, 3-d, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-d, 3-c, 4-a",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 54,
+      "question": "Moslashtiring. Atama: 1) sistola; 2) diastola; 3) yurak sikli; 4) yurak avtomatiyasi. Ta’rifi: a) bo‘lma va qorinchalarning kengayishi; b) o‘z muskullaridagi qo‘zg‘alishlar ta’sirida bir me’yorda qisqarishi; c) bo‘lma va qorinchalarning qisqarishi; d) bo‘lma va qorinchalarning bir martadan qisqarib bo‘shashishi.",
+      "options": [
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 55,
+      "question": "Moslashtiring. Ko‘rsatkich: 1) erkaklarda yurak vazni; 2) ayollarda yurak vazni; 3) bir kecha-kunduzdagi qisqarishlar; 4) bir kecha-kunduzda chiqarilgan qon. Qiymat: a) 180–220 g; b) 10 tonnaga yaqin; c) 220–300 g; d) 100 000 marta.",
+      "options": [
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-b, 4-d",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 56,
+      "question": "Moslashtiring. Tushuncha: 1) bioelektrik tok; 2) elektrokardiograf; 3) elektrokardiogramma; 4) tojsimon arteriyalar. Mazmuni: a) potensiallar farqini qog‘ozga yozuvchi asbob; b) yurak muskulini qon bilan ta’minlaydi; c) sitoplazma va tashqi muhit o‘rtasidagi elektr potensial; d) yurak elektropotensiallarining qog‘oz tasmasidagi yozuvi.",
+      "options": [
+        "1-c, 2-a, 3-b, 4-d",
+        "1-a, 2-c, 3-d, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-c, 2-d, 3-a, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 57,
+      "question": "Moslashtiring. Yurak qismi: 1) bo‘lmalar; 2) chap qorincha; 3) klapanlar; 4) perikard bo‘shlig‘idagi suyuqlik. Xususiyati: a) qonni faqat bir tomonga oqizadi; b) devori yupqaroq; c) ishqalanishni kamaytiradi; d) devori eng qalin, yuqori bosimda qon haydaydi.",
+      "options": [
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-b, 2-a, 3-d, 4-c",
+        "1-b, 2-d, 3-c, 4-a"
+      ],
+      "correctIndex": 0
+    }
+  ]
 }
