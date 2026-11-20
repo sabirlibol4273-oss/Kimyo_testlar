@@ -2,5 +2,490 @@
   "topicId": 8,
   "title": "8-Mavzu",
   "description": "",
-  "questions": []
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qad-qomat deb nimaga aytiladi?",
+      "options": [
+        "Har bir odamning tanasini o‘zi odatlangan holatda erkin tutishiga",
+        "Faqat umurtqa pog‘onasining to‘g‘ri chiziq shaklida bo‘lishiga",
+        "Odamning bo‘yi va tana massasi nisbatiga",
+        "Faqat sport bilan shug‘ullanganda tananing tik turishiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Qad-qomatning shakllanishida, ayniqsa, qaysi omil muhim ahamiyatga ega?",
+      "options": [
+        "Oyoq kafti muskullarining kuchliligi",
+        "Bosh suyagining katta-kichikligi",
+        "Umurtqa pog‘onasining normal rivojlanishi",
+        "Qo‘l suyaklarining uzunligi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Normal holatda umurtqa pog‘onasining qaysi qismlari biroz OLDINGA egilgan bo‘ladi?",
+      "options": [
+        "Ko‘krak va dumg‘aza qismlari",
+        "Bo‘yin va bel qismlari",
+        "Bo‘yin va ko‘krak qismlari",
+        "Bel va dumg‘aza qismlari"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 4,
+      "question": "Normal holatda umurtqa pog‘onasining qaysi qismlari biroz ORQAGA egilgan bo‘ladi?",
+      "options": [
+        "Bo‘yin va bel qismlari",
+        "Bel va dumg‘aza qismlari",
+        "Bo‘yin va ko‘krak qismlari",
+        "Ko‘krak va dumg‘aza qismlari"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 5,
+      "question": "Umurtqa pog‘onasining tabiiy egilishlari qaysi yoshdagi bolalarda bo‘lmaydi?",
+      "options": [
+        "Bir yoshgacha bo‘lgan bolalarda",
+        "3–5 yoshli bolalarda",
+        "Boshlang‘ich sinf o‘quvchilarida",
+        "18 yoshgacha bo‘lgan barcha bolalarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Umurtqa pog‘onasining tabiiy egilishlari qanday omillar natijasida hosil bo‘ladi?",
+      "options": [
+        "Bolaning ko‘p uxlashi va yumshoq to‘shakda yotishi natijasida",
+        "Faqat nasldan naslga o‘tishi natijasida",
+        "Bolaning tik turishi, yurishi, boshini tik tutishi natijasida asta-sekin",
+        "Tug‘ilishdan oldin, embrion davrida to‘liq shakllanadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Qaysi qatorda qad-qomatning noto‘g‘ri shakllanish turlari to‘liq va to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Egilgan, lordoz, kifoz, kekkaygan, skoliotik",
+        "Lordoz, kifoz, yassioyoqlik, kontraktura",
+        "Egilgan, tekis, gumbazsimon, skoliotik",
+        "Lordoz, kifoz, ressorli, kekkaygan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Qaysi atama qad-qomatning noto‘g‘ri shakllanish turiga KIRMAYDI?",
+      "options": [
+        "Lordoz",
+        "Kifoz",
+        "Skoliotik",
+        "Kontraktura"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 9,
+      "question": "Qad-qomatning buzilishi organizmga qanday ta’sir ko‘rsatadi?",
+      "options": [
+        "Faqat tashqi ko‘rinishni o‘zgartiradi, ichki organlarga ta’sir qilmaydi",
+        "Tashqi ko‘rinishni o‘zgartiribgina qolmay, o‘pka, yurak, jigar, buyrak, oshqozon va ichak kabi organlarning rivojlanishi va funksiyasiga ham salbiy ta’sir qiladi",
+        "Faqat oyoq suyaklarining rivojlanishiga ta’sir qiladi",
+        "Ichki organlar faoliyatini yaxshilaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Qad-qomati buzilgan odam jismoniy mehnat yoki sport bilan shug‘ullanganda qanday belgilar kuzatiladi?",
+      "options": [
+        "Nafas sekinlashadi, yurak urishi kamayadi",
+        "Muskullar charchamaydi, chidamlilik ortadi",
+        "Tovon-kaft muskullarida og‘riq paydo bo‘ladi, nafas o‘zgarmaydi",
+        "Nafasi qisadi, yurak urishi tezlashadi, tez charchaydi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 11,
+      "question": "Bolaning qad-qomati normal shakllanishi uchun u qanday to‘shak va yostiqda yotishga o‘rgatilishi kerak?",
+      "options": [
+        "Qalin, yumshoq to‘shak va baland yostiqda",
+        "Tekis, biroz qattiqroq to‘shak va pastroq yostiqda",
+        "Yumshoq prujinali karavot va past yostiqda",
+        "Qattiq to‘shak va baland yostiqda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Qaysi omillar bolaning umurtqa pog‘onasi qiyshayib qolishiga sabab bo‘ladi?",
+      "options": [
+        "Tekis to‘shak va past yostiq",
+        "Bo‘yiga mos parta va stol-stul",
+        "Qalin va yumshoq to‘shak, yumshoq prujinali karavot, baland yostiq",
+        "Biroz qattiqroq to‘shak va gigiyena qoidalariga rioya qilish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 13,
+      "question": "Kichik yoshdagi bolalar va boshlang‘ich sinf o‘quvchilari uchun quyidagilardan qaysi biri TAVSIYA ETILMAYDI?",
+      "options": [
+        "Uzoq vaqt bir joyda o‘tirish, uzoq masofaga yurish va doim faqat bir qo‘lida ish bajarish",
+        "Bo‘yiga mos parta va stol-stulda o‘tirish",
+        "Tekis va biroz qattiqroq to‘shakda yotish",
+        "O‘tirganda belni suyanchiqqa suyab o‘tirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Bolaning uzoq tik turishi, og‘ir buyum ko‘tarishi va doim bir qo‘lida ish bajarishi nimalarga sabab bo‘ladi?",
+      "options": [
+        "Faqat muskullar charchashiga",
+        "Umurtqa pog‘onasi va oyoq suyaklarining egrilanishiga, qad-qomat buzilishiga",
+        "Tovon-kaft gumbazining kichrayishiga",
+        "Ichki organlarning tez rivojlanishiga"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 15,
+      "question": "Matnga ko‘ra, bolalar qayerlarda bo‘ylariga mos parta, stol-stulda o‘tirishlari kerak?",
+      "options": [
+        "Faqat maktabda",
+        "Faqat uyda dars tayyorlaganda",
+        "Maktabda, uyda dars tayyorlaganda va ovqatlanganda",
+        "Faqat ovqatlanganda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 16,
+      "question": "O‘quvchi parta (stol-stul)da o‘tirganda gavdasi, yelkalari va beli qanday holatda bo‘lishi kerak?",
+      "options": [
+        "Gavda oldinga egilgan, yelkalar ko‘tarilgan, bel suyanchiqdan uzoq",
+        "Gavda orqaga yotgan, bir yelka pastroq",
+        "Gavda tik, yelkalar bir tekisda, bel suyanchiqqa suyangan",
+        "Gavda yon tomonga og‘gan, bel erkin"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 17,
+      "question": "To‘g‘ri o‘tirganda oyoqlar tizza bo‘g‘imida qanday bukilishi kerak?",
+      "options": [
+        "O‘tkir burchak hosil qilib",
+        "To‘g‘ri burchak hosil qilib",
+        "O‘tmas burchak hosil qilib",
+        "Oyoqlar to‘liq cho‘zilgan holda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "To‘g‘ri o‘tirganda oyoq kafti qanday holatda bo‘lishi lozim?",
+      "options": [
+        "Faqat uchi bilan polga tegib turishi",
+        "Faqat tovoni bilan polga tegib turishi",
+        "Polga tegmay, osilib turishi",
+        "Hamma yuzasi polga baravar tegib turishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 19,
+      "question": "To‘g‘ri o‘tirganda ko‘krak bilan parta qirrasi orasida qancha masofa bo‘lishi kerak?",
+      "options": [
+        "Taxminan 10 sm",
+        "Taxminan 2–3 sm",
+        "Taxminan 25 sm",
+        "Ko‘krak parta qirrasiga tegib turishi kerak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 20,
+      "question": "Qad-qomatning shakllanishi necha yoshgacha davom etadi va bundan qanday xulosa kelib chiqadi?",
+      "options": [
+        "12 yoshgacha; shundan keyin gigiyena qoidalari ahamiyatsiz",
+        "18 yoshgacha; shu yoshgacha qoidalarga amal qilinsa, qad-qomat to‘g‘ri va chiroyli shakllanadi",
+        "1 yoshgacha; keyin qad-qomat o‘zgarmaydi",
+        "25 yoshgacha; qoidalarga faqat kattalar amal qilishi kerak"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 21,
+      "question": "Odam tovon-kaftining pastki qismi qaysi sistemaning muhim qismi hisoblanadi?",
+      "options": [
+        "Nerv sistemasining",
+        "Qon aylanish sistemasining",
+        "Tayanch-harakatlanish sistemasining",
+        "Nafas olish sistemasining"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 22,
+      "question": "Tovon-kaft tuzilish xususiyatlariga ko‘ra qanday vazifani bajarishga moslashgan?",
+      "options": [
+        "Tananing ressori vazifasini",
+        "Qon hosil qilish vazifasini",
+        "Faqat tana issiqligini saqlash vazifasini",
+        "Muskullarni qo‘zg‘atish vazifasini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 23,
+      "question": "To‘g‘ri rivojlangan oyoq kaftining tuzilishi qanday bo‘ladi?",
+      "options": [
+        "Butun yuzasi tekis bo‘ladi",
+        "Ko‘proq qismi gumbaz, ozroq qismi o‘yiq bo‘ladi",
+        "Gumbaz va o‘yiq qismlari mutlaqo teng bo‘ladi",
+        "Ko‘proq qismi o‘yiqroq (chuqurroq), ozroq qismi gumbaz shaklida bo‘ladi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 24,
+      "question": "Oyoq kaftining o‘yiq va gumbazsimon tuzilishi nimani ta’minlaydi?",
+      "options": [
+        "Tana massasining faqat tovonga tushishini",
+        "Tana massasining oyoqning tovon va kaft qismlariga baravar taqsimlanishini",
+        "Tana massasining faqat barmoqlarga tushishini",
+        "Boldir muskullarida og‘riq paydo bo‘lishini"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 25,
+      "question": "Yassioyoqlikda oyoq kaftida qanday o‘zgarish ro‘y beradi?",
+      "options": [
+        "Gumbaz qismi kichrayib, o‘yiq qismi kengayadi",
+        "O‘yiq qismi chuqurlashadi, gumbaz yo‘qoladi",
+        "Tovon-kaft yuzasi (gumbaz qismi) kengayib, o‘yiq qismining sathi kamayadi, ba’zan oyoq yuzasi butunlay tekis bo‘lib qoladi",
+        "Oyoq kaftida hech qanday shakl o‘zgarishi bo‘lmaydi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 26,
+      "question": "Yassioyoqlik natijasida tovon-kaftning qaysi vazifasi buziladi?",
+      "options": [
+        "Ressorlik vazifasi",
+        "Qon hosil qilish vazifasi",
+        "Sezuvchanlik vazifasi",
+        "Muskullarni qo‘zg‘atish vazifasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 27,
+      "question": "Yassioyoq odam uzoq tik turganda, ko‘p yurganda yoki og‘ir yuk ko‘targanda qayerda og‘riq paydo bo‘ladi?",
+      "options": [
+        "Bel va bo‘yin muskullarida",
+        "Tovon-kaft va boldir muskullarida",
+        "Yelka va bilak muskullarida",
+        "Ko‘krak qafasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 28,
+      "question": "Yassioyoqlik qaysi suyaklarning egrilanishiga va nimaga sabab bo‘lishi mumkin?",
+      "options": [
+        "Bosh suyagi va qo‘l suyaklarining; muskul kontrakturasiga",
+        "Qovurg‘alar va to‘sh suyagining; nafas qisishiga",
+        "Faqat barmoq suyaklarining; poyabzal yeyilishiga",
+        "Umurtqa pog‘onasi va chanoq suyaklarining; qad-qomat buzilishiga"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 29,
+      "question": "Kelib chiqishiga ko‘ra yassioyoqlik necha xil bo‘ladi?",
+      "options": [
+        "Ikki xil: tug‘ma va hayotda orttirilgan",
+        "Uch xil: tug‘ma, orttirilgan va yuqumli",
+        "Ikki xil: statik va dinamik",
+        "Faqat orttirilgan bo‘ladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 30,
+      "question": "Tug‘ma yassioyoqlik qanday sabablarga ko‘ra yuzaga kelishi mumkin?",
+      "options": [
+        "Bolani 8–10 oyligidan yurgizish va poshnasiz poyabzal kiygizish",
+        "Kun bo‘yi sport poyabzalida yurish",
+        "Nasldan naslga berilishi yoki embrion rivojlanishi davrida ona organizmiga tashqi muhitning noqulay ta’siri",
+        "Og‘ir yuk ko‘tarish va baland poshnali poyabzal kiyish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 31,
+      "question": "Quyidagilardan qaysi biri tug‘ilgandan keyin yuzaga keladigan yassioyoqlik sababi HISOBLANMAYDI?",
+      "options": [
+        "Bolani 8–10 oyligidan yurgizish",
+        "Yosh bolaga poshnasiz yumshoq poyabzal kiygizish",
+        "Og‘ir yuk ko‘tarish",
+        "Nasldan naslga berilishi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 32,
+      "question": "Matnga ko‘ra, bolani necha oyligidan yurgizish va uzoq tik turg‘izish yassioyoqlikka sabab bo‘lishi mumkin?",
+      "options": [
+        "3–4 oyligidan",
+        "8–10 oyligidan",
+        "14–16 oyligidan",
+        "2 yoshidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 33,
+      "question": "Sport poyabzalini kiyish bo‘yicha matnda qanday tavsiya berilgan?",
+      "options": [
+        "Uni kun bo‘yi kiyish foydali",
+        "Uni faqat qishda kiyish kerak",
+        "Uni faqat mashg‘ulot vaqtida kiyish kerak",
+        "Uni hech qachon kiymaslik kerak"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 34,
+      "question": "Qanday poyabzal kiyish yassioyoqlikka sabab bo‘ladi?",
+      "options": [
+        "Poshnasi past, uchi keng, oyoqqa mos poyabzal",
+        "Poshnasi baland, uch tomoni tor, orqa tomoni keng poyabzal",
+        "Faqat mashg‘ulotda kiyiladigan sport poyabzali",
+        "O‘lchami oyoqqa mos, kichik poshnali poyabzal"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 35,
+      "question": "Matn mazmuniga ko‘ra qaysi fikr NOTO‘G‘RI?",
+      "options": [
+        "Bir yoshgacha bo‘lgan bolalarda umurtqa pog‘onasining tabiiy egilishlari bo‘lmaydi",
+        "Baland yostiq umurtqa pog‘onasi qiyshayishiga sabab bo‘ladi",
+        "Yassioyoqlikda oyoq kaftining o‘yiq qismi kengayadi",
+        "Qad-qomatning shakllanishi 18 yoshgacha davom etadi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 36,
+      "question": "Matn mazmuniga ko‘ra qaysi fikr TO‘G‘RI?",
+      "options": [
+        "Yassioyoqlik faqat oyoqqa ta’sir qiladi, qad-qomatga ta’siri yo‘q",
+        "Qad-qomatning buzilishi faqat tashqi ko‘rinishni o‘zgartiradi",
+        "Og‘ir yuk ko‘tarish ham yassioyoqlik, ham qad-qomat buzilishiga sabab bo‘lishi mumkin",
+        "Yosh bolaga poshnasiz yumshoq poyabzal kiygizish yassioyoqlikning oldini oladi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 37,
+      "question": "Moslashtiring. Umurtqa pog‘onasi qismi: 1) bo‘yin; 2) ko‘krak; 3) bel; 4) dumg‘aza. Normal egilish yo‘nalishi: a) biroz oldinga; b) biroz orqaga.",
+      "options": [
+        "1-b, 2-a, 3-b, 4-a",
+        "1-a, 2-a, 3-b, 4-b",
+        "1-a, 2-b, 3-a, 4-b",
+        "1-b, 2-b, 3-a, 4-a"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 38,
+      "question": "Moslashtiring. O‘tirish qoidasi: 1) tizza bo‘g‘imi; 2) oyoq kafti; 3) ko‘krak va parta qirrasi orasi; 4) bel. Talab: a) 10 sm ga yaqin masofa; b) stul (parta) suyanchig‘iga suyanadi; c) to‘g‘ri burchak hosil qiladi; d) hamma yuzasi polga baravar tegadi.",
+      "options": [
+        "1-c, 2-d, 3-a, 4-b",
+        "1-d, 2-c, 3-a, 4-b",
+        "1-c, 2-a, 3-d, 4-b",
+        "1-b, 2-d, 3-a, 4-c"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 39,
+      "question": "Moslashtiring. Ko‘rsatkich: 1) qad-qomat shakllanishi davom etadigan yosh; 2) tabiiy egilishlar bo‘lmaydigan davr; 3) yurgizish erta hisoblanadigan yosh; 4) ko‘krak va parta qirrasi orasidagi masofa. Qiymat: a) 10 sm; b) 8–10 oylik; c) 18 yosh; d) bir yoshgacha.",
+      "options": [
+        "1-d, 2-c, 3-b, 4-a",
+        "1-c, 2-b, 3-d, 4-a",
+        "1-c, 2-d, 3-a, 4-b",
+        "1-c, 2-d, 3-b, 4-a"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 40,
+      "question": "Moslashtiring. Yassioyoqlik turi: 1) tug‘ma; 2) hayotda orttirilgan. Sabab: a) nasldan naslga berilishi; b) bolani 8–10 oyligidan yurgizish; c) embrion davrida ona organizmiga tashqi muhitning noqulay ta’siri; d) yosh bolaga poshnasiz yumshoq poyabzal kiygizish.",
+      "options": [
+        "1-a, b; 2-c, d",
+        "1-a, c; 2-b, d",
+        "1-b, d; 2-a, c",
+        "1-a, d; 2-b, c"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": 41,
+      "question": "Moslashtiring. Noto‘g‘ri odat: 1) qalin, yumshoq to‘shak va baland yostiqda yotish; 2) doim faqat bir qo‘lida ish bajarish; 3) kun bo‘yi poshnasiz sport poyabzalida yurish; 4) poshnasi baland, uchi tor poyabzal kiyish. Oqibat: a) umurtqa pog‘onasining qiyshayishi; b) yassioyoqlik.",
+      "options": [
+        "1-b, 2-a, 3-a, 4-b",
+        "1-a, 2-b, 3-b, 4-a",
+        "1-a, 2-a, 3-b, 4-b",
+        "1-a, 2-b, 3-a, 4-b"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": 42,
+      "question": "Moslashtiring. Oyoq kafti holati: 1) to‘g‘ri rivojlangan oyoq kafti; 2) yassioyoqlik. Belgi: a) ko‘proq qismi o‘yiq (chuqur); b) gumbaz qismi kengayib, oyoq yuzasi tekislashadi; c) tana massasi tovon va kaftga baravar taqsimlanadi; d) ressorlik vazifasi buziladi.",
+      "options": [
+        "1-a, c; 2-b, d",
+        "1-b, d; 2-a, c",
+        "1-a, d; 2-b, c",
+        "1-a, b; 2-c, d"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": 43,
+      "question": "Moslashtiring. Holat: 1) qad-qomati buzilgan odam jismoniy ish qilganda; 2) yassioyoq odam uzoq tik turganda yoki ko‘p yurganda; 3) yassioyoqlik uzoq davom etganda. Natija: a) tovon-kaft va boldir muskullarida og‘riq; b) nafas qisishi, yurak urishining tezlashishi; c) umurtqa pog‘onasi va chanoq suyaklarining egrilanishi.",
+      "options": [
+        "1-a, 2-b, 3-c",
+        "1-b, 2-c, 3-a",
+        "1-c, 2-a, 3-b",
+        "1-b, 2-a, 3-c"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": 44,
+      "question": "Moslashtiring. Gigiyena omili: 1) to‘shak; 2) yostiq; 3) parta, stol-stul; 4) sport poyabzali. To‘g‘ri talab: a) bo‘yga mos bo‘lishi; b) pastroq bo‘lishi; c) faqat mashg‘ulot vaqtida kiyilishi; d) tekis va biroz qattiqroq bo‘lishi.",
+      "options": [
+        "1-b, 2-d, 3-a, 4-c",
+        "1-d, 2-b, 3-a, 4-c",
+        "1-d, 2-b, 3-c, 4-a",
+        "1-d, 2-a, 3-b, 4-c"
+      ],
+      "correctIndex": 1
+    }
+  ]
 }
